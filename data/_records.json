@@ -3073,8 +3073,8 @@
   },
   "Lucid Dream": {
     "verifier": {
-      "verifier": "serpentical",
-      "verification": "https://www.youtube.com/watch?v=pKuIfzGTZ40"
+      "verifier": "zLevii",
+      "verification": "https://www.youtube.com/watch?v=PcGZhn-ee3o"
     },
     "records": [],
     "percentToQualify": 66
@@ -23038,6 +23038,12 @@
         "link": "https://www.youtube.com/watch?v=U1Fo8XgaaD4",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "AshleyDiesAlone",
+        "link": "https://www.youtube.com/watch?v=MutGZ70jI14",
+        "percent": 100,
+        "hz": 144
       }
     ],
     "percentToQualify": 66
