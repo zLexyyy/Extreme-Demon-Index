@@ -17185,6 +17185,12 @@
         "link": "https://youtu.be/q1szP8W3GiM?si=1npY6Sb9UIdpOJlU",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=GqiMpf_TAXg",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21638,6 +21644,12 @@
         "link": "https://www.youtube.com/watch?v=WVy1hzocQLw&t",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=6c8_sEaV0ow",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22762,6 +22774,12 @@
         "link": "https://www.youtube.com/watch?v=qpvRtpZhRAw",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=j6B0ORFLLbI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -28168,10 +28186,49 @@
     "percentToQualify": 66
   },
   "I Wanted To Sleep": {
-    "records": [],
+    "records": [
+      {
+        "user": "PB",
+        "link": "https://youtu.be/_GNpoVYdfxQ?si=ITGlyvXyb83p2TTH",
+        "percent": 100,
+        "hz": 144
+      }
+    ],
     "verifier": {
       "verifier": "Hidden",
       "verification": "https://www.youtube.com/watch?v=WO0N_oYUYJk"
+    },
+    "percentToQualify": 66
+  },
+  "estrogen infinity": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cheton",
+      "verification": "https://youtu.be/sbDYvzW0-UQ?si=3CrLruPmtTG4bIdP"
+    },
+    "percentToQualify": 66
+  },
+  "tran la luot": {
+    "records": [],
+    "verifier": {
+      "verifier": "truongwf",
+      "verification": "https://www.youtube.com/watch?v=Zc79zkAwBEo"
+    },
+    "percentToQualify": 66
+  },
+  "Whatsapp Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "Meatballmoose",
+      "verification": "https://youtu.be/71utQGBAqRk"
+    },
+    "percentToQualify": 66
+  },
+  "TetoTetoTetoTeto": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cinder",
+      "verification": "https://www.youtube.com/watch?v=sBRNuk5CueA"
     },
     "percentToQualify": 66
   }
