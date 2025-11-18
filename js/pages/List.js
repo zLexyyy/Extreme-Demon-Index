@@ -160,6 +160,9 @@ export default {
                     <p>
                     6. This should be self-explanatory, but your record must not be completed using any disallowed mods. This rule also applies to records showing a red cheat indicator, clearly hacked completions, or the use of bots. 
                     </p>
+                    <p>
+                    7. This should also be really obvious, but you are not allowed to use any secret ways present in the level. You must use the intended path for the level.
+                    </p>
                 </div>
             </div>
         </main>
