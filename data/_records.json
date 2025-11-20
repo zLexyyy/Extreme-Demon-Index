@@ -23062,6 +23062,18 @@
         "link": "https://www.youtube.com/watch?v=MutGZ70jI14",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=UPFzOJSvPKc",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "QwidziT",
+        "link": "https://www.youtube.com/watch?v=gulsA1Gqa6M",
+        "percent": 100,
+        "hz": 165
       }
     ],
     "percentToQualify": 66
@@ -28229,6 +28241,62 @@
     "verifier": {
       "verifier": "Cinder",
       "verification": "https://www.youtube.com/watch?v=sBRNuk5CueA"
+    },
+    "percentToQualify": 66
+  },
+  "Frost Pass": {
+    "records": [],
+    "verifier": {
+      "verifier": "CryoFox",
+      "verification": "https://www.youtube.com/watch?v=7r09myGPcwI"
+    },
+    "percentToQualify": 66
+  },
+  "kaotik": {
+    "records": [],
+    "verifier": {
+      "verifier": "therandomstuff",
+      "verification": "https://www.youtube.com/watch?v=I84fSyHI-Vs"
+    },
+    "percentToQualify": 66
+  },
+  "End Like This": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jeepers",
+      "verification": "https://www.youtube.com/watch?v=G4KSbxgHpHI"
+    },
+    "percentToQualify": 66
+  },
+  "want u": {
+    "records": [],
+    "verifier": {
+      "verifier": "kywy",
+      "verification": "https://www.youtube.com/watch?v=jcYcKNb4opE"
+    },
+    "percentToQualify": 66
+  },
+  "It means nothing": {
+    "records": [],
+    "verifier": {
+      "verifier": "FireeX",
+      "verification": "https://www.youtube.com/watch?v=_plKWCYPrC8"
+    },
+    "percentToQualify": 66
+  },
+  "Eclipse (Ayanakodji)": {
+    "records": [],
+    "verifier": {
+      "verifier": "DashY",
+      "verification": "https://www.youtube.com/watch?v=VlESNpTorPo"
+    },
+    "percentToQualify": 66
+  },
+  "IGAKU": {
+    "records": [],
+    "verifier": {
+      "verifier": "ReymundoTK",
+      "verification": "https://www.youtube.com/watch?v=QpfZ8bLCg40"
     },
     "percentToQualify": 66
   }
