@@ -28299,5 +28299,37 @@
       "verification": "https://www.youtube.com/watch?v=QpfZ8bLCg40"
     },
     "percentToQualify": 66
+  },
+  "Kuzureta (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Teno",
+      "verification": "https://www.youtube.com/watch?v=Z7NLOIyjbhU"
+    },
+    "percentToQualify": 66
+  },
+  "To The Stars II (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ButterFish",
+      "verification": "https://www.youtube.com/watch?v=-sYSVFtOO6E"
+    },
+    "percentToQualify": 66
+  },
+  "Blear": {
+    "records": [],
+    "verifier": {
+      "verifier": "Capamari",
+      "verification": "https://www.youtube.com/watch?v=ftdccimIqd4"
+    },
+    "percentToQualify": 66
+  },
+  "AmnesiA": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pozzitif",
+      "verification": "https://www.youtube.com/watch?v=3wiM_fSfadg"
+    },
+    "percentToQualify": 66
   }
 }
