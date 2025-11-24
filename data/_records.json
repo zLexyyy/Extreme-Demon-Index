@@ -22437,7 +22437,14 @@
       "verifier": "YakobNugget",
       "verification": "https://www.youtube.com/watch?v=DAzkPVvj8Vo"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=Zu3zEHo5qo0",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "HeatSeeker": {
