@@ -28338,5 +28338,29 @@
       "verification": "https://www.youtube.com/watch?v=3wiM_fSfadg"
     },
     "percentToQualify": 66
+  },
+  "Antonymph": {
+    "records": [],
+    "verifier": {
+      "verifier": "Elirpscalion",
+      "verification": "https://www.youtube.com/watch?v=hYjmJV4uY8A"
+    },
+    "percentToQualify": 66
+  },
+  "Sick of That Fan": {
+    "records": [],
+    "verifier": {
+      "verifier": "Decin",
+      "verification": "https://www.youtube.com/watch?v=lt-okEBA--g"
+    },
+    "percentToQualify": 66
+  },
+  "my worst level": {
+    "records": [],
+    "verifier": {
+      "verifier": "MrPoopyBurger",
+      "verification": "https://www.youtube.com/watch?v=x0IeNND6ckI"
+    },
+    "percentToQualify": 66
   }
 }
