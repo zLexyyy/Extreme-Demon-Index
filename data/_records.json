@@ -2296,7 +2296,14 @@
       "verifier": "Dorvict",
       "verification": "https://www.youtube.com/watch?v=Z-69-4RKRgk"
     },
-    "records": [],
+    "records": [
+     {
+        "user": "Adhafera",
+        "link": "https://youtu.be/DSrfk3WhR2k",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 73
   },
   "Unnerfed Joyous Serration": {
