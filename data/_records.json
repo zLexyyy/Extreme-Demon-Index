@@ -1119,8 +1119,8 @@
   },
   "Sinister Silence": {
     "verifier": {
-      "verifier": "DarkTD",
-      "verification": "https://www.youtube.com/watch?v=dJCdTMQxHMo"
+      "verifier": "wwdonut",
+      "verification": "https://www.youtube.com/watch?v=6N8u_byYoZo"
     },
     "records": [],
     "percentToQualify": 69
@@ -2297,7 +2297,7 @@
       "verification": "https://www.youtube.com/watch?v=Z-69-4RKRgk"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://youtu.be/DSrfk3WhR2k",
         "percent": 100,
@@ -2414,7 +2414,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=DSrfk3WhR2k",
         "percent": 100,
@@ -3489,7 +3489,7 @@
       "verification": "https://www.youtube.com/watch?v=2Z-7Yscs62c"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=otBK8qaxbLk",
         "percent": 100,
@@ -3686,7 +3686,7 @@
         "percent": 100,
         "hz": 360
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=ZVYLAYhyAb8",
         "percent": 100,
@@ -4339,7 +4339,7 @@
       "verification": "https://www.youtube.com/watch?v=OB0YiqyEp2E"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=ZPrY7acHRZs",
         "percent": 100,
@@ -4865,7 +4865,7 @@
       "verification": "https://www.youtube.com/watch?v=ByJ9rz4-WUI"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=1U-cqWTP2Z4",
         "percent": 100,
@@ -4936,7 +4936,7 @@
       "verification": "https://www.youtube.com/watch?v=2u4xxNUtJLI"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=HrGoZxiaEgU",
         "percent": 100,
@@ -5061,7 +5061,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=YnDmC7whOko",
         "percent": 100,
@@ -5076,7 +5076,7 @@
       "verification": "https://www.youtube.com/watch?v=4r9hkMxpiQw"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Dx1lxYB1cs8",
         "percent": 100,
@@ -5282,7 +5282,7 @@
       "verification": "https://www.youtube.com/watch?v=RRtIiUBaVo4"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=auQLj7e8KBE",
         "percent": 100,
@@ -5353,7 +5353,7 @@
       "verification": "https://www.youtube.com/watch?v=YBs04o1ZVQY"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=R1ADg6ZyxjU",
         "percent": 100,
@@ -5384,7 +5384,7 @@
       "verification": "https://www.youtube.com/watch?v=PYwI_ODrrlw"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=uow5VERrAuY",
         "percent": 100,
@@ -5682,7 +5682,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=VxT4KDcZzIQ",
         "percent": 100,
@@ -5809,7 +5809,7 @@
       "verification": "https://www.youtube.com/watch?v=vGHOD8OWgdY"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=bhiP6G7HOiY",
         "percent": 100,
@@ -6093,7 +6093,14 @@
       "verifier": "Cersia",
       "verification": "https://www.youtube.com/watch?v=8Vi_wD2wp-w"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Adhafera",
+        "link": "https://www.youtube.com/watch?v=QwqwalwZ0u8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Leviathan (BIGMAC77)": {
@@ -6445,7 +6452,7 @@
       "verification": "https://www.youtube.com/watch?v=kWCiW7ovnWw"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=X0_qv5HiMdQ",
         "percent": 100,
@@ -6516,7 +6523,7 @@
       "verification": "https://www.youtube.com/watch?v=bfo2atUb5aY"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=IQTPfqe7QJ0",
         "percent": 100,
@@ -6985,7 +6992,7 @@
       "verification": "https://www.youtube.com/watch?v=kwI2TIwbFsg"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=dZWPRBMam2g",
         "percent": 100,
@@ -7056,7 +7063,7 @@
       "verification": "https://www.youtube.com/watch?v=uLiCEb4QP4E"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Q-APIVMeeGI",
         "percent": 100,
@@ -7135,7 +7142,7 @@
       "verification": "https://www.youtube.com/watch?v=jVo0g6DXAAg"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=0nJ0_U1tsNs",
         "percent": 100,
@@ -7198,7 +7205,7 @@
       "verification": "https://www.youtube.com/watch?v=lsZ8okUy_tk"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=n4xsbCxRgiY",
         "percent": 100,
@@ -7221,7 +7228,7 @@
       "verification": "https://www.youtube.com/watch?v=l7-0WwGbiRs"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=7UZ1UcaK_Ns",
         "percent": 100,
@@ -7244,7 +7251,7 @@
       "verification": "https://www.youtube.com/watch?v=hF-TVX8wakc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=TAFdxGhp4Gw",
         "percent": 100,
@@ -7339,7 +7346,7 @@
       "verification": "https://www.youtube.com/watch?v=JVlHUROeEnc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=JTxZLh92pzs",
         "percent": 100,
@@ -7418,7 +7425,7 @@
       "verification": "https://www.youtube.com/watch?v=hn894RT2Nfc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=iewH0guhyh8",
         "percent": 100,
@@ -7433,7 +7440,7 @@
       "verification": "https://www.youtube.com/watch?v=53HY50zWZUE"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=5ldUdDnMnRQ",
         "percent": 100,
@@ -7624,7 +7631,7 @@
       "verification": "https://www.youtube.com/watch?v=n8eUDCCoBF8"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=6zeX8BBMHAA",
         "percent": 100,
@@ -7647,7 +7654,7 @@
       "verification": "https://www.youtube.com/watch?v=cHEGAqOgddA"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Bn_eKwmgWLU",
         "percent": 100,
@@ -7662,7 +7669,7 @@
       "verification": "https://www.youtube.com/watch?v=t9XP1lhMrPo"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=HHgVfV6fnxU",
         "percent": 100,
@@ -7693,7 +7700,7 @@
       "verification": "https://www.youtube.com/watch?v=-w8Pi_hg7fc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Ogf6IkRyMa4",
         "percent": 100,
@@ -7876,7 +7883,7 @@
       "verification": "https://www.youtube.com/watch?v=fTt7B7QPoYU"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Mc6EMszvZVQ",
         "percent": 100,
@@ -8051,7 +8058,7 @@
       "verification": "https://www.youtube.com/watch?v=GLvDwC0odvk"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=ap7mfFH4hMs",
         "percent": 100,
@@ -8210,7 +8217,7 @@
       "verification": "https://www.youtube.com/watch?v=NWG7IDhzNlc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=AQ1rukfeKBc",
         "percent": 100,
@@ -8289,7 +8296,7 @@
       "verification": "https://www.youtube.com/watch?v=2OgX7-eqeS8"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=_k528narh3s",
         "percent": 100,
@@ -8332,7 +8339,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=EuCZmrq-MO0",
         "percent": 100,
@@ -8466,7 +8473,7 @@
       "verification": "https://www.youtube.com/watch?v=wi-FR0SfCow"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=_TKd0BnJWnc",
         "percent": 100,
@@ -8633,7 +8640,7 @@
       "verification": "https://www.youtube.com/watch?v=lt8GNUsFMQo"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=oz3P8zsfxqw",
         "percent": 100,
@@ -8712,7 +8719,7 @@
       "verification": "https://www.youtube.com/watch?v=mQ7zvkT99Qc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=k_ROR-YTY_U",
         "percent": 100,
@@ -8969,7 +8976,7 @@
         "percent": 100,
         "hz": 360
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=wLAx2Mwf7CQ",
         "percent": 100,
@@ -9133,7 +9140,7 @@
       "verification": "https://www.youtube.com/watch?v=XkDcrHZS5QA"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=ObgTr1J1EII",
         "percent": 100,
@@ -9188,7 +9195,7 @@
       "verification": "https://www.youtube.com/watch?v=oxtl0NuX8ZQ"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=j4WMM0OUexQ",
         "percent": 100,
@@ -9211,7 +9218,7 @@
       "verification": "https://www.youtube.com/watch?v=-vVW_AIgXu8"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=aIykd1Pl9OI",
         "percent": 100,
@@ -9258,7 +9265,7 @@
       "verification": "https://www.youtube.com/watch?v=FPx90xD_5ug"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=RWwrFDM4dzI",
         "percent": 100,
@@ -9289,7 +9296,7 @@
       "verification": "https://www.youtube.com/watch?v=3rKI-n69bzY"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=a_wSMyKAHLQ",
         "percent": 100,
@@ -9471,7 +9478,7 @@
       "verification": "https://www.youtube.com/watch?v=VhNt6pk8i_o"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=mfGuk0aYYkg",
         "percent": 100,
@@ -9550,7 +9557,7 @@
       "verification": "https://www.youtube.com/watch?v=-FKHHxbLE-s"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=pXCAz8bJwbo",
         "percent": 100,
@@ -9701,7 +9708,7 @@
       "verification": "https://www.youtube.com/watch?v=VpmW8-kMvSw"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=EibNrvDtl0c",
         "percent": 100,
@@ -9803,7 +9810,7 @@
       "verification": "https://www.youtube.com/watch?v=QYNWtkoQt8E"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=077YfperSqU",
         "percent": 100,
@@ -9866,7 +9873,7 @@
       "verification": "https://www.youtube.com/watch?v=mq5-I5UXZrQ"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=08IxbIfCt20",
         "percent": 100,
@@ -10079,7 +10086,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=LPa1agnxiII",
         "percent": 100,
@@ -10295,7 +10302,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=nYbs8d8YFZM",
         "percent": 100,
@@ -10356,7 +10363,7 @@
         "percent": 100,
         "hz": 360
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=SF_DEC5f_uI",
         "percent": 100,
@@ -10752,7 +10759,7 @@
       "verification": "https://www.youtube.com/watch?v=2JSaAWJWDPY"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=vc1I1OUmWts",
         "percent": 100,
@@ -11054,7 +11061,7 @@
       "verification": "https://www.youtube.com/watch?v=HixckMI3rwo"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=rT6wgRbOyas",
         "percent": 100,
@@ -11109,7 +11116,7 @@
       "verification": "https://www.youtube.com/watch?v=Fq1kH1wHbRY"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=BMjT8bytLEg",
         "percent": 100,
@@ -11210,7 +11217,7 @@
         "percent": 100,
         "hz": 360
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=d3gJtmlV1-U",
         "percent": 100,
@@ -11297,7 +11304,7 @@
       "verification": "https://www.youtube.com/watch?v=tSCXrB898Pc"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=kdZ9O4-I3XQ",
         "percent": 100,
@@ -11359,7 +11366,7 @@
       "verification": "https://www.youtube.com/watch?v=zqRLjGI_p9I"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=a3MMjrNGEjU",
         "percent": 100,
@@ -11374,7 +11381,7 @@
       "verification": "https://www.youtube.com/watch?v=AAzRmUKMnOk"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=sIcggtXQ5yQ",
         "percent": 100,
@@ -11622,7 +11629,7 @@
         "percent": 100,
         "hz": 240
       },
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=hT5I24IvbZM",
         "percent": 100,
@@ -11812,7 +11819,7 @@
       "verification": "https://www.youtube.com/watch?v=GuJkgwNJ0UU"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=iDqD2xZzlas",
         "percent": 100,
@@ -12570,7 +12577,7 @@
       "verification": "https://www.youtube.com/watch?v=f8Xbn5_v59w"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=tXZ05gCpQb0",
         "percent": 100,
@@ -12593,7 +12600,7 @@
       "verification": "https://www.youtube.com/watch?v=o27ZvcHUOSU"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=7eKfbzq1Zf4",
         "percent": 100,
@@ -13092,7 +13099,7 @@
       "verification": "https://www.youtube.com/watch?v=6R2j62V7UVw"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=X8bzBjqsHVc",
         "percent": 100,
@@ -13967,7 +13974,7 @@
       "verification": "https://www.youtube.com/watch?v=2DEC2_wpmu4"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Ov54fv_-Q8Y",
         "percent": 100,
@@ -14281,7 +14288,7 @@
       "verification": "https://www.youtube.com/watch?v=S_O0y_AhZ4I"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=16rQ2a1lky4",
         "percent": 100,
@@ -15336,7 +15343,7 @@
       "verification": "https://www.youtube.com/watch?v=n6lFTKxftP0"
     },
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=Yd6WP7JncTA",
         "percent": 100,
@@ -19485,6 +19492,12 @@
         "link": "https://www.youtube.com/watch?v=a551QV7IDk0",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=s_JMDdxIiUw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -23598,7 +23611,14 @@
       "verifier": "JAVP",
       "verification": "https://www.youtube.com/watch?v=9jpS20kBX4g"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "TardisGuy12",
+        "link": "https://www.youtube.com/watch?v=k06uN2yOf44",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Virtual Collapse": {
@@ -26361,7 +26381,7 @@
     },
     "percentToQualify": 66
   },
-  "Shitty Wasureta": {
+  "Shitty Wasureta (Xcl0624i)": {
     "records": [],
     "verifier": {
       "verifier": "WDWiktor",
@@ -28621,7 +28641,7 @@
   },
   "Midnight Tokyo": {
     "records": [
-     {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=UdlabZ8SGoU",
         "percent": 100,
@@ -29165,6 +29185,166 @@
     "verifier": {
       "verifier": "MrPoopyBurger",
       "verification": "https://www.youtube.com/watch?v=x0IeNND6ckI"
+    },
+    "percentToQualify": 66
+  },
+  "garden": {
+    "records": [],
+    "verifier": {
+      "verifier": "lus",
+      "verification": "https://www.youtube.com/watch?v=2oRX3tq5Rds"
+    },
+    "percentToQualify": 66
+  },
+  "The Hell Practice": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sevant",
+      "verification": "https://www.youtube.com/watch?v=c1y6tNxaMh0"
+    },
+    "percentToQualify": 66
+  },
+  "Hell Lapse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Razzley",
+      "verification": "https://www.youtube.com/watch?v=8PEWWlsmpuc"
+    },
+    "percentToQualify": 66
+  },
+  "Tidal Wave Easy": {
+    "records": [],
+    "verifier": {
+      "verifier": "ljushastighet",
+      "verification": "https://www.youtube.com/watch?v=K0ZT4FMoNvo"
+    },
+    "percentToQualify": 66
+  },
+  "New Devil Vortex": {
+    "records": [],
+    "verifier": {
+      "verifier": "Freikz",
+      "verification": "https://www.youtube.com/watch?v=XJNScJq9ou0"
+    },
+    "percentToQualify": 66
+  },
+  "Windfall (YoshiPower) (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "YoshiPower",
+      "verification": "https://www.youtube.com/watch?v=Lh7FwrT0z1k"
+    },
+    "percentToQualify": 66
+  },
+  "Blade of Femboy": {
+    "records": [],
+    "verifier": {
+      "verifier": "Th3Pot4toBOI",
+      "verification": "https://www.youtube.com/watch?v=3ZrS7KH4lYA"
+    },
+    "percentToQualify": 66
+  },
+  "You Are My Sunshine": {
+    "records": [],
+    "verifier": {
+      "verifier": "Antw1023",
+      "verification": "https://www.youtube.com/watch?v=O2U_4K8NBmE"
+    },
+    "percentToQualify": 66
+  },
+  "InvisiBath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=HTL6lH21J3g"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Wasureta (MamaMauve)": {
+    "records": [],
+    "verifier": {
+      "verifier": "iRaily",
+      "verification": "https://www.youtube.com/watch?v=LVPpeJs_fCA"
+    },
+    "percentToQualify": 66
+  },
+  "Post Traumatic BBQ 2": {
+    "records": [],
+    "verifier": {
+      "verifier": "autumn",
+      "verification": "https://www.youtube.com/watch?v=WtpO3g5pZIg"
+    },
+    "percentToQualify": 66
+  },
+  "The Relived": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bibox",
+      "verification": "https://www.youtube.com/watch?v=oiuWU9KsRj4"
+    },
+    "percentToQualify": 66
+  },
+  "Desert Bus": {
+    "records": [],
+    "verifier": {
+      "verifier": "nifty",
+      "verification": "https://www.youtube.com/watch?v=drFN5ogQfpg"
+    },
+    "percentToQualify": 66
+  },
+  "Bruno Mars": {
+    "records": [],
+    "verifier": {
+      "verifier": "YakobNugget",
+      "verification": "https://www.youtube.com/watch?v=CNNPPM3OGCk"
+    },
+    "percentToQualify": 66
+  },
+  "Mystical Haze": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mon",
+      "verification": "https://www.youtube.com/watch?v=XlYicmxkn14"
+    },
+    "percentToQualify": 66
+  },
+  "Death Corridor (Metalface221)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Metalface221",
+      "verification": "https://www.youtube.com/watch?v=LVRqVYzZ8mw"
+    },
+    "percentToQualify": 66
+  },
+  "Evil": {
+    "records": [],
+    "verifier": {
+      "verifier": "Raezori",
+      "verification": "https://www.youtube.com/watch?v=BM4vHVLPjqQ"
+    },
+    "percentToQualify": 66
+  },
+  "Acrylique": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gabs",
+      "verification": "https://www.youtube.com/watch?v=6yltdaFfZTY"
+    },
+    "percentToQualify": 66
+  },
+  "Acu In The Mirror": {
+    "records": [],
+    "verifier": {
+      "verifier": "Yogurt",
+      "verification": "https://www.youtube.com/watch?v=fYRPge_ikX4"
+    },
+    "percentToQualify": 66
+  },
+  "Cataclysm plus spike": {
+    "records": [],
+    "verifier": {
+      "verifier": "abcpro",
+      "verification": "https://www.youtube.com/watch?v=4gU_f5blvPM"
     },
     "percentToQualify": 66
   }
