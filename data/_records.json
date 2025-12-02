@@ -21843,6 +21843,12 @@
         "link": "https://www.youtube.com/watch?v=NqiDR3QOOLY",
         "percent": 100,
         "hz": 288
+      },
+      {
+        "user": "Meatballmoose",
+        "link": "https://youtu.be/veZrcTBiReg?si=LEbfzV0OH030CVvb",
+        "percent": 100,
+        "hz": 144
       }
     ],
     "percentToQualify": 66
@@ -27932,7 +27938,14 @@
     "percentToQualify": 66
   },
   "in this": {
-    "records": [],
+    "records": [
+      {
+        "user": "Crazydash17",
+        "link": "https://youtu.be/z0E_8HO0Avs",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "verifier": {
       "verifier": "Xplode",
       "verification": "https://www.youtube.com/watch?v=gQiOdxOyNGg"
@@ -29165,7 +29178,14 @@
     "percentToQualify": 66
   },
   "Sick of That Fan": {
-    "records": [],
+    "records": [
+      {
+        "user": "Tucosifo",
+        "link": "https://www.youtube.com/watch?v=4JJE5khgnq4",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Decin",
       "verification": "https://www.youtube.com/watch?v=lt-okEBA--g"
@@ -29341,7 +29361,14 @@
     "percentToQualify": 66
   },
   "Rift": {
-    "records": [],
+    "records": [
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/wEKJgt-cZyU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Shyne",
       "verification": "https://www.youtube.com/watch?v=8Fu3wIVWXko"
@@ -29361,6 +29388,14 @@
     "verifier": {
       "verifier": "lazer",
       "verification": "https://www.youtube.com/watch?v=o7DmyC9l5MY"
+    },
+    "percentToQualify": 66
+  },
+  "obsession": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zeronium",
+      "verification": "https://www.youtube.com/watch?v=OjXKjQXnhjA"
     },
     "percentToQualify": 66
   }
