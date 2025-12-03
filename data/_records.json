@@ -8192,7 +8192,14 @@
       "verifier": "skzyl",
       "verification": "https://www.youtube.com/watch?v=BnrTI1BVqc4"
     },
-    "records": [],
+    "records": [ 
+        {
+        "user": "MeatballMoose",
+        "link": "https://www.youtube.com/watch?v=6yyv3rHPDPg",
+        "percent": 100,
+        "hz": 144
+      } 
+        ],
     "percentToQualify": 66
   },
   "Revelations": {
