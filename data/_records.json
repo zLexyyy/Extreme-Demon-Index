@@ -6012,6 +6012,12 @@
         "link": "https://www.youtube.com/watch?v=8M-c4QlNnI4",
         "percent": 100,
         "hz": 360
+      }, 
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=DnWzgBvpxOg",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
@@ -6075,6 +6081,12 @@
         "link": "https://www.youtube.com/watch?v=5UQ8QE2-sKg",
         "percent": 100,
         "hz": 240
+      },
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=o5QeNZ59vuU",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
@@ -6299,7 +6311,14 @@
       "verifier": "Cursed",
       "verification": "https://www.youtube.com/watch?v=Q5LqZ9aKn78"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=erd7ykZEI4s",
+        "percent": 100,
+        "hz":144 
+      }
+    ],
     "percentToQualify": 66
   },
   "Haunted Hallway": {
@@ -6417,6 +6436,12 @@
         "link": "https://www.youtube.com/watch?v=nxzmEZAiPVs",
         "percent": 100,
         "hz": 144
+      }
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=kvY_aBAdtSI",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
@@ -8667,12 +8692,18 @@
       "verifier": "rampage",
       "verification": "https://www.youtube.com/watch?v=lt8GNUsFMQo"
     },
-    "records": [
+      "records": [
       {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=oz3P8zsfxqw",
         "percent": 100,
         "hz": 240
+      }
+          {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=sSxN7GY_6oE",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
@@ -8825,7 +8856,14 @@
       "verifier": "KrmaL",
       "verification": "https://www.youtube.com/watch?v=lsT5TjQ1Ubc"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=GBSJeomm_DI",
+        "percent": 100,
+        "hz":144 
+      }
+    ],
     "percentToQualify": 66
   },
   "Self Care": {
@@ -9756,6 +9794,12 @@
         "link": "https://youtu.be/2KtndgFmQYQ?si=-ia2WU9Ow4mX9K2L",
         "percent": 100,
         "hz": 360
+      }, 
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=25llavmqQnk",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
@@ -12027,6 +12071,12 @@
         "link": "https://www.youtube.com/watch?v=FdgoS-5d-hk",
         "percent": 100,
         "hz": 288
+      }, 
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/watch?v=uiqvhjEqlTA",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
@@ -12342,6 +12392,12 @@
         "link": "https://www.youtube.com/watch?v=gy0GZ9ayKo0",
         "percent": 100,
         "hz": 288
+      }, 
+        {
+        "user": "Meatballmoose",
+        "link": "https://www.youtube.com/live/DxkcJoW1YEg",
+        "percent": 100,
+        "hz":144 
       }
     ],
     "percentToQualify": 66
