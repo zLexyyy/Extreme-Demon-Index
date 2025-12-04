@@ -23926,6 +23926,12 @@
         "link": "https://www.youtube.com/watch?v=uvxyB4wSYaI",
         "percent": 100,
         "hz": 288
+      }, 
+    {
+        "user": "wiluck",
+        "link": "https://www.youtube.com/watch?v=vVA-hGUZnaI",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
