@@ -2697,7 +2697,14 @@
       "verifier": "Keir",
       "verification": "https://www.youtube.com/watch?v=-U02humvgVo"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "wiluck",
+        "link": "https://www.youtube.com/watch?v=YzhPxAcvvNw",
+        "percent": 100,
+        "hz": 480
+      } 
+    ],
     "percentToQualify": 70
   },
   "Unnerfed Ithacropolis": {
