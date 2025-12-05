@@ -12586,6 +12586,12 @@
         "link": "https://www.youtube.com/watch?v=dCxiCUANI5o",
         "percent": 100,
         "hz": 240
+      },
+          {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=mcUYGgrMD_o",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19081,6 +19087,11 @@
         "link": "https://youtu.be/XfuJ4lDMqbQ?si=kBHiBUQO53Ox40jx",
         "percent": 100,
         "hz": 360
+      },
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=dWtzqJKx3d8&t=2s",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -28026,7 +28037,14 @@
     "percentToQualify": 66
   },
   "Chise": {
-    "records": [],
+    "records": [
+              {
+        "user": "SmackinTheKraken",
+        "link": "https://youtu.be/FWUeUnUy1Ww",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Sensawa",
       "verification": "https://www.youtube.com/watch?v=owZTqvLPBQ0"
