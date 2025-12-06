@@ -151,7 +151,7 @@
     "records": [],
     "percentToQualify": 65
   },
-  "Unnerfed Slaughterhouse": {
+  "Slaughterhouse (Unnerfed)": {
     "verifier": {
       "verifier": "wPopoff",
       "verification": "https://www.youtube.com/watch?v=5QeIp5fC1hE"
@@ -167,7 +167,7 @@
     "records": [],
     "percentToQualify": "75"
   },
-  "Unnerfed Firework": {
+  "Firework (Unnerfed)": {
     "verifier": {
       "verifier": "Openix",
       "verification": "https://www.youtube.com/watch?v=8zU6VTSuOgU"
@@ -191,7 +191,7 @@
     "records": [],
     "percentToQualify": 79
   },
-  "Old AoD": {
+  "Abyss of Darkness (Old)": {
     "verifier": {
       "verifier": "Dils thik",
       "verification": "https://www.youtube.com/watch?v=RWBEfS4mLbw"
@@ -422,7 +422,7 @@
     "records": [],
     "percentToQualify": 71
   },
-  "Unnerfed Yatagarasu": {
+  "Yatagarasu (Unnerfed)": {
     "verifier": {
       "verifier": "Zoink",
       "verification": "https://www.youtube.com/watch?v=qSdyb-Ft1tk"
@@ -462,7 +462,7 @@
     "records": [],
     "percentToQualify": 64
   },
-  "Unnerfed Zodiac": {
+  "Zodiac (Unnerfed)": {
     "verifier": {
       "verifier": "nebnoob",
       "verification": "https://www.youtube.com/watch?v=3mvddPaNklg&t"
@@ -941,7 +941,7 @@
     "records": [],
     "percentToQualify": 65
   },
-  "RUTHLESS Unnerfed": {
+  "RUTHLESS (Unnerfed)": {
     "verifier": {
       "verifier": "LordVadercraft",
       "verification": "https://www.youtube.com/watch?v=RmItPs84OOk"
@@ -1021,7 +1021,7 @@
     "records": [],
     "percentToQualify": 72
   },
-  "Unnerfed Aerial Gleam": {
+  "Aerial Gleam (Unnerfed)": {
     "verifier": {
       "verifier": "Doggie",
       "verification": "https://www.youtube.com/watch?v=jlAYQoYtvq8&t"
@@ -1475,7 +1475,7 @@
     "records": [],
     "percentToQualify": 76
   },
-  "Unnerfed Blade of Justice": {
+  "Blade of Justice (Unnerfed)": {
     "verifier": {
       "verifier": "MostDefinitelyAlbert",
       "verification": "https://www.youtube.com/watch?v=yJslAlNsQfA"
@@ -1627,7 +1627,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Unnerfed Visible Ray": {
+  "Visible Ray (Unnerfed)": {
     "verifier": {
       "verifier": "Yumira",
       "verification": "https://www.youtube.com/watch?v=R0T2QlVduzk"
@@ -1883,7 +1883,7 @@
     "records": [],
     "percentToQualify": 73
   },
-  "Unnerfed SPL": {
+  "super probably level (Unnerfed)": {
     "verifier": {
       "verifier": "kumori",
       "verification": "https://www.youtube.com/watch?v=29rm8v-eQqc"
@@ -2306,7 +2306,7 @@
     ],
     "percentToQualify": 73
   },
-  "Unnerfed Joyous Serration": {
+  "Joyous Serration (Unnerfed)": {
     "verifier": {
       "verifier": "UFokinWotM8",
       "verification": "https://www.youtube.com/watch?v=OWItKz7QP7I"
@@ -2386,7 +2386,7 @@
     "records": [],
     "percentToQualify": 70
   },
-  "Unnerfed TORN": {
+  "TORN (Unnerfed)": {
     "verifier": {
       "verifier": "DiamondSplash",
       "verification": "https://www.youtube.com/watch?v=QzntDPHSBro"
@@ -2447,7 +2447,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Unnerfed Crimson Planet": {
+  "Crimson Planet (Unnerfed)": {
     "verifier": {
       "verifier": "Saltoulious",
       "verification": "https://www.youtube.com/watch?v=GGOWzVmwtHA&t"
@@ -2495,7 +2495,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Unnerfed Cognition": {
+  "Cognition (Unnerfed)": {
     "verifier": {
       "verifier": "lolwut",
       "verification": "https://www.youtube.com/watch?v=oafCh0-CpJw"
@@ -2707,7 +2707,7 @@
     ],
     "percentToQualify": 70
   },
-  "Unnerfed Ithacropolis": {
+  "Ithacropolis (Unnerfed)": {
     "verifier": {
       "verifier": "nebnoob",
       "verification": "https://www.youtube.com/watch?v=4qECTAMyFEI&t"
@@ -2947,7 +2947,7 @@
     "records": [],
     "percentToQualify": 69
   },
-  "Unnerfed Sakupen Hel": {
+  "Sakupen Hell (Unnerfed)": {
     "verifier": {
       "verifier": "ywuChaos",
       "verification": "https://www.youtube.com/watch?v=Fxs8rYJy-pY"
@@ -3179,7 +3179,7 @@
     "records": [],
     "percentToQualify": 71
   },
-  "Grains of Sand": {
+  "Grains of Sand (Old)": {
     "verifier": {
       "verifier": "Whizkid05",
       "verification": "https://www.youtube.com/watch?v=5oPavsczvVk"
@@ -3187,15 +3187,7 @@
     "records": [],
     "percentToQualify": 59
   },
-  "Grains of Sand (Remake/Old)": {
-    "verifier": {
-      "verifier": "Harchok",
-      "verification": "https://www.youtube.com/watch?v=g_c2yCYXrG8"
-    },
-    "records": [],
-    "percentToQualify": 59
-  },
-  "Unnerfed Dark Maze": {
+  "Dark Maze (Unnerfed)": {
     "verifier": {
       "verifier": "snowspike",
       "verification": "https://www.youtube.com/watch?v=OJRuFYavA_I"
@@ -4786,7 +4778,7 @@
     "records": [],
     "percentToQualify": 69
   },
-  "Old Golden Paracosm": {
+  "Golden Paracosm (Old)": {
     "verifier": {
       "verifier": "Hipo",
       "verification": "https://www.youtube.com/watch?v=n3aRe9nnM0M"
@@ -4968,7 +4960,7 @@
     "records": [],
     "percentToQualify": 72
   },
-  "Unnerfed Allegiance": {
+  "Allegiance (Unnerfed)": {
     "verifier": {
       "verifier": "Laniakea",
       "verification": "https://www.youtube.com/watch?v=JJpfvGCNIBo"
@@ -5148,7 +5140,7 @@
     "records": [],
     "percentToQualify": 69
   },
-  "Unnerfed Omicron": {
+  "Omicron (Unnerfed)": {
     "verifier": {
       "verifier": "Dorami",
       "verification": "https://www.youtube.com/watch?v=f2LHF8YMXlk"
@@ -5243,7 +5235,7 @@
     "records": [],
     "percentToQualify": 69
   },
-  "SHMW old": {
+  "SUPERHATEMEWORLD (Old)": {
     "verifier": {
       "verifier": "UFokinWotM8",
       "verification": "https://www.youtube.com/watch?v=dvg18IrV8WU"
@@ -5456,7 +5448,7 @@
     "records": [],
     "percentToQualify": 65
   },
-  "Play Hard Unnerfed": {
+  "Play Hard (Unnerfed)": {
     "verifier": {
       "verifier": "Donei GD",
       "verification": "https://www.youtube.com/watch?v=RMDiGojsPg4"
@@ -5937,7 +5929,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Old Snowfall": {
+  "Snowfall (Old)": {
     "verifier": {
       "verifier": "noldock",
       "verification": "https://www.youtube.com/watch?v=tyduCepsHbc"
@@ -6162,7 +6154,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Old Artificial Ascent": {
+  "Artificial Ascent (Old)": {
     "verifier": {
       "verifier": "Glow",
       "verification": "https://www.youtube.com/watch?v=vshJM5r8Zfw"
@@ -6612,7 +6604,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Old Avalanche": {
+  "Avalanche (Old)": {
     "verifier": {
       "verifier": "MeatiusGaming",
       "verification": "https://www.youtube.com/watch?v=wH0HsbLdN8g"
@@ -6756,7 +6748,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Old Sonic Wave": {
+  "Sonic Wave (Old)": {
     "verifier": {
       "verifier": "SpeedyMuffin",
       "verification": "https://www.youtube.com/watch?v=7gSclHs4bMo"
@@ -8168,7 +8160,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Unnerfed TUP": {
+  "The Ultimate Phase (Unnerfed)": {
     "verifier": {
       "verifier": "Mewtwo557",
       "verification": "https://www.youtube.com/watch?v=PJX2Ll2ZiCE"
@@ -9050,7 +9042,7 @@
     ],
     "percentToQualify": 66
   },
-  "Old Silent Polter": {
+  "Silent Poltergeist (Old)": {
     "verifier": {
       "verifier": "declan",
       "verification": "https://www.youtube.com/watch?v=RRFqYYbJDjY"
@@ -12587,7 +12579,7 @@
         "percent": 100,
         "hz": 240
       },
-          {
+      {
         "user": "abcpro",
         "link": "https://www.youtube.com/watch?v=mcUYGgrMD_o",
         "percent": 100,
@@ -16196,7 +16188,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "niwa unnerfed": {
+  "niwa (Unnerfed)": {
     "verifier": {
       "verifier": "nicor77",
       "verification": "https://www.youtube.com/watch?v=V-RXf4PwKRo"
@@ -24498,7 +24490,7 @@
     },
     "percentToQualify": 66
   },
-  "VALOVI unnerfed": {
+  "VALOVI (Unnerfed)": {
     "records": [],
     "verifier": {
       "verifier": "cosmy",
@@ -25345,7 +25337,7 @@
     },
     "percentToQualify": 66
   },
-  "Grains of Sand (Old)": {
+  "Grains of Sand": {
     "records": [],
     "verifier": {
       "verifier": "Harchok",
@@ -28039,7 +28031,7 @@
   },
   "Chise": {
     "records": [
-              {
+      {
         "user": "SmackinTheKraken",
         "link": "https://youtu.be/FWUeUnUy1Ww",
         "percent": 100,
@@ -28903,7 +28895,7 @@
     },
     "percentToQualify": 66
   },
-  "Old Hell Factory": {
+  "The Hell Factory (Old)": {
     "records": [],
     "verifier": {
       "verifier": "RpgRaketti",
