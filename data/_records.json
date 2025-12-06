@@ -23444,7 +23444,14 @@
       "verifier": "spcreat",
       "verification": "https://www.youtube.com/watch?v=EzOSsvx9cjQ"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Firewyrm",
+        "link": "https://www.youtube.com/watch?v=kVZMC3oN9Is",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Shotgun": {
