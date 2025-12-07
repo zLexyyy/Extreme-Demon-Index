@@ -9818,6 +9818,12 @@
         "link": "https://www.youtube.com/watch?v=25llavmqQnk",
         "percent": 100,
         "hz": 144
+      }, 
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/BpwfGd25rFw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21396,6 +21402,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=U3oL16wDn0o",
+        "percent": 100,
+        "hz": 240
+      }, 
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/cQYherh-fXc",
         "percent": 100,
         "hz": 240
       }
