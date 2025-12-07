@@ -6024,7 +6024,13 @@
         "link": "https://www.youtube.com/watch?v=DnWzgBvpxOg",
         "percent": 100,
         "hz": 144
-      }
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=pTblO8D7tmA",
+        "percent": 100,
+        "hz": 360
+      } 
     ],
     "percentToQualify": 66
   },
@@ -13712,6 +13718,12 @@
         "link": "https://www.youtube.com/watch?v=WFsOdZTT550",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=pjhzXXz4qKE",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -17537,7 +17549,14 @@
       "verifier": "BlackBird552",
       "verification": "https://www.youtube.com/watch?v=0s0bp9oYW3k"
     },
-    "records": [],
+    "records": [
+       {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=bSbxxbr5-io",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "LINKS": {
@@ -22643,6 +22662,12 @@
         "link": "https://www.youtube.com/watch?v=9yMdv9gClJc",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=FRKoxKQIndI",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
