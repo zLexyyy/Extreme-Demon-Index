@@ -29753,5 +29753,13 @@
       "verification": "https://www.youtube.com/watch?v=jKVYA2pkfDU"
     },
     "percentToQualify": 66
+  },
+  "Voyager 1": {
+    "records": [],
+    "verifier": {
+      "verifier": "oliverbum",
+      "verification": "https://www.youtube.com/watch?v=NgZksoCUwkc"
+    },
+    "percentToQualify": 66
   }
 }
