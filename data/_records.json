@@ -17439,6 +17439,12 @@
         "link": "https://www.youtube.com/watch?v=nvWV2Js4itA",
         "percent": 100,
         "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=qBVtL6-KivY",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -17789,7 +17795,14 @@
       "verifier": "MrSpaghetti",
       "verification": "https://www.youtube.com/watch?v=p6gXgurkL4o"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=mon230ZHtCI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "GRAPH PAPER": {
@@ -18028,6 +18041,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=rWL3hke28mo",
+        "percent": 100,
+        "hz": 240
+      }, 
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=EDr5Vkzn3Kw",
         "percent": 100,
         "hz": 240
       }
@@ -19766,6 +19785,12 @@
         "link": "https://www.youtube.com/watch?v=SZy8kq9Ef7U",
         "percent": 100,
         "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=DYgiE7Abewc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21266,6 +21291,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=8VK_OyA0wGQ",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=ErUEZNo7f7M",
         "percent": 100,
         "hz": 240
       }
@@ -22816,6 +22847,12 @@
       {
         "user": "abcpro",
         "link": "https://www.youtube.com/watch?v=ZZTTJbFNXrw",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=v35uTfgrjqw",
         "percent": 100,
         "hz": 240
       }
