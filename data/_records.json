@@ -3638,7 +3638,14 @@
       "verifier": "knobbelboy",
       "verification": "https://www.youtube.com/watch?v=5SzKetF2btw"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=8soG3_jxaaw",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 67
   },
   "Moving Forward": {
@@ -4831,7 +4838,14 @@
       "verifier": "TGM05",
       "verification": "https://www.youtube.com/watch?v=7wrpprd9nOw"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://www.youtube.com/watch?v=IxjfTesbi44",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 70
   },
   "Quicksand": {
@@ -6010,7 +6024,13 @@
         "link": "https://www.youtube.com/watch?v=DnWzgBvpxOg",
         "percent": 100,
         "hz": 144
-      }
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=pTblO8D7tmA",
+        "percent": 100,
+        "hz": 360
+      } 
     ],
     "percentToQualify": 66
   },
@@ -8563,7 +8583,14 @@
       "verifier": "Cersia",
       "verification": "https://www.youtube.com/watch?v=9hdBbTEiz9Y"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=F_Nfga59GKU",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "percentToQualify": 66
   },
   "Hard Funk": {
@@ -9791,6 +9818,12 @@
         "link": "https://www.youtube.com/watch?v=25llavmqQnk",
         "percent": 100,
         "hz": 144
+      }, 
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/BpwfGd25rFw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -12389,6 +12422,12 @@
         "link": "https://www.youtube.com/live/DxkcJoW1YEg",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=ExKrvcyepWo",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -13685,6 +13724,12 @@
         "link": "https://www.youtube.com/watch?v=WFsOdZTT550",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=pjhzXXz4qKE",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -17394,6 +17439,12 @@
         "link": "https://www.youtube.com/watch?v=nvWV2Js4itA",
         "percent": 100,
         "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=qBVtL6-KivY",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -17510,7 +17561,14 @@
       "verifier": "BlackBird552",
       "verification": "https://www.youtube.com/watch?v=0s0bp9oYW3k"
     },
-    "records": [],
+    "records": [
+       {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=bSbxxbr5-io",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "LINKS": {
@@ -17737,7 +17795,14 @@
       "verifier": "MrSpaghetti",
       "verification": "https://www.youtube.com/watch?v=p6gXgurkL4o"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=mon230ZHtCI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "GRAPH PAPER": {
@@ -17976,6 +18041,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=rWL3hke28mo",
+        "percent": 100,
+        "hz": 240
+      }, 
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=EDr5Vkzn3Kw",
         "percent": 100,
         "hz": 240
       }
@@ -18233,6 +18304,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=zK-BcYhpbjw",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/o9B5DrrLwTg",
         "percent": 100,
         "hz": 240
       }
@@ -19712,6 +19789,12 @@
       {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=SZy8kq9Ef7U",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=DYgiE7Abewc",
         "percent": 100,
         "hz": 240
       }
@@ -21216,6 +21299,12 @@
         "link": "https://www.youtube.com/watch?v=8VK_OyA0wGQ",
         "percent": 100,
         "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=ErUEZNo7f7M",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21350,6 +21439,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=U3oL16wDn0o",
+        "percent": 100,
+        "hz": 240
+      }, 
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/cQYherh-fXc",
         "percent": 100,
         "hz": 240
       }
@@ -22616,6 +22711,12 @@
         "link": "https://www.youtube.com/watch?v=9yMdv9gClJc",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=FRKoxKQIndI",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -22752,6 +22853,12 @@
       {
         "user": "abcpro",
         "link": "https://www.youtube.com/watch?v=ZZTTJbFNXrw",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "tardisguy12",
+        "link": "https://www.youtube.com/watch?v=v35uTfgrjqw",
         "percent": 100,
         "hz": 240
       }
@@ -23444,7 +23551,14 @@
       "verifier": "spcreat",
       "verification": "https://www.youtube.com/watch?v=EzOSsvx9cjQ"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Firewyrm",
+        "link": "https://www.youtube.com/watch?v=kVZMC3oN9Is",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "Shotgun": {
@@ -24144,6 +24258,12 @@
       {
         "user": "Meatballmoose",
         "link": "https://youtu.be/zAbo8dEs6ig?si=sCxY0ugpPsrlgGei",
+        "percent": 100,
+        "hz": 144
+      }, 
+        {
+        "user": "DieKatze1641",
+        "link": "https://youtu.be/CG1c6TyfMP0?si=atQYlw3TFZQvVoOA",
         "percent": 100,
         "hz": 144
       }
