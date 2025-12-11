@@ -14328,6 +14328,12 @@
         "link": "https://www.youtube.com/watch?v=OteAJr0CaYU",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/N6lEbYClaao",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -17646,7 +17652,14 @@
       "verifier": "HequinoX",
       "verification": "https://www.youtube.com/watch?v=Knz2Arp0N5s"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/8_TjS6sddz8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Warios Gold MinE": {
