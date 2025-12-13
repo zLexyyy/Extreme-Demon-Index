@@ -11341,7 +11341,14 @@
       "verifier": "YakobNugget",
       "verification": "https://www.youtube.com/watch?v=Uzfzgf51Xww"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/49usW0mtjps",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "EXA": {
@@ -11479,6 +11486,12 @@
       {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=a3MMjrNGEjU",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "Adhafera",
+        "link": "https://www.youtube.com/watch?v=Uko2vIiBLiE",
         "percent": 100,
         "hz": 240
       }
@@ -13756,7 +13769,13 @@
         "link": "https://youtu.be/q4vkZyqEtL0",
         "percent": 100,
         "hz": 60
-      }
+      },
+        {
+        "user": "Valhard",
+        "link": "https://www.youtube.com/watch?v=mqxcW3qIZjs",
+        "percent": 100,
+        "hz": 120
+    }
     ],
     "percentToQualify": 66
   },
