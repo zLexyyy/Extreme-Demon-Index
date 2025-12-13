@@ -4671,7 +4671,7 @@
       "verification": "https://www.youtube.com/watch?v=yd5cH9nvDvg"
     },
     "records": [
-        {
+      {
         "user": "drippungus",
         "link": "https://medal.tv/games/geometry-dash/clips/lHn7ycn7ODGxdckvc?invite=cr-MSxndWosNDI5NzM4MjU2&v=122",
         "percent": 100,
@@ -17600,10 +17600,10 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Acrozis": {
+  "Acrozis (Old)": {
     "verifier": {
-      "verifier": "BlackBird552",
-      "verification": "https://www.youtube.com/watch?v=0s0bp9oYW3k"
+      "verifier": "GoKill",
+      "verification": "https://www.youtube.com/watch?v=ya29CmmNbH0"
     },
     "records": [
       {
@@ -29991,6 +29991,30 @@
     "verifier": {
       "verifier": "drippungus",
       "verification": "https://www.youtube.com/watch?v=LLHueltldyk"
+    },
+    "percentToQualify": 66
+  },
+  "hit DA drip": {
+    "records": [],
+    "verifier": {
+      "verifier": "drippungus",
+      "verification": "https://www.youtube.com/watch?v=E5STTL8sg8A"
+    },
+    "percentToQualify": 66
+  },
+  "i just wish i could (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Snoozzzing",
+      "verification": "https://www.youtube.com/watch?v=jxFj4TEuq_A"
+    },
+    "percentToQualify": 66
+  },
+  "Acrozis": {
+    "records": [],
+    "verifier": {
+      "verifier": "BlackBird552",
+      "verification": "https://www.youtube.com/watch?v=0s0bp9oYW3k"
     },
     "percentToQualify": 66
   }
