@@ -7876,7 +7876,7 @@
       "verification": "https://www.youtube.com/watch?v=-6iVjktmVo0"
     },
     "records": [
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/s02H0RPxAFE",
         "percent": 100,
@@ -12631,7 +12631,7 @@
         "percent": 100,
         "hz": 240
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/iE0oJV8RUb0",
         "percent": 100,
@@ -13744,7 +13744,7 @@
         "percent": 100,
         "hz": 360
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/q4vkZyqEtL0",
         "percent": 100,
@@ -13916,7 +13916,7 @@
         "percent": 100,
         "hz": 360
       },
-       {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/CFlmgoNy7Fs",
         "percent": 100,
@@ -14329,7 +14329,7 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "Adhafera",
         "link": "https://youtu.be/N6lEbYClaao",
         "percent": 100,
@@ -15599,7 +15599,7 @@
         "percent": 100,
         "hz": 240
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/iWo8OBYpbrA",
         "percent": 100,
@@ -17653,7 +17653,7 @@
       "verification": "https://www.youtube.com/watch?v=Knz2Arp0N5s"
     },
     "records": [
-        {
+      {
         "user": "Adhafera",
         "link": "https://youtu.be/8_TjS6sddz8",
         "percent": 100,
@@ -18166,7 +18166,7 @@
       "verification": "https://www.youtube.com/watch?v=fol9xmmFUBI"
     },
     "records": [
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/R5hg7v5XdKE",
         "percent": 100,
@@ -21111,14 +21111,14 @@
         "link": "https://youtu.be/DXIRbLjUzd0?si=yYBTXQQ9Hngt7gCQ",
         "percent": 100,
         "hz": 240
-      }, 
-        {
+      },
+      {
         "user": "MythicalWrath",
         "link": " https://youtu.be/-nU1RlS6lI4",
         "percent": 100,
         "hz": 60
       }
-        ],
+    ],
     "percentToQualify": 66
   },
   "V O L L E Y": {
@@ -22065,7 +22065,7 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/Kli56QU4j08",
         "percent": 100,
@@ -22781,7 +22781,7 @@
         "percent": 100,
         "hz": 360
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/dumGjs0rPKw",
         "percent": 100,
@@ -23450,7 +23450,7 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/RUHiidzdSk4",
         "percent": 100,
@@ -24342,7 +24342,7 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "MythicalWrath",
         "link": "https://youtu.be/1rNWg41a67g",
         "percent": 100,
@@ -29976,6 +29976,14 @@
     "verifier": {
       "verifier": "BLOEM",
       "verification": "https://www.youtube.com/watch?v=4V2hcve-Dcc"
+    },
+    "percentToQualify": 66
+  },
+  "True JNC": {
+    "records": [],
+    "verifier": {
+      "verifier": "drippungus",
+      "verification": "https://www.youtube.com/watch?v=LLHueltldyk"
     },
     "percentToQualify": 66
   }
