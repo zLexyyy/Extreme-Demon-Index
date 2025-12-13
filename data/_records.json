@@ -4670,7 +4670,14 @@
       "verifier": "Metalface221",
       "verification": "https://www.youtube.com/watch?v=yd5cH9nvDvg"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "drippungus",
+        "link": "https://medal.tv/games/geometry-dash/clips/lHn7ycn7ODGxdckvc?invite=cr-MSxndWosNDI5NzM4MjU2&v=122",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 70
   },
   "X84": {
