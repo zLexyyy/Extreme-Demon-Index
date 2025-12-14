@@ -13854,6 +13854,12 @@
         "link": "https://www.youtube.com/watch?v=mqxcW3qIZjs",
         "percent": 100,
         "hz": 120
+    },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/xVcJAR3hc4s",
+        "percent": 100,
+        "hz": 360
     }
     ],
     "percentToQualify": 66
