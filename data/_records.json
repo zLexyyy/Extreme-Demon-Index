@@ -6043,7 +6043,13 @@
         "link": "https://www.youtube.com/watch?v=pTblO8D7tmA",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/Eife9EyvOuk",
+        "percent": 100,
+        "hz": 240
+    }
     ],
     "percentToQualify": 66
   },
