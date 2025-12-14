@@ -12160,7 +12160,13 @@
         "link": "https://www.youtube.com/watch?v=uiqvhjEqlTA",
         "percent": 100,
         "hz": 144
-      }
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/Bu6MRwgdqQE",
+        "percent": 100,
+        "hz": 240
+    }
     ],
     "percentToQualify": 66
   },
