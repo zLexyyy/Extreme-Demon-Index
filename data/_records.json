@@ -11354,7 +11354,14 @@
       "verifier": "YakobNugget",
       "verification": "https://www.youtube.com/watch?v=Uzfzgf51Xww"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/49usW0mtjps",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "EXA": {
@@ -11492,6 +11499,12 @@
       {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=a3MMjrNGEjU",
+        "percent": 100,
+        "hz": 240
+      },
+        {
+        "user": "Adhafera",
+        "link": "https://www.youtube.com/watch?v=Uko2vIiBLiE",
         "percent": 100,
         "hz": 240
       }
@@ -13810,7 +13823,13 @@
         "link": "https://youtu.be/q4vkZyqEtL0",
         "percent": 100,
         "hz": 60
-      }
+      },
+        {
+        "user": "Valhard",
+        "link": "https://www.youtube.com/watch?v=mqxcW3qIZjs",
+        "percent": 100,
+        "hz": 120
+    }
     ],
     "percentToQualify": 66
   },
@@ -14211,7 +14230,13 @@
         "link": "https://www.youtube.com/watch?v=Ov54fv_-Q8Y",
         "percent": 100,
         "hz": 240
-      }
+      },
+        {
+        "user": "drippungus",
+        "link": "https://medal.tv/games/geometry-dash/clips/lHE79O1l2cEOPDKYb?invite=cr-MSxIZUksNDI5NzM4MjU2&v=89",
+        "percent": 100,
+        "hz": 360
+    }
     ],
     "percentToQualify": 66
   },
