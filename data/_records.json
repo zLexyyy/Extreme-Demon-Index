@@ -3644,7 +3644,13 @@
         "link": "https://www.youtube.com/watch?v=8soG3_jxaaw",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://www.youtube.com/watch?v=KWNPLyFfX3Y",
+        "percent": 100,
+        "hz": 240
+    }
     ],
     "percentToQualify": 67
   },
@@ -6037,7 +6043,13 @@
         "link": "https://www.youtube.com/watch?v=pTblO8D7tmA",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/Eife9EyvOuk",
+        "percent": 100,
+        "hz": 240
+    }
     ],
     "percentToQualify": 66
   },
@@ -9893,7 +9905,14 @@
       "verifier": "BrianTheBurger",
       "verification": "https://www.youtube.com/watch?v=ybtlTy2Z7d8"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/H1cZhRatypE",
+        "percent": 100,
+        "hz": 240
+    }
+    ],
     "percentToQualify": 66
   },
   "Hyperchaos": {
@@ -12148,7 +12167,13 @@
         "link": "https://www.youtube.com/watch?v=uiqvhjEqlTA",
         "percent": 100,
         "hz": 144
-      }
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/Bu6MRwgdqQE",
+        "percent": 100,
+        "hz": 240
+    }
     ],
     "percentToQualify": 66
   },
@@ -13829,6 +13854,12 @@
         "link": "https://www.youtube.com/watch?v=mqxcW3qIZjs",
         "percent": 100,
         "hz": 120
+    },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/xVcJAR3hc4s",
+        "percent": 100,
+        "hz": 360
     }
     ],
     "percentToQualify": 66
@@ -17761,14 +17792,7 @@
       "verifier": "GoKill",
       "verification": "https://www.youtube.com/watch?v=ya29CmmNbH0"
     },
-    "records": [
-      {
-        "user": "drippungus",
-        "link": "https://www.youtube.com/watch?v=bSbxxbr5-io",
-        "percent": 100,
-        "hz": 360
-      }
-    ],
+    "records": [],
     "percentToQualify": 66
   },
   "LINKS": {
@@ -30488,7 +30512,14 @@
     "percentToQualify": 66
   },
   "Acrozis": {
-    "records": [],
+    "records": [
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=bSbxxbr5-io",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "verifier": {
       "verifier": "BlackBird552",
       "verification": "https://www.youtube.com/watch?v=0s0bp9oYW3k"
