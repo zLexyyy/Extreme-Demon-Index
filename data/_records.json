@@ -30508,7 +30508,14 @@
     "percentToQualify": 66
   },
   "True JNC": {
-    "records": [],
+    "records": [
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/rqY7W-R8-bs",
+        "percent": 100,
+        "hz": 240
+    }
+    ],
     "verifier": {
       "verifier": "drippungus",
       "verification": "https://www.youtube.com/watch?v=LLHueltldyk"
