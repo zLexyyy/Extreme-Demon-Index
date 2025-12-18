@@ -1453,7 +1453,7 @@
   },
   "Graceful": {
     "verifier": {
-      "verifier": "DaGYT",
+      "verifier": "D a G",
       "verification": "https://www.youtube.com/watch?v=5kOD37vQHKE"
     },
     "records": [],
@@ -15471,6 +15471,12 @@
         "link": "https://www.youtube.com/watch?v=x7DbhxXZrOU",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "❀ 𝐿𝑒𝓍𝓎 ❀",
+        "link": "https://www.youtube.com/watch?v=hWRiHqSuLBw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -17890,7 +17896,7 @@
   },
   "Spectrum Blaze": {
     "verifier": {
-      "verifier": "lTemp",
+      "verifier": "Temp",
       "verification": "https://www.youtube.com/watch?v=Y-jlr_N2GmE"
     },
     "records": [],
