@@ -20346,7 +20346,13 @@
         "link": "https://www.youtube.com/watch?v=qRQ8iL33vwQ",
         "percent": 100,
         "hz": 240
-      }
+      },
+        {
+        "user": "drippungus",
+        "link": "https://medal.tv/games/geometry-dash/clips/lJx4YnVVtMWlZxZp5?invite=cr-MSw3b2IsNDI5NzM4MjU2&v=116",
+        "percent": 100,
+        "hz": 360
+    }
     ],
     "percentToQualify": 66
   },
