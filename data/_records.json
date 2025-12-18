@@ -9,7 +9,7 @@
   },
   "1945": {
     "verifier": {
-      "verifier": "Colorbolt",f
+      "verifier": "Colorbolt",
       "verification": "https://www.youtube.com/watch?v=h1VKjNiOZ-A"
     },
     "records": [],
@@ -20959,7 +20959,13 @@
         "link": "https://www.youtube.com/watch?v=v_-URzMpd08",
         "percent": 100,
         "hz": 240
-      }
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/ahUjX_o9vwU",
+        "percent": 100,
+        "hz": 240
+    }      
     ],
     "percentToQualify": 66
   },
