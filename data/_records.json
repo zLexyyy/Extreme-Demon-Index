@@ -18823,7 +18823,14 @@
       "verifier": "Snowr33de",
       "verification": "https://www.youtube.com/watch?v=9sxy51MfUKU"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Omipious",
+        "link": "https://www.youtube.com/watch?v=2erl3Tnhdyc",
+        "percent": 100,
+        "hz": 240
+    }
+    ],
     "percentToQualify": 66
   },
   "wiggle water": {
@@ -21050,7 +21057,14 @@
       "verifier": "Zeronium",
       "verification": "https://www.youtube.com/watch?v=mQk5NZ8fL4w"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Tardisguy12",
+        "link": "https://www.youtube.com/watch?v=2TxU-JRZFUA",
+        "percent": 100,
+        "hz": 240
+    }
+    ],
     "percentToQualify": 66
   },
   "Stormy Landscape": {
