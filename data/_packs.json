@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Apocalyptic Trilogy",
+        "color": "#980000",
+        "textColor": "#ff0000",
+        "levels": ["Cataclysm", "aftermath (Exenity)", "Bloodbath"]
+    },
+    {
+        "name": "Apocalyptic Trilogy V2",
+        "color": "#680000",
+        "textColor": "#ce0000",
+        "levels": ["Aftermath v2", "Bloodbath V2", "Cataclysm V2"]
+    },
+    {
+        "name": "Trans Pack",
+        "color": "#5bcefa",
+        "textColor": "#f5a9b8",
+        "levels": ["transbath", "Trans Cataclysm", "Trans Acu"]
+    },
+    {
+        "name": "Dedication Series",
+        "color": "#666666",
+        "textColor": "#c7cbcc",
+        "levels": ["Anathema", "Renevant", "Allegiance"]
+    },
+    {
+        "name": "VSC Pack",
+        "color": "#783f04",
+        "textColor": "#bf8f00",
+        "levels": ["VSC x2", "VSC Out", "VSC Geist", "VSC on Track", "VSC Madness"]
+    },
+    {
+        "name": "RGB Pack",
+        "color": "#01ff00",
+        "textColor": "#0000ff",
+        "levels": ["Sonic Wave", "Yatagarasu", "Erebus (BoldStep)"]
+    },
+    {
+        "name": "New RGB Pack",
+        "color": "#0000ff",
+        "textColor": "#ff0000",
+        "levels": ["Sonic Wave Infinity", "Tartarus", "The Golden"]
+    },
+    {
+        "name": "Kenodiac <3",
+        "color": "#980000",
+        "textColor": "#a300b8",
+        "levels": ["Kenos", "Zodiac"]
+    },
+    {
+        "name": "Failed Top 1's",
+        "color": "#5a5a5a",
+        "textColor": "#000000",
+        "levels": ["Apocalyptic Trilogy", "Blade of Justice (Unnerfed)", "WOODKID", "Grains of Sand (Old)", "Silent Circles"]
+    },
+    {
+        "name": "Breaking Bad Pack",
+        "color": "#4caf50",
+        "textColor": "#21734a",
+        "levels": ["Saul Goodman", "walter white", "Jesse Pinkman", "Gustavo Fring"]
+    },
+    {
+        "name": "Dual Mayhem",
+        "color": "#0000ff",
+        "textColor": "#01ffff",
+        "levels": ["Based After Based", "Dole Damos", "cytokinesis", "Lovers Sadness", "Find Me"]
+    },
+    {
+        "name": "Spam Pack",
+        "color": "#ff00ff",
+        "textColor": "#01ff00",
+        "levels": ["Checked Steam", "The Big Black (Nautilus2K)", "WOW", "POW", "PunchDrunk"]
+    },
+        {
+        "name": "Minigame Pack",
+        "color": "#ff80ab",
+        "textColor": "#ffd93d",
+        "levels": ["Piano Man", "Stacker Ultimate", "Piano Woman", "Floating Outskirts", "The Ultimate Bahamut"]
+    },
+    {
+        "name": "Endurance Test",
+        "color": "#135261",
+        "textColor": "#1c738e",
+        "levels": ["Endless Travel", "Death (AleeXhey)", "Eon", "solace", "Light Travel"]
+    },
+    {
+        "name": "DONT OBEY THE VIRUS",
+        "color": "#01ff00",
+        "textColor": "#ff0000",
+        "levels": ["Requiem", "Requiem DX", "Killbot", "Killbot DX"]
+    },
+    {
+        "name": "Tech Series",
+        "color": "#666666",
+        "textColor": "#ccccc5",
+        "levels": ["Cybernetic Crescent", "Digital Descent", "Artificial Ascent"]
+    },
+        {
+        "name": "Apooculyptic Series",
+        "color": "#ffa0ff",
+        "textColor": "#ffffff",
+        "levels": ["poocubed", "twocu", "poocu", "poocu4ever"]
+    },
+    {
+        "name": "Meme Pack",
+        "color": "#000000",
+        "textColor": "#01ff00",
+        "levels": ["THE ROCK HOUSE", "Return 420", "Dank Processing", "BeaNoS", "Simpson Freedom"]
+    }
+]

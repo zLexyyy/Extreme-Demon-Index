@@ -1,7 +1,7 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
-import { fetchEditors, fetchList, fetchLevel, fetchRecords } from "../content.js";
+import { fetchEditors, fetchList, fetchLevel, fetchRecords, fetchPacks } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -61,13 +61,16 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="(entry, i) in filteredDemonList" :key="entry.index" :class="{ benchmark: entry.isBenchmark }">
                         <td class="rank">
-                            <p class="type-label-lg" v-if="!entry.isBenchmark">#{{ entry.displayIndex }}</p>
+                            <p class="type-label-lg" v-if="!entry.isBenchmark && activeList !== 'upcoming'">#{{ entry.displayIndex }}</p>
                             <p class="type-label-md" v-else style="margin-left:8px;">-</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name, 'benchmark-level': entry.isBenchmark }">
-                            <button @click="fetchLvl(entry.index); selected = entry.index">
+                            <button v-if="!entry.isBenchmark || activeList !== 'upcoming'" class="level-btn" @click="fetchLvl(entry.index); selected = entry.index">
                                 <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
                             </button>
+                            <div v-else class="level-btn">
+                                <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
+                            </div>
                         </td>
                     </tr>
                 </table>
@@ -76,6 +79,17 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    
+                    <!-- Packs -->
+                    <div v-if="levelPacks.length > 0" class="level-packs-section">
+                        <h3>Packs</h3>
+                        <ul class="level-packs">
+                            <li v-for="pack in levelPacks" :key="pack.name" :style="{ backgroundColor: pack.color, color: pack.textColor }" @click="selectPack(pack)">
+                                {{ pack.name }}
+                            </li>
+                        </ul>
+                    </div>
+                    
                     <div class="video-controls">
     <button class="video-btn" :class="{ active: !toggledShowcase }" @click="toggledShowcase = false">Verification</button>
     <button class="video-btn" :class="{ active: toggledShowcase }" @click="toggledShowcase = true">Showcase</button>
@@ -171,6 +185,7 @@ export default {
         demonList: [],
         recordList: {},
         editors: [],
+        packs: [],
         loading: true,
         selected: 0,
         errors: [],
@@ -205,6 +220,10 @@ export default {
         },
         list() {
             return this.demonList
+        },
+        levelPacks() {
+            if (!this.level || !this.level.name) return [];
+            return this.packs.filter(pack => pack.levels.includes(this.level.name));
         },
 
         // --- UPDATED computed for filtering the left list while preserving original index and supporting 'benchmark' items ---
@@ -298,12 +317,36 @@ statusText() {
         }
     },
     async mounted() {
+        // Default to classic list if not set
+        if (!localStorage.getItem('edi_active_list')) {
+            localStorage.setItem('edi_active_list', 'classic');
+        }
+
         // Hide loading spinner
         this.demonList = await fetchList();
         this.recordList = await fetchRecords();
         this.editors = await fetchEditors();
+        this.packs = await fetchPacks();
+        
+        // Check for level query param
+        const queryLevel = this.$route.query.level;
+        if (queryLevel) {
+            this.selected = this.demonList.indexOf(queryLevel);
+            if (this.selected === -1) this.selected = 0;
+        }
+        
         this.listLevel = await fetchLevel(this.list[this.selected])
         this.hasLoaded = true;
+
+        // For upcoming list, select first non-benchmark level
+        if (this.activeList === 'upcoming') {
+            const firstNonBench = this.filteredDemonList.find(entry => !entry.isBenchmark);
+            if (firstNonBench && firstNonBench.index !== this.selected) {
+                this.selected = firstNonBench.index;
+                this.listLevel = await fetchLevel(this.list[this.selected]);
+            }
+        }
+
         // Error handling
         if (!this.list) {
             this.errors = [
@@ -325,6 +368,9 @@ statusText() {
             localStorage.setItem('edi_active_list', key);
             // reload to let fetchList pick up the new file (simple and robust)
             location.reload();
+        },
+        selectPack(pack) {
+            this.$router.push({ path: '/packs', query: { pack: pack.name } });
         },
         async fetchLvl(i)
         {

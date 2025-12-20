@@ -40,9 +40,52 @@
     background-color: var(--color-background-hover);
     color: var(--color-on-background-hover);
 }
-.page-list .list .level.active button {
+.page-list .list .level.active .level-btn {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
+}
+
+.page-list .list .level .level-btn {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    text-align: start;
+    word-break: normal;
+    overflow-wrap: anywhere;
+    width: 100%;
+    display: block;
+}
+
+.page-list .list .level .level-btn:hover {
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background-hover);
+}
+
+.page-list .list .level button.level-btn {
+    cursor: pointer;
+}
+
+.page-list .list .level div.level-btn {
+    cursor: default;
+}
+
+/* Make benchmark entries stand out */
+.page-list .list .benchmark-level .level-btn {
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 2px solid var(--color-primary);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.page-list .list .benchmark-level .level-btn:hover {
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+    opacity: 0.9;
 }
 .page-list .level-container .level {
     display: flex;
@@ -268,4 +311,47 @@
 .page-list .list td.level.benchmark-level button .type-label-lg {
   font-size: inherit !important;
   padding-left: 0 !important;
+}
+
+.level-packs-section {
+    margin-bottom: 1rem;
+    background: var(--color-background);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 0.5rem;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.level-packs-section h3 {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-on-background);
+}
+
+.level-packs {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.level-packs li {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
+    transition: opacity 0.2s;
+    cursor: pointer;
+}
+
+.level-packs li:hover {
+    opacity: 0.8;
 }

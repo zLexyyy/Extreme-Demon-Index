@@ -86,10 +86,21 @@ export async function fetchRecords() {
         console.error(`Failed to load records.`);
     }
 }
+export async function fetchPacks() {
+    try {
+        const packsResult = await fetch(`${dir}/_packs.json`);
+        const packs = await packsResult.json();
+        return packs;
+    } catch {
+        console.error(`Failed to load packs.`);
+        return [];
+    }
+}
 export async function fetchLeaderboard() {
     // Always use the CLASSIC list for the leaderboard (single shared leaderboard).
     // This ensures there is only one leaderboard, even when the user is viewing "upcoming".
     const recordList = await fetchRecords();
+    const packs = await fetchPacks();
 
     // load classic list explicitly
     const classicResult = await fetch(`${dir}/${LIST_KEYS.classic}`);
@@ -162,16 +173,50 @@ export async function fetchLeaderboard() {
 
     });
 
+    // Calculate completed packs for each user
+    Object.entries(scoreMap).forEach(([user, scores]) => {
+        const completedLevels = new Set([
+            ...scores.verified.map(v => v.level),
+            ...scores.completed.map(c => c.level)
+        ]);
+        scores.completedPacks = [];
+        packs.forEach(pack => {
+            const hasAllLevels = pack.levels.every(level => completedLevels.has(level));
+            if (hasAllLevels) {
+                scores.completedPacks.push(pack);
+            }
+        });
+    });
+
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
-        const { verified, completed, progressed } = scores;
-        const total = [verified, completed, progressed]
+        const { verified, completed, progressed, completedPacks } = scores;
+        let total = [verified, completed, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
+
+        // Add pack rewards
+        const packReward = completedPacks.reduce((sum, pack) => {
+            const packTotal = pack.levels.reduce((levelSum, levelName) => {
+                const levelIndex = list.indexOf(levelName);
+                if (levelIndex >= 0) {
+                    const levelData = recordList[levelName];
+                    if (levelData) {
+                        return levelSum + score(levelIndex + 1, 100, levelData.percentToQualify);
+                    }
+                }
+                return levelSum;
+            }, 0);
+            return sum + Math.floor(packTotal * 0.5);
+        }, 0);
+
+        total += packReward;
 
         return {
             user,
             total: round(total),
+            packReward,
+            completedPacks,
             ...scores,
         };
     });

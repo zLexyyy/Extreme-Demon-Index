@@ -91,3 +91,34 @@
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
+
+.completed-packs {
+    margin-bottom: 1rem;
+}
+
+.completed-packs h4 {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.completed-packs ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.completed-packs li {
+    border-radius: 4px;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
+}
