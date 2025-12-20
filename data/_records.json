@@ -22407,8 +22407,14 @@
         "link": "https://www.youtube.com/watch?v=lOMKpu4UTbY",
         "percent": 100,
         "hz": 240
-      }
-    ],
+      },
+        {
+        "user": "drippugus",
+        "link": "https://medal.tv/games/geometry-dash/clips/lK5tkwefsJs7RRsUF?invite=cr-MSxmekwsNDI5NzM4MjU2&v=116",
+        "percent": 100,
+        "hz": 360
+    }
+ ],
     "percentToQualify": 66
   },
   "FinKor": {
