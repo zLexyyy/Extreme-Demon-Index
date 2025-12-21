@@ -24,6 +24,18 @@
         "levels": ["Anathema", "Renevant", "Allegiance"]
     },
     {
+        "name": "Fanmade Dedication Series I",
+        "color": "#666666",
+        "textColor": "#c7cbcc",
+        "levels": ["CarnEvil", "Retribution (EtVil)", "Treason"]
+    },
+    {
+        "name": "Fanmade Dedication Series II",
+        "color": "#666666",
+        "textColor": "#c7cbcc",
+        "levels": ["Vengeance (Kingcy2)", "Abandoned", "Fidelity"]
+    },
+    {
         "name": "VSC Pack",
         "color": "#783f04",
         "textColor": "#bf8f00",
@@ -95,10 +107,10 @@
         "textColor": "#ccccc5",
         "levels": ["Cybernetic Crescent", "Digital Descent", "Artificial Ascent"]
     },
-        {
+    {
         "name": "Apooculyptic Series",
-        "color": "#ffa0ff",
-        "textColor": "#ffffff",
+        "color": "#ffffff",
+        "textColor": "#ffa0ff",
         "levels": ["poocubed", "twocu", "poocu", "poocu4ever"]
     },
     {
@@ -106,5 +118,203 @@
         "color": "#000000",
         "textColor": "#01ff00",
         "levels": ["THE ROCK HOUSE", "Return 420", "Dank Processing", "BeaNoS", "Simpson Freedom"]
+    },
+    {
+        "name": "ASS Trilogy",
+        "color": "#7b3f00",
+        "textColor": "#f49f5b",
+        "levels": ["Abyss of Darkness", "Slaughterhouse", "Sakupen Circles"]
+    },
+    {
+        "name": "Truly Solo Pack",
+        "color": "#ffd966",
+        "textColor": "#877645",
+        "levels": ["Menace", "Piano Man", "Piano Woman", "Adelucid", "Stasis"]
+    },
+    {
+        "name": "Ocular Miracle Pack",
+        "color": "#351c75",
+        "textColor": "#6f9dc3",
+        "levels": ["Ocular Miracle", "Diligence", "Faith", "Reverie"]
+    },
+    {
+        "name": "TheShadowRealm Pack",
+        "color": "#000000",
+        "textColor": "#550000",
+        "levels": ["HIGHLANDER EXPRESS", "Lost Beauty", "Mujigae", "PanaSonic", "Death Penalty"]
+    },
+    {
+        "name": "Drippungus Pack",
+        "color": "#b04800",
+        "textColor": "#ff6900",
+        "levels": ["sakupen gurt", "True JNC", "hit DA drip"]
+    },
+    {
+        "name": "Challenge Pack",
+        "color": "#8a2be2",
+        "textColor": "#01ffff",
+        "levels": ["Triplusion", "VSC Madness", "is dead", "riverlasting", "quicksis limit"]
+    },
+    {
+        "name": "Fjvzdizm8hgnisdx9xjm",
+        "color": "#ffffff",
+        "textColor": "#ffd700",
+        "levels": ["Ykds1479ymdppr", "Pastilo1998579825853", "Kjdf8314jlfssf", "BRKMGB8GJCZ", "WWWHHHHHHYYyYYYYyyyy"]
+    },
+    {
+        "name": "xo Pack",
+        "color": "#cccccc",
+        "textColor": "#666666",
+        "levels": ["arrow", "xo", "wheel", "My Bae"]
+    },
+    {
+        "name": "One Gamemode Wonders I",
+        "color": "#84b0f9",
+        "textColor": "#2addfb",
+        "levels": ["Cnals", "UNLEASH WHALE WHALES", "SIGSEGV", "15 Step", "Wavetapper"]
+    },
+    {
+        "name": "One Gamemode Wonders II",
+        "color": "#4a86e8",
+        "textColor": "#1aeffe",
+        "levels": ["On1y Cub3", "KUB", "3ABNCNMOCT6", "V O L L E Y", "Flappy Dynamix II"]
+    },
+    {
+        "name": "One Gamemode Wonders III",
+        "color": "#396dc2",
+        "textColor": "#15eafc",
+        "levels": ["SILK", "Magnificent Gaps", "Dormant World", "Marathon", "Endurance"]
+    },
+    {
+        "name": "One Gamemode Wonders IV",
+        "color": "#2c5598",
+        "textColor": "#12def5",
+        "levels": ["Middle of Nowhere", "Dump", "in full swing", "SHIP", "The Fog"]
+    },
+    {
+        "name": "One Gamemode Wonders V",
+        "color": "#203b65",
+        "textColor": "#0da7b5",
+        "levels": ["Demons", "Phasmvola", "Shardscapes", "Impossible gaps", "Sank"]
+    },
+    {
+        "name": "One Gamemode Wonders VI",
+        "color": "#162b4d",
+        "textColor": "#02e0bf",
+        "levels": ["Every End", "Ashley Wave Trials", "Viprin UFO", "Starlight Summit", "Swing Swing"]
+    },
+    {
+        "name": "White Girl Pack",
+        "color": "#ffffff",
+        "textColor": "#ffc0cb",
+        "levels": ["Gaggatrondra", "paranoia", "Call Me Maybe", "California Girls", "TiK ToK"]
+    },
+    {
+        "name": "Tally Hall Pack",
+        "color": "#D4A017",
+        "textColor": "#008B8B",
+        "levels": ["The Bidding", "TURN THE LIGHTS OFF (nikoberry)", "Turn the Lights Off (McCoco)", "Ruler of Everything", "Hidden in the Sand"]
+    },
+    {
+        "name": "Radiohead Pack I",
+        "color": "#2B2B2B",
+        "textColor": "#8B1E1E",
+        "levels": ["Hail to The Thief", "I Will", "Paranoid Android", "No Surprises", "15 Step"]
+    },
+    {
+        "name": "Radiohead Pack II",
+        "color": "#2B2B2B",
+        "textColor": "#8B1E1E",
+        "levels": ["NOMAD", "Decks Dark", "Lotus Flower", "A Wolf At the Door"]
+    },
+    {
+        "name": "Greek Letter",
+        "color": "#F5F5F0",
+        "textColor": "#113a63",
+        "levels": ["Delta", "Sigma", "Alpha (SirWafel)", "Omega", "Gamma"]
+    },
+    {
+        "name": "Where Is The Gameplay? I",
+        "color": "#ffffff",
+        "textColor": "#e2e2e2",
+        "levels": ["GONER", "BRUH", "GO bird", "Chub Chub", "M A N I X"]
+    },
+    {
+        "name": "Where Is The Gameplay? II",
+        "color": "#ffffff",
+        "textColor": "#e2e2e2",
+        "levels": ["FACESHOPPING", "the world caves in", "KULT", "of Ambrosia"]
+    },
+    {
+        "name": "The Tart Killers",
+        "color": "#741818",
+        "textColor": "#c31414",
+        "levels": ["Slaughterhouse", "Firework", "arcturus"]
+    },
+    {
+        "name": ":3",
+        "color": "#ffffff",
+        "textColor": "#ffc0cb",
+        "levels": ["limbo but uwu ig idk", "MISFIRE", "Cat Planet", "Semicolon 3", "OwOblivion"]
+    },
+    {
+        "name": "Old Impossible Level Pack",
+        "color": "#000000",
+        "textColor": "#FF00FF",
+        "levels": ["SARY NEVER CLEAR (Old)", "Subsuming Vortex", "Silent Clubstep", "Sakupen circles (Old)", "Silent poltergeist"]
+    },
+    {
+        "name": "Say Goodbye To Your Eyes",
+        "color": "#dca27d",
+        "textColor": "#93c47d",
+        "levels": ["Crackhead Circles", "CHEMICAL HEAD", "FACESHOPPING", "Metalepsis", "Seizure"]
+    },
+    {
+        "name": "Demishio Pack",
+        "color": "#1c4587",
+        "textColor": "#53a9e8",
+        "levels": ["Kyouki", "Widestep", "Ourwa"]
+    },
+    {
+        "name": "Unclearable Pack I",
+        "color": "#4FA3A3",
+        "textColor": "#5A3D6C",
+        "levels": ["Kakol Never Clear", "BlueberryNeverClear", "Neon Never Clear", "Sary Maybe Clear", "No Moon Clear"]
+    },
+    {
+        "name": "Unclearable Pack II",
+        "color": "#4FA3A3",
+        "textColor": "#5A3D6C",
+        "levels": ["SARY NEVER CLEAR (Old)", "SARYYX NEVER CLEAR", "BRITNEY NO SCLEARS", "SARY NEVER CLEAR"]
+    },
+    {
+        "name": "Reta Pack I",
+        "color": "#6d05cf",
+        "textColor": "#ff7ff1",
+        "levels": ["Hakaitsu", "Aoreta", "Atsuko", "Mizureta", "niwa"]
+    },
+    {
+        "name": "Reta Pack II",
+        "color": "#6d05cf",
+        "textColor": "#ff7ff1",
+        "levels": ["Akareta", "Shukufuku", "Desureta", "Sakureta", "Paninireta"]
+    },
+    {
+        "name": "Reta Pack III",
+        "color": "#6d05cf",
+        "textColor": "#ff7ff1",
+        "levels": ["Shiranai", "Noxureta", "aisareta", "Kasuigetsu"]
+    },
+    {
+        "name": "Reta Pack IV",
+        "color": "#6d05cf",
+        "textColor": "#ff7ff1",
+        "levels": ["Wasureta", "Memento", "Kuzureta", "shibireta"]
+    },
+    {
+        "name": "Reta Pack V",
+        "color": "#6d05cf",
+        "textColor": "#ff7ff1",
+        "levels": ["Shukketsu", "Fragile (Endlevel)", "Gumi", "kowareta"]
     }
 ]

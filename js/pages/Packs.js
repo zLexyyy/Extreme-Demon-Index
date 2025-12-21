@@ -51,26 +51,26 @@ export default {
             }
         }
     },
-    computed: {
-        packLevels() {
-            if (!this.selectedPack) return [];
-            return this.selectedPack.levels.map(name => {
-                const index = this.list.indexOf(name);
-                const level = this.levels[name];
-                const points = level && index >= 0 ? score(index + 1, 100, level.percentToQualify) : 0;
-                return {
-                    name,
-                    index,
-                    points,
-                    level,
-                };
-            }).filter(l => l.index >= 0);
-        },
-        packReward() {
-            const total = this.packLevels.reduce((sum, l) => sum + l.points, 0);
-            return Math.floor(total * 0.5);
-        },
+computed: {
+    packLevels() {
+        if (!this.selectedPack) return [];
+        return this.selectedPack.levels.map(name => {
+            const index = this.list.indexOf(name);
+            const level = this.levels[name];
+            const points = level && index >= 0 ? score(index + 1, 100, level.percentToQualify) : 0;
+            return {
+                name,
+                index,
+                points,
+                level,
+            };
+        }).filter(l => l.index >= 0).sort((a, b) => a.index - b.index);
     },
+    packReward() {
+        const total = this.packLevels.reduce((sum, l) => sum + l.points, 0);
+        return Math.floor(total * 0.5);
+    },
+},
     methods: {
         selectPack(pack) {
             this.selectedPack = pack;
@@ -82,35 +82,35 @@ export default {
             this.$router.push({ path: '/', query: { level: level.name } });
         },
     },
-    template: `
-        <main v-if="loading">
-            <Spinner></Spinner>
-        </main>
-        <main v-else class="page-packs">
-            <div class="packs-container">
-                <h2>Packs</h2>
-                <div class="packs-list">
-                    <div v-for="pack in packs" :key="pack.name" class="pack-item" :class="{ active: selectedPack === pack }" @click="selectPack(pack)">
-                        <div class="pack-name" :style="{ color: pack.color }">{{ pack.name }}</div>
-                    </div>
+template: `
+    <main v-if="loading">
+        <Spinner></Spinner>
+    </main>
+    <main v-else class="page-packs">
+        <div class="packs-container">
+            <h2>Packs</h2>
+            <div class="packs-list">
+                <div v-for="pack in packs" :key="pack.name" class="pack-item" :class="{ active: selectedPack === pack }" @click="selectPack(pack)">
+                    <div class="pack-name" :style="{ color: pack.textColor }">{{ pack.name }}</div>
                 </div>
             </div>
-            <div class="pack-details-container">
-                <div v-if="selectedPack" class="pack-details">
-                    <h1 :style="{ color: selectedPack.color }">{{ selectedPack.name }}</h1>
-                    <p class="pack-reward">Pack Reward: {{ packReward }} points</p>
-                    <h3>Levels in Pack</h3>
-                    <ul class="pack-levels">
-                        <li v-for="level in packLevels" :key="level.name" @click="selectLevel(level)">
-                            <span class="level-name">{{ level.name }}</span>
-                            <span class="level-points">{{ level.points }} pts</span>
-                        </li>
-                    </ul>
-                </div>
-                <div v-else class="no-pack">
-                    <p>Select a pack to view details</p>
-                </div>
+        </div>
+        <div class="pack-details-container">
+            <div v-if="selectedPack" class="pack-details">
+                <h1 :style="{ color: selectedPack.textColor }">{{ selectedPack.name }}</h1>
+                <p class="pack-reward">Pack Reward: {{ packReward }} points</p>
+                <h3>Levels in Pack</h3>
+    <ul class="pack-levels">
+        <li v-for="level in packLevels" :key="level.name" @click="selectLevel(level)">
+            <span class="level-name">#{{ level.index + 1 }} {{ level.name }}</span>
+            <span class="level-points">{{ level.points }} pts</span>
+        </li>
+    </ul>
             </div>
-        </main>
-    `,
+            <div v-else class="no-pack">
+                <p>Select a pack to view details</p>
+            </div>
+        </div>
+    </main>
+`,
 };
