@@ -895,13 +895,12 @@
         "percent": 100,
         "hz": 240
       },
-        {
+      {
         "user": "0_form_0",
         "link": "https://youtu.be/f3m4Oq2Xes4?si=SrW8f8L98o63ZtlY",
         "percent": 100,
         "hz": 60
       }
-        
     ],
     "percentToQualify": 73
   },
@@ -13162,12 +13161,12 @@
         "percent": 100,
         "hz": 60
       },
-        {
+      {
         "user": "Tardisguy12",
         "link": "https://www.youtube.com/watch?v=JOkKlbLapFA",
         "percent": 100,
         "hz": 240
-        }
+      }
     ],
     "percentToQualify": 66
   },
@@ -25606,12 +25605,12 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "Tardisguy12",
         "link": "https://www.youtube.com/watch?v=qS7YhukQ2ZE",
         "percent": 100,
         "hz": 240
-    }
+      }
     ],
     "percentToQualify": 66
   },
@@ -31183,6 +31182,14 @@
     "verifier": {
       "verifier": "Achlys",
       "verification": "https://www.youtube.com/watch?v=Y2wG2ESAwWw"
+    },
+    "percentToQualify": 66
+  },
+  "Firework Ice Nation": {
+    "records": [],
+    "verifier": {
+      "verifier": "Midgatal",
+      "verification": "https://www.youtube.com/watch?v=He3iRW6Usv4"
     },
     "percentToQualify": 66
   }
