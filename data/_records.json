@@ -842,7 +842,16 @@
     },
     "records": [],
     "percentToQualify": 66
+       },
+  "Compound C17H21NO4": {
+    "verifier": {
+      "verifier": "drippungus",
+      "verification": "https://www.youtube.com/watch?v=oP08KEmw0Rs"
+    },
+    "records": [],
+    "percentToQualify": 66
   },
+      },
   "ROCKBOTTOM": {
     "verifier": {
       "verifier": "ZazaGD",
