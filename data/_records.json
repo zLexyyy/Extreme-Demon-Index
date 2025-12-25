@@ -8,7 +8,7 @@
     "percentToQualify": 66
   },
   "1945": {
-    "verifier": {
+    "verifier": {    
       "verifier": "Colorbolt",
       "verification": "https://www.youtube.com/watch?v=h1VKjNiOZ-A"
     },
@@ -9176,6 +9176,12 @@
         "link": "https://www.youtube.com/watch?v=sSxN7GY_6oE",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "TheDiverseNexx",
+        "link": "https://youtu.be/WigWi5-CsLY",
+        "percent": 100,
+        "he": 240
       }
     ],
     "percentToQualify": 66
@@ -28002,7 +28008,14 @@
     "percentToQualify": 66
   },
   "Shitty Arctic Lights (WDWiktor)": {
-    "records": [],
+    "records": [
+        {
+        "user": "drippungus",
+        "link": "https://www.youtube.com/watch?v=nMq5y8ZPo1U",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "verifier": {
       "verifier": "iamfinley",
       "verification": "https://www.youtube.com/watch?v=BCuEKtYVZTY"
