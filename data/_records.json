@@ -8,7 +8,7 @@
     "percentToQualify": 66
   },
   "1945": {
-    "verifier": {    
+    "verifier": {
       "verifier": "Colorbolt",
       "verification": "https://www.youtube.com/watch?v=h1VKjNiOZ-A"
     },
@@ -842,7 +842,7 @@
     },
     "records": [],
     "percentToQualify": 66
-       },
+  },
   "Compound C17H21NO4": {
     "verifier": {
       "verifier": "drippungus",
@@ -9177,7 +9177,7 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "TheDiverseNexx",
         "link": "https://youtu.be/WigWi5-CsLY",
         "percent": 100,
@@ -28009,7 +28009,7 @@
   },
   "Shitty Arctic Lights (WDWiktor)": {
     "records": [
-        {
+      {
         "user": "drippungus",
         "link": "https://www.youtube.com/watch?v=nMq5y8ZPo1U",
         "percent": 100,
@@ -30921,7 +30921,7 @@
     },
     "percentToQualify": 66
   },
-  "Desert Bus": {
+  "Desert Bus (ASBCHazel)": {
     "records": [],
     "verifier": {
       "verifier": "nifty",
@@ -31211,6 +31211,134 @@
     "verifier": {
       "verifier": "Midgatal",
       "verification": "https://www.youtube.com/watch?v=He3iRW6Usv4"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Infinity (Slithium)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=av5D0_M6hso"
+    },
+    "percentToQualify": 66
+  },
+  "White Slaughterhouse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Viwi",
+      "verification": "https://www.youtube.com/watch?v=YpIxYngsUJs"
+    },
+    "percentToQualify": 66
+  },
+  "inv skc 10 op": {
+    "records": [],
+    "verifier": {
+      "verifier": "ad3usgmd",
+      "verification": "https://www.youtube.com/watch?v=QiSXKeLonkw"
+    },
+    "percentToQualify": 66
+  },
+  "DISCRETION ADVISED": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lodomir",
+      "verification": "https://www.youtube.com/watch?v=p967qmMRKOA"
+    },
+    "percentToQualify": 66
+  },
+  "Bloodlust (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=Srhs-dD4Qpg"
+    },
+    "percentToQualify": 66
+  },
+  "CHRONIC STARSHINE": {
+    "records": [],
+    "verifier": {
+      "verifier": "EpsteinGaming",
+      "verification": "https://www.youtube.com/watch?v=MJgToOdT5lo"
+    },
+    "percentToQualify": 66
+  },
+  "Retro Sonic Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=r9fhvAoXlEU"
+    },
+    "percentToQualify": 66
+  },
+  "Home Videos": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zylenox",
+      "verification": "https://www.youtube.com/watch?v=dWi9XpIo5G8"
+    },
+    "percentToQualify": 66
+  },
+  "Cesium 137": {
+    "records": [],
+    "verifier": {
+      "verifier": "Adhafera",
+      "verification": "https://www.youtube.com/watch?v=Pdb1voxRxkk"
+    },
+    "percentToQualify": 66
+  },
+  "Mlg Swag Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "Byleom",
+      "verification": "https://www.youtube.com/watch?v=jkeMr87YpOw"
+    },
+    "percentToQualify": 66
+  },
+  "Ashley Bath Trials": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jevan",
+      "verification": "https://www.youtube.com/watch?v=Kb716ZUY9DA"
+    },
+    "percentToQualify": 66
+  },
+  "Acu is Dead": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cinder",
+      "verification": "https://www.youtube.com/watch?v=2PwOTjpe0HQ"
+    },
+    "percentToQualify": 66
+  },
+  "DIRT": {
+    "records": [],
+    "verifier": {
+      "verifier": "xlapiz",
+      "verification": "https://youtu.be/gk4RFDvxPBQ?si=bR7CO78ZpVdnlw3p"
+    },
+    "percentToQualify": 66
+  },
+  "Desert Bus (Ziegenhainy)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ziegenhainy",
+      "verification": "https://www.youtube.com/watch?v=M41T1sM3q1U"
+    },
+    "percentToQualify": 66
+  },
+  "wo chile feizao": {
+    "records": [],
+    "verifier": {
+      "verifier": "IAteSoap",
+      "verification": "https://www.youtube.com/watch?v=5qe6kEjARXE"
+    },
+    "percentToQualify": 66
+  },
+  "PSYCHOSOCIAL": {
+    "records": [],
+    "verifier": {
+      "verifier": "xAeternal",
+      "verification": "https://www.youtube.com/watch?v=R-ac4NmJb1E"
     },
     "percentToQualify": 66
   }
