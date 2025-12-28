@@ -2951,7 +2951,7 @@
   },
   "Rigel": {
     "verifier": {
-      "verifier": "Dan2D",
+      "verifier": "Inverse",
       "verification": "https://www.youtube.com/watch?v=CkDTr84FEpI"
     },
     "records": [],
