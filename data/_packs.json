@@ -27,13 +27,13 @@
         "name": "Fanmade Dedication Series I",
         "color": "#666666",
         "textColor": "#c7cbcc",
-        "levels": ["CarnEvil", "Retribution (EtVil)", "Treason"]
+        "levels": ["CarnEvil", "Retribution (EtVil)", "Treason", "Fidelity"]
     },
     {
         "name": "Fanmade Dedication Series II",
         "color": "#666666",
         "textColor": "#c7cbcc",
-        "levels": ["Vengeance (Kingcy2)", "Abandoned", "Fidelity"]
+        "levels": ["Vengeance (Kingcy2)", "Abandoned", "Devotion"]
     },
     {
         "name": "VSC Pack",
@@ -316,5 +316,23 @@
         "color": "#6d05cf",
         "textColor": "#ff7ff1",
         "levels": ["Shukketsu", "Fragile (Endlevel)", "Gumi", "kowareta"]
+    },
+    {
+        "name": "Acu Pack",
+        "color": "#ffee00",
+        "textColor": "#00f9ff",
+        "levels": ["Acude", "Acu", "Acu In The Mirror", "Acu Unleashed", "Whatsapp Acu"]
+    },
+    {
+        "name": "Crack Pack",
+        "color": "#0a6800",
+        "textColor": "#19ff00",
+        "levels": ["Crackhead Circles", "Compound C17H21NO4", "The Hallucination", "the shrooms"]
+    },
+    {
+        "name": "OniLink Pack",
+        "color": "#00347e",
+        "textColor": "#82b6ff",
+        "levels": ["GaleForce", "Volcanic Gleam", "Low Tide Interlude", "Monogatari"]
     }
 ]
