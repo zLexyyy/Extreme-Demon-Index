@@ -15,7 +15,7 @@
         "name": "Trans Pack",
         "color": "#5bcefa",
         "textColor": "#f5a9b8",
-        "levels": ["transbath", "Trans Cataclysm", "Trans Acu"]
+        "levels": ["transbath", "Trans Cataclysm", "Trans Acu", "Trans Wave"]
     },
     {
         "name": "Dedication Series",
@@ -297,13 +297,13 @@
         "name": "Reta Pack II",
         "color": "#6d05cf",
         "textColor": "#ff7ff1",
-        "levels": ["Akareta", "Shukufuku", "Desureta", "Sakureta", "Paninireta"]
+        "levels": ["Nawa", "Shukufuku", "Desureta", "Sakureta", "Paninireta"]
     },
     {
         "name": "Reta Pack III",
         "color": "#6d05cf",
         "textColor": "#ff7ff1",
-        "levels": ["Shiranai", "Noxureta", "aisareta", "Kasuigetsu"]
+        "levels": ["Shiranai", "Noxureta", "aisareta", "Kasuigetsu", "Akareta"]
     },
     {
         "name": "Reta Pack IV",
@@ -334,5 +334,167 @@
         "color": "#00347e",
         "textColor": "#82b6ff",
         "levels": ["GaleForce", "Volcanic Gleam", "Low Tide Interlude", "Monogatari"]
+    },
+    {
+        "name": "Thinking Space Pack",
+        "color": "#4f5253",
+        "textColor": "#b0b0b0",
+        "levels": ["Thinking Space", "Void of Thought", "Cognitive Capacity", "Thinking Space II", "invincible area"]
+    },
+    {
+        "name": "Old School Buffs",
+        "color": "#1E3A8A",
+        "textColor": "#FFD700",
+        "levels": ["Time Machine X", "JumperX", "Northernsence"]
+    },
+    {
+        "name": "Hateful Pack",
+        "color": "#0B0B0B",
+        "textColor": "#8B0000",
+        "levels": ["i hate you", "i hate renn", "HATE EVERYTHING"]
+    },
+    {
+        "name": "Rose Pack",
+        "color": "#FFF1E6",
+        "textColor": "#C2185B",
+        "levels": ["Budding Roses", "rosedynamix", "Red Roses", "La Magicienne Rose", "Wild Rose"]
+    },
+    {
+        "name": "Fake Copy Pack",
+        "color": "#6A0DAD",
+        "textColor": "#00E5FF",
+        "levels": ["Ouroboros Startpos 2", "phobos copyable", "Dry Out Copyable 2"]
+    },
+    {
+        "name": "Loving Pack",
+        "color": "#FF8FA3",
+        "textColor": "#CDB4DB",
+        "levels": ["Love (IcEDCave)", "A Home For Flowers", "Depths of My Heart", "peace and love", "LOVE (ashhy)"]
+    },
+    {
+        "name": "P A C K Pack",
+        "color": "#000e49",
+        "textColor": "#0025bf",
+        "levels": ["M I S F O R T U N E", "H U R T", "E N D"]
+    },
+    {
+        "name": "Moments",
+        "color": "#CDB4DB",
+        "textColor": "#e89dd1",
+        "levels": ["moment", "gravity", "Death (TheShadowRealm)", "LOVE (ashhy)", "ANYONECANFINDLOVE"]
+    },
+    {
+        "name": "Tartarus Pack",
+        "color": "#ff0000",
+        "textColor": "#811212",
+        "levels": ["Tartarus", "tartartus spaceuk", "Nerftarus", "FARTARUS", "Infernum (OrigenAdamas)"]
+    },
+    {
+        "name": "Cognition Pack",
+        "color": "#cc19ff",
+        "textColor": "#5d3768",
+        "levels": ["Oblivion", "Cognition", "Autumn", "Carcano", "Illusion (gdemerald)"]
+    },
+    {
+        "name": "Yandere Pack",
+        "color": "#B11226",
+        "textColor": "#121212",
+        "levels": ["The Tsundere", "The Yandere", "The Yangire"]
+    },
+    {
+        "name": "Haze Pack",
+        "color": "#8cee55",
+        "textColor": "#1f836b",
+        "levels": ["ACHROMATISM", "Mystical Haze", "Prismatic Haze", "Crystallic Haze", "Chromatic Haze"]
+    },
+    {
+        "name": "Blizzard Pack",
+        "color": "#a0a0a0",
+        "textColor": "#282928",
+        "levels": ["Stygian Storm", "Black Blizzard", "White Wildfire", "White Storm", "Dark Dimension"]
+    },
+    {
+        "name": "Unnamed Pack",
+        "color": "#9E9E9E",
+        "textColor": "#111111",
+        "levels": ["Unnamed 0 (Zronk)", "Unnamed 0 (Cersia)", "Unnamed", "unnamed sphere level"]
+    },
+    {
+        "name": "Over Already",
+        "color": "#FF6F00",
+        "textColor": "#00B0FF",
+        "levels": ["Cobwebs", "Super Salami Sammich", "HONEST BURNOUT", "Find Me"]
+    },
+    {
+        "name": "Insxne97 Pack",
+        "color": "#1d0b34",
+        "textColor": "#961a9b",
+        "levels": ["want u", "andromeda", "elixir", "EUPHORIA", "PLANET TERROR"]
+    },
+    {
+        "name": "Object Heavy Pack",
+        "color": "#1d0b34",
+        "textColor": "#961a9b",
+        "levels": ["Ocular Miracle", "Devoreur de Dieux", "Khorne"]
+    },
+    {
+        "name": "Death Corridor Pack",
+        "color": "#403b3b",
+        "textColor": "#9c7e7e",
+        "levels": ["Abandoned Corridor", "Blood Echo", "Death Corridor (Noctafly)", "Cursed Corridor", "Wolf Corridor"]
+    },
+    {
+        "name": "Phonk Pack",
+        "color": "#9B30FF",
+        "textColor": "#0D4C4D",
+        "levels": ["Phonk Town", "Murder In My Mind", "MANGO PHONK HOUSE"]
+    },
+    {
+        "name": "Consistency Pack",
+        "color": "#4682B4",
+        "textColor": "#F5F5F5",
+        "levels": ["Arctic Twice", "Acu is Dead", "is dead", "Bloodbath In Hell", "Poltergeist x3"]
+    },
+    {
+        "name": "Fish Pack",
+        "color": "#1E90FF",
+        "textColor": "#9bcdff",
+        "levels": ["FISH FISH GODMODE", "Fishe", "Le Fishe", "Free Fish"]
+    },
+    {
+        "name": "Fish Pack II",
+        "color": "#1E90FF",
+        "textColor": "#9bcdff",
+        "levels": ["lodin da fish washer", "HIGH ON FISH", "Hugh Fish"]
+    },
+    {
+        "name": "Athanatos Pack",
+        "color": "#761818",
+        "textColor": "#ee4545",
+        "levels": ["Athanasia", "Athanatos", "Athanotara", "IMMORTALITY (Sedgehog)", "Thanatos"]
+    },
+    {
+        "name": "Soggy Pack",
+        "color": "#4DA6A9",
+        "textColor": "#B0B0B0",
+        "levels": ["Soogie", "Sog Goodman", "Soggy Machine", "Crimson Sognet", "MINUSsog"]
+    },
+    {
+        "name": "Demon Mix Pack",
+        "color": "#FF1A1A",
+        "textColor": "#0A0A0A",
+        "levels": ["The Ultimate Return", "Extreme demon mix", "Supreme Demon Mix", "Memory Demon mix", "The Ultimate Demon"]
+    },
+    {
+        "name": "Promethean Pack",
+        "color": "#FF4500",
+        "textColor": "#FFD700",
+        "levels": ["Hephaestus", "Promethean19", "Promethean"]
+    },
+    {
+        "name": "Russian Pack",
+        "color": "#0039A6",
+        "textColor": "#D52B1E",
+        "levels": ["doradura", "Tenth Circle", "3ABNCNMOCT6", "Xyuti", "BPATA MPAKA"]
     }
 ]
