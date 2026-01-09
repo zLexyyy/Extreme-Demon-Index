@@ -14614,7 +14614,7 @@
   },
   "A Darker Fate": {
     "verifier": {
-      "verifier": "Combined",
+      "verifier": "combi",
       "verification": "https://www.youtube.com/watch?v=QqzMg9mkM2A"
     },
     "records": [],
@@ -33123,6 +33123,129 @@
     "verifier": {
       "verifier": "fusion425",
       "verification": "https://www.youtube.com/watch?v=tYIjpFU021M"
+    },
+    "percentToQualify": 66
+  },
+  "Avernus green": {
+    "records": [],
+    "verifier": {
+      "verifier": "klimk",
+      "verification": "https://www.youtube.com/watch?v=vD-bTz0zOD0"
+    },
+    "percentToQualify": 66
+  },
+  "Blooming Blossoms": {
+    "records": [],
+    "verifier": {
+      "verifier": "Piesy",
+      "verification": "https://www.youtube.com/watch?v=GU-qfLRoDMo"
+    },
+    "percentToQualify": 66
+  },
+  "SOMNUS (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "EdenGardenia",
+      "verification": "https://www.youtube.com/watch?v=-lFZapn63Wg"
+    },
+    "percentToQualify": 66
+  },
+  "Unaltered": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheBigCheese69",
+      "verification": "https://www.youtube.com/watch?v=n2zUHKccYow"
+    },
+    "percentToQualify": 66
+  },
+  "Obscura (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "skzyl",
+      "verification": "https://www.youtube.com/watch?v=mJPL-DgL_B8"
+    },
+    "percentToQualify": 66
+  },
+  "Rainbow Highway": {
+    "records": [],
+    "verifier": {
+      "verifier": "Rqd",
+      "verification": "https://www.youtube.com/watch?v=-ZAWrM6XGJE"
+    },
+    "percentToQualify": 66
+  },
+  "SakupenCirclesRipOff": {
+    "records": [],
+    "verifier": {
+      "verifier": "fusion425",
+      "verification": "https://www.youtube.com/watch?v=2L5dp2neLe8"
+    },
+    "percentToQualify": 66
+  },
+  "Invisible of Justice": {
+    "records": [],
+    "verifier": {
+      "verifier": "Angel5775",
+      "verification": "https://www.youtube.com/watch?v=1CaxzzU7M6w"
+    },
+    "percentToQualify": 66
+  },
+  "Geochroma Reminisce (2P)": {
+    "records": [
+      {
+        "user": "holieisland",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "iISkyGameIi",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "zvikito74",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "mattska01",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "sergc9575",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "Flaminick",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      },
+      {
+        "user": "azownedd",
+        "link": "https://www.youtube.com/watch?v=OL_4LP6hp4s",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
+    "verifier": {
+      "verifier": "Dezon",
+      "verification": "https://www.youtube.com/watch?v=OL_4LP6hp4s"
+    },
+    "percentToQualify": 66
+  },
+  "RobTop Travel XL": {
+    "records": [],
+    "verifier": {
+      "verifier": "RudyAct",
+      "verification": "https://www.youtube.com/watch?v=RWUUokwyeyA"
     },
     "percentToQualify": 66
   }
