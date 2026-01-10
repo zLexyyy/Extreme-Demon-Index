@@ -32,7 +32,31 @@ export async function fetchList() {
     const file = LIST_KEYS[activeKey] ?? LIST_KEYS.classic;
     const listResult = await fetch(`${dir}/${file}`);
     try {
-        const list = await listResult.json();
+        let list = await listResult.json();
+        if (activeKey === 'upcoming') {
+            // Sort levels alphabetically within each section
+            const sortedList = [];
+            let currentSection = null;
+            let levels = [];
+            for (let item of list) {
+                if (item.startsWith('-')) {
+                    if (currentSection) {
+                        sortedList.push(currentSection);
+                        sortedList.push(...levels.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase())));
+                    }
+                    currentSection = item;
+                    levels = [];
+                } else {
+                    levels.push(item);
+                }
+            }
+            // Add the last section
+            if (currentSection) {
+                sortedList.push(currentSection);
+                sortedList.push(...levels.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase())));
+            }
+            list = sortedList;
+        }
         return list;
     } catch {
         console.error(`Failed to load list (${file}).`);
