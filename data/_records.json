@@ -4754,7 +4754,7 @@
     "records": [],
     "percentToQualify": 72
   },
-  "Farthest Outpost": {
+  "Farthest Outpost (Old)": {
     "verifier": {
       "verifier": "kyoto",
       "verification": "https://www.youtube.com/watch?v=HvQJB1SgEvo"
@@ -6969,7 +6969,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Molten Core": {
+  "Molten Core (Lucidium)": {
     "verifier": {
       "verifier": "Lucidium",
       "verification": "https://www.youtube.com/watch?v=kWCiW7ovnWw"
@@ -8023,7 +8023,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Dimensional Breaking": {
+  "Dimensional Breaking (Old)": {
     "verifier": {
       "verifier": "Clara",
       "verification": "https://www.youtube.com/watch?v=KEat0RALiIs"
@@ -17183,6 +17183,12 @@
         "link": "https://www.youtube.com/watch?v=TCc42tZCXK4",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "❀ 𝐿𝑒𝓍𝓎 ❀",
+        "link": "https://youtu.be/9VnGS0IAXr8?si=yxsRTQkKDJBk8ViN",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -17993,7 +17999,7 @@
   },
   "Niflheim": {
     "verifier": {
-      "verifier": "Vismuth",
+      "verifier": "Koreaqwer",
       "verification": "https://www.youtube.com/watch?v=FFAHbgkNH10"
     },
     "records": [
@@ -20449,7 +20455,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Loud Clubstep": {
+  "Loud Clubstep (Layout425)": {
     "verifier": {
       "verifier": "Fusion425",
       "verification": "https://www.youtube.com/watch?v=8IVLclg_sQ4"
@@ -27672,7 +27678,14 @@
     "percentToQualify": 66
   },
   "Slayclysm": {
-    "records": [],
+    "records": [
+      {
+        "user": "❀ 𝐿𝑒𝓍𝓎 ❀",
+        "link": "https://www.youtube.com/watch?v=2wSAbCRyOjI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "myshxllo",
       "verification": "https://www.youtube.com/watch?v=nRDhMsISGKI"
@@ -33246,6 +33259,142 @@
     "verifier": {
       "verifier": "RudyAct",
       "verification": "https://www.youtube.com/watch?v=RWUUokwyeyA"
+    },
+    "percentToQualify": 66
+  },
+  "avenus copy": {
+    "records": [],
+    "verifier": {
+      "verifier": "Serpentical",
+      "verification": "https://www.youtube.com/watch?v=vefvpRl0Kd4"
+    },
+    "percentToQualify": 66
+  },
+  "Fracture (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Destroyer",
+      "verification": "https://www.youtube.com/watch?v=iCxG8xoOtv8"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Infinity (Full)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=tO-D44MXD5w"
+    },
+    "percentToQualify": 66
+  },
+  "Molten Core (ViewSonic)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ViewSonic",
+      "verification": "https://youtu.be/mFTDRAZxs9U?si=J93SR0flRG36WhV3"
+    },
+    "percentToQualify": 66
+  },
+  "UnbreakAbility (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=kYfh6rj6pCo"
+    },
+    "percentToQualify": 66
+  },
+  "Farthest Outpost": {
+    "records": [],
+    "verifier": {
+      "verifier": "Spamdrew128",
+      "verification": "https://www.youtube.com/watch?v=n07hQ7JmhgQ"
+    },
+    "percentToQualify": 66
+  },
+  "Antiauroral Bloom": {
+    "records": [],
+    "verifier": {
+      "verifier": "xjabse",
+      "verification": "https://www.youtube.com/watch?v=AIm48e7oxMI"
+    },
+    "percentToQualify": 66
+  },
+  "Loud ClubStep (MaxSanik)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ApplePi",
+      "verification": "https://www.youtube.com/watch?v=msx43EFXjw4"
+    },
+    "percentToQualify": 66
+  },
+  "Dimensional Breaking": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zeronium",
+      "verification": "https://www.youtube.com/watch?v=FS8Wtp1Xkoo"
+    },
+    "percentToQualify": 66
+  },
+  "Verdant Abyss": {
+    "records": [],
+    "verifier": {
+      "verifier": "fusion425",
+      "verification": "https://www.youtube.com/watch?v=c1NBVpYT8K4"
+    },
+    "percentToQualify": 66
+  },
+  "Far Away": {
+    "records": [],
+    "verifier": {
+      "verifier": "Darkness306",
+      "verification": "https://www.youtube.com/watch?v=0O9CCaWI740"
+    },
+    "percentToQualify": 66
+  },
+  "Bluebath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=TE82yMxRTAw"
+    },
+    "percentToQualify": 66
+  },
+  "challenge": {
+    "records": [],
+    "verifier": {
+      "verifier": "robotchief",
+      "verification": "https://www.youtube.com/watch?v=-FJMUQdUHn4"
+    },
+    "percentToQualify": 66
+  },
+  "Hellgate": {
+    "records": [],
+    "verifier": {
+      "verifier": "Enzeux",
+      "verification": "https://www.youtube.com/watch?v=EJigM8Eq4s0"
+    },
+    "percentToQualify": 66
+  },
+  "day of doom": {
+    "records": [],
+    "verifier": {
+      "verifier": "nSwish",
+      "verification": "https://www.youtube.com/watch?v=fKxotfN5eME"
+    },
+    "percentToQualify": 66
+  },
+  "Thunderstorm": {
+    "records": [],
+    "verifier": {
+      "verifier": "Chocolate",
+      "verification": "https://www.youtube.com/watch?v=Eny8TAWg57s"
+    },
+    "percentToQualify": 66
+  },
+  "chrome hearts": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sangalchi",
+      "verification": "https://www.youtube.com/watch?v=7o3I45B8-yY"
     },
     "percentToQualify": 66
   }
