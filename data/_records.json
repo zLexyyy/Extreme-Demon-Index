@@ -1504,6 +1504,12 @@
         "link": "https://youtu.be/SawEWby0ZAg?si=GqYawXdohcw0gSmA",
         "percent": 100,
         "hz": 288
+      },
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=gj0julIo4eM",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "percentToQualify": 72
@@ -1878,6 +1884,12 @@
         "link": "https://youtu.be/9qtyjwsxsFw?si=L3EuILkyQ0tJbatR",
         "percent": 100,
         "hz": 288
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=T6TnIICe5ZA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 67
@@ -2565,6 +2577,12 @@
         "link": "https://youtu.be/DSrfk3WhR2k",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=0kC5Qr7l-CY",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 73
@@ -3148,7 +3166,14 @@
       "verifier": "raingmd",
       "verification": "https://www.youtube.com/watch?v=zF4T0Fat5Ng"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=-7u8BSBuv5k",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "percentToQualify": 66
   },
   "Neon Skyline": {
@@ -3993,6 +4018,12 @@
         "link": "https://youtu.be/cBfqtM2GKpI?si=gmeHHrI67CTgSaTV",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=Vm5DCySnvDg",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 67
@@ -5738,6 +5769,12 @@
         "link": "https://www.youtube.com/watch?v=IFnmf7vUorA",
         "percent": 100,
         "hz": 720
+      },
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=-RjGnJXHYBw",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "percentToQualify": 66
@@ -5873,7 +5910,14 @@
       "verifier": "swiborg",
       "verification": "https://www.youtube.com/watch?v=NArTpUWoOQ0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=GN1y3WOMSqk&pp=0gcJCU0KAYcqIYzv",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "percentToQualify": 65
   },
   "Play Hard (Unnerfed)": {
@@ -6300,7 +6344,14 @@
       "verifier": "EtVil",
       "verification": "https://www.youtube.com/watch?v=kmlPKp2yZBE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=eqyNGuzNUoo",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "percentToQualify": 66
   },
   "Thermite": {
@@ -6442,6 +6493,12 @@
         "link": "https://youtu.be/5w52Q_C6F_Q?si=J-pZYUODuMezxSMD",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=hL7tKecXjo4",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -6489,6 +6546,12 @@
         "link": "https://youtu.be/hL0PD3I6qE8?si=ctvteCyAJZnwZilV",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/zxNMZGNyvuk?si=j2Cds3YKlZ0abkTr",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -6722,6 +6785,12 @@
         "link": "https://youtu.be/QcVDN5X4uBQ?si=paNkH2mCGSZENgud",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=HyOxejri0vQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -7146,7 +7215,14 @@
       "verifier": "Gablor",
       "verification": "https://www.youtube.com/watch?v=-khZ5xFDMg0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=idnoKTkoad0",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "percentToQualify": 66
   },
   "Memory Demon mix": {
@@ -7367,6 +7443,12 @@
         "link": "https://youtu.be/f64ZDhQSivI?si=mD59U8rOiCWPN0V3",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=1xhwIZ5KriA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -7470,6 +7552,12 @@
         "link": "https://www.youtube.com/watch?v=IZBqYW__9O0",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Tardisguy12",
+        "link": "https://www.youtube.com/watch?v=_sz6_-QoB4Q",
+        "percent": 100,
+        "hz": 720
       }
     ],
     "percentToQualify": 66
@@ -7784,6 +7872,12 @@
         "link": "https://www.youtube.com/watch?v=7UZ1UcaK_Ns",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=0iFtZQMFzVI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -7988,6 +8082,12 @@
         "link": "https://www.youtube.com/watch?v=iewH0guhyh8",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=WQlpsAC2Hl0",
+        "percent": 100,
+        "hz": 120
       }
     ],
     "percentToQualify": 66
@@ -8178,7 +8278,14 @@
       "verifier": "iIPrototypeIi",
       "verification": "https://www.youtube.com/watch?v=RJj5niMDX30"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=K93bpxrR2D4",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "percentToQualify": 66
   },
   "Crystal Caverns (ballsgmd)": {
@@ -9296,6 +9403,12 @@
         "link": "https://youtu.be/WigWi5-CsLY",
         "percent": 100,
         "he": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=WvFm6scyGR0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -9665,6 +9778,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=EM0k4iPxRGQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -10403,6 +10522,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=Vq2Mz0hKfSI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -10491,6 +10616,12 @@
         "link": "https://youtu.be/DxwLREkI83Q?si=WKg92o45J43Pmxww",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/cBAU7t3YoA8?si=QlqgR1Bcu1-wHa_Z",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -11035,6 +11166,12 @@
         "link": "https://www.youtube.com/watch?v=7pphkO4GNYo",
         "percent": 100,
         "hz": 720
+      },
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/5GbmX9BWXJg",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -11568,7 +11705,14 @@
       "verifier": "TigerXero",
       "verification": "https://www.youtube.com/watch?v=ukasxlgXjQM"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/WWjvYglFf3I",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "La Magicienne Rose": {
@@ -11812,6 +11956,12 @@
         "link": "https://youtu.be/nIQ-ZFwXpmc?si=_xRILERvv-ksWQbC",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=MLkDYUcxYGA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -11844,7 +11994,14 @@
       "verifier": "düsker",
       "verification": "https://www.youtube.com/watch?v=n3c5XfBlmYc"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=yGBP8no6zB4",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Your Reality": {
@@ -11943,6 +12100,12 @@
       {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=rT6wgRbOyas",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=Bwx8gGsoRQo",
         "percent": 100,
         "hz": 240
       }
@@ -12318,6 +12481,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=MHBGQ6naV-4",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -12423,6 +12592,12 @@
         "link": "https://www.youtube.com/watch?v=JiaMGUxOybQ&t",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Tardisguy12",
+        "link": "https://www.youtube.com/watch?v=YVqLlEYQ12E",
+        "percent": 100,
+        "hz": 720
       }
     ],
     "percentToQualify": 66
@@ -12601,6 +12776,12 @@
         "link": "https://www.youtube.com/watch?v=hT5I24IvbZM",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=E6_iq-9CHgI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -12708,6 +12889,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/P1VG2WW5E-I",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -12733,7 +12920,14 @@
       "verifier": "Ramxzs507",
       "verification": "https://youtu.be/_UFqVi_tck0"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=omiBo9tT0RY",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Surveillant": {
@@ -13010,6 +13204,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=YJBG8bg_WSg",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -13090,7 +13290,20 @@
       "verifier": "KrmaL",
       "verification": "https://www.youtube.com/watch?v=wC8VJ4B2WRg"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=HGWIBYtJMgY",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/ZCHvs836caM",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Masochism": {
@@ -13376,6 +13589,12 @@
         "link": "https://youtu.be/LmlCi73LGmg?si=wlUFtLYVlaeRNP5E",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=RAg1inHk8Pc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -14850,6 +15069,12 @@
         "link": "https://youtu.be/BhWrDvyen9g?si=9HydqL71Zy2QI9rE",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=DIcjkODE6Rw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -15900,6 +16125,12 @@
         "link": "https://www.youtube.com/watch?v=M-GtmVB6y-k",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=fN6JkXS-CLo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -16438,6 +16669,12 @@
         "link": "https://youtu.be/hYSeGi0k6ho?si=iVR7YvgF4kmofQvz",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=B-pPkXLoH-k",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -16596,6 +16833,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=WrumVbxXEC8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -16697,7 +16940,14 @@
       "verifier": "Zalgaryth",
       "verification": "https://www.youtube.com/watch?v=Uw5P8SwFGsk"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=XWtCwSvq3Qg",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Penultimate Phase": {
@@ -17871,6 +18121,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=YfriQZvENNQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -18410,7 +18666,14 @@
       "verifier": "greencubed",
       "verification": "https://www.youtube.com/watch?v=_rBwYMrBdhE"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=1HoZNz0AieQ",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "percentToQualify": 66
   },
   "BROWNOIX": {
@@ -18889,6 +19152,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=ti1CZzEkpIM",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19162,6 +19431,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=ZgGX_U0v8o0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19293,6 +19568,12 @@
         "link": "https://youtu.be/8_TjS6sddz8",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=iyXQi5caNqQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19370,6 +19651,12 @@
         "link": "https://www.youtube.com/watch?v=4dQfVwwUPcw",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=pGWrBxcAgZI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19408,6 +19695,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=MYu3xCqTlr8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -19449,7 +19742,14 @@
       "verifier": "Mizukii",
       "verification": "https://www.youtube.com/watch?v=erEFeQGLuuU"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=DoIAdpbOKjM",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Disastrous Downpour": {
@@ -19866,6 +20166,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=IVYD2-qqF-g",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -20280,7 +20586,14 @@
       "verifier": "TrusTa",
       "verification": "https://www.youtube.com/watch?v=oV9Oj7YyhpQ"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=XdcVTGxLEWs",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "ChloroPhyll": {
@@ -20581,6 +20894,12 @@
         "link": "https://www.youtube.com/watch?v=tNJFh4q3Gpc",
         "percent": 100,
         "hz": 288
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=b-lrZT0eAn4",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21104,6 +21423,12 @@
         "link": "https://www.youtube.com/watch?v=vwKh6KzQw-s",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=WojY-SlcQq0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21384,6 +21709,12 @@
         "link": "https://youtu.be/RjgEogaksm4?si=6n0wklXcd7cC6ZtP",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=-NeOaxnU5EQ",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21622,6 +21953,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=318cQrxdcyY",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21706,6 +22043,12 @@
         "link": "https://www.youtube.com/watch?v=YRjaIzr8Gn8",
         "percent": 100,
         "hz": 720
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=nzHEq-bUs5Q",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21778,6 +22121,12 @@
       {
         "user": "SmackinTheKraken",
         "link": "https://www.youtube.com/watch?v=0dDHGAh5zbE",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=Z20fdylqbY4",
         "percent": 100,
         "hz": 240
       }
@@ -22178,6 +22527,12 @@
         "link": "https://www.youtube.com/watch?v=sHGgTsLSrDA",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=vcE25OZsV2Q",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22185,7 +22540,7 @@
   "Miscellaneous Memory": {
     "verifier": {
       "verifier": "DaPrimeAtce",
-      "verification": "https://www.youtube.com/watch?v=g2XKqyHfM1M"
+      "verification": "https://www.youtube.com/watch?v=W51Kh9_LcjY"
     },
     "records": [],
     "percentToQualify": 66
@@ -22431,6 +22786,12 @@
         "link": "https://youtu.be/shFgUuAsFQ4",
         "percent": 100,
         "hz": 480
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=kT8-yOWOsZU",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22645,6 +23006,12 @@
         "link": "https://youtu.be/NVZvJA-nZ1E?si=Mz5fI-5_mB4rrBnf",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=5niAMnHnV7I",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22668,6 +23035,12 @@
         "link": "https://youtu.be/gjSlAYKMsVo?si=yQIsbNhUjybFrPWd",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=UazPi70q9nI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -22979,6 +23352,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=na-htebrPK8",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=WyEjd-4q1hk",
         "percent": 100,
         "hz": 240
       }
@@ -23395,7 +23774,14 @@
       "verifier": "Golden",
       "verification": "https://www.youtube.com/watch?v=_8-yMV4BF5s"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=hXWj50XA6LI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Treason": {
@@ -23441,6 +23827,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=A4cy6LSvPkI",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -23499,6 +23891,12 @@
         "link": "https://www.youtube.com/watch?v=WQA_061MbMI",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=nSBN9H3-JP8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -23548,6 +23946,12 @@
         "link": "https://www.youtube.com/watch?v=R35PAvzAJDQ",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=-e7VX-WJ2u8",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -23638,6 +24042,12 @@
       {
         "user": "maxler",
         "link": "https://www.youtube.com/watch?v=_Bon9fpCNW4",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=QXu3aGz1xzw",
         "percent": 100,
         "hz": 240
       }
@@ -23977,7 +24387,14 @@
       "verifier": "Dorami",
       "verification": "https://www.youtube.com/watch?v=jQM6BuHQo0k"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=RTRtxGTfoSU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "invisible dak": {
@@ -24079,6 +24496,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "hz": 120
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=vcE25OZsV2Q",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -24311,6 +24734,12 @@
         "link": "https://www.youtube.com/watch?v=jL27vCaMJb4",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=1FRnPSTaGB0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -24373,7 +24802,14 @@
       "verifier": "MrSpaghetti",
       "verification": "https://www.youtube.com/watch?v=9PXrwNR7R0g"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=fYUm152jMWc",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Hazy Memories": {
@@ -24457,6 +24893,12 @@
         "link": "https://youtu.be/D2CCoGmooNQ",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=UOVR82y6Jzo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -24784,6 +25226,12 @@
         "link": "https://www.youtube.com/watch?v=BoY2LZRM8eY",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=5c6wTbzWQtA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -24854,6 +25302,12 @@
         "link": "https://www.youtube.com/watch?v=HKZj2cTSuLE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/8cF5FAAnIkE",
+        "percent": 100,
+        "hz": 720
       }
     ],
     "percentToQualify": 66
@@ -24983,6 +25437,12 @@
         "link": "https://youtu.be/552fby4HeWQ?si=Apcq9vTb_AVYzNhH",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=Cr0IrWjEhfo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -25301,6 +25761,12 @@
         "link": "https://youtu.be/BwvZ2VO_ly0",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=19AujvGPfTw",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -25452,6 +25918,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=bquYd2Qg2Yc",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=QKvesqtBdBs",
         "percent": 100,
         "hz": 240
       }
@@ -25836,6 +26308,12 @@
         "link": "https://youtu.be/dtyWcbTt1Rw?si=zpFH0EBbkRBlMJXs",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=Cr0IrWjEhfo",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -26225,6 +26703,12 @@
       {
         "user": "Agelio",
         "link": "https://www.youtube.com/watch?v=ZMmv4aXbBek",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=mto-P6BUatU",
         "percent": 100,
         "hz": 240
       }
@@ -26705,6 +27189,12 @@
         "link": "https://youtu.be/oY-WUirP0fc?si=k6g7AJiiZHQQg7hK",
         "percent": 100,
         "hz": 180
+      },
+      {
+        "user": "ddlghl",
+        "link": "https://youtu.be/oXIgDKAHoxI",
+        "percent": 100,
+        "hz": 144
       }
     ],
     "percentToQualify": 66
@@ -26793,6 +27283,12 @@
         "link": "https://www.youtube.com/watch?v=MK81bKCoxHI",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=mlHYRTg06I0",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -26849,6 +27345,12 @@
         "link": "https://youtu.be/SyKfcYPjkkc?si=-93MdYAGTv6YuaXf",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=LZ_0Ql7uwRM",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -26911,6 +27413,12 @@
       {
         "user": "Tardisguy12",
         "link": "https://www.youtube.com/watch?v=qS7YhukQ2ZE",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=ZbuZ9meE3Bw",
         "percent": 100,
         "hz": 240
       }
@@ -26988,6 +27496,12 @@
         "link": "https://youtu.be/QDM0MKjnmKw",
         "percent": 100,
         "hz": 480
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=f0zvys2Lk10",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -27684,6 +28198,12 @@
         "link": "https://www.youtube.com/watch?v=2wSAbCRyOjI",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/9Xzcdo7jCns",
+        "percent": 100,
+        "hz": 720
       }
     ],
     "verifier": {
@@ -29152,7 +29672,14 @@
     "percentToQualify": 66
   },
   "Shitty Sky Shredder": {
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/j5bq4s5G-kU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Gamer2052",
       "verification": "https://www.youtube.com/watch?v=knHmDgMgwKk"
@@ -29542,7 +30069,14 @@
     "percentToQualify": 66
   },
   "Shitty Sonic Wave (D4im0n)": {
-    "records": [],
+    "records": [
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/s4HurM7B8bU",
+        "percent": 100,
+        "hz": 720
+      }
+    ],
     "verifier": {
       "verifier": "Ipodnicks",
       "verification": "https://www.youtube.com/watch?v=0oldUrLnQy4"
@@ -31512,7 +32046,14 @@
     "percentToQualify": 66
   },
   "CLOWNS": {
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=mze9cKPnlMg",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "verifier": {
       "verifier": "Teno",
       "verification": "https://www.youtube.com/watch?v=vn50YpOln9k"
@@ -31646,7 +32187,14 @@
     "percentToQualify": 66
   },
   "Glitch Control": {
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=upTcOfISkvM",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "verifier": {
       "verifier": "Laughingg",
       "verification": "https://www.youtube.com/watch?v=2PGMtCFQ2dE"
@@ -32320,6 +32868,12 @@
         "link": "https://www.youtube.com/watch?v=HKZj2cTSuLE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/u9P3-qKf11Y",
+        "percent": 100,
+        "hz": 720
       }
     ],
     "verifier": {
@@ -32352,7 +32906,14 @@
     "percentToQualify": 66
   },
   "story 2": {
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=6FrwTz3Qhm4",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "verifier": {
       "verifier": "lazer",
       "verification": "https://www.youtube.com/watch?v=o7DmyC9l5MY"
@@ -32493,6 +33054,12 @@
         "link": "https://www.youtube.com/watch?v=bSbxxbr5-io",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "nettniko",
+        "link": "https://www.youtube.com/watch?v=4_yTmt8MNfE",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "verifier": {
@@ -32726,7 +33293,14 @@
     "percentToQualify": 66
   },
   "Kanpai": {
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=dhzYbUoj-Nw",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "verifier": {
       "verifier": "Kz04",
       "verification": "https://www.youtube.com/watch?v=4vbiaKzNprE"
@@ -32886,7 +33460,14 @@
     "percentToQualify": 66
   },
   "Destination 19": {
-    "records": [],
+    "records": [
+      {
+        "user": "ItzApex",
+        "link": "https://www.youtube.com/watch?v=uo_16D9MZTs",
+        "percent": 100,
+        "hz": 120
+      }
+    ],
     "verifier": {
       "verifier": "nagi2401",
       "verification": "https://www.youtube.com/watch?v=suWWiNjw54k"
@@ -32900,6 +33481,12 @@
         "link": "https://www.youtube.com/watch?v=HKZj2cTSuLE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/4c2ol6Hsyzc",
+        "percent": 100,
+        "hz": 720
       }
     ],
     "verifier": {
@@ -33027,6 +33614,18 @@
         "link": "https://www.youtube.com/watch?v=HKZj2cTSuLE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "nettniko",
+        "link": "https://youtu.be/YzQjAtj2QLY",
+        "percent": 100,
+        "hz": 720
+      },
+      {
+        "user": "Meatballmoose",
+        "link": "https://youtu.be/As3IkX0qWWA",
+        "percent": 100,
+        "hz": 144
       }
     ],
     "verifier": {
