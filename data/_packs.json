@@ -93,13 +93,13 @@
         "name": "Endurance Test",
         "color": "#135261",
         "textColor": "#1c738e",
-        "levels": ["Endless Travel", "Death (AleeXhey)", "Eon", "solace", "Light Travel"]
+        "levels": ["Endless Travel", "RobTop Travel XL", "Eon", "solace", "Kod"]
     },
     {
         "name": "DONT OBEY THE VIRUS",
         "color": "#01ff00",
         "textColor": "#ff0000",
-        "levels": ["Requiem", "Requiem DX", "Killbot", "Killbot DX"]
+        "levels": ["Requiem", "Requiem DX", "Killbot", "Killbot DX", "Home Videos"]
     },
     {
         "name": "Tech Series",
@@ -435,7 +435,7 @@
         "name": "Object Heavy Pack",
         "color": "#1d0b34",
         "textColor": "#961a9b",
-        "levels": ["Ocular Miracle", "Devoreur de Dieux", "Khorne"]
+        "levels": ["Ocular Miracle", "Devoreur de Dieux", "Khorne", "Vivisection"]
     },
     {
         "name": "Death Corridor Pack",
@@ -450,7 +450,7 @@
         "levels": ["Phonk Town", "Murder In My Mind", "MANGO PHONK HOUSE"]
     },
     {
-        "name": "Consistency Pack",
+        "name": "Repeat Pack",
         "color": "#4682B4",
         "textColor": "#F5F5F5",
         "levels": ["Arctic Twice", "Acu is Dead", "is dead", "Bloodbath In Hell", "Poltergeist x3"]
@@ -496,5 +496,191 @@
         "color": "#0039A6",
         "textColor": "#D52B1E",
         "levels": ["doradura", "Tenth Circle", "3ABNCNMOCT6", "Xyuti", "BPATA MPAKA"]
+    },
+    {
+        "name": "Omori Pack",
+        "color": "#D6CADD",
+        "textColor": "#1C1C1C",
+        "levels": ["Leave This Dream", "Pale Machine", "Black Space", "A Home For Flowers"]
+    },
+    {
+        "name": "Fart Pack",
+        "color": "#6B8E23",
+        "textColor": "#A67C52",
+        "levels": ["SONIC FART", "Nerbia Fart", "FARTARUS"]
+    },
+    {
+        "name": "Firework Pack",
+        "color": "#2e2e2e",
+        "textColor": "#919191",
+        "levels": ["Firework", "Shitty Firework", "GRAVEYARD"]
+    },
+    {
+        "name": "Doggie Pack",
+        "color": "#ff00e2",
+        "textColor": "#ffe400",
+        "levels": ["The Gins II", "Doggie Challenge X", "Exosphere (Doggie)", "Bloodbath Infinity"]
+    },
+    {
+        "name": "Femtanyl Pack",
+        "color": "#FF005D",
+        "textColor": "#00F0FF",
+        "levels": ["KATAMARI", "HEDERA", "Sick of That Fan", "TRXPPING EYEBXLLS"]
+    },
+    {
+        "name": "Slaughterhouse Pack I",
+        "color": "#640000",
+        "textColor": "#bb0101",
+        "levels": ["Knightmare", "Gangnamhouse", "elgatoHouse", "RIOT for kawa", "Slaughterhauss"]
+    },
+    {
+        "name": "Slaughterhouse Pack II",
+        "color": "#640000",
+        "textColor": "#bb0101",
+        "levels": ["Shitty Slaughterhouse (AcaciaDoor)", "HappyHouse", "EUPHORIA", "MANGO PHONK HOUSE"]
+    },
+    {
+        "name": "Slaughterhouse Pack III",
+        "color": "#640000",
+        "textColor": "#bb0101",
+        "levels": ["ENDLESS RIVER", "ERYX", "Abattoir Possible", "LED", "MUTINY"]
+    },
+    {
+        "name": "Slaughterhouse Pack IV",
+        "color": "#640000",
+        "textColor": "#bb0101",
+        "levels": ["WARIOHOUSE", "THE ROCK HOUSE", "KOCMOC", "Slaughterhouse"]
+    },
+    {
+        "name": "UNKNOWN Pack",
+        "color": "#212121",
+        "textColor": "#727272",
+        "levels": ["DIRT", "Lost (zkiwy123)", "None", "H U R T", "UNKNOWN"]
+    },
+    {
+        "name": "Grandson Pack",
+        "color": "#0E0E0E",
+        "textColor": "#FFD400",
+        "levels": ["Bloody Water", "Grandpa Demon", "KULT", "RAIN"]
+    },
+        {
+        "name": "Fire Pack",
+        "color": "#FF2400",
+        "textColor": "#FF8C00",
+        "levels": ["Fire Circles", "Fight Fire With Fire", "fire emoji", "Universe on fire", "Critical Heat"]
+    },
+    {
+        "name": "Dream Pack",
+        "color": "#C7B7E2",
+        "textColor": "#B3D9FF",
+        "levels": ["Dreamer", "I NEVER DREAM", "DREAMING", "Dreams", "DREAMS TAKE OVER"]
+    },
+    {
+        "name": "Bloodbath Pack I",
+        "color": "#910000",
+        "textColor": "#ff0000",
+        "levels": ["DashBath", "BudBath", "UF Shitty Bloodbath", "Gaybath", "Bloodbath"]
+    },
+    {
+        "name": "Bloodbath Pack II",
+        "color": "#910000",
+        "textColor": "#ff0000",
+        "levels": ["Greenbath (cakesito)", "Bluebath", "Ashley Bath Trials", "Bath", "WaterBath"]
+    },
+    {
+        "name": "Bloodbath Pack III",
+        "color": "#910000",
+        "textColor": "#ff0000",
+        "levels": ["Greenbath (Greensome2684)", "Drunkbath", "Bloodbath (Old)", "transbath", "InvisiBath"]
+    },
+    {
+        "name": "Bloodbath Pack IV",
+        "color": "#910000",
+        "textColor": "#ff0000",
+        "levels": ["RebirthBath", "SwapBath", "BinBath", "Catabath", "Bloodbath Infinity"]
+    },
+    {
+        "name": "Bloodbath Pack V",
+        "color": "#910000",
+        "textColor": "#ff0000",
+        "levels": ["Legacy", "SonicBath", "Bloodbath V2", "Afterbath", "Bloodlust (Old)"]
+    },
+    {
+        "name": "Bloodbath Pack VI",
+        "color": "#910000",
+        "textColor": "#ff0000",
+        "levels": ["Bloodlust", "CataSonicBath", "Bloodbath In Hell", "Buffbath", "Riots Demise"]
+    },
+    {
+        "name": "Muji Pack",
+        "color": "#00320a",
+        "textColor": "#d109ff",
+        "levels": ["MujiWave", "Mujigae", "AfterMujiBath", "Mujigae (Unnerfed)"]
+    },
+    {
+        "name": "Based Pack",
+        "color": "#0F0F0F",
+        "textColor": "#6A0DAD",
+        "levels": ["Based Gang (2P)", "So Based", "Based Gang (Solo)", "Based After Based"]
+    },
+    {
+        "name": "Femboy Pack",
+        "color": "#FFB7CE",
+        "textColor": "#A7C7E7",
+        "levels": ["Femboy Fantasy", "Blade of Femboy", "Femboy Friday"]
+    },
+    {
+        "name": "Infinity Pack",
+        "color": "#2C2F7A",
+        "textColor": "#2DE2E6",
+        "levels": ["estrogen infinity", "Fear Me Infinity", "Bloodbath Infinity", "Tup infinity", "Sonic Wave Infinity"]
+    },
+    {
+        "name": "Kanye Pack I",
+        "color": "#0D0D0D",
+        "textColor": "#FFD700",
+        "levels": ["ON SIGHT (mirkonamore)", "BURN", "Appalled"]
+    },
+    {
+        "name": "Kanye Pack II",
+        "color": "#2B2B2B",
+        "textColor": "#E6D6B8",
+        "levels": ["Yandhi", "On Sight (DarkCacti)", "too high"]
+    },
+    {
+        "name": "Depression Pack",
+        "color": "#2F3E46",
+        "textColor": "#5A6D8C",
+        "levels": ["Lovers Sadness", "Front Sadness", "Conical Depression", "Crippled Depression", "Conical Depression X"]
+    },
+    {
+        "name": "Zeronium Pack",
+        "color": "#ffffff",
+        "textColor": "#8dffc6",
+        "levels": ["Fun Friday", "Diamond Disco", "Crystal", "Budding Roses", "Agile"]
+    },
+    {
+        "name": "Metal Trilogy",
+        "color": "#2A2A2A",
+        "textColor": "#B0B0B0",
+        "levels": ["Molten Mercury", "Twisted Titanium", "Tempered Steel"]
+    },
+    {
+        "name": "Aftercatabath Pack",
+        "color": "#531b1b",
+        "textColor": "#b85353",
+        "levels": ["Shitty AfterCataBath", "Aftercatabath (Sunix)", "Aftercatabath (Technical)", "Aftercatabath (Mewtwo557)", "AfterMujiBath"]
+    },
+    {
+        "name": "Cardiac Rhythm Pack",
+        "color": "#5f2327",
+        "textColor": "#C1121F",
+        "levels": ["Heart Attack", "Heartbeat", "pulsation"]
+    },
+    {
+        "name": "WhatsApp Pack",
+        "color": "#25D366",
+        "textColor": "#86ffb3",
+        "levels": ["Whatsapp Acu", "WhatsApp Breaker", "Evil Whatsapp mod"]
     }
 ]
