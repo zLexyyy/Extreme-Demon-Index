@@ -537,13 +537,13 @@
         "name": "Slaughterhouse Pack II",
         "color": "#640000",
         "textColor": "#bb0101",
-        "levels": ["Shitty Slaughterhouse (AcaciaDoor)", "HappyHouse", "EUPHORIA", "MANGO PHONK HOUSE"]
+        "levels": ["Shitty Slaughterhouse (AcaciaDoor)", "HappyHouse", "EUPHORIA", "MANGO PHONK HOUSE", "ENDLESS RIVER"]
     },
     {
         "name": "Slaughterhouse Pack III",
         "color": "#640000",
         "textColor": "#bb0101",
-        "levels": ["ENDLESS RIVER", "ERYX", "Abattoir Possible", "LED", "MUTINY"]
+        "levels": ["ERYX", "Abattoir Possible", "LED", "MUTINY"]
     },
     {
         "name": "Slaughterhouse Pack IV",
