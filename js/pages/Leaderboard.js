@@ -53,6 +53,16 @@ export default {
                                 </li>
                             </ul>
                         </div>
+                        <h2 v-if="entry.worldRecords && entry.worldRecords.length > 0">World Records ({{ entry.worldRecords.length }})</h2>
+                        <table class="table" v-if="entry.worldRecords && entry.worldRecords.length > 0">
+                            <tr v-for="wr in entry.worldRecords">
+                                <td class="rank"><p></p></td>
+                                <td class="level">
+                                    <a class="type-label-lg" target="_blank" :href="wr.link">{{ wr.level }} {{ wr.wr }}</a>
+                                </td>
+                                <td class="score"><p></p></td>
+                            </tr>
+                        </table>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">

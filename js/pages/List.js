@@ -291,8 +291,8 @@ statusText() {
         if (!s) return '';
         // If s is exactly 'open' or 'closed', map to the friendly messages below.
         const lower = s.toLowerCase();
-        if (lower === 'open') return 'Open verification';
-        if (lower === 'closed') return 'Closed verification';
+        if (lower === 'open') return 'Open Verification';
+        if (lower === 'closed') return 'Closed Verification';
         // Otherwise capitalize the first letter and leave the rest as-is
         return s.charAt(0).toUpperCase() + s.slice(1);
     };
@@ -306,14 +306,11 @@ statusText() {
     }
 
     // If explicit open/closed provided, honor it
-    if (levelExplicit === 'open' || recordExplicit === 'open') return 'Open verification';
-    if (levelExplicit === 'closed' || recordExplicit === 'closed') return 'Closed verification';
+    if (levelExplicit === 'open' || recordExplicit === 'open') return 'Open Verification';
+    if (levelExplicit === 'closed' || recordExplicit === 'closed') return 'Closed Verification';
 
-    // fallback: existing automatic detection (if verification exists => closed)
-    const verifiedByRecords = rl && rl.verifier && (rl.verifier.verification || rl.verifier.verifier);
-    const levelHasVerification = !!(this.level.verification || (this.level.verifier && (this.level.verifier.verification || this.level.verifier.verifier)));
-    const closed = !!(verifiedByRecords || levelHasVerification);
-    return closed ? 'Closed verification' : 'Open verification';
+    // No automatic determination
+    return '';
         }
     },
     async mounted() {

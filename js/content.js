@@ -154,6 +154,7 @@ export async function fetchLeaderboard() {
                 verified: [],
                 completed: [],
                 progressed: [],
+                worldRecords: [],
             };
 
             const { verified } = scoreMap[verifier];
@@ -173,6 +174,7 @@ export async function fetchLeaderboard() {
                         verified: [],
                         completed: [],
                         progressed: [],
+                        worldRecords: [],
                     };
                     const { completed, progressed } = scoreMap[user];
                     if (record.percent === 100) {
@@ -196,6 +198,45 @@ export async function fetchLeaderboard() {
             });
 
     });
+
+    // Process upcoming levels for world records
+    const upcomingResult = await fetch(`${dir}/${LIST_KEYS.upcoming}`);
+    let upcomingList;
+    try {
+        upcomingList = await upcomingResult.json();
+    } catch (e) {
+        console.error('Failed to load upcoming list for world records.', e);
+    }
+    if (upcomingList) {
+        const upcomingLevels = upcomingList.filter(item => !item.startsWith('-'));
+        for (const levelName of upcomingLevels) {
+            const [levelData, err] = await fetchLevel(levelName);
+            if (levelData && levelData.author && levelData.author !== '-') {
+                const wrParts = levelData.author.split(' | ');
+                for (const part of wrParts) {
+                    const match = part.match(/^(.+?)\s+(\d+.*)$/);
+                    if (match) {
+                        const user = match[1].trim();
+                        const wr = match[2].trim();
+                        const normalizedUser = Object.keys(scoreMap).find(
+                            (u) => u.toLowerCase() === user.toLowerCase(),
+                        ) || user;
+                        scoreMap[normalizedUser] ??= {
+                            verified: [],
+                            completed: [],
+                            progressed: [],
+                            worldRecords: [],
+                        };
+                        scoreMap[normalizedUser].worldRecords.push({
+                            level: levelName,
+                            wr: wr,
+                            link: levelData.verification,
+                        });
+                    }
+                }
+            }
+        }
+    }
 
     // Calculate completed packs for each user
     Object.entries(scoreMap).forEach(([user, scores]) => {
