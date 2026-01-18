@@ -3664,7 +3664,7 @@
   },
   "Morbin": {
     "verifier": {
-      "verifier": "geodom",
+      "verifier": "Geodom",
       "verification": "https://www.youtube.com/watch?v=IyIo7E6F5rw"
     },
     "records": [],
@@ -6404,7 +6404,7 @@
   },
   "banned": {
     "verifier": {
-      "verifier": "geodom",
+      "verifier": "Geodom",
       "verification": "https://www.youtube.com/watch?v=QlXamlYvJtQ"
     },
     "records": [],
@@ -9147,7 +9147,7 @@
   },
   "Loud Circles": {
     "verifier": {
-      "verifier": "GeoDom85YT",
+      "verifier": "Geodom",
       "verification": "https://www.youtube.com/watch?v=MuO-BBsMWIo"
     },
     "records": [],
@@ -24992,7 +24992,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "geography dash": {
+  "geography dash (Old)": {
     "verifier": {
       "verifier": "MWZN",
       "verification": "https://www.youtube.com/watch?v=2gc435GUn4I"
@@ -27987,7 +27987,7 @@
   "Quasar": {
     "records": [],
     "verifier": {
-      "verifier": "GeoDom85YT",
+      "verifier": "Geodom",
       "verification": "https://www.youtube.com/watch?v=wscpp-sU1Vk"
     },
     "percentToQualify": 66
@@ -34130,6 +34130,150 @@
     "verifier": {
       "verifier": "BootifulBlaze",
       "verification": "https://www.youtube.com/watch?v=nRsEGMoa0tI"
+    },
+    "percentToQualify": 66
+  },
+  "Chrono": {
+    "records": [],
+    "verifier": {
+      "verifier": "geodude",
+      "verification": "https://www.youtube.com/watch?v=bJbrCqtXSW4"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Rainbow": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Purple": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Gray": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Pink": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Blue": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Green": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Planet Yellow": {
+    "records": [],
+    "verifier": {
+      "verifier": "KlimK",
+      "verification": "https://www.youtube.com/watch?v=VM1iUmajwZA"
+    },
+    "percentToQualify": 66
+  },
+  "I N J U R Y REDUX": {
+    "records": [],
+    "verifier": {
+      "verifier": "Liamkn08",
+      "verification": "https://www.youtube.com/watch?v=skyG6dMljBo"
+    },
+    "percentToQualify": 66
+  },
+  "WOW (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "npesta",
+      "verification": "https://www.youtube.com/watch?v=CbUVw7p0Ebg"
+    },
+    "percentToQualify": 66
+  },
+  "uNation": {
+    "records": [],
+    "verifier": {
+      "verifier": "snowspike",
+      "verification": "https://www.youtube.com/watch?v=2mHH4xfY8MU"
+    },
+    "percentToQualify": 66
+  },
+  "stereo demoness v3": {
+    "records": [],
+    "verifier": {
+      "verifier": "AndreiV",
+      "verification": "https://www.youtube.com/watch?v=JmaDDnDJWjo"
+    },
+    "percentToQualify": 66
+  },
+  "Megalovania": {
+    "records": [],
+    "verifier": {
+      "verifier": "Farzz",
+      "verification": "https://www.youtube.com/watch?v=gAj_CMyQ-EI"
+    },
+    "percentToQualify": 66
+  },
+  "Glenkie Williams": {
+    "records": [],
+    "verifier": {
+      "verifier": "zBlueGMD",
+      "verification": "https://www.youtube.com/watch?v=Hd6odEDFLNQ"
+    },
+    "percentToQualify": 66
+  },
+  "PISTON": {
+    "records": [],
+    "verifier": {
+      "verifier": "danielsbadkarma",
+      "verification": "https://www.youtube.com/watch?v=fWy1RABzRnE"
+    },
+    "percentToQualify": 66
+  },
+  "geography dash": {
+    "records": [],
+    "verifier": {
+      "verifier": "GravitySucks",
+      "verification": "https://www.youtube.com/watch?v=mphsSjoWdNE"
+    },
+    "percentToQualify": 66
+  },
+  "Notion": {
+    "records": [],
+    "verifier": {
+      "verifier": "Frythief",
+      "verification": "https://www.youtube.com/watch?v=rzN2113R5W0"
+    },
+    "percentToQualify": 66
+  },
+  "grey Cataclysm": {
+    "records": [],
+    "verifier": {
+      "verifier": "† 𓆩Lexy𓆪 †",
+      "verification": "https://www.youtube.com/watch?v=G1mMvAu_1UE"
     },
     "percentToQualify": 66
   }
