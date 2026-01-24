@@ -4961,7 +4961,7 @@
   "Icefall": {
     "verifier": {
       "verifier": "breaddemon",
-      "verification": "https://www.youtube.com/watch?v=wIq65XFMn5o"
+      "verification": "https://www.youtube.com/watch?v=9dy1afi-fo4"
     },
     "records": [],
     "percentToQualify": 73
@@ -34490,6 +34490,158 @@
     "verifier": {
       "verifier": "sprei",
       "verification": "https://www.youtube.com/watch?v=YDKBKYKu3zM"
+    },
+    "percentToQualify": 66
+  },
+  "CHROMACAVE": {
+    "records": [],
+    "verifier": {
+      "verifier": "Geodom",
+      "verification": "https://www.youtube.com/watch?v=tfpsMZI6z-o"
+    },
+    "percentToQualify": 66
+  },
+  "Cosmic Cyclone (HugoHMF)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Donei GD",
+      "verification": "https://www.youtube.com/watch?v=3983nsgELWE"
+    },
+    "percentToQualify": 66
+  },
+  "Dusty Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "Glow",
+      "verification": "https://www.youtube.com/watch?v=LI-LWu5MHn0"
+    },
+    "percentToQualify": 66
+  },
+  "hemmorhage": {
+    "records": [],
+    "verifier": {
+      "verifier": "teraaa",
+      "verification": "https://www.youtube.com/watch?v=bBrQmjmnDZU"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Muffy450)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Muffy450",
+      "verification": "https://www.youtube.com/watch?v=IR42qETCRP4"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Compendium)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=EzaMEMSIXSs"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Hipo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=5mVlcjV_rTg"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Clare)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Clare",
+      "verification": "https://www.youtube.com/watch?v=SF0JHCTHgm0"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Sunix)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=CLsaAYh3xsA"
+    },
+    "percentToQualify": 66
+  },
+  "Altered Ascent (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "npesta",
+      "verification": "https://www.youtube.com/watch?v=IUb1OUaiBcs"
+    },
+    "percentToQualify": 66
+  },
+  "0 Techno": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dolphy",
+      "verification": "https://www.youtube.com/watch?v=L7VwRwU34bQ"
+    },
+    "percentToQualify": 66
+  },
+  "Infernal Abyss (Buffed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "KugelBlitZ",
+      "verification": "https://www.youtube.com/watch?v=i9H54POjM9A"
+    },
+    "percentToQualify": 66
+  },
+  "Tenth Circle (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dorami",
+      "verification": "https://www.youtube.com/watch?v=fU0B6vfhctM"
+    },
+    "percentToQualify": 66
+  },
+  "ONVIL FACTORY": {
+    "records": [],
+    "verifier": {
+      "verifier": "maxis044",
+      "verification": "https://www.youtube.com/watch?v=e1gPs3A8bUM"
+    },
+    "percentToQualify": 66
+  },
+  "Credits": {
+    "records": [],
+    "verifier": {
+      "verifier": "WSCKR",
+      "verification": "https://www.youtube.com/watch?v=RGbse8j5IDE"
+    },
+    "percentToQualify": 66
+  },
+  "Sleepwalking": {
+    "records": [],
+    "verifier": {
+      "verifier": "Waterbound",
+      "verification": "https://www.youtube.com/watch?v=LKqv7k-_Sto"
+    },
+    "percentToQualify": 66
+  },
+  "Spike Inferno": {
+    "records": [],
+    "verifier": {
+      "verifier": "EvilEmperium",
+      "verification": "https://www.youtube.com/watch?v=EVCIU0AsrbI"
+    },
+    "percentToQualify": 66
+  },
+  "Midnight Rose": {
+    "records": [],
+    "verifier": {
+      "verifier": "Squakk",
+      "verification": "https://www.youtube.com/watch?v=qgun_R9tJ_I"
+    },
+    "percentToQualify": 66
+  },
+  "Toxic r1ver": {
+    "records": [],
+    "verifier": {
+      "verifier": "CB0ford",
+      "verification": "https://www.youtube.com/watch?v=qYOFn5WEcyY"
     },
     "percentToQualify": 66
   }
