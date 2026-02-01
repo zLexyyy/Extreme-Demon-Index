@@ -10532,7 +10532,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "The Hell Zone": {
+  "The Hell Zone (Stormfly)": {
     "verifier": {
       "verifier": "Stormfly",
       "verification": "https://youtu.be/lF3j7N1i96Y?si=Po5CPJKQKzzbIC4e"
@@ -12167,8 +12167,7 @@
       "verifier": "Nijil",
       "verification": "https://www.youtube.com/watch?v=fgo8g3w4Ptk"
     },
-    "records": [
-    ],
+    "records": [],
     "percentToQualify": 66
   },
   "Loose Screws": {
@@ -30128,7 +30127,7 @@
     },
     "percentToQualify": 66
   },
-  "Shitty CHROMA II": {
+  "Shitty CHROMA II (Asteria)": {
     "records": [],
     "verifier": {
       "verifier": "LBoke",
@@ -34828,6 +34827,222 @@
     "verifier": {
       "verifier": "Achlys",
       "verification": "https://www.youtube.com/watch?v=jJ57OHm6jlI"
+    },
+    "percentToQualify": 66
+  },
+  "Bonus Level": {
+    "records": [],
+    "verifier": {
+      "verifier": "ad3usgmd",
+      "verification": "https://www.youtube.com/watch?v=Nerr-E1HoYY"
+    },
+    "percentToQualify": 66
+  },
+  "Dramatic": {
+    "records": [],
+    "verifier": {
+      "verifier": "linayru",
+      "verification": "https://www.youtube.com/watch?v=Usxo-EXGdIk"
+    },
+    "percentToQualify": 66
+  },
+  "Carcosa (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=qjf3XZ1Qb_Q"
+    },
+    "percentToQualify": 66
+  },
+  "Fragile (Endlevel) (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Orizu",
+      "verification": "https://www.youtube.com/watch?v=teKmLHKeCUI"
+    },
+    "percentToQualify": 66
+  },
+  "Nightfall ": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tortric",
+      "verification": "https://www.youtube.com/watch?v=MoUsHLrJeEo"
+    },
+    "percentToQualify": 66
+  },
+  "Goober Rage Stage": {
+    "records": [],
+    "verifier": {
+      "verifier": "trenbabypaleo",
+      "verification": "https://www.youtube.com/watch?v=1rrouUCPXhY"
+    },
+    "percentToQualify": 66
+  },
+  "Porridge Factory": {
+    "records": [],
+    "verifier": {
+      "verifier": "Fluxit",
+      "verification": "https://www.youtube.com/watch?v=2AgtU6buxd4"
+    },
+    "percentToQualify": 66
+  },
+  "MIND RUSH": {
+    "records": [],
+    "verifier": {
+      "verifier": "Proud",
+      "verification": "https://www.youtube.com/watch?v=mwfPoBBGCF8"
+    },
+    "percentToQualify": 66
+  },
+  "EXpo": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dragoon",
+      "verification": "https://www.youtube.com/watch?v=wrBX36nXAKw"
+    },
+    "percentToQualify": 66
+  },
+  "Requiem (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Brumik",
+      "verification": "https://www.youtube.com/watch?v=IFgrAsZ7L0c"
+    },
+    "percentToQualify": 66
+  },
+  "YTP": {
+    "records": [],
+    "verifier": {
+      "verifier": "Spamdrew128",
+      "verification": "https://www.youtube.com/watch?v=h_fAa8WZ9YU"
+    },
+    "percentToQualify": 66
+  },
+  "connection Loss": {
+    "records": [],
+    "verifier": {
+      "verifier": "insertcringegd",
+      "verification": "https://www.youtube.com/watch?v=FG8TotR1bOM"
+    },
+    "percentToQualify": 66
+  },
+  "Buff on Track (vortrox)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Esoteric Hydra",
+      "verification": "https://www.youtube.com/watch?v=R6SblOfbiuA"
+    },
+    "percentToQualify": 66
+  },
+  "Inflections": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sir Obsurd",
+      "verification": "https://www.youtube.com/watch?v=3ovIrLBubdI"
+    },
+    "percentToQualify": 66
+  },
+  "tempest": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kacek",
+      "verification": "https://www.youtube.com/watch?v=h0vp4wCiAv8"
+    },
+    "percentToQualify": 66
+  },
+  "BuTiTi III (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nexus",
+      "verification": "https://www.youtube.com/watch?v=uOCLYZdvSxo"
+    },
+    "percentToQualify": 66
+  },
+  "Paxertrill": {
+    "records": [],
+    "verifier": {
+      "verifier": "KMC98",
+      "verification": "https://www.youtube.com/watch?v=rkuWzq9SViI"
+    },
+    "percentToQualify": 66
+  },
+  "Stereo Smasher": {
+    "records": [],
+    "verifier": {
+      "verifier": "razsta4ax",
+      "verification": "https://www.youtube.com/watch?v=6StQ1KwoPEk"
+    },
+    "percentToQualify": 66
+  },
+  "Colourful Dimension": {
+    "records": [],
+    "verifier": {
+      "verifier": "Rainstorm",
+      "verification": "https://www.youtube.com/watch?v=eSAovrcyCZA"
+    },
+    "percentToQualify": 66
+  },
+  "Paracosm Circles (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "TigerXero",
+      "verification": "https://www.youtube.com/watch?v=Bs-4z9ACFdg"
+    },
+    "percentToQualify": 66
+  },
+  "Weald": {
+    "records": [],
+    "verifier": {
+      "verifier": "KasiaUwU",
+      "verification": "https://www.youtube.com/watch?v=B7K_LaK0tvg"
+    },
+    "percentToQualify": 66
+  },
+  "The Hell Zone (zudd)": {
+    "records": [],
+    "verifier": {
+      "verifier": "seregiusz",
+      "verification": "https://www.youtube.com/watch?v=0gpj6zxPE6A"
+    },
+    "percentToQualify": 66
+  },
+  "The Ultimate Phase (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "GMDElite",
+      "verification": "https://youtu.be/LKp4VHT_10s?si=iB7LwNngob4ePPnK"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty CHROMA II (ItzPapuDash)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ItzPapuDash",
+      "verification": "https://www.youtube.com/watch?v=IryzxcbrLCs"
+    },
+    "percentToQualify": 66
+  },
+  "Dimension Machine": {
+    "records": [],
+    "verifier": {
+      "verifier": "ViperVenom95",
+      "verification": "https://www.youtube.com/watch?v=ymwTxeRIDB8"
+    },
+    "percentToQualify": 66
+  },
+  "Gay Sweater Weather1": {
+    "records": [],
+    "verifier": {
+      "verifier": "† 𓆩Lexy𓆪 †",
+      "verification": "https://youtu.be/TEcyhS9U2-E"
+    },
+    "percentToQualify": 66
+  },
+  "andromeda nerfed": {
+    "records": [],
+    "verifier": {
+      "verifier": "mxcha",
+      "verification": "https://www.youtube.com/watch?v=6a0kIqU9Hk0"
     },
     "percentToQualify": 66
   }
