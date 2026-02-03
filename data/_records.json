@@ -23395,8 +23395,8 @@
   },
   "Just DANCE": {
     "verifier": {
-      "verifier": "Kapinapi",
-      "verification": "https://www.youtube.com/watch?v=FZBB1QgDE-Y"
+      "verifier": "Kicek8632",
+      "verification": "https://youtu.be/jx7XFPuF1NY"
     },
     "records": [
       {
@@ -33779,7 +33779,7 @@
     },
     "percentToQualify": 66
   },
-  "Death Machine": {
+  "Death Machine (GeometryMastrz0)": {
     "records": [],
     "verifier": {
       "verifier": "hashbrown",
@@ -35043,6 +35043,102 @@
     "verifier": {
       "verifier": "mxcha",
       "verification": "https://www.youtube.com/watch?v=6a0kIqU9Hk0"
+    },
+    "percentToQualify": 66
+  },
+  "Metal Master": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bradenbowl",
+      "verification": "https://www.youtube.com/watch?v=ygpr6dzzVAY"
+    },
+    "percentToQualify": 66
+  },
+  "A Fool Moon Night": {
+    "records": [],
+    "verifier": {
+      "verifier": "Trixcidical",
+      "verification": "https://www.youtube.com/watch?v=z2EAz0FXMv8"
+    },
+    "percentToQualify": 66
+  },
+  "Rigel (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dan2D",
+      "verification": "https://www.youtube.com/watch?v=VmYt32YBpSE"
+    },
+    "percentToQualify": 66
+  },
+  "Elemelons": {
+    "records": [],
+    "verifier": {
+      "verifier": "fusion425",
+      "verification": "https://www.youtube.com/watch?v=6L0BRHYddco"
+    },
+    "percentToQualify": 66
+  },
+  "Arceus": {
+    "records": [],
+    "verifier": {
+      "verifier": "jbmoon",
+      "verification": "https://www.youtube.com/watch?v=KPxxv2e8mHo"
+    },
+    "percentToQualify": 66
+  },
+  "DEATH MACHINE (zHexy)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Serpentical",
+      "verification": "https://www.youtube.com/watch?v=TYNOr42FxrI"
+    },
+    "percentToQualify": 66
+  },
+  "Ecstatic wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Plasmalust",
+      "verification": "https://www.youtube.com/watch?v=lhxdmversuM"
+    },
+    "percentToQualify": 66
+  },
+  "Dark Echo (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bleamer",
+      "verification": "https://www.youtube.com/watch?v=0d4tr7tO_us"
+    },
+    "percentToQualify": 66
+  },
+  "imoneofthem challeng": {
+    "records": [],
+    "verifier": {
+      "verifier": "ImOneOfThem",
+      "verification": "https://www.youtube.com/watch?v=VyhDzhYuVYE"
+    },
+    "percentToQualify": 66
+  },
+  "Gullible Circles (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "BlebGD",
+      "verification": "https://www.youtube.com/watch?v=nZZIaGs13ro"
+    },
+    "percentToQualify": 66
+  },
+  "Summer Sky": {
+    "records": [],
+    "verifier": {
+      "verifier": "Luvery",
+      "verification": "https://www.youtube.com/watch?v=QLTRRvLqKMI"
+    },
+    "percentToQualify": 66
+  },
+  "Final Round": {
+    "records": [],
+    "verifier": {
+      "verifier": "spark",
+      "verification": "https://www.youtube.com/watch?v=zNbug-PD-W0"
     },
     "percentToQualify": 66
   }
