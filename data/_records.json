@@ -6544,7 +6544,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Sonic Wave": {
+  "Sonic Wave (Sunix)": {
     "verifier": {
       "verifier": "Sunix",
       "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk"
@@ -7383,7 +7383,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Sonic Wave (Old)": {
+  "Sonic Wave (Old) (Hipo)": {
     "verifier": {
       "verifier": "SpeedyMuffin",
       "verification": "https://www.youtube.com/watch?v=7gSclHs4bMo"
@@ -35831,6 +35831,230 @@
     "verifier": {
       "verifier": "IIIGamBiTIII",
       "verification": "https://www.youtube.com/watch?v=5ZMVg8vJVlU"
+    },
+    "percentToQualify": 66
+  },
+  "Lithium (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kloone",
+      "verification": "https://www.youtube.com/watch?v=mvBPeefG-a0"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Infinity (ViPriN)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=sWaz5pDO8I0"
+    },
+    "percentToQualify": 66
+  },
+  "ScombriK wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=xX9vASmdllE"
+    },
+    "percentToQualify": 66
+  },
+  "Sunix Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mewtwo557",
+      "verification": "https://www.youtube.com/watch?v=JiPyrPRk9oY"
+    },
+    "percentToQualify": 66
+  },
+  "Benecio Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mufferasu",
+      "verification": "https://www.youtube.com/watch?v=B3Hatqh61DQ"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Invert": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=8zNKYQie0jQ"
+    },
+    "percentToQualify": 66
+  },
+  "SOROK DWAVE": {
+    "records": [],
+    "verifier": {
+      "verifier": "bitmaybe",
+      "verification": "https://www.youtube.com/watch?v=Ucv_TyuO6js"
+    },
+    "percentToQualify": 66
+  },
+  "Maricotas Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Superex",
+      "verification": "https://www.youtube.com/watch?v=S5dgk9fxoDo"
+    },
+    "percentToQualify": 66
+  },
+  "Tangabalachanga wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=lQODGUQPDlE"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave (Enlil)": {
+    "records": [],
+    "verifier": {
+      "verifier": "mewtwo557",
+      "verification": "https://www.youtube.com/watch?v=fmiCDZpcfbs"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave (Mufferasu)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mufferasu",
+      "verification": "https://www.youtube.com/watch?v=luY5q6wM-7w"
+    },
+    "percentToQualify": 66
+  },
+  "UltraSonic Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=9ClPd78Aqk4"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave (Old) (Sunix)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=HPyTphv-9xM"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave (Old) (Metalface221)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Metalface221",
+      "verification": "https://www.youtube.com/watch?v=8SN98PJj0Cw"
+    },
+    "percentToQualify": 66
+  },
+  "Stereo Extremeness (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Esoteric Hydra",
+      "verification": "https://www.youtube.com/watch?v=mvetk3z8VKY"
+    },
+    "percentToQualify": 66
+  },
+  "Red Of Justice": {
+    "records": [],
+    "verifier": {
+      "verifier": "Angel5775",
+      "verification": "https://www.youtube.com/watch?v=nvMsGH4b_IY"
+    },
+    "percentToQualify": 66
+  },
+  "Deambath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=nPiGJAJQels"
+    },
+    "percentToQualify": 66
+  },
+  "Horsebath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bontic",
+      "verification": "https://www.youtube.com/watch?v=0RhyON5mcUs"
+    },
+    "percentToQualify": 66
+  },
+  "Pinkbath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=TE82yMxRTAw&t=169s"
+    },
+    "percentToQualify": 66
+  },
+  "YellowBath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=MW6hgRKuv-g&t=295s"
+    },
+    "percentToQualify": 66
+  },
+  "Bloodbath sfx": {
+    "records": [],
+    "verifier": {
+      "verifier": "ClayFuzzy",
+      "verification": "https://www.youtube.com/watch?v=PkcYg0bSQyE"
+    },
+    "percentToQualify": 66
+  },
+  "Codebath": {
+    "records": [],
+    "verifier": {
+      "verifier": "AilBalT04_2",
+      "verification": "https://youtu.be/b_8M64yRIQs"
+    },
+    "percentToQualify": 66
+  },
+  "Gay INNARDS": {
+    "records": [],
+    "verifier": {
+      "verifier": "Glowstz",
+      "verification": "https://www.youtube.com/watch?v=RfC2Z78CQFI"
+    },
+    "percentToQualify": 66
+  },
+  "Acu but first timing": {
+    "records": [],
+    "verifier": {
+      "verifier": "ImOneOfThem",
+      "verification": "https://www.youtube.com/watch?v=zHjW4RQnZKA"
+    },
+    "percentToQualify": 66
+  },
+  "Acu but good": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gd_Void",
+      "verification": "https://www.youtube.com/watch?v=xpROx2bkRvg"
+    },
+    "percentToQualify": 66
+  },
+  "Negaticu": {
+    "records": [],
+    "verifier": {
+      "verifier": "luminous",
+      "verification": "https://www.youtube.com/watch?v=QLeHeqFSzHo"
+    },
+    "percentToQualify": 66
+  },
+  "Hetero acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "WhiteCubePrz",
+      "verification": "https://www.youtube.com/watch?v=HIpPopp4v2M"
+    },
+    "percentToQualify": 66
+  },
+  "Acunt": {
+    "records": [],
+    "verifier": {
+      "verifier": "StandingHorse",
+      "verification": "https://www.youtube.com/watch?v=dIdsYcnhCKE"
     },
     "percentToQualify": 66
   }
