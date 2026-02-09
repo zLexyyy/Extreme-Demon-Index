@@ -127,7 +127,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Acheron": {
+  "Acheron (ryamu)": {
     "verifier": {
       "verifier": "Zoink",
       "verification": "https://www.youtube.com/watch?v=sBKR6aUorzA"
@@ -4943,7 +4943,7 @@
   },
   "SuperStinkerWorld": {
     "verifier": {
-      "verifier": "KasiaUwU",
+      "verifier": "kas ia",
       "verification": "https://www.youtube.com/watch?v=UX936lbiS1Y"
     },
     "records": [],
@@ -13021,7 +13021,7 @@
   "Glimmer": {
     "verifier": {
       "verifier": "Pouche",
-      "verification": "https://youtu.be/bi9x6Ty5w_4"
+      "verification": "https://www.youtube.com/watch?v=LBupbGzskxk"
     },
     "records": [],
     "percentToQualify": 66
@@ -28993,7 +28993,7 @@
   "Miha Difficult": {
     "records": [],
     "verifier": {
-      "verifier": "KasiaUwU",
+      "verifier": "kas ia",
       "verification": "https://www.youtube.com/watch?v=95MSjIC5QiQ"
     },
     "percentToQualify": 66
@@ -30427,7 +30427,7 @@
   "Shitty Freedom08": {
     "records": [],
     "verifier": {
-      "verifier": "KasiaUwU",
+      "verifier": "kas ia",
       "verification": "https://www.youtube.com/watch?v=IraXq3pZoLo"
     },
     "percentToQualify": 66
@@ -35549,7 +35549,7 @@
   "Weald": {
     "records": [],
     "verifier": {
-      "verifier": "KasiaUwU",
+      "verifier": "kas ia",
       "verification": "https://www.youtube.com/watch?v=B7K_LaK0tvg"
     },
     "percentToQualify": 66
@@ -35997,7 +35997,7 @@
   "Bloodbath sfx": {
     "records": [],
     "verifier": {
-      "verifier": "ClayFuzzy",
+      "verifier": "TheShadowRealm",
       "verification": "https://www.youtube.com/watch?v=PkcYg0bSQyE"
     },
     "percentToQualify": 66
@@ -36055,6 +36055,110 @@
     "verifier": {
       "verifier": "StandingHorse",
       "verification": "https://www.youtube.com/watch?v=dIdsYcnhCKE"
+    },
+    "percentToQualify": 66
+  },
+  "NAGE": {
+    "records": [],
+    "verifier": {
+      "verifier": "Scotchtape",
+      "verification": "https://www.youtube.com/watch?v=ZIRphl34InU"
+    },
+    "percentToQualify": 66
+  },
+  "Wave God": {
+    "records": [],
+    "verifier": {
+      "verifier": "aivan",
+      "verification": "https://www.youtube.com/watch?v=XSFdwE70NLc"
+    },
+    "percentToQualify": 66
+  },
+  "Luminosity": {
+    "records": [],
+    "verifier": {
+      "verifier": "Vikings",
+      "verification": "https://www.youtube.com/watch?v=yLbnrHkMxYE"
+    },
+    "percentToQualify": 66
+  },
+  "projectflame": {
+    "records": [],
+    "verifier": {
+      "verifier": "Oblivionus",
+      "verification": "https://www.youtube.com/watch?v=PYj37qVJZu8"
+    },
+    "percentToQualify": 66
+  },
+  "Acheron (lewkeee)": {
+    "records": [],
+    "verifier": {
+      "verifier": "lewkeee",
+      "verification": "https://www.youtube.com/watch?v=FUBY6JRlbt4"
+    },
+    "percentToQualify": 66
+  },
+  "Darkest Times II": {
+    "records": [],
+    "verifier": {
+      "verifier": "doodledolphin1",
+      "verification": "https://www.youtube.com/watch?v=P1xebRMditg"
+    },
+    "percentToQualify": 66
+  },
+  "Crystallized": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tweezy",
+      "verification": "https://www.youtube.com/watch?v=yvk16Y1PF9o"
+    },
+    "percentToQualify": 66
+  },
+  "wires": {
+    "records": [],
+    "verifier": {
+      "verifier": "SlightliFizzi",
+      "verification": "https://www.youtube.com/watch?v=bIvc0bHzD2Q"
+    },
+    "percentToQualify": 66
+  },
+  "Also Anathema": {
+    "records": [],
+    "verifier": {
+      "verifier": "burda5800",
+      "verification": "https://www.youtube.com/watch?v=tYlGDH_Bxcg"
+    },
+    "percentToQualify": 66
+  },
+  "Spacetime Continuum": {
+    "records": [],
+    "verifier": {
+      "verifier": "ElementMaster",
+      "verification": "https://www.youtube.com/watch?v=9LkNLo3psYw"
+    },
+    "percentToQualify": 66
+  },
+  "gobwebs": {
+    "records": [],
+    "verifier": {
+      "verifier": "ghosterfox",
+      "verification": "https://www.youtube.com/watch?v=incMkJLcPN8"
+    },
+    "percentToQualify": 66
+  },
+  "Fortnite Dance X": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zernias",
+      "verification": "https://www.youtube.com/watch?v=KsrDlPLFyW0"
+    },
+    "percentToQualify": 66
+  },
+  "Tachyon": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tassium",
+      "verification": "https://www.youtube.com/watch?v=i9U3_dMeCCc"
     },
     "percentToQualify": 66
   }
