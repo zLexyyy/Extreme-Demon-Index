@@ -1578,7 +1578,7 @@
   },
   "No Love": {
     "verifier": {
-      "verifier": "rinjello",
+      "verifier": "linayru",
       "verification": "https://www.youtube.com/watch?v=DWsUvcu-3Lg"
     },
     "records": [],
@@ -8590,7 +8590,7 @@
   },
   "Adelucid": {
     "verifier": {
-      "verifier": "MannyHeffley",
+      "verifier": "Arraegen",
       "verification": "https://www.youtube.com/watch?v=zJpdto76UBs"
     },
     "records": [],
@@ -11783,7 +11783,7 @@
     ],
     "percentToQualify": 66
   },
-  "Godzilla": {
+  "Godzilla (Old)": {
     "verifier": {
       "verifier": "WatchPiggy",
       "verification": "https://www.youtube.com/watch?v=96Q3NM2BoXg"
@@ -25059,7 +25059,7 @@
   "Stasis": {
     "records": [],
     "verifier": {
-      "verifier": "MannyHeffley",
+      "verifier": "Arraegen",
       "verification": "https://www.youtube.com/watch?v=soy5vOLrmpk&t"
     },
     "percentToQualify": 66
@@ -33508,8 +33508,8 @@
   "TetoTetoTetoTeto": {
     "records": [],
     "verifier": {
-      "verifier": "Cinder",
-      "verification": "https://www.youtube.com/watch?v=sBRNuk5CueA"
+      "verifier": "Sileov",
+      "verification": "https://www.youtube.com/watch?v=FNI8_b7sufM"
     },
     "percentToQualify": 66
   },
