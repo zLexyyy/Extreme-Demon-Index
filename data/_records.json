@@ -1,4 +1,12 @@
 {
+  "555": {
+    "records": [],
+    "verifier": {
+      "verifier": "InsaneI",
+      "verification": "https://www.youtube.com/watch?v=KDjwz-Lt-Qo"
+    },
+    "percentToQualify": 66
+  },
   "1234": {
     "verifier": {
       "verifier": "iIiViRuZiIi",
@@ -4150,7 +4158,7 @@
   },
   "Crescent": {
     "verifier": {
-      "verifier": "GDClutter",
+      "verifier": "AtsuK0",
       "verification": "https://www.youtube.com/watch?v=2l2eTFcUvQk"
     },
     "records": [],
@@ -4486,7 +4494,7 @@
   },
   "Radiance": {
     "verifier": {
-      "verifier": "GDClutter",
+      "verifier": "AtsuK0",
       "verification": "https://www.youtube.com/watch?v=6WdptnMi9rM"
     },
     "records": [],
@@ -7009,7 +7017,7 @@
   },
   "The Moon": {
     "verifier": {
-      "verifier": "ClutterGD",
+      "verifier": "AtsuK0",
       "verification": "https://www.youtube.com/watch?v=QO_i2hOTdPY"
     },
     "records": [],
@@ -10592,7 +10600,7 @@
   },
   "Alice": {
     "verifier": {
-      "verifier": "GDClutter",
+      "verifier": "AtsuK0",
       "verification": "https://www.youtube.com/watch?v=OEgHv73uAXc"
     },
     "records": [],
@@ -13597,7 +13605,7 @@
   },
   "Mika": {
     "verifier": {
-      "verifier": "GDClutter",
+      "verifier": "AtsuK0",
       "verification": "https://www.youtube.com/watch?v=QyOCFKoEFBc"
     },
     "records": [],
@@ -36440,6 +36448,129 @@
     "verifier": {
       "verifier": "Tassium",
       "verification": "https://www.youtube.com/watch?v=i9U3_dMeCCc"
+    },
+    "percentToQualify": 66
+  },
+  "ORBIT": {
+    "records": []
+  },
+  "Thinking Space II (Legacy)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zeronium",
+      "verification": "https://www.youtube.com/watch?v=RJedeB2wHCA"
+    },
+    "percentToQualify": 66
+  },
+  "M7M7M": {
+    "records": [],
+    "verifier": {
+      "verifier": "linayru",
+      "verification": "https://www.youtube.com/watch?v=1PY4ZYZTBSo"
+    },
+    "percentToQualify": 66
+  },
+  "River Twygz (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "TPSkeleton",
+      "verification": "https://www.youtube.com/watch?v=TCR8IrRZ7d0"
+    },
+    "percentToQualify": 66
+  },
+  "Low Tide": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ploggix",
+      "verification": "https://www.youtube.com/watch?v=3gPJuz44YZc"
+    },
+    "percentToQualify": 66
+  },
+  "Met Chan Ship Trials": {
+    "records": [],
+    "verifier": {
+      "verifier": "J'SteR",
+      "verification": "https://www.youtube.com/watch?v=cJX-ud6vckQ"
+    },
+    "percentToQualify": 66
+  },
+  "The Amazons Lullaby": {
+    "records": [],
+    "verifier": {
+      "verifier": "TPSkeleton",
+      "verification": "https://www.youtube.com/watch?v=Vv83KWJ5-ZE"
+    },
+    "percentToQualify": 66
+  },
+  "9o Circles (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sashozz",
+      "verification": "https://www.youtube.com/watch?v=EnpdE1ACBmw"
+    },
+    "percentToQualify": 66
+  },
+  "Paracosmic Void": {
+    "records": [],
+    "verifier": {
+      "verifier": "TPSkeleton",
+      "verification": "https://www.youtube.com/watch?v=50RHNp3DifM"
+    },
+    "percentToQualify": 66
+  },
+  "Snowstorm": {
+    "records": [],
+    "verifier": {
+      "verifier": "seregiusz",
+      "verification": "https://www.youtube.com/watch?v=i8xFwm0tTgs"
+    },
+    "percentToQualify": 66
+  },
+  "saul goodman ldm nerf": {
+    "records": [],
+    "verifier": {
+      "verifier": "GeoGeek",
+      "verification": "https://www.youtube.com/watch?v=5PkmLpSDgL4"
+    },
+    "percentToQualify": 66
+  },
+  "The Cerberus": {
+    "records": [],
+    "verifier": {
+      "verifier": "ZorpikGMD",
+      "verification": "https://www.youtube.com/watch?v=a6XC2QguN9I"
+    },
+    "percentToQualify": 66
+  },
+  "Tempest Knights": {
+    "records": [],
+    "verifier": {
+      "verifier": "MrRiplet",
+      "verification": "https://www.youtube.com/watch?v=VQrdYYageqM"
+    },
+    "percentToQualify": 66
+  },
+  "kitty city": {
+    "records": [],
+    "verifier": {
+      "verifier": "technobuild",
+      "verification": "https://www.youtube.com/watch?v=yifsfAzNz3g"
+    },
+    "percentToQualify": 66
+  },
+  "BLACK WIDOW": {
+    "records": [],
+    "verifier": {
+      "verifier": "Samson Wilkinson",
+      "verification": "https://www.youtube.com/watch?v=xI5pv9BUHKk"
+    },
+    "percentToQualify": 66
+  },
+  "Mizureta (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Airbound",
+      "verification": "https://www.youtube.com/watch?v=w842SzEdLK8"
     },
     "percentToQualify": 66
   }
