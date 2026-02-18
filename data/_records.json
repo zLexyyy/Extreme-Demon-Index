@@ -1557,6 +1557,12 @@
         "link": "https://youtu.be/4Nh_XoBigto?si=N54Z_qx83V0O6Vss",
         "percent": 100,
         "hz": 288
+      },
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=C16HE_RWep8",
+        "percent": 100,
+        "hz": 480
       }
     ],
     "percentToQualify": 72
@@ -1791,6 +1797,12 @@
         "link": "https://youtu.be/oZByRDqb3ts?si=cYpkiNMzXrD1NNoS",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=X1AShB1t4-w",
+        "percent": 100,
+        "hz": 480
       }
     ],
     "percentToQualify": 69
@@ -2326,6 +2338,12 @@
         "link": "https://youtu.be/rfEJx3BXTYw?si=B5qONZdY_DetwyNC",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=mxx4YNVZqwk",
+        "percent": 100,
+        "hz": 480
       }
     ],
     "percentToQualify": 61
@@ -2798,7 +2816,14 @@
       "verifier": "SwordBx",
       "verification": "https://www.youtube.com/watch?v=-SEgSgxpRxo"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=Pr1GGKZQmhI",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "percentToQualify": 67
   },
   "Der Kaiser": {
@@ -3164,7 +3189,14 @@
       "verifier": "Cursed",
       "verification": "https://www.youtube.com/watch?v=bgZ85rCaEGY&t"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=hS6g9URWsj8",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "percentToQualify": 77
   },
   "Savage Snowstorm": {
@@ -3275,7 +3307,14 @@
       "verifier": "eiruni",
       "verification": "https://www.youtube.com/watch?v=wM-J6fLIs14"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=znA3uDySFrE",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 65
   },
   "Orban Paracosm": {
@@ -6090,7 +6129,14 @@
       "verifier": "joeingly",
       "verification": "https://www.youtube.com/watch?v=zQbU_2To0bg"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/6jx9nbLvkeA",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 64
   },
   "Macabre": {
@@ -9601,6 +9647,12 @@
         "link": "https://youtu.be/vba_dKbmjFY",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=YqBj8xcc_Zo",
+        "percent": 100,
+        "hz": 480
       }
     ],
     "percentToQualify": 66
@@ -13377,7 +13429,14 @@
       "verifier": "Gabs",
       "verification": "https://www.youtube.com/watch?v=fIxFGfjCmA8"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=VO5H5hNrkQk",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "percentToQualify": 66
   },
   "Critical Sector": {
@@ -18463,6 +18522,12 @@
         "link": "https://www.youtube.com/watch?v=oryTxUnlXyE",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Tucosifo",
+        "link": "https://youtu.be/IBVbG75FXEY",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -23000,7 +23065,14 @@
       "verifier": "Zeroya",
       "verification": "https://www.youtube.com/watch?v=LyMplFv8txY"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "[KLØ] Luna",
+        "link": "https://www.youtube.com/watch?v=gkYjzUM8KCo",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "percentToQualify": 66
   },
   "Neon Guts": {
@@ -34656,7 +34728,14 @@
     "percentToQualify": 66
   },
   "Acu on track": {
-    "records": [],
+    "records": [
+      {
+        "user": "† 𓆩Lexy𓆪 †",
+        "link": "https://www.youtube.com/watch?v=g6u7FvyrJtI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "StandingHorse",
       "verification": "https://www.youtube.com/watch?v=VKAdV6CciQU"
@@ -36647,6 +36726,117 @@
     "verifier": {
       "verifier": "Airbound",
       "verification": "https://www.youtube.com/watch?v=w842SzEdLK8"
+    },
+    "percentToQualify": 66
+  },
+  "Sakupen Denouement": {
+    "records": [],
+    "verifier": {
+      "verifier": "ad3usgmd",
+      "verification": "https://www.youtube.com/watch?v=7Plzij-GNw4"
+    },
+    "percentToQualify": 66
+  },
+  "Sakupen Madness": {
+    "records": [],
+    "verifier": {
+      "verifier": "ad3usgmd",
+      "verification": "https://www.youtube.com/watch?v=oNaP_yoE7VI"
+    },
+    "percentToQualify": 66
+  },
+  "Femboy Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "akirameru",
+      "verification": "https://www.youtube.com/watch?v=n-XtNS3sPRM"
+    },
+    "percentToQualify": 66
+  },
+  "ampere": {
+    "records": [],
+    "verifier": {
+      "verifier": "DNM121",
+      "verification": "https://www.youtube.com/watch?v=ts73xtEFrhg"
+    },
+    "percentToQualify": 66
+  },
+  "YOUREGONNAGOFARKID": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheChaseGamer1",
+      "verification": "https://www.youtube.com/watch?v=VbbiQfviptw"
+    },
+    "percentToQualify": 66
+  },
+  "Under lavaland (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dorami",
+      "verification": "https://youtu.be/jHnz395AMao"
+    },
+    "percentToQualify": 66
+  },
+  "Shinigami (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dorami",
+      "verification": "https://www.youtube.com/watch?v=VoUNh3yDjYw"
+    },
+    "percentToQualify": 66
+  },
+  "Fair Morning": {
+    "records": [],
+    "verifier": {
+      "verifier": "exerity",
+      "verification": "https://www.youtube.com/watch?v=3RbpgVAUYzM"
+    },
+    "percentToQualify": 66
+  },
+  "Milron": {
+    "records": [],
+    "verifier": {
+      "verifier": "Frypt",
+      "verification": "https://www.youtube.com/watch?v=vceOl6Z9Qs8"
+    },
+    "percentToQualify": 66
+  },
+  "CONVOLVER": {
+    "records": [],
+    "verifier": {
+      "verifier": "GoldSource",
+      "verification": "https://www.youtube.com/watch?v=sGAPzjcin7Y"
+    },
+    "percentToQualify": 66
+  },
+  "L O V E Y O U": {
+    "records": [],
+    "verifier": {
+      "verifier": "gecko",
+      "verification": "https://www.youtube.com/watch?v=txNH1ojvNZE"
+    },
+    "percentToQualify": 66
+  },
+  "nonbinary acu": {
+    "records": [
+      {
+        "user": "† 𓆩Lexy𓆪 †",
+        "link": "https://www.youtube.com/watch?v=g6u7FvyrJtI",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
+    "verifier": {
+      "verifier": "S.p1d3r_",
+      "verification": "https://www.youtube.com/watch?v=fgKpDJMGZO8"
+    },
+    "percentToQualify": 66
+  },
+  "nova cataclysm": {
+    "records": [],
+    "verifier": {
+      "verifier": "DankDrew",
+      "verification": "https://www.youtube.com/watch?v=GgfXTD9sXQ4"
     },
     "percentToQualify": 66
   }
