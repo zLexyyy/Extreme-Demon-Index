@@ -199,14 +199,16 @@ export async function fetchLeaderboard() {
 
     });
 
-    // Process upcoming levels for world records
+    // Load upcoming levels to find players with world records (but don't load full level data)
+    // This ensures players with world records appear on the leaderboard even if they're not on the classic list
     const upcomingResult = await fetch(`${dir}/${LIST_KEYS.upcoming}`);
     let upcomingList;
     try {
         upcomingList = await upcomingResult.json();
     } catch (e) {
-        console.error('Failed to load upcoming list for world records.', e);
+        console.error('Failed to load upcoming list for world records discovery.', e);
     }
+    
     if (upcomingList) {
         const upcomingLevels = upcomingList.filter(item => !item.startsWith('-'));
         for (const levelName of upcomingLevels) {
@@ -217,7 +219,8 @@ export async function fetchLeaderboard() {
                     const match = part.match(/^(.+?)\s+(\d+.*)$/);
                     if (match) {
                         const user = match[1].trim();
-                        const wr = match[2].trim();
+                        // Create an entry for this player if they don't exist
+                        // (they may only have world records, no classic list appearance)
                         const normalizedUser = Object.keys(scoreMap).find(
                             (u) => u.toLowerCase() === user.toLowerCase(),
                         ) || user;
@@ -227,11 +230,6 @@ export async function fetchLeaderboard() {
                             progressed: [],
                             worldRecords: [],
                         };
-                        scoreMap[normalizedUser].worldRecords.push({
-                            level: levelName,
-                            wr: wr,
-                            link: levelData.verification,
-                        });
                     }
                 }
             }
@@ -288,6 +286,58 @@ export async function fetchLeaderboard() {
 
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
+}
+
+/**
+ * Fetch world records for a specific user from upcoming levels
+ * Returns the worldRecords array for that user
+ */
+export async function fetchWorldRecordsForUser(userName) {
+    const worldRecords = [];
+    console.log('Fetching world records for user:', userName);
+    
+    // Load upcoming list
+    const upcomingResult = await fetch(`${dir}/${LIST_KEYS.upcoming}`);
+    let upcomingList;
+    try {
+        upcomingList = await upcomingResult.json();
+    } catch (e) {
+        console.error('Failed to load upcoming list for world records.', e);
+        return worldRecords;
+    }
+    
+    console.log('Upcoming list loaded, levels count:', upcomingList ? upcomingList.length : 0);
+    
+    if (upcomingList) {
+        const upcomingLevels = upcomingList.filter(item => !item.startsWith('-'));
+        console.log('Filtered upcoming levels (non-sections):', upcomingLevels.length);
+        for (const levelName of upcomingLevels) {
+            const [levelData, err] = await fetchLevel(levelName);
+            if (levelData && levelData.author && levelData.author !== '-') {
+                const wrParts = levelData.author.split(' | ');
+                for (const part of wrParts) {
+                    const match = part.match(/^(.+?)\s+(\d+.*)$/);
+                    if (match) {
+                        const user = match[1].trim();
+                        const wr = match[2].trim();
+                        console.log('Found WR:', user, 'for level:', levelName);
+                        // Check if this world record belongs to our user (case-insensitive)
+                        if (user.toLowerCase() === userName.toLowerCase()) {
+                            console.log('MATCH! Adding WR for:', user);
+                            worldRecords.push({
+                                level: levelName,
+                                wr: wr,
+                                link: levelData.verification,
+                            });
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    console.log('Final world records for', userName, ':', worldRecords);
+    return worldRecords;
 }
 // --- sidebar level search/filter ---
 // Append at the bottom of js/content.js. If your List page is a Vue component,

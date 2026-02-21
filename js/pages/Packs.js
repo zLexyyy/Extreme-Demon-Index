@@ -15,6 +15,7 @@ export default {
         loading: true,
         selectedPack: null,
         selectedLevel: null,
+        loadingPackDetails: false,
     }),
     async mounted() {
         // Always use classic list for packs
@@ -29,17 +30,6 @@ export default {
         this.list = classicList || [];
 
         this.packs = await fetchPacks();
-        // Load all levels for packs
-        for (const pack of this.packs) {
-            for (const levelName of pack.levels) {
-                if (!this.levels[levelName]) {
-                    const levelData = await fetchLevel(levelName);
-                    if (levelData[0]) {
-                        this.levels[levelName] = levelData[0];
-                    }
-                }
-            }
-        }
         this.loading = false;
 
         // Check for pack query param
@@ -72,9 +62,24 @@ computed: {
     },
 },
     methods: {
-        selectPack(pack) {
+        async selectPack(pack) {
             this.selectedPack = pack;
             this.selectedLevel = null;
+            
+            // Lazy load levels for this pack
+            this.loadingPackDetails = true;
+            try {
+                for (const levelName of pack.levels) {
+                    if (!this.levels[levelName]) {
+                        const levelData = await fetchLevel(levelName);
+                        if (levelData[0]) {
+                            this.levels[levelName] = levelData[0];
+                        }
+                    }
+                }
+            } finally {
+                this.loadingPackDetails = false;
+            }
         },
         selectLevel(level) {
             this.selectedLevel = level;
@@ -100,12 +105,15 @@ template: `
                 <h1 :style="{ color: selectedPack.textColor }">{{ selectedPack.name }}</h1>
                 <p class="pack-reward">Pack Reward: {{ packReward }} points</p>
                 <h3>Levels in Pack</h3>
-    <ul class="pack-levels">
-        <li v-for="level in packLevels" :key="level.name" @click="selectLevel(level)">
-            <span class="level-name">#{{ level.index + 1 }} {{ level.name }}</span>
-            <span class="level-points">{{ level.points }} pts</span>
-        </li>
-    </ul>
+                <div v-if="loadingPackDetails" style="display: flex; justify-content: center; padding: 20px;">
+                    <Spinner></Spinner>
+                </div>
+                <ul v-else class="pack-levels">
+                    <li v-for="level in packLevels" :key="level.name" @click="selectLevel(level)">
+                        <span class="level-name">#{{ level.index + 1 }} {{ level.name }}</span>
+                        <span class="level-points">{{ level.points }} pts</span>
+                    </li>
+                </ul>
             </div>
             <div v-else class="no-pack">
                 <p>Select a pack to view details</p>

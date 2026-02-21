@@ -1,4 +1,4 @@
-import { fetchLeaderboard } from '../content.js';
+import { fetchLeaderboard, fetchWorldRecordsForUser } from '../content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -12,6 +12,9 @@ export default {
         loading: true,
         selected: 0,
         err: [],
+        loadingWorldRecords: false,
+        worldRecordsLoaded: {},
+        playerWorldRecords: {},
     }),
     template: `
         <main v-if="loading">
@@ -54,7 +57,10 @@ export default {
                             </ul>
                         </div>
                         <h2 v-if="entry.worldRecords && entry.worldRecords.length > 0">World Records ({{ entry.worldRecords.length }})</h2>
-                        <table class="table" v-if="entry.worldRecords && entry.worldRecords.length > 0">
+                        <div v-if="loadingWorldRecords" style="display: flex; justify-content: center; padding: 20px;">
+                            <Spinner></Spinner>
+                        </div>
+                        <table class="table" v-else-if="entry.worldRecords && entry.worldRecords.length > 0">
                             <tr v-for="wr in entry.worldRecords">
                                 <td class="rank"><p></p></td>
                                 <td class="level">
@@ -112,17 +118,70 @@ export default {
     `,
     computed: {
         entry() {
-            return this.leaderboard[this.selected];
+            const player = this.leaderboard[this.selected];
+            if (!player) return {};
+            // Return entry with world records from separate storage
+            return {
+                ...player,
+                worldRecords: this.playerWorldRecords[player.user] || []
+            };
+        },
+    },
+    watch: {
+        selected(newVal) {
+            // Load world records for the newly selected player if not already loaded
+            const player = this.leaderboard[newVal];
+            if (player && !this.worldRecordsLoaded[player.user]) {
+                this.loadWorldRecordsForPlayer();
+            }
         },
     },
     async mounted() {
+        console.log('Leaderboard mounted');
         const [leaderboard, err] = await fetchLeaderboard();
+        console.log('Leaderboard data loaded, count:', leaderboard.length);
         this.leaderboard = leaderboard;
         this.err = err;
         // Hide loading spinner
         this.loading = false;
+        
+        // Load world records for initially selected player
+        console.log('About to load WR for index 0, player:', this.leaderboard[0]?.user);
+        if (this.leaderboard[this.selected]) {
+            await this.loadWorldRecordsForPlayer();
+        }
     },
     methods: {
         localize,
+        async loadWorldRecordsForPlayer() {
+            const player = this.leaderboard[this.selected];
+            if (!player) {
+                console.log('No player found at index', this.selected);
+                return;
+            }
+            
+            console.log('loadWorldRecordsForPlayer called for:', player.user);
+            
+            // Check if already loading or already loaded
+            if (this.loadingWorldRecords || this.worldRecordsLoaded[player.user]) {
+                console.log('Already loading or loaded for:', player.user);
+                return;
+            }
+            
+            this.loadingWorldRecords = true;
+            try {
+                console.log('Starting world records fetch for:', player.user);
+                const worldRecords = await fetchWorldRecordsForUser(player.user);
+                console.log('Got world records:', worldRecords);
+                // Store world records in separate object keyed by player username
+                this.playerWorldRecords[player.user] = worldRecords;
+                this.worldRecordsLoaded[player.user] = true;
+                console.log('Stored world records, playerWorldRecords now:', this.playerWorldRecords);
+            } catch (e) {
+                console.error('Error loading world records:', e);
+            } finally {
+                this.loadingWorldRecords = false;
+            }
+        },
     },
 };
