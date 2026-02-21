@@ -199,42 +199,8 @@ export async function fetchLeaderboard() {
 
     });
 
-    // Load upcoming levels to find players with world records (but don't load full level data)
-    // This ensures players with world records appear on the leaderboard even if they're not on the classic list
-    const upcomingResult = await fetch(`${dir}/${LIST_KEYS.upcoming}`);
-    let upcomingList;
-    try {
-        upcomingList = await upcomingResult.json();
-    } catch (e) {
-        console.error('Failed to load upcoming list for world records discovery.', e);
-    }
-    
-    if (upcomingList) {
-        const upcomingLevels = upcomingList.filter(item => !item.startsWith('-'));
-        for (const levelName of upcomingLevels) {
-            const [levelData, err] = await fetchLevel(levelName);
-            if (levelData && levelData.author && levelData.author !== '-') {
-                const wrParts = levelData.author.split(' | ');
-                for (const part of wrParts) {
-                    const match = part.match(/^(.+?)\s+(\d+.*)$/);
-                    if (match) {
-                        const user = match[1].trim();
-                        // Create an entry for this player if they don't exist
-                        // (they may only have world records, no classic list appearance)
-                        const normalizedUser = Object.keys(scoreMap).find(
-                            (u) => u.toLowerCase() === user.toLowerCase(),
-                        ) || user;
-                        scoreMap[normalizedUser] ??= {
-                            verified: [],
-                            completed: [],
-                            progressed: [],
-                            worldRecords: [],
-                        };
-                    }
-                }
-            }
-        }
-    }
+    // DO NOT load upcoming levels here - this was blocking the initial load
+    // Instead, return the leaderboard with known players and load WR players in background
 
     // Calculate completed packs for each user
     Object.entries(scoreMap).forEach(([user, scores]) => {
@@ -286,6 +252,62 @@ export async function fetchLeaderboard() {
 
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
+}
+
+/**
+ * Discover players with world records and add them to the leaderboard
+ * This is called in the background after the main leaderboard loads
+ * Returns an array of new player entries to add to the leaderboard
+ */
+export async function discoverWorldRecordPlayers(existingLeaderboard) {
+    const newPlayers = [];
+    const existingUserNames = new Set(existingLeaderboard.map(p => p.user.toLowerCase()));
+    const wrPlayerMap = {};
+    
+    // Load upcoming list
+    const upcomingResult = await fetch(`${dir}/${LIST_KEYS.upcoming}`);
+    let upcomingList;
+    try {
+        upcomingList = await upcomingResult.json();
+    } catch (e) {
+        console.error('Failed to load upcoming list for WR discovery.', e);
+        return newPlayers;
+    }
+    
+    if (upcomingList) {
+        const upcomingLevels = upcomingList.filter(item => !item.startsWith('-'));
+        for (const levelName of upcomingLevels) {
+            const [levelData, err] = await fetchLevel(levelName);
+            if (levelData && levelData.author && levelData.author !== '-') {
+                const wrParts = levelData.author.split(' | ');
+                for (const part of wrParts) {
+                    const match = part.match(/^(.+?)\s+(\d+.*)$/);
+                    if (match) {
+                        const user = match[1].trim();
+                        // Check if this user already exists in leaderboard
+                        if (!existingUserNames.has(user.toLowerCase())) {
+                            // Add to new players list (only once per user)
+                            if (!wrPlayerMap[user.toLowerCase()]) {
+                                wrPlayerMap[user.toLowerCase()] = user;
+                                newPlayers.push({
+                                    user: user,
+                                    total: 0,
+                                    packReward: 0,
+                                    completedPacks: [],
+                                    verified: [],
+                                    completed: [],
+                                    progressed: [],
+                                    worldRecords: [],
+                                });
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    return newPlayers;
 }
 
 /**

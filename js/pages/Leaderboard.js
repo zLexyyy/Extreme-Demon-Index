@@ -1,4 +1,4 @@
-import { fetchLeaderboard, fetchWorldRecordsForUser } from '../content.js';
+import { fetchLeaderboard, fetchWorldRecordsForUser, discoverWorldRecordPlayers } from '../content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -150,9 +150,26 @@ export default {
         if (this.leaderboard[this.selected]) {
             await this.loadWorldRecordsForPlayer();
         }
+        
+        // Load WR-only players in the background (don't await, let it load while user views leaderboard)
+        console.log('Starting background WR player discovery');
+        this.loadWorldRecordPlayersInBackground();
     },
     methods: {
         localize,
+        async loadWorldRecordPlayersInBackground() {
+            try {
+                const newPlayers = await discoverWorldRecordPlayers(this.leaderboard);
+                console.log('Found new WR players:', newPlayers.length);
+                if (newPlayers.length > 0) {
+                    // Add new players to leaderboard and re-sort
+                    this.leaderboard = [...this.leaderboard, ...newPlayers].sort((a, b) => b.total - a.total);
+                    console.log('Updated leaderboard with WR players, new count:', this.leaderboard.length);
+                }
+            } catch (e) {
+                console.error('Error discovering WR players:', e);
+            }
+        },
         async loadWorldRecordsForPlayer() {
             const player = this.leaderboard[this.selected];
             if (!player) {
