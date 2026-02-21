@@ -345,7 +345,7 @@
         "name": "Acu Pack V",
         "color": "#ffee00",
         "textColor": "#00f9ff",
-        "levels": ["EKO", "Acugation", "Invisible Acu"]
+        "levels": ["Acu x2", "EKO", "Acugation", "Invisible Acu"]
     },
     {
         "name": "Crack Pack",
@@ -753,7 +753,7 @@
         "name": "Solar Pack",
         "color": "#E85D04",
         "textColor": "#FFD166",
-        "levels": ["Solar Darknes", "Solarion", "Solar Circles XV", "Solar Cell", "Solar Flare (shmigels) (Solo)"]
+        "levels": ["Solar Darkness", "Solarion", "Solar Circles XV", "Solar Cell", "Solar Flare (shmigels) (Solo)"]
     },
     {
         "name": "The Hell Pack I",
@@ -828,7 +828,7 @@
         "levels": ["Crestfallen", "Astronaut Vortex", "Restrained Lineament", "Wozir Paracosm", "The Nebula"]
     },
     {
-        "name": "Nine Circles Pack VII",
+        "name": "Nine Circles Pack VIII",
         "color": "#1f2720",
         "textColor": "#5c8361",
         "levels": ["Deadly Vortex", "Lost Beauty", "Friday Vortex", "Freezeflame Galaxy", "LEAN VORTEX"]
@@ -858,7 +858,7 @@
         "levels": ["The Nautical", "C Sharp", "Zirconium Misery", "Acid Rain", "Disturb"]
     },
     {
-        "name": "Nine Circles Pack XII",
+        "name": "Nine Circles Pack XIII",
         "color": "#191913",
         "textColor": "#727272",
         "levels": ["Eternal Flame", "Sakupen Circles fi", "Solar Flare (Linear2)", "The Hallucination", "Centipede"]
@@ -897,7 +897,7 @@
         "name": "Lexycat Pack II",
         "color": "#7EC8E3",
         "textColor": "#FFF166",
-        "levels": ["moment", "hanabi", "Goodnight", "Troll Level Two", "THE MOONLIT ROSE"]
+        "levels": ["moment", "hanabi", "Goodnight", "troll level two", "THE MOONLIT ROSE"]
     },
     {
         "name": "Lexycat Pack III",
