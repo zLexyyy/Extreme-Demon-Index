@@ -7959,7 +7959,14 @@
       "verifier": "deactive",
       "verification": "https://www.youtube.com/watch?v=dovHsq1oyAs"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "kas ia",
+        "link": "https://www.youtube.com/watch?v=Do7XDxLxqhU",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "percentToQualify": 66
   },
   "pi": {
@@ -31448,6 +31455,12 @@
         "link": "https://www.youtube.com/watch?v=h3OATUK2Bwc",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "Armani",
+        "link": "https://youtu.be/k--3KtAgJHw?si=srKRI6j599bMObKR",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -31846,6 +31859,12 @@
         "link": "https://www.youtube.com/watch?v=I7LMw0jBrGs",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "kas ia",
+        "link": "https://www.youtube.com/watch?v=Do7XDxLxqhU",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -36179,6 +36198,12 @@
         "link": "https://youtu.be/PpgIG1sbnv8",
         "percent": 100,
         "hz": 144
+      },
+      {
+        "user": "kas ia",
+        "link": "https://youtu.be/1PsSQAX2ewg?si=xsJpMF4B6-ygJ8ft",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "verifier": {
@@ -40297,6 +40322,86 @@
     "verifier": {
       "verifier": "DankDrew",
       "verification": "https://www.youtube.com/watch?v=GgfXTD9sXQ4"
+    },
+    "percentToQualify": 66
+  },
+  "naksugwork": {
+    "records": [],
+    "verifier": {
+      "verifier": "Midgatal",
+      "verification": "https://www.youtube.com/watch?v=BmRoiqUzxXw"
+    },
+    "percentToQualify": 66
+  },
+  "Greenos": {
+    "records": [],
+    "verifier": {
+      "verifier": "ava",
+      "verification": "https://www.youtube.com/watch?v=ecOUdZe8XJA"
+    },
+    "percentToQualify": 66
+  },
+  "Silent Poltergeist (True Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=riEvOUuBKRY"
+    },
+    "percentToQualify": 66
+  },
+  "Peruvian Breaker": {
+    "records": [],
+    "verifier": {
+      "verifier": "SebasLopez",
+      "verification": "https://www.youtube.com/watch?v=0TAIbT_c2GU"
+    },
+    "percentToQualify": 66
+  },
+  "The Solar Wind": {
+    "records": [],
+    "verifier": {
+      "verifier": "PulseGD",
+      "verification": "https://www.youtube.com/watch?v=Ay7hA-EyZls"
+    },
+    "percentToQualify": 66
+  },
+  "Ashley Graves": {
+    "records": [],
+    "verifier": {
+      "verifier": "1rr3v3rs1bl3",
+      "verification": "https://www.youtube.com/watch?v=JSa3kVy8HKY"
+    },
+    "percentToQualify": 66
+  },
+  "BLUE Cataclysm": {
+    "records": [],
+    "verifier": {
+      "verifier": "† 𓆩Lexy𓆪 †",
+      "verification": "https://www.youtube.com/watch?v=oiRoxHk-3mI"
+    },
+    "percentToQualify": 66
+  },
+  "Lilac Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "† 𓆩Lexy𓆪 †",
+      "verification": "https://www.youtube.com/watch?v=oiRoxHk-3mI"
+    },
+    "percentToQualify": 66
+  },
+  "Acu 2": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=DVK5pkI8x-M"
+    },
+    "percentToQualify": 66
+  },
+  "Ace": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kaiwala",
+      "verification": "https://www.youtube.com/watch?v=GuddY30oiMg"
     },
     "percentToQualify": 66
   }

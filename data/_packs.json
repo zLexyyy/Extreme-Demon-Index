@@ -237,13 +237,13 @@
         "name": "Where Is The Gameplay? I",
         "color": "#ffffff",
         "textColor": "#e2e2e2",
-        "levels": ["GONER", "BRUH", "GO bird", "Chub Chub", "M A N I X"]
+        "levels": ["Ephemeral Dream", "BRUH", "GO bird", "Chub Chub", "M A N I X"]
     },
     {
         "name": "Where Is The Gameplay? II",
         "color": "#ffffff",
         "textColor": "#e2e2e2",
-        "levels": ["FACESHOPPING", "the world caves in", "KULT", "of Ambrosia"]
+        "levels": ["FACESHOPPING", "the world caves in", "KULT", "of Ambrosia", "GONER"]
     },
     {
         "name": "The Tart Killers",
@@ -318,10 +318,34 @@
         "levels": ["Shukketsu", "Fragile (Endlevel)", "Gumi", "kowareta"]
     },
     {
-        "name": "Acu Pack",
+        "name": "Acu Pack I",
         "color": "#ffee00",
         "textColor": "#00f9ff",
-        "levels": ["Acude", "Acu", "Acu In The Mirror", "Acu Unleashed", "Whatsapp Acu"]
+        "levels": ["Acude", "Acu", "Acunt", "eAcu", "Hetero acu"]
+    },
+    {
+        "name": "Acu Pack II",
+        "color": "#ffee00",
+        "textColor": "#00f9ff",
+        "levels": ["Negaticu", "Ace", "nonbinary acu", "Trans Acu", "Whatsapp Acu"]
+    },
+    {
+        "name": "Acu Pack III",
+        "color": "#ffee00",
+        "textColor": "#00f9ff",
+        "levels": ["Acu on track", "Acu wave infinity v2", "Acu 2", "Lilac Acu", "Acu but good"]
+    },
+    {
+        "name": "Acu Pack IV",
+        "color": "#ffee00",
+        "textColor": "#00f9ff",
+        "levels": ["Acu In The Mirror", "imoneofthem challeng", "Acu Unleashed", "Acu but first timing"]
+    },
+    {
+        "name": "Acu Pack V",
+        "color": "#ffee00",
+        "textColor": "#00f9ff",
+        "levels": ["EKO", "Acugation", "Invisible Acu"]
     },
     {
         "name": "Crack Pack",
@@ -447,12 +471,12 @@
         "name": "Phonk Pack",
         "color": "#9B30FF",
         "textColor": "#0D4C4D",
-        "levels": ["Phonk Town", "Murder In My Mind", "MANGO PHONK HOUSE"]
+        "levels": ["Phonk Town", "Murder In My Mind", "MANGO PHONK HOUSE", "TROLLMACHINE", "unholy"]
     },
     {
         "name": "Repeat Pack",
         "color": "#4682B4",
-        "textColor": "#F5F5F5",
+        "textColor": "#838e97",
         "levels": ["Arctic Twice", "Acu is Dead", "is dead", "Bloodbath In Hell", "Poltergeist x3"]
     },
     {
@@ -500,7 +524,7 @@
     {
         "name": "Omori Pack",
         "color": "#D6CADD",
-        "textColor": "#1C1C1C",
+        "textColor": "#3e3e3e",
         "levels": ["Leave This Dream", "Pale Machine", "Black Space", "A Home For Flowers"]
     },
     {
@@ -627,7 +651,7 @@
         "name": "Femboy Pack",
         "color": "#FFB7CE",
         "textColor": "#A7C7E7",
-        "levels": ["Femboy Fantasy", "Blade of Femboy", "Femboy Friday"]
+        "levels": ["Femboy Fantasy", "Blade of Femboy", "Femboy Friday", "Femboy Circles"]
     },
     {
         "name": "Infinity Pack",
@@ -682,5 +706,263 @@
         "color": "#25D366",
         "textColor": "#86ffb3",
         "levels": ["Whatsapp Acu", "WhatsApp Breaker", "Evil Whatsapp mod"]
+    },
+    {
+        "name": "Mefewe Pack",
+        "color": "#0f495f",
+        "textColor": "#157da2",
+        "levels": ["Sonic Wave Mefewe (Sunix)", "Sonic Wave Mefewe (Clare)", "Sonic Wave Mefewe (Hipo)", "Sonic Wave Mefewe (Compendium)", "Sonic Wave Mefewe (Muffy450)"]
+    },
+    {
+        "name": "It Never Ends",
+        "color": "#2E3A59",
+        "textColor": "#b2ad8b",
+        "levels": ["Desert Bus (Ziegenhainy)", "Desert Bus (ASBCHazel)", "Purgatory (Ziegenhainy)"]
+    },
+    {
+        "name": "Z Pack I",
+        "color": "#7A0F1D",
+        "textColor": "#E6E6E6",
+        "levels": ["Money in the Redux z", "Elite Z Rebirth", "Elite Z", "Gunslinga Corridor Z", "Fusion Z"]
+    },
+    {
+        "name": "Z Pack II",
+        "color": "#1F2A44",
+        "textColor": "#878080",
+        "levels": ["TeaM Z", "Sailent Clubstar Z", "Avernus Z", "Death Corridor Z"]
+    },
+    {
+        "name": "Gardening Pack",
+        "color": "#5A7D3A",
+        "textColor": "#F2C94C",
+        "levels": ["gardening map", "gardening", "garden"]
+    },
+    {
+        "name": "Gay Pack",
+        "color": "#1F6AE0",
+        "textColor": "#FF4FA3",
+        "levels": ["Gay Cataclysm", "Gay Sweater Weather1", "Gay Acu", "Gay INNARDS", "Gaybath"]
+    },
+    {
+        "name": "Sonic Rainbow",
+        "color": "#002161",
+        "textColor": "#83acf9",
+        "levels": ["Amy Wave", "Benecio Wave", "Fernan Wave", "Sonic Wave (Sunix)", "Maricotas Wave"]
+    },
+    {
+        "name": "Solar Pack",
+        "color": "#E85D04",
+        "textColor": "#FFD166",
+        "levels": ["Solar Darknes", "Solarion", "Solar Circles XV", "Solar Cell", "Solar Flare (shmigels) (Solo)"]
+    },
+    {
+        "name": "The Hell Pack I",
+        "color": "#360000",
+        "textColor": "#9b0f0f",
+        "levels": ["The Hell Origin", "The Hell World", "The Hell Inferno", "The Hell Field", "The Hell Zone (Stormfly)"]
+    },
+    {
+        "name": "The Hell Pack II",
+        "color": "#360000",
+        "textColor": "#9b0f0f",
+        "levels": ["The Hell Crap", "The Hell Bird", "The Hell Tribute", "The Hell Nutz", "The Hell Jordans"]
+    },
+    {
+        "name": "The Hell Pack III",
+        "color": "#360000",
+        "textColor": "#9b0f0f",
+        "levels": ["The Hell World (Old)", "The Hell Aspiration", "The Hell Zone (Old)", "The Hell origin (Old)"]
+    },
+    {
+        "name": "Sun and Moon Pack",
+        "color": "#1E2A78",
+        "textColor": "#FFC857",
+        "levels": ["The Moon", "Moonburst", "Sunburst", "To The Blue Moon", "Shape of the Sun"]
+    },
+    {
+        "name": "Divine Pack",
+        "color": "#5A3FA3",
+        "textColor": "#c3ae7c",
+        "levels": ["Indivine", "Blue Suns Zenith", "In The Sky", "Divine Miracle"]
+    },
+    {
+        "name": "Nine Circles Pack I",
+        "color": "#1C1C1C",
+        "textColor": "#FF3C3C",
+        "levels": ["Blinding Lights", "Waters of Nazareth", "Cosmic Rift", "Silver Lights", "Bermuda"]
+    },
+    {
+        "name": "Nine Circles Pack II",
+        "color": "#4A0000",
+        "textColor": "#FF6666",
+        "levels": ["Jerbless Circles", "Perm circles", "Aldebaran", "The Solar Wind", "In Circles"]
+    },
+    {
+        "name": "Nine Circles Pack III",
+        "color": "#000000",
+        "textColor": "#39FF14",
+        "levels": ["static", "Evening Star", "Fearful Reflection", "Crimson Slate", "ReSubmission"]
+    },
+    {
+        "name": "Nine Circles Pack IV",
+        "color": "#0D1B2A",
+        "textColor": "#89CFF0",
+        "levels": ["Ithacropolis Circles", "Astrophobia", "White Walker", "Infinite Inversion", "Abandoned Planet"]
+    },
+    {
+        "name": "Nine Circles Pack V",
+        "color": "#330000",
+        "textColor": "#FF9900",
+        "levels": ["Surveillant", "Lavender Rush", "LAVABO", "Milanious", "Hyper Paradox"]
+    },
+    {
+        "name": "Nine Circles Pack VI",
+        "color": "#1F1F3A",
+        "textColor": "#FFD700",
+        "levels": ["Purgatory (DetroitMichigan)", "Fear Me Infinity", "Reflections (SirObsurd)", "Blazing Plasma", "Balengu Vortex"]
+    },
+    {
+        "name": "Nine Circles Pack VII",
+        "color": "#302f2f",
+        "textColor": "#FF00FF",
+        "levels": ["Crestfallen", "Astronaut Vortex", "Restrained Lineament", "Wozir Paracosm", "The Nebula"]
+    },
+    {
+        "name": "Nine Circles Pack VII",
+        "color": "#1f2720",
+        "textColor": "#5c8361",
+        "levels": ["Deadly Vortex", "Lost Beauty", "Friday Vortex", "Freezeflame Galaxy", "LEAN VORTEX"]
+    },
+    {
+        "name": "Nine Circles Pack IX",
+        "color": "#2d1649",
+        "textColor": "#4e00b2",
+        "levels": ["Golden Paracosm", "The Invincible", "Hyper Paracosm", "Aquatic Auroras", "Pervasive Tide"]
+    },
+    {
+        "name": "Nine Circles Pack X",
+        "color": "#340021",
+        "textColor": "#9e3376",
+        "levels": ["Toxic Core", "Melancholy", "Deep Bass", "Sonic Wave Eternity", "Ringy Paracosm"]
+    },
+    {
+        "name": "Nine Circles Pack XI",
+        "color": "#3e2e31",
+        "textColor": "#932337",
+        "levels": ["Cosmic Cyclone", "Axiom Asterism", "Cerise Cavern", "Crackhead Circles", "Cannon Bay"]
+    },
+    {
+        "name": "Nine Circles Pack XII",
+        "color": "#1d5747",
+        "textColor": "#8eaba3",
+        "levels": ["The Nautical", "C Sharp", "Zirconium Misery", "Acid Rain", "Disturb"]
+    },
+    {
+        "name": "Nine Circles Pack XII",
+        "color": "#191913",
+        "textColor": "#727272",
+        "levels": ["Eternal Flame", "Sakupen Circles fi", "Solar Flare (Linear2)", "The Hallucination", "Centipede"]
+    },
+    {
+        "name": "Polter Pack",
+        "color": "#1d1d1d",
+        "textColor": "#7e7e7e",
+        "levels": ["Silent poltergeist", "Silent Poltergeist (True Old)", "Poltergeist Reborn", "Poltergeist x3"]
+    },
+    {
+        "name": "Bass Pack",
+        "color": "#2B0A3D",
+        "textColor": "#00FFD5",
+        "levels": ["Dred Bass", "Low Bass", "Deep Bass"]
+    },
+    {
+        "name": "Pack 2",
+        "color": "#1c5348",
+        "textColor": "#1ABC9C",
+        "levels": ["Acude", "troll course", "Gay Sweater Weather1", "grey Cataclysm"]
+    },
+    {
+        "name": "Ashley Pack",
+        "color": "#e23bc3",
+        "textColor": "#ec7dff",
+        "levels": ["Ashley Graves", "Ashley Bath Trials", "Ashley Wave Trials"]
+    },
+    {
+        "name": "Lexycat Pack I",
+        "color": "#CDA4DE",
+        "textColor": "#FF69B4",
+        "levels": ["troll level", "Shaii", "OUT OF THIS WORLD", "BEELINE (2P)", "INTO PETALS"]
+    },
+    {
+        "name": "Lexycat Pack II",
+        "color": "#7EC8E3",
+        "textColor": "#FFF166",
+        "levels": ["moment", "hanabi", "Goodnight", "Troll Level Two", "THE MOONLIT ROSE"]
+    },
+    {
+        "name": "Lexycat Pack III",
+        "color": "#4B0082",
+        "textColor": "#00FFFF",
+        "levels": ["Incision", "Twilight", "Jasmine", "Dead Petals"]
+    },
+    {
+        "name": "Lexycat Pack IV",
+        "color": "#98FF98",
+        "textColor": "#FF6F61",
+        "levels": ["IRIS (KazaGD)", "VOID", "Shukketsu", "Midnight"]
+    },
+    {
+        "name": "Bete Noire Pack",
+        "color": "#140046",
+        "textColor": "#134dd1",
+        "levels": ["Bete Noire (ThePurgatory)", "Bete Noire (LordVadercraft)", "Bete Noire (Diamond)"]
+    },
+    {
+        "name": "Fexty Pack",
+        "color": "#3a3a3a",
+        "textColor": "#86878b",
+        "levels": ["Fexty auto", "Fexty", "Fexty II"]
+    },
+    {
+        "name": "ATOMIC CANNON Pack",
+        "color": "#FF6F00",
+        "textColor": "#39FF14",
+        "levels": ["ATOMIC CANNON", "ATOMIC CANNON Mk II", "ATOMIC CANNON Mk III", "CHEESE CANNON"]
+    },
+    {
+        "name": "Cold Sweat Pack",
+        "color": "#5DADE2",
+        "textColor": "#1C2833",
+        "levels": ["Shitty Cold Sweat", "Old Sweat", "Cold Sweat"]
+    },
+    {
+        "name": "Sweater Weather Pack",
+        "color": "#A28F85",
+        "textColor": "#d6c1a6",
+        "levels": ["Sweater Weather (VelYT)", "Gay Sweater Weather1", "Sweater Weather (qalli)"]
+    },
+    {
+        "name": "Consistency Pack",
+        "color": "#3B8C8A",
+        "textColor": "#FF8360",
+        "levels": ["PunchDrunk", "OVERKILL", "Grains of Sand"]
+    },
+    {
+        "name": "Zylenox Pack I",
+        "color": "#404040",
+        "textColor": "#a8a6a6",
+        "levels": ["Neferrous", "Master Duel (Solo)", "Annihilation Nation", "Triple Six", "Haymaker"]
+    },
+    {
+        "name": "Zylenox Pack II",
+        "color": "#660707",
+        "textColor": "#ff4a4a",
+        "levels": ["PunchDrunk", "The Big Black (Zylenox)", "Necrocide", "Berserk", "Exens Limit"]
+    },
+    {
+        "name": "Christmas Pack",
+        "color": "#0B6623",
+        "textColor": "#FF2B2B",
+        "levels": ["SANTA FE", "snowing in las vegas", "Wintertime"]
     }
 ]
