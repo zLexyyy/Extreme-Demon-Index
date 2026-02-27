@@ -11199,8 +11199,8 @@
   },
   "Low Tide Interlude": {
     "verifier": {
-      "verifier": "OniLink",
-      "verification": "https://www.youtube.com/watch?v=Y5XnEv6wXz8&t"
+      "verifier": "Plosive",
+      "verification": "https://www.youtube.com/watch?v=jw4Ycqz3T3Y"
     },
     "records": [],
     "percentToQualify": 66
@@ -19664,7 +19664,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Void Timelapse": {
+  "Void Timelapse (Old)": {
     "verifier": {
       "verifier": "BONN GD",
       "verification": "https://www.youtube.com/watch?v=Nsz_hcZ1MGM"
@@ -35689,7 +35689,7 @@
     },
     "percentToQualify": 66
   },
-  "Flamewall": {
+  "Flamewall (Old)": {
     "records": [],
     "verifier": {
       "verifier": "Cuatrocientos",
@@ -39111,7 +39111,7 @@
     },
     "percentToQualify": 66
   },
-  "Sonic Wave Mefewe (Compendium)": {
+  "Sonic Wave Mefewe (Compendium) (Old)": {
     "records": [],
     "verifier": {
       "verifier": "Hipo",
