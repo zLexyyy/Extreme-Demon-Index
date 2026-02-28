@@ -34421,7 +34421,13 @@
         "link": "https://youtu.be/EVMa4E5wgoU?si=R5UCNIhonKxFW_RM",
         "percent": 100,
         "hz": 144
-      }
+      },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/fx-K8DWBAGc",
+            "percent": 100,
+            "hz": 240
+        }
     ],
     "verifier": {
       "verifier": "bnuuy",
@@ -36937,7 +36943,14 @@
     "percentToQualify": 66
   },
   "Never Be Alone": {
-    "records": [],
+    "records": [
+         {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/TUSv0lAJdhk?si=KIvwLbDSwZNOar1N"
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "zwatefau",
       "verification": "https://www.youtube.com/watch?v=zUXRFRIlxsE"
@@ -40453,7 +40466,14 @@
     "percentToQualify": 66
   },
   "Gay Acu": {
-    "records": [],
+    "records": [
+         {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/wKURJToRA3k?si=_mlmo2zwpeSLva5Q",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "MikuDemon",
       "verification": "https://www.youtube.com/watch?v=KEFvo4eHMmg"
