@@ -37970,7 +37970,14 @@
     "percentToQualify": 66
   },
   "Sonic Wave Eternity": {
-    "records": [],
+    "records": [
+        {
+        "user": "majin",
+        "link": "https://www.youtube.com/watch?v=SVXohyzir5k",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "verifier": {
       "verifier": "Jevan",
       "verification": "https://www.youtube.com/watch?v=JT-G06CBa1Y"
