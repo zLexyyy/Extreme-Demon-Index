@@ -35310,7 +35310,14 @@
     "percentToQualify": 66
   },
   "Forever": {
-    "records": [],
+    "records": [
+        {
+        "user": "Drongostache",
+        "link": "https://youtu.be/rAeR9DAhe9s?si=F1uNamxMkisvw3zU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Worsedeath",
       "verification": "https://www.youtube.com/watch?v=68YWbG1HDqU"
