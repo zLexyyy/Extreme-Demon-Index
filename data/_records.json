@@ -3175,7 +3175,13 @@
         "link": "https://www.youtube.com/watch?v=ZVNEDV8wAwU",
         "percent": 100,
         "hz": 360
-      }
+      },
+         {
+        "user": "Adhafera",
+        "link": "https://youtu.be/kKks5KDTCwc",
+        "percent": 100,
+        "hz": 240
+         }
     ],
     "percentToQualify": 67
   },
@@ -10708,7 +10714,14 @@
       "verifier": "TGI",
       "verification": "https://www.youtube.com/watch?v=A1eSzRM7LzA"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/T_dJFOehkhw",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Fumetsu": {
@@ -31747,6 +31760,12 @@
         "link": "https://www.youtube.com/watch?v=-fA-JiGGP4c",
         "percent": 100,
         "hz": 360
+      },
+        {
+        "user": "QueVy",
+        "link": "https://youtu.be/FxRhAPkaRb0c",
+        "percent": 100,
+        "hz": 480
       }
     ],
     "percentToQualify": 66
@@ -35345,7 +35364,14 @@
     "percentToQualify": 66
   },
   "Forever": {
-    "records": [],
+    "records": [
+        {
+        "user": "Drongostache",
+        "link": "https://youtu.be/rAeR9DAhe9s?si=F1uNamxMkisvw3zU",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Worsedeath",
       "verification": "https://www.youtube.com/watch?v=68YWbG1HDqU"
@@ -37990,7 +38016,14 @@
     "percentToQualify": 66
   },
   "Sonic Wave Eternity": {
-    "records": [],
+    "records": [
+        {
+        "user": "majin",
+        "link": "https://www.youtube.com/watch?v=SVXohyzir5k",
+        "percent": 100,
+        "hz": 480
+      }
+    ],
     "verifier": {
       "verifier": "Jevan",
       "verification": "https://www.youtube.com/watch?v=JT-G06CBa1Y"
