@@ -20971,7 +20971,13 @@
         "link": "https://www.youtube.com/watch?v=_OaSsSB49r4",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/0VOEod2ef-4",
+        "percent": 100,
+        "hz": 240
+        }
     ],
     "percentToQualify": 66
   },
