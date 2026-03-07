@@ -12821,7 +12821,14 @@
       "verifier": "Wolvez",
       "verification": "https://www.youtube.com/watch?v=-N6bcKtZAqIif"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://www.youtube.com/watch?v=4ocDqwywIM8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Terrorforce": {
