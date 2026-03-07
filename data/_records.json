@@ -32042,7 +32042,13 @@
         "link": "https://www.youtube.com/watch?v=Do7XDxLxqhU",
         "percent": 100,
         "hz": 360
-      }
+      },
+    {
+        "user": "cooked bread",
+        "link": "https://www.youtube.com/live/LOScGcIh1gk",
+        "percent": 100,
+        "hz": 144
+    }
     ],
     "percentToQualify": 66
   },
