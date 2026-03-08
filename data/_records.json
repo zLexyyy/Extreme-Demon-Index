@@ -2415,7 +2415,14 @@
       "verifier": "Atomic",
       "verification": "https://www.youtube.com/watch?v=iHf2nanWjvE"
     },
-    "records": [],
+    "records": [
+         {
+        "user": "LSolarX",
+        "link": "https://www.youtube.com/watch?v=1Besc2l50Eg&t=1s",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 68
   },
   "buffed qoUEO": {
