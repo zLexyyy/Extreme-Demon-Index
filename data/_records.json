@@ -2415,7 +2415,14 @@
       "verifier": "Atomic",
       "verification": "https://www.youtube.com/watch?v=iHf2nanWjvE"
     },
-    "records": [],
+    "records": [
+         {
+        "user": "LSolarX",
+        "link": "https://www.youtube.com/watch?v=1Besc2l50Eg&t=1s",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 68
   },
   "buffed qoUEO": {
@@ -12821,7 +12828,14 @@
       "verifier": "Wolvez",
       "verification": "https://www.youtube.com/watch?v=-N6bcKtZAqIif"
     },
-    "records": [],
+    "records": [
+        {
+        "user": "Adhafera",
+        "link": "https://www.youtube.com/watch?v=4ocDqwywIM8",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "Terrorforce": {
@@ -20964,7 +20978,13 @@
         "link": "https://www.youtube.com/watch?v=_OaSsSB49r4",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "Adhafera",
+        "link": "https://youtu.be/0VOEod2ef-4",
+        "percent": 100,
+        "hz": 240
+        }
     ],
     "percentToQualify": 66
   },
@@ -29938,7 +29958,13 @@
         "link": "https://www.youtube.com/watch?v=i0MF7LQuYZE",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "Omipious",
+        "link": "https://www.youtube.com/watch?v=IbMeEuZIstw",
+        "percent": 100,
+        "hz": 240
+        }
     ],
     "percentToQualify": 66
   },
@@ -32023,7 +32049,13 @@
         "link": "https://www.youtube.com/watch?v=Do7XDxLxqhU",
         "percent": 100,
         "hz": 360
-      }
+      },
+    {
+        "user": "cooked bread",
+        "link": "https://www.youtube.com/live/LOScGcIh1gk",
+        "percent": 100,
+        "hz": 144
+    }
     ],
     "percentToQualify": 66
   },
@@ -39748,7 +39780,14 @@
     "percentToQualify": 66
   },
   "Rigel (Old)": {
-    "records": [],
+    "records": [
+        {
+        "user": "GDSpar",
+        "link": "https://youtu.be/BVyn2sIVpXw?si=q0HSFa1AwrcCgAtB",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Dan2D",
       "verification": "https://www.youtube.com/watch?v=VmYt32YBpSE"
