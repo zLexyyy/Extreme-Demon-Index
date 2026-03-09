@@ -680,7 +680,7 @@
     "records": [],
     "percentToQualify": 65
   },
-  "Centipede": {
+  "Centipede (zander12)": {
     "verifier": {
       "verifier": "LordVadercraft",
       "verification": "https://www.youtube.com/watch?v=eLGr383CmyM"
@@ -1153,7 +1153,7 @@
   },
   "E N D": {
     "verifier": {
-      "verifier": "Karmakaze",
+      "verifier": "Karma",
       "verification": "https://www.youtube.com/watch?v=CQsy56smO3E"
     },
     "records": [],
@@ -31179,7 +31179,7 @@
     ],
     "percentToQualify": 66
   },
-  "White Album": {
+  "White Album (Old)": {
     "verifier": {
       "verifier": "JAVP",
       "verification": "https://www.youtube.com/watch?v=9jpS20kBX4g"
@@ -34871,7 +34871,7 @@
   "Shitty lobotomy": {
     "records": [],
     "verifier": {
-      "verifier": "PhysixX",
+      "verifier": "TheShadowRealm",
       "verification": "https://www.youtube.com/watch?v=fm7Cj_7Dnoc"
     },
     "percentToQualify": 66
@@ -36618,7 +36618,7 @@
     },
     "percentToQualify": 66
   },
-  "Shitty Flamewall": {
+  "Shitty Flamewall (Deceit)": {
     "records": [],
     "verifier": {
       "verifier": "Oblivionus",
@@ -40884,6 +40884,86 @@
     "verifier": {
       "verifier": "jah",
       "verification": "https://www.youtube.com/watch?v=ROqXmkPT1LA"
+    },
+    "percentToQualify": 66
+  },
+  "Amethyst (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "wPopoff",
+      "verification": "https://www.youtube.com/watch?v=4lfkzz1VCbA"
+    },
+    "percentToQualify": 66
+  },
+  "D Delusion": {
+    "records": [],
+    "verifier": {
+      "verifier": "beastdrummer2",
+      "verification": "https://www.youtube.com/watch?v=fiq9djFN-Sg"
+    },
+    "percentToQualify": 66
+  },
+  "Eternal Moment LDM": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zoink",
+      "verification": "https://www.youtube.com/watch?v=Oe576LtRS8A"
+    },
+    "percentToQualify": 66
+  },
+  "Krypton": {
+    "records": [],
+    "verifier": {
+      "verifier": "Livyoshi",
+      "verification": "https://www.youtube.com/watch?v=UUo2jRFdXzw"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Flamewall (prinTiSt)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ThePaperDasher",
+      "verification": "https://www.youtube.com/watch?v=j1hnwmuGjeA"
+    },
+    "percentToQualify": 66
+  },
+  "Vehemence Easy": {
+    "records": [],
+    "verifier": {
+      "verifier": "Demonmobile3",
+      "verification": "https://www.youtube.com/watch?v=eVCNAg0NmSw"
+    },
+    "percentToQualify": 66
+  },
+  "Library II": {
+    "records": [],
+    "verifier": {
+      "verifier": "YakobNugget",
+      "verification": "https://www.youtube.com/watch?v=bUzBxLa9DfA"
+    },
+    "percentToQualify": 66
+  },
+  "Phonk Town (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "LordVadercraft",
+      "verification": "https://www.youtube.com/watch?v=p6FFATRGP3U&feature=youtu.be"
+    },
+    "percentToQualify": 66
+  },
+  "Fricked Funk II": {
+    "records": [],
+    "verifier": {
+      "verifier": "MythicalWrath",
+      "verification": "https://youtu.be/PpX9oXFL0YQ"
+    },
+    "percentToQualify": 66
+  },
+  "CENTIPEDE (tenzhii)": {
+    "records": [],
+    "verifier": {
+      "verifier": "tenzhii",
+      "verification": "https://youtu.be/to1pZatMXoY?is=mQWbfk-ZEW_EjSqY"
     },
     "percentToQualify": 66
   }
