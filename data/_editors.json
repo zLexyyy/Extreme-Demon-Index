@@ -10,9 +10,9 @@
         "link": ""
     },
     {
-        "role": "helper",
-        "name": "chlowoe",
-        "link": "https://www.youtube.com/channel/UCg78hS6Jl_B-dYrzwWjgZ2Q"
+        "role": "mod",
+        "name": "abcpro",
+        "link": "https://www.youtube.com/channel/UCzRJpFKFgndh9bRGE8HKfIQ"
     },
     {
         "role": "helper",
@@ -21,17 +21,57 @@
     },
     {
         "role": "helper",
-        "name": "abcpro",
-        "link": "https://www.youtube.com/channel/UCzRJpFKFgndh9bRGE8HKfIQ"
-    },
-    {
-        "role": "helper",
         "name": "Tucosifo",
         "link": "https://www.youtube.com/channel/UCe0ZRVNT6SJCTXfJ0iBJoEQ"
     },
     {
+        "role": "helper",
+        "name": "Gosdas",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "Mythic",
+        "link": "https://www.youtube.com/channel/UCTEU0aEObLtBPfhW7ETfyQA"
+    },
+    {
+        "role": "helper",
+        "name": "Meatballmoose",
+        "link": "https://www.youtube.com/@meatballmoose"
+    },
+    {
+        "role": "helper",
+        "name": "necrozma",
+        "link": "https://www.youtube.com/channel/UCa8NoPR88yNMjify4lTzXQQ"
+    },
+    {
+        "role": "helper",
+        "name": "MysteriousMercenary",
+        "link": "https://www.youtube.com/@CubePanion"
+    },
+    {
+        "role": "helper",
+        "name": "Irreversible",
+        "link": "https://youtube.com/@1rr3v3rs1bl3?si=lf4n8FXHzygLFG6g"
+    },
+    {
         "role": "dev",
         "name": "onellyn",
+        "link": ""
+    },
+    {
+        "role": "dev",
+        "name": "KrisGra",
+        "link": "https://www.youtube.com/channel/UCrB80p9IxnDthH551FpqlwQ"
+    },
+    {
+        "role": "dev",
+        "name": "Anticroom",
+        "link": "https://youtube.com/@anticroom.1"
+    },
+    {
+        "role": "dev",
+        "name": "yuptune",
         "link": ""
     }
 ]
