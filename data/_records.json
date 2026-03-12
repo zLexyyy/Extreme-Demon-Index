@@ -2416,7 +2416,7 @@
       "verification": "https://www.youtube.com/watch?v=iHf2nanWjvE"
     },
     "records": [
-         {
+      {
         "user": "LSolarX",
         "link": "https://www.youtube.com/watch?v=1Besc2l50Eg&t=1s",
         "percent": 100,
@@ -7244,7 +7244,7 @@
     "records": [],
     "percentToQualify": 66
   },
-  "Death Corridor Unner": {
+  "Death Corridor (Unnerfed)": {
     "verifier": {
       "verifier": "Mentrillum",
       "verification": "https://www.youtube.com/watch?v=0lqTWW-MJrs"
@@ -12829,7 +12829,7 @@
       "verification": "https://www.youtube.com/watch?v=-N6bcKtZAqIif"
     },
     "records": [
-        {
+      {
         "user": "Adhafera",
         "link": "https://www.youtube.com/watch?v=4ocDqwywIM8",
         "percent": 100,
@@ -20979,12 +20979,12 @@
         "percent": 100,
         "hz": 360
       },
-        {
+      {
         "user": "Adhafera",
         "link": "https://youtu.be/0VOEod2ef-4",
         "percent": 100,
         "hz": 240
-        }
+      }
     ],
     "percentToQualify": 66
   },
@@ -21180,7 +21180,7 @@
     ],
     "percentToQualify": 66
   },
-  "Blaze": {
+  "Blaze (Paroxysmal)": {
     "verifier": {
       "verifier": "Dorami",
       "verification": "https://www.youtube.com/watch?v=OnxOk3IKlbE"
@@ -29959,12 +29959,12 @@
         "percent": 100,
         "hz": 360
       },
-        {
+      {
         "user": "Omipious",
         "link": "https://www.youtube.com/watch?v=IbMeEuZIstw",
         "percent": 100,
         "hz": 240
-        }
+      }
     ],
     "percentToQualify": 66
   },
@@ -32050,12 +32050,12 @@
         "percent": 100,
         "hz": 360
       },
-    {
+      {
         "user": "cooked bread",
         "link": "https://www.youtube.com/live/LOScGcIh1gk",
         "percent": 100,
         "hz": 144
-    }
+      }
     ],
     "percentToQualify": 66
   },
@@ -39781,7 +39781,7 @@
   },
   "Rigel (Old)": {
     "records": [
-        {
+      {
         "user": "GDSpar",
         "link": "https://youtu.be/BVyn2sIVpXw?si=q0HSFa1AwrcCgAtB",
         "percent": 100,
@@ -41003,6 +41003,150 @@
     "verifier": {
       "verifier": "tenzhii",
       "verification": "https://youtu.be/to1pZatMXoY?is=mQWbfk-ZEW_EjSqY"
+    },
+    "percentToQualify": 66
+  },
+  "PENUMBRAL": {
+    "records": [],
+    "verifier": {
+      "verifier": "w3rty",
+      "verification": "https://www.youtube.com/watch?v=nVHPFf13M-I"
+    },
+    "percentToQualify": 66
+  },
+  "Brain Explosion": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=rXEzCxArfTg"
+    },
+    "percentToQualify": 66
+  },
+  "Gracefully (True Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "vaen",
+      "verification": "https://www.youtube.com/watch?v=Y_UMQfmEHm8"
+    },
+    "percentToQualify": 66
+  },
+  "Gracefully (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "theworldofme",
+      "verification": "https://www.youtube.com/watch?v=ILzPn3Ig-D8"
+    },
+    "percentToQualify": 66
+  },
+  "Dual Pulse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jtarin",
+      "verification": "https://www.youtube.com/watch?v=CRLoL1gnuiE"
+    },
+    "percentToQualify": 66
+  },
+  "Charge": {
+    "records": [],
+    "verifier": {
+      "verifier": "Litoks",
+      "verification": "https://www.youtube.com/watch?v=lndAm-0wVfY"
+    },
+    "percentToQualify": 66
+  },
+  "Bordon Factory": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bordonn",
+      "verification": "https://www.youtube.com/watch?v=1C8WLzwWnwY"
+    },
+    "percentToQualify": 66
+  },
+  "MultiBath": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sunix",
+      "verification": "https://www.youtube.com/watch?v=tv68xHV2hts"
+    },
+    "percentToQualify": 66
+  },
+  "kuiper belt": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nordgeez",
+      "verification": "https://www.youtube.com/watch?v=lYJQXXNTg2U"
+    },
+    "percentToQualify": 66
+  },
+  "Carmine Cascade": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zephal",
+      "verification": "https://www.youtube.com/watch?v=W2MqG0G9r2o"
+    },
+    "percentToQualify": 66
+  },
+  "Natural Disaster Easy": {
+    "records": [],
+    "verifier": {
+      "verifier": "Demonmobile3",
+      "verification": "https://www.youtube.com/watch?v=apHTB2VOq1M"
+    },
+    "percentToQualify": 66
+  },
+  "Titanic Thunderstorm": {
+    "records": [],
+    "verifier": {
+      "verifier": "LastPrismAlex",
+      "verification": "https://www.youtube.com/watch?v=PJJkQ8bZbvw"
+    },
+    "percentToQualify": 66
+  },
+  "Blaze (kasiaUwU)": {
+    "records": [],
+    "verifier": {
+      "verifier": "kas ia",
+      "verification": "https://www.youtube.com/watch?v=ADcz70N-d0s"
+    },
+    "percentToQualify": 66
+  },
+  "Fexty (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Superex",
+      "verification": "https://www.youtube.com/watch?v=bwSnZI89ySY"
+    },
+    "percentToQualify": 66
+  },
+  "BLIND": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dehznik",
+      "verification": "https://www.youtube.com/watch?v=YG1102XJLn0"
+    },
+    "percentToQualify": 66
+  },
+  "Gangnam Style": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zyphur",
+      "verification": "https://www.youtube.com/watch?v=seHi10BssQk"
+    },
+    "percentToQualify": 66
+  },
+  "PARADISE POINT": {
+    "records": [],
+    "verifier": {
+      "verifier": "xenbez7",
+      "verification": "https://www.youtube.com/watch?v=0hFUvroZNb4"
+    },
+    "percentToQualify": 66
+  },
+  "Lost Mist": {
+    "records": [],
+    "verifier": {
+      "verifier": "Flixmurray",
+      "verification": "https://www.youtube.com/watch?v=XZNHahF4a0A"
     },
     "percentToQualify": 66
   }
