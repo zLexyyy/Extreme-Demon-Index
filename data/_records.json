@@ -16889,7 +16889,7 @@
         "percent": 100,
         "hz": 360
       },
-          {
+      {
         "user": "cooked bread",
         "link": "https://www.youtube.com/watch?v=dfNjsyYH3dY",
         "percent": 100,
@@ -41153,6 +41153,126 @@
     "verifier": {
       "verifier": "Flixmurray",
       "verification": "https://www.youtube.com/watch?v=XZNHahF4a0A"
+    },
+    "percentToQualify": 66
+  },
+  "Sakupen Circles (Ayrelia)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ad3usgmd",
+      "verification": "https://www.youtube.com/watch?v=7pojBhSqnyU"
+    },
+    "percentToQualify": 66
+  },
+  "Abandoned Corridor (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mentrillum",
+      "verification": "https://www.youtube.com/watch?v=gQL6N_EBkDQ"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty NEUTRA (slshswan)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dandy Chiggins",
+      "verification": "https://www.youtube.com/watch?v=zFTsd3rEkvE"
+    },
+    "percentToQualify": 66
+  },
+  "Black Blizzardement": {
+    "records": [],
+    "verifier": {
+      "verifier": "ZertroX",
+      "verification": "https://www.youtube.com/watch?v=rcVLfI7dQys"
+    },
+    "percentToQualify": 66
+  },
+  "AOI": {
+    "records": [],
+    "verifier": {
+      "verifier": "DibiiziCookie",
+      "verification": "https://www.youtube.com/watch?v=EAwOLl3LF8o"
+    },
+    "percentToQualify": 66
+  },
+  "Next Stage": {
+    "records": [],
+    "verifier": {
+      "verifier": "spcreat",
+      "verification": "https://www.youtube.com/watch?v=N873EQB21Yo"
+    },
+    "percentToQualify": 66
+  },
+  "lacy": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shira",
+      "verification": "https://www.youtube.com/watch?v=lK_L9o9lViY"
+    },
+    "percentToQualify": 66
+  },
+  "cloud": {
+    "records": [],
+    "verifier": {
+      "verifier": "crusso",
+      "verification": "https://www.youtube.com/watch?v=PWX6OevHu9g"
+    },
+    "percentToQualify": 66
+  },
+  "Mlg Swag Circles (Buff)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Sulky",
+      "verification": "https://www.youtube.com/watch?v=164zBJLRvQ4"
+    },
+    "percentToQualify": 66
+  },
+  "Chromatic": {
+    "records": [],
+    "verifier": {
+      "verifier": "orangutang",
+      "verification": "https://www.youtube.com/watch?v=fiR6jQfXaD4"
+    },
+    "percentToQualify": 66
+  },
+  "Blacklights (LZyphR)": {
+    "records": [],
+    "verifier": {
+      "verifier": "STORrm",
+      "verification": "https://www.youtube.com/watch?v=5vpmyHFUY3o"
+    },
+    "percentToQualify": 66
+  },
+  "UNDISCOVERED": {
+    "records": [],
+    "verifier": {
+      "verifier": "Xaldz",
+      "verification": "https://www.youtube.com/watch?v=OjD_F475PRQ"
+    },
+    "percentToQualify": 66
+  },
+  "Melancholy (FuriousFurii)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lonhi",
+      "verification": "https://www.youtube.com/watch?v=LNsBJ60vUkU"
+    },
+    "percentToQualify": 66
+  },
+  "USKCspamouement": {
+    "records": [],
+    "verifier": {
+      "verifier": "rob01",
+      "verification": "https://www.youtube.com/watch?v=uOJ-XrJS--I"
+    },
+    "percentToQualify": 66
+  },
+  "DeCode x20": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheShadowRealm",
+      "verification": "https://www.youtube.com/watch?v=xyG-vwYrm5Y"
     },
     "percentToQualify": 66
   }
