@@ -35414,7 +35414,14 @@
     "percentToQualify": 66
   },
   "unnerfed BLAST PROC": {
-    "records": [],
+    "records": [
+                {
+            "user": "tFluffy",
+            "link": "https://youtu.be/7Xw9ZeGztvQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
     "verifier": {
       "verifier": "WatchPiggy",
       "verification": "https://www.youtube.com/watch?v=mCmMwoknRBc"
@@ -41321,14 +41328,6 @@
     "verifier": {
       "verifier": "ddlghl",
       "verification": "https://www.youtube.com/watch?v=LZcJ6I_vRVc&feature=youtu.be"
-    },
-    "percentToQualify": 66
-    },
-  "unnerfed BLAST PROC": {
-    "records": [],
-    "verifier": {
-      "verifier": "tFluffy",
-      "verification": "https://youtu.be/7Xw9ZeGztvQ"
     },
     "percentToQualify": 66
   }
