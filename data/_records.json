@@ -2421,6 +2421,12 @@
         "link": "https://www.youtube.com/watch?v=1Besc2l50Eg&t=1s",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "Willow",
+        "link": "https://youtu.be/f3129KstaZU",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 68
@@ -9291,6 +9297,12 @@
         "link": "https://www.youtube.com/watch?v=vs_01g6eT0Y",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Adhafera",
+        "link": "https://youtu.be/B1M1Ekp0HCU",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -15656,6 +15668,12 @@
         "link": "https://www.youtube.com/watch?v=a9UwwFKkdow",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "Willow",
+        "link": "https://youtu.be/RSk9Rw4uqvo?si=zF39A2aqInLl8gmp",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -21244,7 +21262,14 @@
       "verifier": "DaveSethGD",
       "verification": "https://www.youtube.com/watch?v=9pMKklSDlCA"
     },
-    "records": [],
+    "records": [
+      {
+        "user": "macaca",
+        "link": "https://youtu.be/N6fDjHo8mzk?t=204&si=0INSwoeTpybRZpbh",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "percentToQualify": 66
   },
   "BRAINROT": {
@@ -21486,6 +21511,12 @@
         "link": "https://www.youtube.com/watch?v=PoImm487HtE",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "macaca",
+        "link": "https://youtu.be/uGima-e8bUk?si=ZZrj7Lyufrs4R9Ru",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -31696,6 +31727,12 @@
         "link": "https://youtu.be/mT197XEUUvI?si=Lc4wvJToAcRjBnEh",
         "percent": 100,
         "hz": 360
+      },
+      {
+        "user": "macaca",
+        "link": "https://youtu.be/_lkHUQ-FJ4o?si=h40WeXyTm7Yh8Bec",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -34047,7 +34084,14 @@
     "percentToQualify": 66
   },
   "Shitty Sazerix": {
-    "records": [],
+    "records": [
+        {
+        "user": "Willow",
+        "link": "https://youtu.be/8GNzLi4Aaac",
+        "percent": 100,
+        "hz": 360
+      }
+    ],
     "verifier": {
       "verifier": "zFhyr",
       "verification": "https://www.youtube.com/watch?v=IqK3courbcM"
@@ -34477,7 +34521,14 @@
     "percentToQualify": 66
   },
   "Shitty kowareta": {
-    "records": [],
+    "records": [
+              {
+            "user": "Willow",
+            "link": "https://youtu.be/hUXKR5DTSys?t=194",
+            "percent": 100,
+            "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "FrenchFry",
       "verification": "https://www.youtube.com/watch?v=MxQG7oFD29c"
@@ -34583,6 +34634,12 @@
         "link": "https://youtu.be/fx-K8DWBAGc",
         "percent": 100,
         "hz": 240
+      },
+      {
+            "user": "Willow",
+            "link": "https://youtu.be/Jf9iNJfhSOQ",
+            "percent": 100,
+            "hz": 240
       }
     ],
     "verifier": {
@@ -34640,7 +34697,14 @@
     "percentToQualify": 66
   },
   "Shitty Sonic Wave (revalutionary)": {
-    "records": [],
+    "records": [
+      {
+        "user": "Willow",
+        "link": "https://youtu.be/4Sdcl7GKH70",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "Gamer2052",
       "verification": "https://www.youtube.com/watch?v=BDBYHtNSoEs"
@@ -34735,7 +34799,14 @@
     "percentToQualify": 66
   },
   "Shitty The Rupture": {
-    "records": [],
+    "records": [
+      {
+        "user": "Willow",
+        "link": "https://youtu.be/hUXKR5DTSys?t=194",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "xcl_0624",
       "verification": "https://www.youtube.com/watch?v=CJx8nglZTdk"
@@ -34995,7 +35066,14 @@
     "percentToQualify": 66
   },
   "Shitty SHATTER": {
-    "records": [],
+    "records": [
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/5V581a92WAY ",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
     "verifier": {
       "verifier": "Lil_Creator",
       "verification": "https://www.youtube.com/watch?v=E-nPQ0OPY2k"
@@ -35011,7 +35089,14 @@
     "percentToQualify": 66
   },
   "Shitty Firework": {
-    "records": [],
+    "records": [
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/ZFqyD9pHKco?t=134",
+            "percent": 100,
+            "hz": 360
+        }
+    ],
     "verifier": {
       "verifier": "Kobra456",
       "verification": "https://www.youtube.com/watch?v=v9TkqNDg-lI"
@@ -35415,11 +35500,17 @@
   },
   "unnerfed BLAST PROC": {
     "records": [
-                {
+        {
             "user": "tFluffy",
             "link": "https://youtu.be/7Xw9ZeGztvQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/bz6k_UA1gzA?si=lZR2WKuvTigipR6B",
+            "percent": 100,
+            "hz": 240
         }
     ],
     "verifier": {
@@ -40796,7 +40887,14 @@
     "percentToQualify": 66
   },
   "Convulsing Light": {
-    "records": [],
+    "records": [
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/wNgtw6f4PKY",
+            "percent": 100,
+            "hz": 240
+        }
+    ],
     "verifier": {
       "verifier": "MrSpaghetti",
       "verification": "https://www.youtube.com/watch?v=ZVcyHxw_XAU"
