@@ -40798,7 +40798,7 @@
     },
     "percentToQualify": 66
   },
-  "Blue Noah": {
+  "Blue Noah (No RT)": {
     "records": [],
     "verifier": {
       "verifier": "Squeeg",
@@ -41426,6 +41426,14 @@
     "verifier": {
       "verifier": "ddlghl",
       "verification": "https://www.youtube.com/watch?v=LZcJ6I_vRVc&feature=youtu.be"
+    },
+    "percentToQualify": 66
+    },
+    "Outbreak Perfected (No RT)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Squeeg",
+      "verification": "https://www.youtube.com/watch?v=7ewj_I-P5Pc&lc=UgyH3vGFnyL9y1aGt3Z4AaABAg"
     },
     "percentToQualify": 66
   }
