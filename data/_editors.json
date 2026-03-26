@@ -6,13 +6,13 @@
     },
     {
         "role": "admin",
-        "name": "Squeeg",
-        "link": "https://www.youtube.com/channel/UCCkIsVA7hh8epa3Tf4xT9GA/"
-    },
-    {
-        "role": "admin",
         "name": "onellyn",
         "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "Squeeg",
+        "link": "https://www.youtube.com/channel/UCCkIsVA7hh8epa3Tf4xT9GA/"
     },
     {
         "role": "helper",
