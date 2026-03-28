@@ -39487,7 +39487,14 @@
     "percentToQualify": 66
   },
   "eAcu": {
-    "records": [],
+    "records": [
+         {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=0YruZbyUNUY",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "AlejandroGD",
       "verification": "https://www.youtube.com/watch?v=SHrbm32yzkk"
@@ -40404,7 +40411,14 @@
     "percentToQualify": 66
   },
   "Negaticu": {
-    "records": [],
+    "records": [
+         {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=YRX2v3gxAXw",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "luminous",
       "verification": "https://www.youtube.com/watch?v=QLeHeqFSzHo"
@@ -40424,6 +40438,12 @@
       {
         "user": "shafikdabest",
         "link": "https://youtu.be/UmbP-uZMLiM?si=oxNC4u5cjcGOacsH",
+        "percent": 100,
+        "hz": 240
+      },
+         {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=YRX2v3gxAXw",
         "percent": 100,
         "hz": 240
       }
