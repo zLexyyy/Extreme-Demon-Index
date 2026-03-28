@@ -21902,6 +21902,12 @@
         "link": "https://www.youtube.com/watch?v=QkrUm2Q1O3c",
         "percent": 100,
         "hz": 144
+      },
+        {
+        "user": "abcpro",
+        "link": "https://youtu.be/tlDl5nLACnI?si=cgInd4ARwjz7XDS6",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -26237,6 +26243,12 @@
         "link": "https://www.youtube.com/watch?v=IYj1MMlOn8E",
         "percent": 100,
         "hz": 360
+      },
+          {
+        "user": "abcpro",
+        "link": "https://youtu.be/7ueP3g9iaqk?si=tPNZ-AH80WOFvfpm",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -27358,7 +27370,13 @@
         "link": "https://www.youtube.com/watch?v=pT_XQGoHOIk",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=Rkbcv8AKhvk",
+        "percent": 100,
+        "hz": 240
+        }
     ],
     "percentToQualify": 66
   },
@@ -27494,7 +27512,13 @@
         "link": "https://www.youtube.com/watch?v=9kUlLFuIH8I",
         "percent": 100,
         "hz": 360
-      }
+      },
+      {
+        "user": "abcpro",
+        "link": "https://youtu.be/a4d9rxzhggI?si=ovDTHym2kjNqj5Ju",
+        "percent": 100,
+        "hz": 240
+      }        
     ],
     "percentToQualify": 66
   },
@@ -27933,6 +27957,12 @@
         "link": "https://www.youtube.com/watch?v=LZZJDA_O-l4",
         "percent": 100,
         "hz": 360
+      },
+        {
+        "user": "abcpro",
+        "link": "https://youtu.be/9f8hVyiCVLU?si=xgkERI-cZJsq-7rK",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -28775,7 +28805,13 @@
         "link": "https://www.youtube.com/watch?v=yXcpzI_Nn70",
         "percent": 100,
         "hz": 360
-      }
+      },
+          {
+        "user": "abcpro",
+        "link": "https://youtu.be/Kpnj-d4oXhU?si=iNyeSJG_EmpM8sD0",
+        "percent": 100,
+        "hz": 240
+      }    
     ],
     "percentToQualify": 66
   },
@@ -29071,7 +29107,13 @@
         "link": "https://www.youtube.com/watch?v=r7cub-22Jzs",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=6X_EkEBU394",
+        "percent": 100,
+        "hz": 240
+        }
     ],
     "percentToQualify": 66
   },
@@ -29414,7 +29456,13 @@
         "link": "https://www.youtube.com/watch?v=N1YnnKPsZc4",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "abcpro",
+        "link": "https://www.youtube.com/watch?v=l-yrGV2nRUQ",
+        "percent": 100,
+        "hz": 240
+        }
     ],
     "percentToQualify": 66
   },
@@ -30588,6 +30636,12 @@
         "link": "https://youtu.be/uKX9TUhgF_k",
         "percent": 100,
         "hz": 60
+      },
+          {
+        "user": "abcpro",
+        "link": "https://youtu.be/RyjsSv_Q_qI?si=oa_H8a5wN-iKinj3",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -30734,6 +30788,12 @@
         "link": "https://www.youtube.com/watch?v=nyjjYP-s7eM",
         "percent": 100,
         "hz": 360
+      },
+         {
+        "user": "abcpro",
+        "link": "https://youtu.be/m2SEcV0IszA?si=zSJR_kVLGyCnx750",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -31344,7 +31404,13 @@
         "link": "https://www.youtube.com/watch?v=t-BRFH7Ftrg",
         "percent": 100,
         "hz": 360
-      }
+      },
+        {
+        "user": "abcpro",
+        "link": "https://youtu.be/YjpZUbaVthI?si=rHs0My0qdTX6b3_d",
+        "percent": 100,
+        "hz": 240
+      }    
     ],
     "percentToQualify": 66
   },
@@ -31893,7 +31959,13 @@
         "link": "https://youtu.be/FxRhAPkaRb0c",
         "percent": 100,
         "hz": 480
-      }
+      },
+        {
+        "user": "abcpro",
+        "link": "https://youtu.be/x9EiLp9Sq5c?si=g58zLEkvyOhRAYiB",
+        "percent": 100,
+        "hz": 240
+      }        
     ],
     "percentToQualify": 66
   },
@@ -37207,7 +37279,13 @@
         "link": "https://www.youtube.com/watch?v=hUylEHFy01A",
         "percent": 100,
         "hz": 360
-      }
+      },
+         {
+        "user": "abcpro",
+        "link": "https://youtu.be/lyJ70E53erc?si=9jndUqpj7cFzRJti",
+        "percent": 100,
+        "hz": 240
+      }    
     ],
     "verifier": {
       "verifier": "Vortrox",
