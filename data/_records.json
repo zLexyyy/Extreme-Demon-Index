@@ -5089,6 +5089,12 @@
         "link": "https://www.youtube.com/watch?v=lIsCJsX4rGg",
         "percent": 100,
         "hz": 360
+      },
+         {
+        "user": "Adhafera",
+        "link": "https://youtu.be/FGcQ1YWStGI?si=KT1OVxJFKFYS8k7h",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 67
