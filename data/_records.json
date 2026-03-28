@@ -30413,6 +30413,12 @@
         "link": "https://www.youtube.com/watch?v=X8gy-QVMOBM",
         "percent": 100,
         "hz": 360
+      },
+         {
+        "user": "koiasana",
+        "link": "https://youtu.be/mJaRZ48i0_M?si=0M0a1nbpZogB57jA",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -31203,6 +31209,12 @@
         "link": "https://www.youtube.com/watch?v=x82kU0ZiMl4",
         "percent": 100,
         "hz": 360
+      },
+        {
+        "user": "koiasana",
+        "link": "https://youtu.be/JwewmQqsUvY?si=M63YpFp2GZdg8s1r",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
