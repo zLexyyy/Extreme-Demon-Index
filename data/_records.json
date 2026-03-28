@@ -17700,6 +17700,12 @@
         "link": "https://www.youtube.com/watch?v=fHN_jIlrlIU",
         "percent": 100,
         "hz": 360
+      },
+        {
+        "user": "kyomu",
+        "link": "https://youtu.be/pVQ_wtEaLto?si=K3i9jPpfgxqGKG3_",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
@@ -30467,6 +30473,12 @@
         "link": "https://youtu.be/mJaRZ48i0_M?si=0M0a1nbpZogB57jA",
         "percent": 100,
         "hz": 240
+      },
+          {
+        "user": "kyomu",
+        "link": "https://www.youtube.com/watch?v=6exfkXtAceo",
+        "percent": 100,
+        "hz": 360
       }
     ],
     "percentToQualify": 66
