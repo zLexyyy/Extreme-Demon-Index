@@ -5662,6 +5662,12 @@
         "link": "https://www.youtube.com/watch?v=vzERT4a1Lvc",
         "percent": 100,
         "hz": 360
+      },
+         {
+        "user": "Adhafera",
+        "link": "https://youtu.be/vP8_-Rs5-Rc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 64
@@ -6479,6 +6485,12 @@
         "link": "https://www.youtube.com/watch?v=bc9PN2D0jD8",
         "percent": 100,
         "hz": 360
+      },
+        {
+        "user": "[FAITH] puuke",
+        "link": "https://youtu.be/Ts4EqxdeP-Q?si=JPxEIw2rHFxKdfgd",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 72
@@ -26218,6 +26230,12 @@
         "link": "https://www.youtube.com/watch?v=5wrfI0_bdPU",
         "percent": 100,
         "hz": 360
+      },
+        {
+        "user": "[FAITH] puuke",
+        "link": "https://youtu.be/4knOOCJwd1c?si=DGf5wvJFCtH0b1Wg",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 66
@@ -29040,7 +29058,13 @@
         "link": "https://www.youtube.com/watch?v=vzwoj_TZZFo",
         "percent": 100,
         "hz": 360
-      }
+      },
+           {
+        "user": "SliderBreaks",
+        "link": "https://youtu.be/Rb77yqyr7dw",
+        "percent": 100,
+        "hz": 75
+         }
     ],
     "percentToQualify": 66
   },
@@ -29649,6 +29673,12 @@
         "link": "https://youtu.be/oQl6XMoSZW4?si=h7lBiMqnJWzjrx7A",
         "percent": 100,
         "hz": 480
+         },
+         {
+        "user": "SliderBreaks",
+        "link": "https://youtu.be/DS3uZ5BotyA",
+        "percent": 100,
+        "hz": 75
          }
     ],
     "percentToQualify": 66
@@ -40289,7 +40319,14 @@
     "percentToQualify": 66
   },
   "Final Round": {
-    "records": [],
+    "records": [
+         {
+        "user": "[FAITH] puuke",
+        "link": "https://youtu.be/LK-CFn42kUU?si=w1XYM8pCbpBGpCfu",
+        "percent": 100,
+        "hz": 240
+      }
+    ],
     "verifier": {
       "verifier": "spark",
       "verification": "https://www.youtube.com/watch?v=zNbug-PD-W0"
