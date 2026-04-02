@@ -5662,6 +5662,12 @@
         "link": "https://www.youtube.com/watch?v=vzERT4a1Lvc",
         "percent": 100,
         "hz": 360
+      },
+         {
+        "user": "Adhafera",
+        "link": "https://youtu.be/vP8_-Rs5-Rc",
+        "percent": 100,
+        "hz": 240
       }
     ],
     "percentToQualify": 64
@@ -29052,7 +29058,13 @@
         "link": "https://www.youtube.com/watch?v=vzwoj_TZZFo",
         "percent": 100,
         "hz": 360
-      }
+      },
+           {
+        "user": "SliderBreaks",
+        "link": "https://youtu.be/Rb77yqyr7dw",
+        "percent": 100,
+        "hz": 75
+         }
     ],
     "percentToQualify": 66
   },
@@ -29661,6 +29673,12 @@
         "link": "https://youtu.be/oQl6XMoSZW4?si=h7lBiMqnJWzjrx7A",
         "percent": 100,
         "hz": 480
+         },
+         {
+        "user": "SliderBreaks",
+        "link": "https://youtu.be/DS3uZ5BotyA",
+        "percent": 100,
+        "hz": 75
          }
     ],
     "percentToQualify": 66
