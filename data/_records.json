@@ -279,6 +279,12 @@
     "link": "https://www.youtube.com/watch?v=a2prVspxZ8A",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=cju6NUa8U58",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -1262,6 +1268,12 @@
     "link": "https://www.youtube.com/watch?v=9nhwr3YJQWg",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=eSkmX-QwIP8",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -1941,6 +1953,12 @@
     "link": "https://www.youtube.com/watch?v=T_8pfDM0H5s",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=5IT1k9TGPgo",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -2992,6 +3010,12 @@
     "link": "https://www.youtube.com/watch?v=SuJbrryz-Ds",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=9aaCIpYU3UU",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -3586,6 +3610,12 @@
     "link": "https://www.youtube.com/watch?v=fY-4PzSfF8g",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=YQuPkbuu3so",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -3775,7 +3805,14 @@
  },
  "BLUE Cataclysm": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+      {
+    "hz": "480",
+    "link": "https://youtu.be/tMARSdbHfjs",
+    "percent": 100,
+    "user": "Raimby"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=oiRoxHk-3mI",
    "verifier": "† 𓆩Lexy𓆪 †"
@@ -4857,6 +4894,12 @@
     "link": "https://www.youtube.com/watch?v=-jaJ5D2AKYs",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=SKa9kTRR0D4",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -5104,6 +5147,12 @@
     "link": "https://www.youtube.com/watch?v=zpRYTlGxuIE",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=CDaQgK7lCaI",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -6414,6 +6463,12 @@
     "link": "https://www.youtube.com/watch?v=QbADg_ov0tM",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=IYmO_HXo49E",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -6579,6 +6634,12 @@
     "link": "https://www.youtube.com/watch?v=kaYzzC5HJZo",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=tUXqb3HRbZ4",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -6772,6 +6833,12 @@
     "link": "https://www.youtube.com/watch?v=VOLmf-5yAb0",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=T155c8v-gFk",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -7960,6 +8027,12 @@
     "link": "https://www.youtube.com/watch?v=BdWJaawVZBM",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=rK5jQo1AyHo",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -8591,6 +8664,12 @@
     "link": "https://www.youtube.com/watch?v=ygkuQAdskT8",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=HHO03cCOLEQ",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -8972,7 +9051,6 @@
    "verifier": "zoidy"
   }
  },
- "DEAD OF NIGHT (Split72)": null,
  "DEATH MACHINE (zHexy)": {
   "percentToQualify": 66,
   "records": [],
@@ -10532,7 +10610,6 @@
    "verifier": "VictorUzumaki06"
   }
  },
- "Disruption": null,
  "Disruption (Ka1sa)": {
   "percentToQualify": 66,
   "records": [
@@ -10773,6 +10850,12 @@
     "link": "https://www.youtube.com/watch?v=hQmhV9QNWC0",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=a8hyouedWNY",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -12120,6 +12203,12 @@
     "link": "https://www.youtube.com/watch?v=VjwfE_vuDNo",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=RrC_fqQuboU",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -12852,6 +12941,12 @@
     "link": "https://www.youtube.com/watch?v=WfyTtw9lljM",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=___6hGhGfKI",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -13388,6 +13483,12 @@
     "link": "https://www.youtube.com/watch?v=GhE-fVoAq5g",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=iwuWOl3ZD6Q",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -13828,6 +13929,12 @@
     "link": "https://www.youtube.com/watch?v=i8xHZIycqOM",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=nLtu7-flaT8",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -14730,6 +14837,12 @@
     "link": "https://www.youtube.com/watch?v=QIqmlhidK7I",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=QnmFmOzNuwA",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -15639,6 +15752,12 @@
     "link": "https://www.youtube.com/watch?v=WQvYgV9l_mU",
     "percent": 100,
     "user": "maxler"
+   },
+   {
+    "hz": 480,
+    "link": "https://youtu.be/Jvt4ws6KKUg?si=cPOIYnCHmqAffLrp",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -16159,6 +16278,12 @@
     "link": "https://youtu.be/qCDlHwZrOGk?si=TABFlqMq8mFUYN0C",
     "percent": 100,
     "user": "ItzLucie"
+   },
+     {
+    "hz": 480,
+    "link": "https://youtu.be/HrWA_o1h91o?si=vBSWIK7P7vV5HIve",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -16174,6 +16299,12 @@
     "link": "https://www.youtube.com/watch?v=NFUJjviixBg",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": 480,
+    "link": "https://youtu.be/HrWA_o1h91o?si=fFQqCarzHXQIc6F5",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -18995,7 +19126,6 @@
    "verifier": "Dolphy"
   }
  },
- "LOOSE ENDS": null,
  "LOST (Fawami)": {
   "percentToQualify": 66,
   "records": [],
@@ -25192,6 +25322,12 @@
     "link": "https://youtu.be/bwA4HHO9Fvw?si=aTkfO7_nkF_P2Bm4",
     "percent": 100,
     "user": "shafikdabest"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=YnPsBbbgjBk",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -25425,6 +25561,12 @@
     "link": "https://www.youtube.com/watch?v=w6pu3nMA9mM",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=6m7_Sf90BP8",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -26240,6 +26382,12 @@
     "link": "https://www.youtube.com/watch?v=l5kxhppjQeE",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=RtMWhb2xjvA",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -26297,6 +26445,12 @@
     "link": "https://www.youtube.com/watch?v=l5kxhppjQeE",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=F8XWk_cXGSA",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -26970,6 +27124,12 @@
     "link": "https://www.youtube.com/watch?v=QikcpTrWl4I",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=zpmR_myTEM0",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -27683,6 +27843,12 @@
     "link": "https://www.youtube.com/watch?v=tXZ05gCpQb0",
     "percent": 100,
     "user": "Adhafera"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=CCwWIX9ldmA",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -27918,6 +28084,12 @@
     "link": "https://www.youtube.com/watch?v=8Yho7KC1m_8",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=u4dALZZ1vxQ",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -28246,6 +28418,12 @@
     "link": "https://www.youtube.com/watch?v=05tMHKPOAWU",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=ljYnkEQqHEk",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -28555,6 +28733,12 @@
     "link": "https://www.youtube.com/watch?v=l3jeSel-Xs8",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=LssXBZVAn74",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -31394,6 +31578,12 @@
     "link": "https://youtu.be/iI3957NyK6I?si=jbdwOs5PB_aBJuLg",
     "percent": 100,
     "user": "manifestrev"
+   },
+      {
+    "hz": 480,
+    "link": "https://youtu.be/vZAc-xq4Gq0?si=S2-J5yRxvjD6ehCe",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -32522,7 +32712,6 @@
    "verifier": "XGen 26"
   }
  },
- "Sweater Weather": null,
  "Sweater Weather (VelYT)": {
   "percentToQualify": 66,
   "records": [
@@ -35039,6 +35228,12 @@
     "link": "https://www.youtube.com/watch?v=I5ilFoReLN8",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=aN71R2wwGQE",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -37057,7 +37252,6 @@
    "verifier": "harrisongamez"
   }
  },
- "WNDLSS LNDSCP": null,
  "WOBBLING MACHINE (2P)": {
   "percentToQualify": 66,
   "records": [
@@ -37243,6 +37437,12 @@
     "link": "https://www.youtube.com/watch?v=bwsO0P57Jy8",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": 480,
+    "link": "https://youtu.be/bhh4TWICuco?si=_G9omDlzDkawOQ5p",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -37590,7 +37790,6 @@
    "verifier": "Achlys"
   }
  },
- "White Album": null,
  "White Album (Old)": {
   "percentToQualify": 66,
   "records": [
@@ -38466,7 +38665,6 @@
    "verifier": "Technical"
   }
  },
- "aftermath": null,
  "aftermath (Exenity)": {
   "percentToQualify": 66,
   "records": [
@@ -38547,6 +38745,12 @@
     "link": "https://youtu.be/sWJ37aRV4MI?si=qhBZptjNTP6bGGNX",
     "percent": 100,
     "user": "manifestrev"
+   },
+   {
+    "hz": 480,
+    "link": "https://youtu.be/dysk0d0yKIM?si=nphmjaPusnIzNkBE",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -40795,6 +40999,12 @@
     "link": "https://www.youtube.com/watch?v=qySS3-smMVQ",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=vZM6MEX9ed0",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
@@ -40900,6 +41110,12 @@
     "link": "https://youtu.be/0VOEod2ef-4",
     "percent": 100,
     "user": "Adhafera"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=5twALqZDi5E",
+    "percent": 100,
+    "user": "Raimby"
    }
   ],
   "verifier": {
