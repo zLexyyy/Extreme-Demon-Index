@@ -5646,6 +5646,12 @@
         "link": "https://www.youtube.com/watch?v=ajLBoztZjl8",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=PFtTvZMJhZQ",
+        "percent": 100,
+        "user": "MythicalWrath"
       }
     ],
     "verifier": {
@@ -21453,6 +21459,12 @@
         "link": "https://www.youtube.com/watch?v=oOFQSkIO2Fw",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 60, 
+        "link": "https://www.youtube.com/watch?v=UqHTq7Lpiqs",
+        "percent": 100,
+        "user": "MythicalWrath"
       }
     ],
     "verifier": {
@@ -35880,7 +35892,14 @@
   },
   "ULTRA VIOLET": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=mtDa2oT4EgQ",
+        "percent": 100,
+        "user": "MythicalWrath"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=G7Js-hQBf0Q",
       "verifier": "Ad3"
