@@ -91,9 +91,9 @@ export default {
                     </div>
                     
                     <div class="video-controls">
-    <button class="video-btn" :class="{ active: !toggledShowcase }" @click="toggledShowcase = false">Verification</button>
-    <button class="video-btn" :class="{ active: toggledShowcase }" @click="toggledShowcase = true">Showcase</button>
-</div>
+                        <button class="video-btn" :class="{ active: !toggledShowcase }" @click="toggledShowcase = false">Verification</button>
+                        <button v-if="showShowcaseButton" class="video-btn" :class="{ active: toggledShowcase }" @click="toggledShowcase = true">Showcase</button>
+                    </div>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li v-if="activeList === 'classic'">
@@ -150,30 +150,14 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <p>
-                        When submitting your record, please ensure that it complies with the following guidelines:
-                    </p>
-                    <p>
-                        1. Your recording must have clicks that are clearly audible throughout the entire level (Or at the very least most of it). The clicks must be consistent and fully audible from beginning to end. If there was an issue with the audio, we apologize, but we can only accept records where the clicks (or taps, if you are playing on mobile) are clearly audible for the entire duration of the level. Unless you are able to provide us raw footage, then it will be rejected most likely. 
-                    </p>
-                    <p>
-                        2. Your recording must include a cheat indicator on the end screen. If you are playing on vanilla GD or using a mod menu that does not feature a cheat indicator, this requirement does not apply. However, you must specify this in your notes, as we are not responsible for determining which mod menu you used or whether you were playing on vanilla. 
-                    </p>
-                    <p>
-                        3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff or clearly make no difference to the gameplay. Use your best judgment, if you are unsure whether your bugfix copy or LDM is acceptable, please ask staff and include the level ID. If you are completely certain that your copy is acceptable, approval is not required for your record to be accepted. If you are unsure what qualifies as an “acceptable” copy, you should also ask staff. Copies that alter gameplay or remove so much detail that the level becomes easier will be denied. 
-                    </p>
-                    <p>
-                        4. Your recording must include an uncut end screen. If the video ends before the end screen is shown or your stats are not visible, the record will not be accepted. 
-                    </p>
-                    <p>
-                        5. It is recommended that you keep raw footage of any levels you complete. If the level places within the top 500, raw footage is required and must include split audio tracks. Submit this along with your original record in a downloadable format, such as Google Drive. If the record was streamed, a Twitch or YouTube VOD with chat enabled is also acceptable. Alternatively, if the record is listed on your Pointercrate profile, you may include that link in the additional information section, and your record will be accepted. 
-                    </p>
-                    <p>
-                    6. This should be self-explanatory, but your record must not be completed using any disallowed mods. This rule also applies to records showing a red cheat indicator, clearly hacked completions, or the use of bots. 
-                    </p>
-                    <p>
-                    7. This should also be really obvious, but you are not allowed to use any secret ways present in the level. You must use the intended path for the level.
-                    </p>
+                    <p>When submitting your record, please ensure that it complies with the following guidelines:</p>
+                    <p>1. Your recording must have clicks that are clearly audible throughout the entire level (Or at the very least most of it). The clicks must be consistent and fully audible from beginning to end. If there was an issue with the audio, we apologize, but we can only accept records where the clicks (or taps, if you are playing on mobile) are clearly audible for the entire duration of the level. Unless you are able to provide us raw footage, then it will be rejected most likely.</p>
+                    <p>2. Your recording must include a cheat indicator on the end screen. If you are playing on vanilla GD or using a mod menu that does not feature a cheat indicator, this requirement does not apply. However, you must specify this in your notes, as we are not responsible for determining which mod menu you used or whether you were playing on vanilla.</p>
+                    <p>3. If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff or clearly make no difference to the gameplay. Use your best judgment, if you are unsure whether your bugfix copy or LDM is acceptable, please ask staff and include the level ID. If you are completely certain that your copy is acceptable, approval is not required for your record to be accepted. If you are unsure what qualifies as an "acceptable" copy, you should also ask staff. Copies that alter gameplay or remove so much detail that the level becomes easier will be denied.</p>
+                    <p>4. Your recording must include an uncut end screen. If the video ends before the end screen is shown or your stats are not visible, the record will not be accepted.</p>
+                    <p>5. It is recommended that you keep raw footage of any levels you complete. If the level places within the top 500, raw footage is required and must include split audio tracks. Submit this along with your original record in a downloadable format, such as Google Drive. If the record was streamed, a Twitch or YouTube VOD with chat enabled is also acceptable. Alternatively, if the record is listed on your Pointercrate profile, you may include that link in the additional information section, and your record will be accepted.</p>
+                    <p>6. This should be self-explanatory, but your record must not be completed using any disallowed mods. This rule also applies to records showing a red cheat indicator, clearly hacked completions, or the use of bots.</p>
+                    <p>7. This should also be really obvious, but you are not allowed to use any secret ways present in the level. You must use the intended path for the level.</p>
                 </div>
             </div>
         </main>
@@ -191,11 +175,10 @@ export default {
         isLoading: false,
         hasLoaded: false,
         toggledShowcase: false,
-        searchQuery: ''   // <-- ADDED here
+        searchQuery: ''
     }),
     computed: {
         activeList() {
-            // read from localStorage so the template can show which is active
             return localStorage.getItem('edi_active_list') || 'classic';
         },
         level() {
@@ -203,6 +186,18 @@ export default {
                 return [];
             }
             return this.listLevel ? this.listLevel[0] : [];
+        },
+        showShowcaseButton() {
+            if (this.activeList === 'classic') {
+                if (!this.level || !this.level.showcase) {
+                    return false;
+                }
+                if (this.level.showcase === this.level.verification) {
+                    return false;
+                }
+                return true;
+            }
+            return true;
         },
         video() {
             if (!this.level || !this.level.showcase) {
@@ -223,22 +218,16 @@ export default {
             return this.packs.filter(pack => pack.levels.includes(this.level.name));
         },
 
-        // --- UPDATED computed for filtering the left list while preserving original index and supporting 'benchmark' items ---
-        // Special-case: exclude the literal "-critical error-" (case-insensitive) from being treated as a benchmark.
         filteredDemonList() {
             const q = (this.searchQuery || '').toLowerCase().trim();
 
             const items = this.demonList.map((name, idx) => {
-                // normalize and decide benchmark status with a special-case exclusion for "-critical error-"
                 const raw = (typeof name === 'string') ? name.trim() : name;
-                // treat as benchmark when it starts with '-' EXCEPT for the literal "-critical error-" (case-insensitive)
                 const isBench = (typeof raw === 'string' && raw.startsWith('-') && raw.toLowerCase() !== '-critical error-');
-                // normalize display name (strip leading '- ' if benchmark)
                 const displayName = isBench ? raw.replace(/^-\s*/, '') : raw;
                 return { name: displayName, index: idx, isBenchmark: isBench, rawName: raw };
             });
 
-            // compute displayIndex (rank only for non-benchmark entries)
             let rank = 0;
             const withDisplay = items.map(item => {
                 if (!item.isBenchmark) {
@@ -248,7 +237,6 @@ export default {
                 return { ...item, displayIndex: null };
             });
 
-            // apply search filter
             if (!q) return withDisplay;
             return withDisplay.filter(entry => {
                 if (!entry.name) return false;
@@ -259,70 +247,57 @@ export default {
         records() {
             return this.recordList
         },
-statusText() {
-    if (!this.level) return '';
-    const rl = this.recordList && this.recordList[this.level.name] ? this.recordList[this.level.name] : null;
+        statusText() {
+            if (!this.level) return '';
+            const rl = this.recordList && this.recordList[this.level.name] ? this.recordList[this.level.name] : null;
 
-    // helper to interpret explicit override values
-    const interpretExplicit = (val) => {
-        if (val === undefined || val === null) return null;
-        // boolean: true => open, false => closed
-        if (typeof val === 'boolean') return val ? 'open' : 'closed';
-        if (typeof val === 'string') {
-            const s = val.trim();
-            if (!s) return null;
-            const lower = s.toLowerCase();
-            if (lower === 'open' || lower === 'closed') return lower;
-            // for any other string, return the string as-is so we can display it verbatim
-            return s;
-        }
-        return null;
-    };
+            const interpretExplicit = (val) => {
+                if (val === undefined || val === null) return null;
+                if (typeof val === 'boolean') return val ? 'open' : 'closed';
+                if (typeof val === 'string') {
+                    const s = val.trim();
+                    if (!s) return null;
+                    const lower = s.toLowerCase();
+                    if (lower === 'open' || lower === 'closed') return lower;
+                    return s;
+                }
+                return null;
+            };
 
-    // priority: explicit level field > explicit record entry field
-    const levelExplicit = interpretExplicit(this.level.openVerification ?? this.level.verificationOpen ?? this.level.status);
-    const recordExplicit = rl ? interpretExplicit(rl.openVerification ?? rl.verificationOpen ?? rl.status) : null;
+            const levelExplicit = interpretExplicit(this.level.openVerification ?? this.level.verificationOpen ?? this.level.status);
+            const recordExplicit = rl ? interpretExplicit(rl.openVerification ?? rl.verificationOpen ?? rl.status) : null;
 
-    // If record or level explicitly requests a custom string (not 'open'/'closed'), display it (capitalized)
-    const formatDisplay = (s) => {
-        if (!s) return '';
-        // If s is exactly 'open' or 'closed', map to the friendly messages below.
-        const lower = s.toLowerCase();
-        if (lower === 'open') return 'Open Verification';
-        if (lower === 'closed') return 'Closed Verification';
-        // Otherwise capitalize the first letter and leave the rest as-is
-        return s.charAt(0).toUpperCase() + s.slice(1);
-    };
+            const formatDisplay = (s) => {
+                if (!s) return '';
+                const lower = s.toLowerCase();
+                if (lower === 'open') return 'Open Verification';
+                if (lower === 'closed') return 'Closed Verification';
+                return s.charAt(0).toUpperCase() + s.slice(1);
+            };
 
-    // If either explicit value is a non-empty string other than 'open'/'closed', display it
-    if (typeof levelExplicit === 'string' && !['open','closed'].includes(levelExplicit.toLowerCase())) {
-        return formatDisplay(levelExplicit);
-    }
-    if (typeof recordExplicit === 'string' && !['open','closed'].includes(recordExplicit.toLowerCase())) {
-        return formatDisplay(recordExplicit);
-    }
+            if (typeof levelExplicit === 'string' && !['open','closed'].includes(levelExplicit.toLowerCase())) {
+                return formatDisplay(levelExplicit);
+            }
+            if (typeof recordExplicit === 'string' && !['open','closed'].includes(recordExplicit.toLowerCase())) {
+                return formatDisplay(recordExplicit);
+            }
 
-    // If explicit open/closed provided, honor it
-    if (levelExplicit === 'open' || recordExplicit === 'open') return 'Open Verification';
-    if (levelExplicit === 'closed' || recordExplicit === 'closed') return 'Closed Verification';
+            if (levelExplicit === 'open' || recordExplicit === 'open') return 'Open Verification';
+            if (levelExplicit === 'closed' || recordExplicit === 'closed') return 'Closed Verification';
 
-    // No automatic determination
-    return '';
+            return '';
         }
     },
     async mounted() {
-        // Default to classic list if not set
         if (!localStorage.getItem('edi_active_list')) {
             localStorage.setItem('edi_active_list', 'classic');
         }
 
-        // Hide loading spinner
         this.demonList = await fetchList();
         this.recordList = await fetchRecords();
         this.editors = await fetchEditors();
         this.packs = await fetchPacks();
         
-        // Check for level query param
         const queryLevel = this.$route.query.level;
         if (queryLevel) {
             this.selected = this.demonList.indexOf(queryLevel);
@@ -332,7 +307,6 @@ statusText() {
         this.listLevel = await fetchLevel(this.list[this.selected])
         this.hasLoaded = true;
 
-        // For upcoming list, select first non-benchmark level
         if (this.activeList === 'upcoming') {
             const firstNonBench = this.filteredDemonList.find(entry => !entry.isBenchmark);
             if (firstNonBench && firstNonBench.index !== this.selected) {
@@ -341,7 +315,6 @@ statusText() {
             }
         }
 
-        // Error handling
         if (!this.list) {
             this.errors = [
                 "Failed to load list. Retry in a few minutes or notify list staff.",
@@ -360,14 +333,12 @@ statusText() {
         setActiveList(key) {
             if (key !== 'classic' && key !== 'upcoming') return;
             localStorage.setItem('edi_active_list', key);
-            // reload to let fetchList pick up the new file (simple and robust)
             location.reload();
         },
         selectPack(pack) {
             this.$router.push({ path: '/packs', query: { pack: pack.name } });
         },
-        async fetchLvl(i)
-        {
+        async fetchLvl(i) {
             if (this.isLoading) {
                 return;
             }
