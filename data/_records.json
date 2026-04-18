@@ -3229,6 +3229,12 @@
         "link": "https://www.youtube.com/watch?v=huAtv9IAXiY",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=1zOUC262pAA",
+        "percent": 100,
+        "user": "Philbon"
       }
     ],
     "verifier": {
@@ -6289,6 +6295,12 @@
         "link": "https://www.youtube.com/watch?v=CuJlvNr77X8",
         "percent": 100,
         "user": "Lemniks"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=y4ObsSPS43E",
+        "percent": 100,
+        "user": "Philbon"
       }
     ],
     "verifier": {
@@ -7315,6 +7327,12 @@
         "link": "https://www.youtube.com/watch?v=lSmiIlv9XCY",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=JRIo76AFWDg",
+        "percent": 100,
+        "user": "Philbon"
       }
     ],
     "verifier": {
@@ -11917,7 +11935,14 @@
   },
   "Elite Z Rebirth": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=eOPwthw0P6s",
+        "percent": 100,
+        "user": "Philbon"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=B1GKgUNT8Q0",
       "verifier": "KrmaL"
@@ -16788,7 +16813,14 @@
   },
   "Horsebath": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/hMsISJsrwhY?si=uGRaTGCBXdgnTI9V",
+        "percent": 100,
+        "user": "macaca"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=0RhyON5mcUs",
       "verifier": "Bontic"
@@ -24897,6 +24929,12 @@
         "link": "https://www.youtube.com/watch?v=5A0F-VDXGsQ",
         "percent": 100,
         "user": "Lemniks"
+      },
+      {
+        "hz": 180,
+        "link": "https://www.youtube.com/watch?v=X_SFkECXr6c",
+        "percent": 100,
+        "user": "Philbon"
       }
     ],
     "verifier": {
@@ -37186,7 +37224,14 @@
   },
   "Viridian (nautz)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+    {
+        "hz": 240,
+        "link": "https://youtu.be/FI9JnGgX14Q",
+        "percent": 100,
+        "user": "Adhafera"
+    }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=AXaCe7LYO0Q",
       "verifier": "LordeGD"
@@ -38194,7 +38239,14 @@
   },
   "Wild Rose": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+    {
+        "hz": 240,
+        "link": "https://youtu.be/q0K_fwloiXE",
+        "percent": 100,
+        "user": "Adhafera"
+    }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=0haCHTgUY3s",
       "verifier": "TheShadowRealm"
@@ -40160,6 +40212,12 @@
         "link": "https://youtu.be/j0Z58K9k5A8?si=TLoGjOxDaFdlEkQE",
         "percent": 100,
         "user": "Keslas"
+      },
+      {
+        "hz": 180,
+        "link": "https://www.youtube.com/watch?v=r0TydNoO3UU",
+        "percent": 100,
+        "user": "Philbon"
       }
     ],
     "verifier": {
