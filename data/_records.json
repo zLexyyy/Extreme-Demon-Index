@@ -509,6 +509,12 @@
         "link": "https://www.youtube.com/watch?v=895nhl-sy-A",
         "percent": 100,
         "user": "Agelio"
+      },
+      {
+        "hz": 360,
+        "link": "https://youtu.be/B5Lxemwqo14?si=P5whkneti0iGKyyo",
+        "percent": 100,
+        "user": "Robertico"
       }
     ],
     "verifier": {
@@ -1295,6 +1301,18 @@
         "link": "https://www.youtube.com/watch?v=ln1vmIat9EU",
         "percent": 100,
         "user": "majin"
+      },
+      {
+        "hz": "480",
+        "link": "https://www.youtube.com/watch?v=nLO3UkwoAyM",
+        "percent": 100,
+        "user": "Fluxite"
+      },
+      {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=war0oYonGYc&t=45s",
+        "percent": 100,
+        "user": "Puremidnight"
       }
     ],
     "verifier": {
@@ -5753,6 +5771,12 @@
         "link": "https://www.youtube.com/watch?v=PFtTvZMJhZQ",
         "percent": 100,
         "user": "MythicalWrath"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=nnsd_uis37g",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -6952,6 +6976,12 @@
         "link": "https://www.youtube.com/watch?v=T155c8v-gFk",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=rJzdo4DOcAg",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -10641,7 +10671,14 @@
   },
   "Disastrous Downpour": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=trxaZgDBHxE",
+        "percent": 100,
+        "user": "Fluxite"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=qnSbGOeFD2M",
       "verifier": "LunarSpark"
@@ -24027,7 +24064,14 @@
     },
     "M U S T A R D": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+      {
+        "hz": "240",
+        "link": "https://youtu.be/GFeJGGay8yU?t=548",
+        "percent": 100,
+        "user": "macaca"
+      } 
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=SsXBxS5kdRk",
         "verifier": "schitt"
@@ -24237,7 +24281,14 @@
   },
   "PSYCHOSOCIAL": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 144,
+        "link": "https://youtu.be/jmAODTE1Iqs",
+        "percent": 100,
+        "user": "MeatballMoose"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=R-ac4NmJb1E",
       "verifier": "xAeternal"
@@ -25591,6 +25642,12 @@
         "link": "https://www.youtube.com/watch?v=YnPsBbbgjBk",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=DzFJFoiLpNk",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -26105,6 +26162,12 @@
         "link": "https://www.youtube.com/watch?v=pAYm7ThGvuA",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=JiVpN89wn9w",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -28687,6 +28750,12 @@
         "link": "https://www.youtube.com/watch?v=ljYnkEQqHEk",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=wlczoSjZIJs",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -31881,6 +31950,12 @@
         "link": "https://youtu.be/O2SCidM5Tb4?si=NrITFMUYMtzzjCz9",
         "percent": 100,
         "user": "majin"
+      },
+      {
+        "hz": "240",
+        "link": "https://youtu.be/tXzLQ93YcQg?list=PLImwSUnAr3kdVIiIVoj2in1OT2Sytdn9g",
+        "percent": 100,
+        "user": "macaca"
       }
     ],
     "verifier": {
@@ -33101,6 +33176,12 @@
         "link": "https://youtu.be/Lalrx60BXlU?si=rQZ4SaFzYK4JoEMd",
         "percent": 100,
         "user": "majin"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=nZqlORLXy3Y",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -36510,7 +36591,14 @@
   },
   "Unfair Evening": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=2eJyvje9pkE",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=sEKeZxita3g",
       "verifier": "exerity"
@@ -37925,6 +38013,12 @@
         "link": "https://youtu.be/aTeEkPNA4Uk",
         "percent": 100,
         "user": "Meatballmoose"
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/HlKz0YaE9Mc",
+        "percent": 100,
+        "user": "shafikdabest"
       }
     ],
     "verifier": {
@@ -38622,6 +38716,12 @@
         "link": "https://www.youtube.com/watch?v=6qzQkwd9a3c",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/6pxot_a23ew",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -40157,6 +40257,12 @@
         "link": "https://www.youtube.com/watch?v=BQBt5ioiTPw",
         "percent": 100,
         "user": "majin"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=DOe5hRbt5N0",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -41408,6 +41514,12 @@
         "link": "https://www.youtube.com/watch?v=6p_Z3IZHdgk",
         "percent": 100,
         "user": "majin"
+      },
+      {
+        "hz": "180",
+        "link": "https://www.youtube.com/watch?v=C4KYnMCZ42I",
+        "percent": 100,
+        "user": "Fluxite"
       }
     ],
     "verifier": {
@@ -42011,7 +42123,14 @@
   },
   "sakupen world": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=3oej6V8i3Uw",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=NyOMwwq4h2Y",
       "verifier": "GDMeric"
