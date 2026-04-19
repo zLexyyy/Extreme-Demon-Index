@@ -28900,7 +28900,14 @@
   },
   "Savage Snowstorm": {
     "percentToQualify": 70,
-    "records": [],
+    "records": [
+          {
+        "hz": 480,
+        "link": "https://www.youtube.com/watch?v=XSSVNtfbnSU",
+        "percent": 100,
+        "user": "Evo214_"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=0Y_rjvkG6b0",
       "verifier": "Bradenbowl"
