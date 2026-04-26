@@ -43869,7 +43869,14 @@
     "percentToQualify": 66
   },
   "you when bee crusher (2P)": {
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/ZImrbGFtq8g?si=oOGeVA4xdTYWhNl8",
+        "percent": 100,
+        "user": "Draconyx"
+      }
+    ],
     "verifier": {
       "verifier": "FireXY",
       "verification": "https://www.youtube.com/watch?v=qTgH6QiRePQ"
