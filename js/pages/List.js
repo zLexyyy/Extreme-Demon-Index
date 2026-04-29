@@ -223,7 +223,7 @@ export default {
 
             const items = this.demonList.map((name, idx) => {
                 const raw = (typeof name === 'string') ? name.trim() : name;
-                const isBench = (typeof raw === 'string' && raw.startsWith('-') && raw.toLowerCase() !== '-critical error-');
+const isBench = (typeof raw === 'string' && raw.startsWith('-') && raw.toLowerCase() !== '-critical error-' && raw.toLowerCase() !== '-à la belle étoile-');
                 const displayName = isBench ? raw.replace(/^-\s*/, '') : raw;
                 return { name: displayName, index: idx, isBenchmark: isBench, rawName: raw };
             });
