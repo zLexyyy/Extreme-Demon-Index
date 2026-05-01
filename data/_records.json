@@ -20889,7 +20889,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=jb69GBzHxMI",
-      "verifier": "Lily"
+      "verifier": "isawaray"
     }
   },
   "Malevolent Maelstrom": {
@@ -21937,6 +21937,12 @@
         "link": "https://youtu.be/BOYV8Fr4M7k",
         "percent": 100,
         "user": "Gun"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=R4cBBGhryec",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
       }
     ],
     "verifier": {
@@ -24584,7 +24590,14 @@
   },
   "Pale Machine": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/xm02CuxsERo?si=Spv9LNNUoAidBLsD",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=B3DgPQgdA1E",
       "verifier": "Nexus"
@@ -25755,7 +25768,14 @@
   },
   "Problems": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=SKUDRy-ACmI",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=JLFSySG452g",
       "verifier": "TheCoconutBlock"
@@ -44004,7 +44024,20 @@
     "percentToQualify": 66
   },
   "WOKE machine": {
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/qKsz0M-Dmig?si=WupMFQOL0SFuX5fx",
+        "percent": 100,
+        "user": "Lily"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=IFY4Tz9DYTU",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verifier": "Samantha",
       "verification": "https://www.youtube.com/watch?v=xbt6HWhK5EM"
@@ -44012,7 +44045,14 @@
     "percentToQualify": 66
   },
   "Enchanted Abyss": {
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=6bLNpc4p66M",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verifier": "VioletWire",
       "verification": "https://youtu.be/SbfJq1vUmYg?si=1X03F9PsNt-6zMmP"
