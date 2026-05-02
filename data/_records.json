@@ -11745,7 +11745,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=wrBX36nXAKw",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "Eagle Ravi": {
@@ -13821,7 +13821,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=vgXhIgb49u4",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "Fexty auto": {
@@ -19545,21 +19545,9 @@
       "verifier": "zDark"
     }
   },
-  "LOVE (ashhy)": {
+  "LOVE (chao)": {
     "percentToQualify": 66,
     "records": [
-      {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=IHP5sDtTT3o",
-        "percent": 100,
-        "user": "Agelio"
-      },
-      {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=TCc42tZCXK4",
-        "percent": 100,
-        "user": "maxler"
-      },
       {
         "hz": 240,
         "link": "https://youtu.be/9VnGS0IAXr8?si=yxsRTQkKDJBk8ViN",
@@ -19835,7 +19823,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=AROmUo7DNkE",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "Leziclub": {
@@ -27985,7 +27973,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=RE5HEiWiRwQ",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "SHINE": {
@@ -33769,7 +33757,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=A76WxInuqos",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "THIS CITY LIT": {
@@ -38164,7 +38152,7 @@
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=uLiCEb4QP4E",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "WOW (Old)": {
@@ -39140,7 +39128,7 @@
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=GrGFFPhtAFc",
-      "verifier": "Dragoon"
+      "verifier": "KandaiGDG"
     }
   },
   "Yatagarasu (Unnerfed)": {
@@ -44256,6 +44244,187 @@
     "verifier": {
       "verifier": "ddlghl",
       "verification": "https://www.youtube.com/watch?v=BaeLnq4kIZw"
+    },
+    "percentToQualify": 66
+  },
+  "Quanteuse Processing (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zoink",
+      "verification": "https://www.youtube.com/watch?v=j5NC0u1Q91Q"
+    },
+    "percentToQualify": 66
+  },
+  "Master of Puppets": {
+    "records": [],
+    "verifier": {
+      "verifier": "Scotchtape",
+      "verification": "https://www.youtube.com/watch?v=JBZ-lrBgkl0"
+    },
+    "percentToQualify": 66
+  },
+  "Toxic": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lexxxy",
+      "verification": "https://www.youtube.com/watch?v=BMkv-A7mpC4"
+    },
+    "percentToQualify": 66
+  },
+  "Crimson Abyss": {
+    "records": [],
+    "verifier": {
+      "verifier": "LetzTiz",
+      "verification": "https://www.youtube.com/watch?v=yt6EiKNj3U8"
+    },
+    "percentToQualify": 66
+  },
+  "Aquario (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheRealDragun",
+      "verification": "https://www.youtube.com/watch?v=ClP9hUKQ3LY"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Defeated Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "aidan",
+      "verification": "https://www.youtube.com/watch?v=vJj3HMQuiAs"
+    },
+    "percentToQualify": 66
+  },
+  "The Silver": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheRandomStuff",
+      "verification": "https://www.youtube.com/watch?v=1hsGTuQBJFs"
+    },
+    "percentToQualify": 66
+  },
+  "The Hell Field (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Stormfly",
+      "verification": "https://www.youtube.com/watch?v=rm2dGOchJk4"
+    },
+    "percentToQualify": 66
+  },
+  "Berserk (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "TrusTa",
+      "verification": "https://www.youtube.com/watch?v=tH0uWziJL8c"
+    },
+    "percentToQualify": 66
+  },
+  "Terminal": {
+    "records": [],
+    "verifier": {
+      "verifier": "Miguet",
+      "verification": "https://www.youtube.com/watch?v=x0B6lQgIB0c"
+    },
+    "percentToQualify": 66
+  },
+  "Blade of Justice (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "PedroFemXDDD",
+      "verification": "https://www.youtube.com/watch?v=AoOyBhRAwYs"
+    },
+    "percentToQualify": 66
+  },
+  "QuantumStep": {
+    "records": [],
+    "verifier": {
+      "verifier": "DawideriX",
+      "verification": ""
+    },
+    "percentToQualify": 66
+  },
+  "head in": {
+    "records": [],
+    "verifier": {
+      "verifier": "wadur",
+      "verification": "https://www.youtube.com/watch?v=6bJISyiJbgQ"
+    },
+    "percentToQualify": 66
+  },
+  "IDOL19 (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "LordVadercraft",
+      "verification": "https://www.youtube.com/watch?v=ypc-vU-2AdE"
+    },
+    "percentToQualify": 66
+  },
+  "LOVE (chao) (Old)": {
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=IHP5sDtTT3o",
+        "percent": 100,
+        "user": "Agelio"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=TCc42tZCXK4",
+        "percent": 100,
+        "user": "maxler"
+      }
+    ],
+    "verifier": {
+      "verifier": "chao",
+      "verification": "https://www.youtube.com/watch?v=yUigmaPcPUs"
+    },
+    "percentToQualify": 66
+  },
+  "deimonx": {
+    "records": [],
+    "verifier": {
+      "verifier": "InsaneI",
+      "verification": "https://www.youtube.com/watch?v=brR2Y9vsjU0"
+    },
+    "percentToQualify": 66
+  },
+  "Ruins": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tornabro",
+      "verification": "https://www.youtube.com/watch?v=8Z5GRXxZ37s"
+    },
+    "percentToQualify": 66
+  },
+  "dACUement": {
+    "records": [],
+    "verifier": {
+      "verifier": "endgravity",
+      "verification": "https://www.youtube.com/watch?v=VIMVDM-Cumc"
+    },
+    "percentToQualify": 66
+  },
+  "Denoucu": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kacek",
+      "verification": "https://www.youtube.com/watch?v=FfbFDwr-3PQ"
+    },
+    "percentToQualify": 66
+  },
+  "Acuement": {
+    "records": [],
+    "verifier": {
+      "verifier": "GabriNick",
+      "verification": "https://youtu.be/C54_Vp1ntIw?si=1FluK6MQnTOuXJO9"
+    },
+    "percentToQualify": 66
+  },
+  "Calibrate": {
+    "records": [],
+    "verifier": {
+      "verifier": "Blebae",
+      "verification": "https://www.youtube.com/watch?v=6WYnZryX_mg"
     },
     "percentToQualify": 66
   }
