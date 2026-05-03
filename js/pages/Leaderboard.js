@@ -1,4 +1,4 @@
-import { fetchLeaderboard, fetchWorldRecordsForUser, discoverWorldRecordPlayers } from '../content.js';
+import { fetchLeaderboard, fetchWorldRecords, discoverWorldRecordPlayers } from '../content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -12,8 +12,7 @@ export default {
         loading: true,
         selected: 0,
         err: [],
-        loadingWorldRecords: false,
-        worldRecordsLoaded: {},
+        searchQuery: '',
         playerWorldRecords: {},
     }),
     template: `
@@ -28,16 +27,29 @@ export default {
                     </p>
                 </div>
                 <div class="board-container">
+                    <!-- SEARCH BOX: inserted here (above the leaderboard) -->
+                    <div id="player-search-wrapper" style="padding:16px; margin-bottom:8px;">
+                      <input
+                        id="playerSearch"
+                        v-model="searchQuery"
+                        type="search"
+                        placeholder="Search players..."
+                        aria-label="Search players"
+                        autocomplete="off"
+                        style="width:100%; padding:10px 12px; border-radius:8px; border:none; background:#2a2a2a; color:#fff; box-sizing:border-box; font-family: 'Lexend Deca', sans-serif; font-weight: 500; font-size: 14px; letter-spacing: 0.2px; line-height: 1.2;"
+                      />
+                    </div>
+
                     <table class="board">
-                        <tr v-for="(ientry, i) in leaderboard">
+                        <tr v-for="(ientry, idx) in leaderboard" :key="ientry.user">
                             <td class="rank">
-                                <p class="type-label-lg">#{{ i + 1 }}</p>
+                                <p class="type-label-lg">#{{ idx + 1 }}</p>
                             </td>
                             <td class="total">
                                 <p class="type-label-lg">{{ localize(ientry.total) }}</p>
                             </td>
-                            <td class="user" :class="{ 'active': selected == i }">
-                                <button @click="selected = i">
+                            <td class="user" :class="{ 'active': selected == idx }">
+                                <button @click="selected = idx">
                                     <span class="type-label-lg">{{ ientry.user }}</span>
                                 </button>
                             </td>
@@ -57,11 +69,8 @@ export default {
                             </ul>
                         </div>
                         <h2 v-if="entry.worldRecords && entry.worldRecords.length > 0">World Records ({{ entry.worldRecords.length }})</h2>
-                        <div v-if="loadingWorldRecords" style="display: flex; justify-content: center; padding: 20px;">
-                            <Spinner></Spinner>
-                        </div>
-                        <table class="table" v-else-if="entry.worldRecords && entry.worldRecords.length > 0">
-                            <tr v-for="wr in entry.worldRecords">
+                        <table class="table" v-if="entry.worldRecords && entry.worldRecords.length > 0">
+                            <tr v-for="wr in entry.worldRecords" :key="wr.level">
                                 <td class="rank"><p></p></td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="wr.link">{{ wr.level }} {{ wr.wr }}</a>
@@ -71,7 +80,7 @@ export default {
                         </table>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
-                            <tr v-for="score in entry.verified">
+                            <tr v-for="score in entry.verified" :key="score.level">
                                 <td class="rank">
                                     <p>#{{ score.rank }}</p>
                                 </td>
@@ -85,7 +94,21 @@ export default {
                         </table>
                         <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
                         <table class="table">
-                            <tr v-for="score in entry.completed">
+                            <tr v-for="score in entry.completed" :key="score.level">
+                                <td class="rank">
+                                    <p>#{{ score.rank }}</p>
+                                </td>
+                                <td class="level">
+                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
+                                </td>
+                                <td class="score">
+                                    <p>+{{ localize(score.score) }}</p>
+                                </td>
+                            </tr>
+                        </table>
+                        <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
+                        <table class="table">
+                            <tr v-for="score in entry.completed" :key="score.level">
                                 <td class="rank">
                                     <p>#{{ score.rank }}</p>
                                 </td>
@@ -99,7 +122,7 @@ export default {
                         </table>
                         <h2 v-if="entry.progressed.length > 0">Progressed ({{entry.progressed.length}})</h2>
                         <table class="table">
-                            <tr v-for="score in entry.progressed">
+                            <tr v-for="score in entry.progressed" :key="score.level">
                                 <td class="rank">
                                     <p>#{{ score.rank }}</p>
                                 </td>
@@ -126,14 +149,19 @@ export default {
                 worldRecords: this.playerWorldRecords[player.user] || []
             };
         },
+        filteredLeaderboard() {
+            const q = (this.searchQuery || '').toLowerCase().trim();
+            if (!q) return this.leaderboard;
+            return this.leaderboard.filter(entry => {
+                if (!entry.user) return false;
+                return entry.user.toLowerCase().includes(q);
+            });
+        },
     },
     watch: {
         selected(newVal) {
-            // Load world records for the newly selected player if not already loaded
-            const player = this.leaderboard[newVal];
-            if (player && !this.worldRecordsLoaded[player.user]) {
-                this.loadWorldRecordsForPlayer();
-            }
+            // Just use the already-loaded world records, no fetch needed
+            // This makes profile changes instant!
         },
     },
     async mounted() {
@@ -145,18 +173,27 @@ export default {
         // Hide loading spinner
         this.loading = false;
         
-        // Load world records for initially selected player
-        console.log('About to load WR for index 0, player:', this.leaderboard[0]?.user);
-        if (this.leaderboard[this.selected]) {
-            await this.loadWorldRecordsForPlayer();
-        }
+        // Load ALL world records from the JSON file in the background
+        // This way all profiles load instantly without fetching
+        console.log('Loading all world records in background');
+        this.preloadAllWorldRecords();
         
-        // Load WR-only players in the background (don't await, let it load while user views leaderboard)
+        // Load WR-only players in the background
         console.log('Starting background WR player discovery');
         this.loadWorldRecordPlayersInBackground();
     },
     methods: {
         localize,
+        async preloadAllWorldRecords() {
+            try {
+                const worldRecordsMap = await fetchWorldRecords();
+                // Store all world records in the map keyed by player username
+                this.playerWorldRecords = worldRecordsMap;
+                console.log('Preloaded world records for all players');
+            } catch (e) {
+                console.error('Error preloading world records:', e);
+            }
+        },
         async loadWorldRecordPlayersInBackground() {
             try {
                 const newPlayers = await discoverWorldRecordPlayers(this.leaderboard);
@@ -168,36 +205,6 @@ export default {
                 }
             } catch (e) {
                 console.error('Error discovering WR players:', e);
-            }
-        },
-        async loadWorldRecordsForPlayer() {
-            const player = this.leaderboard[this.selected];
-            if (!player) {
-                console.log('No player found at index', this.selected);
-                return;
-            }
-            
-            console.log('loadWorldRecordsForPlayer called for:', player.user);
-            
-            // Check if already loading or already loaded
-            if (this.loadingWorldRecords || this.worldRecordsLoaded[player.user]) {
-                console.log('Already loading or loaded for:', player.user);
-                return;
-            }
-            
-            this.loadingWorldRecords = true;
-            try {
-                console.log('Starting world records fetch for:', player.user);
-                const worldRecords = await fetchWorldRecordsForUser(player.user);
-                console.log('Got world records:', worldRecords);
-                // Store world records in separate object keyed by player username
-                this.playerWorldRecords[player.user] = worldRecords;
-                this.worldRecordsLoaded[player.user] = true;
-                console.log('Stored world records, playerWorldRecords now:', this.playerWorldRecords);
-            } catch (e) {
-                console.error('Error loading world records:', e);
-            } finally {
-                this.loadingWorldRecords = false;
             }
         },
     },

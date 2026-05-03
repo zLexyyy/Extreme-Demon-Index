@@ -110,6 +110,16 @@ export async function fetchRecords() {
         console.error(`Failed to load records.`);
     }
 }
+export async function fetchWorldRecords() {
+    const wrRes = await fetch(`${dir}/_worldrecord.json`);
+    try {
+        const worldRecords = await wrRes.json();
+        return worldRecords;
+    } catch {
+        console.error(`Failed to load world records.`);
+        return {};
+    }
+}
 export async function fetchPacks() {
     try {
         const packsResult = await fetch(`${dir}/_packs.json`);
@@ -125,6 +135,7 @@ export async function fetchLeaderboard() {
     // This ensures there is only one leaderboard, even when the user is viewing "upcoming".
     const recordList = await fetchRecords();
     const packs = await fetchPacks();
+    const worldRecordData = await fetchWorldRecords();
 
     // load classic list explicitly
     const classicResult = await fetch(`${dir}/${LIST_KEYS.classic}`);
@@ -215,6 +226,25 @@ export async function fetchLeaderboard() {
                 scores.completedPacks.push(pack);
             }
         });
+    });
+
+    // Add world records from _worldrecord.json
+    Object.entries(worldRecordData).forEach(([user, wrs]) => {
+        const playerKey = Object.keys(scoreMap).find(
+            (u) => u.toLowerCase() === user.toLowerCase(),
+        ) || user;
+        
+        if (!scoreMap[playerKey]) {
+            scoreMap[playerKey] = {
+                verified: [],
+                completed: [],
+                progressed: [],
+                worldRecords: [],
+                completedPacks: [],
+            };
+        }
+        
+        scoreMap[playerKey].worldRecords = wrs;
     });
 
     // Wrap in extra Object containing the user and total score
@@ -311,55 +341,24 @@ export async function discoverWorldRecordPlayers(existingLeaderboard) {
 }
 
 /**
- * Fetch world records for a specific user from upcoming levels
+ * Fetch world records for a specific user from the _worldrecord.json file
  * Returns the worldRecords array for that user
  */
 export async function fetchWorldRecordsForUser(userName) {
-    const worldRecords = [];
-    console.log('Fetching world records for user:', userName);
+    const worldRecordData = await fetchWorldRecords();
     
-    // Load upcoming list
-    const upcomingResult = await fetch(`${dir}/${LIST_KEYS.upcoming}`);
-    let upcomingList;
-    try {
-        upcomingList = await upcomingResult.json();
-    } catch (e) {
-        console.error('Failed to load upcoming list for world records.', e);
-        return worldRecords;
+    // Find the user (case-insensitive)
+    const userKey = Object.keys(worldRecordData).find(
+        (u) => u.toLowerCase() === userName.toLowerCase()
+    );
+    
+    if (userKey) {
+        console.log('Found world records for:', userName);
+        return worldRecordData[userKey];
     }
     
-    console.log('Upcoming list loaded, levels count:', upcomingList ? upcomingList.length : 0);
-    
-    if (upcomingList) {
-        const upcomingLevels = upcomingList.filter(item => !item.startsWith('-'));
-        console.log('Filtered upcoming levels (non-sections):', upcomingLevels.length);
-        for (const levelName of upcomingLevels) {
-            const [levelData, err] = await fetchLevel(levelName);
-            if (levelData && levelData.author && levelData.author !== '-') {
-                const wrParts = levelData.author.split(' | ');
-                for (const part of wrParts) {
-                    const match = part.match(/^(.+?)\s+(\d+.*)$/);
-                    if (match) {
-                        const user = match[1].trim();
-                        const wr = match[2].trim();
-                        console.log('Found WR:', user, 'for level:', levelName);
-                        // Check if this world record belongs to our user (case-insensitive)
-                        if (user.toLowerCase() === userName.toLowerCase()) {
-                            console.log('MATCH! Adding WR for:', user);
-                            worldRecords.push({
-                                level: levelName,
-                                wr: wr,
-                                link: levelData.verification,
-                            });
-                        }
-                    }
-                }
-            }
-        }
-    }
-    
-    console.log('Final world records for', userName, ':', worldRecords);
-    return worldRecords;
+    console.log('No world records found for:', userName);
+    return [];
 }
 // --- sidebar level search/filter ---
 // Append at the bottom of js/content.js. If your List page is a Vue component,

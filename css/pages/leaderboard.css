@@ -122,3 +122,29 @@
     letter-spacing: 0.5px;
     font-family: "Lexend Deca", sans-serif;
 }
+
+/* --- player search styles (matches list search styling) --- */
+#playerSearch {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: none;
+  background: #252525; /* match dark sidebar */
+  color: #fff;
+  box-sizing: border-box;
+  outline: none;
+
+  /* font to match site */
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  line-height: 1.2;
+}
+#playerSearch::placeholder {
+  color: #bfbfbf;
+  font-weight: 500;
+}
+#playerSearch:focus {
+  box-shadow: 0 0 0 2px rgba(200, 80, 255, 0.12);
+}
