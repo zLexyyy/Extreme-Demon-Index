@@ -41,15 +41,15 @@ export default {
                     </div>
 
                     <table class="board">
-                        <tr v-for="(ientry, idx) in leaderboard" :key="ientry.user">
+                        <tr v-for="(ientry, i) in filteredLeaderboard" :key="ientry.user">
                             <td class="rank">
-                                <p class="type-label-lg">#{{ idx + 1 }}</p>
+                                <p class="type-label-lg">#{{ leaderboard.indexOf(ientry) + 1 }}</p>
                             </td>
                             <td class="total">
                                 <p class="type-label-lg">{{ localize(ientry.total) }}</p>
                             </td>
-                            <td class="user" :class="{ 'active': selected == idx }">
-                                <button @click="selected = idx">
+                            <td class="user" :class="{ 'active': leaderboard[selected].user === ientry.user }">
+                                <button @click="selected = leaderboard.indexOf(ientry)">
                                     <span class="type-label-lg">{{ ientry.user }}</span>
                                 </button>
                             </td>
@@ -81,20 +81,6 @@ export default {
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified" :key="score.level">
-                                <td class="rank">
-                                    <p>#{{ score.rank }}</p>
-                                </td>
-                                <td class="level">
-                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
-                                </td>
-                                <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
-                                </td>
-                            </tr>
-                        </table>
-                        <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
-                        <table class="table">
-                            <tr v-for="score in entry.completed" :key="score.level">
                                 <td class="rank">
                                     <p>#{{ score.rank }}</p>
                                 </td>
