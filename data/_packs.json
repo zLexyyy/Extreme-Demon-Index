@@ -885,7 +885,7 @@
         "name": "Ashley Pack",
         "color": "#e23bc3",
         "textColor": "#ec7dff",
-        "levels": ["Ashley Graves", "Ashley Bath Trials", "Ashley Wave Trials"]
+        "levels": ["Ashley Graves", "Ashley Bath Trials", "Ashley Wave Trials", "Ashley Trusta Trials"]
     },
     {
         "name": "Lexycat Pack I",
@@ -964,5 +964,166 @@
         "color": "#0B6623",
         "textColor": "#FF2B2B",
         "levels": ["SANTA FE", "snowing in las vegas", "Wintertime"]
+    },
+    {
+        "name": "Plasma Pulse Pack",
+        "color": "#1B0F3B",
+        "textColor": "#FF3DFF",
+        "levels": ["Shitty Plasma Pulse Finale", "Plasma Pulse III", "Plasma Pulse Finale"]
+    },
+    {
+        "name": "Forest Pack",
+        "color": "#1F4D2B",
+        "textColor": "#D4A017",
+        "levels": ["Electric Forest", "Ultra Golden Forest", "Golden Forest"]
+    },
+    {
+        "name": "Tidal Wave Pack I",
+        "color": "#D4A017",
+        "textColor": "#D4A017",
+        "levels": ["Tidal Wave Easy", "Shitty Tidal Wave", "Tidalmoment"]
+    },
+    {
+        "name": "Tidal Wave Pack II",
+        "color": "#D4A017",
+        "textColor": "#c6cf63",
+        "levels": ["Tidal Wave (April 2026)", "Tidal Wave (September 2023)", "Tidal Wave (July 2025)", "Tidal Wave (March 2025)", "Tidal Wave buffed"]
+    },
+    {
+        "name": "Randomizer Pack",
+        "color": "#1A1B2E",
+        "textColor": "#B6FF2E",
+        "levels": ["The Art of the Blade", "THE CROSSING (Unnerfed)", "BOOBAWAMBA", "LIMBO"]
+    },
+    {
+        "name": "School Pack",
+        "color": "#4A6FA5",
+        "textColor": "#F3E37C",
+        "levels": ["Teacher", "Maths", "Library II"]
+    },
+    {
+        "name": "Chess Pack",
+        "color": "#1A1A1A",
+        "textColor": "#F5F5DC",
+        "levels": ["Castling", "Stalemate Redux", "Martin"]
+    },
+    {
+        "name": "DeCode Pack I",
+        "color": "#904d00",
+        "textColor": "#f3fa30",
+        "levels": ["Acude", "DeCode x20", "Codebath"]
+    },
+    {
+        "name": "DeCode Pack II",
+        "color": "#904d00",
+        "textColor": "#f3fa30",
+        "levels": ["DeAth Codeidor", "Sonic DeCode", "WasuDeta"]
+    },
+    {
+        "name": "GD Awards Winner I",
+        "color": "#0B0B0F",
+        "textColor": "#F5C542",
+        "levels": ["Verdant Landscape", "Nhelv", "Cold Sweat"]
+    },
+    {
+        "name": "GD Awards Winner II",
+        "color": "#0B0B0F",
+        "textColor": "#F5C542",
+        "levels": ["Flamewall", "Waterfall", "Edge of Destiny"]
+    },
+    {
+        "name": "Goober Pack",
+        "color": "#FF6FAE",
+        "textColor": "#B6FF4D",
+        "levels": ["goober land", "Goober Level", "Goofy Goober", "Goober Rage Stage", "Guideless Goobering"]
+    },
+    {
+        "name": "Bossfight Pack",
+        "color": "#2B0000",
+        "textColor": "#FF4D1A",
+        "levels": ["Omorfia", "BarbarosFinaleFinale", "Barbaros Finale", "The Gins II", "Matilda the Machine"]
+    },
+    {
+        "name": "Plumbing Pack",
+        "color": "#3A6EA5",
+        "textColor": "#EAF4FF",
+        "levels": ["very rusty pipeline", "Sewers", "Sink", "p00p"]
+    },
+    {
+        "name": "Legendary Pack I",
+        "color": "#F2B705",
+        "textColor": "#F2B705",
+        "levels": ["STRATUS", "CITYFADE", "Without U", "Grand Eclipse", "STARBREAKER"]
+    },
+        {
+        "name": "Legendary Pack II",
+        "color": "#F2B705",
+        "textColor": "#F2B705",
+        "levels": ["RIVERS OF NAZARETH", "Lotus (ZeroSR)", "Junk Realm", "ABSURDIA", "Pale Machine"]
+    },
+        {
+        "name": "Legendary Pack III",
+        "color": "#F2B705",
+        "textColor": "#F2B705",
+        "levels": ["Air Fryer", "REDEEMER", "Video", "Next Stage", "Controlled Chaos"]
+    },
+        {
+        "name": "Legendary Pack IV",
+        "color": "#F2B705",
+        "textColor": "#F2B705",
+        "levels": ["Waterfall", "DISSONANCE", "Echoes of Neon"]
+    },
+        {
+        "name": "Bus Pack",
+        "color": "#F4C430",
+        "textColor": "#1F4E79",
+        "levels": ["Elbus", "Desert Bus (Ziegenhainy)", "Desert Bus (ASBCHazel)"]
+    },
+        {
+        "name": "Lilac Pack",
+        "color": "#B79CED",
+        "textColor": "#6C63C9",
+        "levels": ["Lilac Acu Map", "Lilac Acu", "nonbinary acu"]
+    },
+        {
+        "name": "Raging on the Paroxysm Pack",
+        "color": "#4A0D0D",
+        "textColor": "#FF3B3B",
+        "levels": ["Rage", "Paroxysm", "The Paroxysm of Rage"]
+    },
+        {
+        "name": "TwisterDude161 I",
+        "color": "#ffffff",
+        "textColor": "#092c8f",
+        "levels": ["Quadratic Function", "PAINFUL PLAYLAND", "Zen Blast", "Neon Mixtape Tour"]
+    },
+        {
+        "name": "TwisterDude161 II",
+        "color": "#ffffff",
+        "textColor": "#092c8f",
+        "levels": ["GrizzlyWare", "Warning (TwisterDude161)", "Manic Machine", "Motorbreath"]
+    },
+        {
+        "name": "TwisterDude161 III",
+        "color": "#ffffff",
+        "textColor": "#092c8f",
+        "levels": ["FusionDynamix", "Turbulent Valley", "Cryothorn Hell", "Supreme Demon Mix"]
+    },
+        {
+        "name": "Para Pack",
+        "color": "##956300",
+        "textColor": "##ffb900",
+        "levels": ["LOOSE ENDS", "WNDLSS LNDSCP", "Want Me", "untitled unmastered", "Cold Sweat"]
+    },
+        {
+        "name": "Meatballmoose Pack",
+        "color": "#fc9d3e",
+        "textColor": "#adadad",
+        "levels": ["uskc madness", "USKCspamouement", "Sakupenouement"]
+    },    {
+        "name": "Temu RGB Pack",
+        "color": "#fb7700",
+        "textColor": "#fbcba3",
+        "levels": ["Generic Wave", "ErebuS (Platnuu)", "Karasu"]
     }
 ]

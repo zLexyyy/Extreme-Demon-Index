@@ -65,11 +65,33 @@
       "link": "https://www.youtube.com/watch?v=UJDOtK1Ol8A"
     }
   ],
+  "Shiver": [
+    {
+      "level": "Andromedas Demise",
+      "wr": "11%",
+      "link": "https://www.youtube.com/watch?v=UgiW9SaO09I"
+    },
+    {
+      "level": "Checkmate",
+      "wr": "24-42%",
+      "link": "https://www.youtube.com/watch?v=BIAw9iQvgKo"
+    }
+  ],
   "qwertyokbomb": [
     {
       "level": "Asterios (Unnerfed)",
       "wr": "8%",
       "link": "https://youtu.be/9SRTDTRqGAY"
+    },
+    {
+      "level": "EE FUNKY",
+      "wr": "7%",
+      "link": "https://youtu.be/3u-UL9FvMgQ"
+    },
+    {
+      "level": "EE FUNKY",
+      "wr": "26-50%",
+      "link": "https://youtu.be/3u-UL9FvMgQ"
     },
     {
       "level": "Destiny Bond",
@@ -90,6 +112,11 @@
       "level": "Eternal Divinity (Old)",
       "wr": "63%",
       "link": "https://youtu.be/VFYrT_FT_DQ"
+    },
+    {
+      "level": "Dementia (Unnerfed)",
+      "wr": "45%",
+      "link": "https://www.youtube.com/watch?v=_ayCN_aMmlg"
     },
     {
       "level": "Poltergeist Infinity (Old)",
@@ -245,6 +272,13 @@
       "link": "https://www.youtube.com/watch?v=taTxv5cdOKA"
     }
   ],
+  "LucyIsSIlly": [
+    {
+      "level": "Bakemonogatari",
+      "wr": "20%",
+      "link": "https://youtu.be/tt-Tz0S9ca0"
+    }
+  ],
   "TheShadowRealm": [
     {
       "level": "Crimson World",
@@ -334,13 +368,6 @@
       "level": "The Aurumen",
       "wr": "25%",
       "link": "https://www.youtube.com/watch?v=EbmvDnLObBc"
-    }
-  ],
-  "Shiver": [
-    {
-      "level": "Checkmate",
-      "wr": "24-42%",
-      "link": "https://www.youtube.com/watch?v=BIAw9iQvgKo"
     }
   ],
   "Gyrocynical": [
@@ -610,6 +637,13 @@
       "link": "https://www.youtube.com/watch?v=Xb6G9EmBhug"
     }
   ],
+  "RealDes": [
+    {
+      "level": "Immortality X",
+      "wr": "24%",
+      "link": "https://youtu.be/2kxfi0wZDFg"
+    }
+  ],
   "Waltty": [
     {
       "level": "KEROSENE",
@@ -711,6 +745,53 @@
       "link": "https://www.youtube.com/watch?v=RPi_JeVQjqQ"
     }
   ],
+  "juipukka69": [
+    {
+      "level": "Playstation",
+      "wr": "16%",
+      "link": "https://youtu.be/pq9fPYluLY0"
+    },
+    {
+      "level": "Silent Circles (skeletonlol)",
+      "wr": "23%",
+      "link": "https://youtu.be/U5IHwBRB83Q?si=6z8UoFzeoc_OQFzf"
+    },
+    {
+      "level": "three",
+      "wr": "18%",
+      "link": "https://youtu.be/dP9e9mA-_UM"
+    },
+    {
+      "level": "Midnight Void",
+      "wr": "25%",
+      "link": "https://www.youtube.com/watch?v=XetxjkN0PU0"
+    },
+    {
+      "level": "Hollow (Unnerfed)",
+      "wr": "11%",
+      "link": "https://www.youtube.com/watch?v=fuc0iOTuApU"
+    },
+    {
+      "level": "BLOOD FILLED AGONY",
+      "wr": "44-83%",
+      "link": "https://www.youtube.com/watch?v=1Qvdea3VFZM"
+    },
+    {
+      "level": "IHateSimonCowell",
+      "wr": "40%",
+      "link": "https://youtu.be/cEVnqESP8ug"
+    },
+    {
+      "level": "Twilight Abyss",
+      "wr": "18%",
+      "link": "https://medal.tv/games/geometry-dash/clips/kKLHTP21yCAgoyVzq?invite=cr-MSxLT28sNDgwODM1MDU"
+    },
+    {
+      "level": "Renevant Redux",
+      "wr": "76-100%",
+      "link": "https://www.youtube.com/watch?v=X-jbeeUDSwM"
+    }
+  ],
   "StockUniverse": [
     {
       "level": "Raw Concrete",
@@ -752,48 +833,6 @@
       "level": "Silent KOCMOC",
       "wr": "31%",
       "link": "https://www.youtube.com/watch?v=xzOikULCo7A"
-    }
-  ],
-  "juipukka69": [
-    {
-      "level": "Silent Circles (skeletonlol)",
-      "wr": "23%",
-      "link": "https://youtu.be/U5IHwBRB83Q?si=6z8UoFzeoc_OQFzf"
-    },
-    {
-      "level": "three",
-      "wr": "18%",
-      "link": "https://youtu.be/dP9e9mA-_UM"
-    },
-    {
-      "level": "Midnight Void",
-      "wr": "25%",
-      "link": "https://www.youtube.com/watch?v=XetxjkN0PU0"
-    },
-    {
-      "level": "Hollow (Unnerfed)",
-      "wr": "11%",
-      "link": "https://www.youtube.com/watch?v=fuc0iOTuApU"
-    },
-    {
-      "level": "BLOOD FILLED AGONY",
-      "wr": "44-83%",
-      "link": "https://www.youtube.com/watch?v=1Qvdea3VFZM"
-    },
-    {
-      "level": "IHateSimonCowell",
-      "wr": "40%",
-      "link": "https://youtu.be/cEVnqESP8ug"
-    },
-    {
-      "level": "Twilight Abyss",
-      "wr": "18%",
-      "link": "https://medal.tv/games/geometry-dash/clips/kKLHTP21yCAgoyVzq?invite=cr-MSxLT28sNDgwODM1MDU"
-    },
-    {
-      "level": "Renevant Redux",
-      "wr": "76-100%",
-      "link": "https://www.youtube.com/watch?v=X-jbeeUDSwM"
     }
   ],
   "Soundgarden7": [
@@ -2375,13 +2414,6 @@
       "level": "Blade of Circles XII",
       "wr": "17%",
       "link": "https://youtu.be/0NfdLDUbuNg"
-    }
-  ],
-  "qwertyokbom": [
-    {
-      "level": "Dementia (Unnerfed)",
-      "wr": "45%",
-      "link": "https://www.youtube.com/watch?v=_ayCN_aMmlg"
     }
   ],
   "kaarrdrice": [
