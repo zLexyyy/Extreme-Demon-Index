@@ -26888,7 +26888,14 @@
   },
   "Red Auditory Breaker": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": "720",
+        "link": "https://www.youtube.com/watch?v=L6mVfMq8Nrk",
+        "percent": 100,
+        "user": "nettniko"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=i7JH4SKZa6s",
       "verifier": "Sonic GMD"
