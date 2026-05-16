@@ -14283,6 +14283,12 @@
         "link": "https://www.youtube.com/watch?v=nLtu7-flaT8",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "240",
+        "link": "https://youtu.be/ZRSL5N6XatI",
+        "percent": 100,
+        "user": "shafikdabest"
       }
     ],
     "verifier": {
@@ -24935,6 +24941,12 @@
         "link": "https://www.youtube.com/watch?v=QumXbZapFak",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/hqYR9TmF3hM",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -32212,7 +32224,14 @@
   },
   "Solarion": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/RaOAhZKZH3w",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=o37AaOnGcVk",
       "verifier": "Kevelia"
@@ -40751,6 +40770,12 @@
         "link": "https://www.youtube.com/watch?v=DOe5hRbt5N0",
         "percent": 100,
         "user": "Fluxite"
+      },
+      {
+        "hz": "240",
+        "link": "https://youtu.be/whl11AUEEos",
+        "percent": 100,
+        "user": "r1m2"
       }
     ],
     "verifier": {
