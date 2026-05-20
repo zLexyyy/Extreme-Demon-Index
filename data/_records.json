@@ -5525,14 +5525,6 @@
       "verifier": "KlimK"
     }
   },
-  "Blue Noah (No RT)": {
-    "percentToQualify": 66,
-    "records": [],
-    "verifier": {
-      "verification": "https://www.youtube.com/watch?v=NEYJNH9OvX0",
-      "verifier": "Squeeg"
-    }
-  },
   "Blue Slaughterhouse (The_Bat0)": {
     "percentToQualify": 66,
     "records": [],
@@ -7844,8 +7836,8 @@
     "percentToQualify": 66,
     "records": [],
     "verifier": {
-      "verification": "https://www.youtube.com/watch?v=GzY2tXBo6fg",
-      "verifier": "JesseGamingGD"
+      "verification": "https://www.youtube.com/watch?v=Xe-O9eGH5Yk",
+      "verifier": "RedMatrix"
     }
   },
   "Cobwebs": {
@@ -24304,14 +24296,6 @@
         "verifier": "CarterT10"
       }
     },
-    "Immortal (Altjitter)": {
-      "percentToQualify": 66,
-      "records": [],
-      "verifier": {
-        "verification": "https://www.youtube.com/watch?v=EJp1IzB4PEY",
-        "verifier": "Squeeg"
-      }
-    },
     "Lilac Acu Map": {
       "percentToQualify": 66,
       "records": [],
@@ -24333,14 +24317,6 @@
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=SsXBxS5kdRk",
         "verifier": "schitt"
-      }
-    },
-    "Outbreak Perfected (No RT)": {
-      "percentToQualify": 66,
-      "records": [],
-      "verifier": {
-        "verification": "https://www.youtube.com/watch?v=7ewj_I-P5Pc&lc=UgyH3vGFnyL9y1aGt3Z4AaABAg",
-        "verifier": "Squeeg"
       }
     },
     "The Deep Dark": {
@@ -34528,21 +34504,6 @@
       "verifier": "ExtremeShowcase"
     }
   },
-  "The Deep Dark Infinity": {
-    "percentToQualify": 66,
-    "records": [
-      {
-        "hz": 240,
-        "link": "https://youtu.be/kiMQOpcoR2I",
-        "percent": 100,
-        "user": "macaca"
-      }
-    ],
-    "verifier": {
-      "verification": "https://www.youtube.com/watch?v=ADjZwPVS8KQ",
-      "verifier": "Squeeg"
-    }
-  },
   "The Depths Above": {
     "percentToQualify": 66,
     "records": [
@@ -44279,8 +44240,8 @@
   "Wavetrip": {
     "records": [],
     "verifier": {
-      "verifier": "MiniShoey",
-      "verification": "https://www.youtube.com/watch?v=TKQtbj8dFi4"
+      "verifier": "BapuaHT",
+      "verification": "https://youtu.be/G-NQriF3cq8?si=MJyoPOo13x5uwLJk"
     },
     "percentToQualify": 66
   },

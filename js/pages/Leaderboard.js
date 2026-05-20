@@ -36,7 +36,7 @@ export default {
                         placeholder="Search players..."
                         aria-label="Search players"
                         autocomplete="off"
-                        style="width:100%; padding:10px 12px; border-radius:8px; border:none; background:#2a2a2a; color:#fff; box-sizing:border-box; font-family: 'Lexend Deca', sans-serif; font-weight: 500; font-size: 14px; letter-spacing: 0.2px; line-height: 1.2;"
+                        style="width:100%; padding:10px 12px; border-radius:8px; border:none; background:#2a2a2a; color:#fff; box-sizing:border-box; font-family: 'Lexend Deca', sans-serif; font-weight: 500;"
                       />
                     </div>
 
@@ -74,6 +74,16 @@ export default {
                                 <td class="rank"><p></p></td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="wr.link">{{ wr.level }} {{ wr.wr }}</a>
+                                </td>
+                                <td class="score"><p></p></td>
+                            </tr>
+                        </table>
+                        <h2 v-if="entry.upcomingVerifying && entry.upcomingVerifying.length > 0">Upcoming Verifications ({{ entry.upcomingVerifying.length }})</h2>
+                        <table class="table" v-if="entry.upcomingVerifying && entry.upcomingVerifying.length > 0">
+                            <tr v-for="verification in entry.upcomingVerifying" :key="verification.level">
+                                <td class="rank"><p></p></td>
+                                <td class="level">
+                                    <a class="type-label-lg" target="_blank" :href="verification.link">{{ verification.level }}</a>
                                 </td>
                                 <td class="score"><p></p></td>
                             </tr>
@@ -129,7 +139,6 @@ export default {
         entry() {
             const player = this.leaderboard[this.selected];
             if (!player) return {};
-            // Return entry with world records from separate storage
             return {
                 ...player,
                 worldRecords: this.playerWorldRecords[player.user] || []
@@ -144,27 +153,17 @@ export default {
             });
         },
     },
-    watch: {
-        selected(newVal) {
-            // Just use the already-loaded world records, no fetch needed
-            // This makes profile changes instant!
-        },
-    },
     async mounted() {
         console.log('Leaderboard mounted');
         const [leaderboard, err] = await fetchLeaderboard();
         console.log('Leaderboard data loaded, count:', leaderboard.length);
         this.leaderboard = leaderboard;
         this.err = err;
-        // Hide loading spinner
         this.loading = false;
         
-        // Load ALL world records from the JSON file in the background
-        // This way all profiles load instantly without fetching
         console.log('Loading all world records in background');
         this.preloadAllWorldRecords();
         
-        // Load WR-only players in the background
         console.log('Starting background WR player discovery');
         this.loadWorldRecordPlayersInBackground();
     },
@@ -173,7 +172,6 @@ export default {
         async preloadAllWorldRecords() {
             try {
                 const worldRecordsMap = await fetchWorldRecords();
-                // Store all world records in the map keyed by player username
                 this.playerWorldRecords = worldRecordsMap;
                 console.log('Preloaded world records for all players');
             } catch (e) {
@@ -185,7 +183,6 @@ export default {
                 const newPlayers = await discoverWorldRecordPlayers(this.leaderboard);
                 console.log('Found new WR players:', newPlayers.length);
                 if (newPlayers.length > 0) {
-                    // Add new players to leaderboard and re-sort
                     this.leaderboard = [...this.leaderboard, ...newPlayers].sort((a, b) => b.total - a.total);
                     console.log('Updated leaderboard with WR players, new count:', this.leaderboard.length);
                 }

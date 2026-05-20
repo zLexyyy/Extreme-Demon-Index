@@ -26,11 +26,6 @@
     },
     {
         "role": "helper",
-        "name": "Gosdas",
-        "link": ""
-    },
-    {
-        "role": "helper",
         "name": "Mythic",
         "link": "https://www.youtube.com/channel/UCTEU0aEObLtBPfhW7ETfyQA"
     },
@@ -58,6 +53,21 @@
         "role": "helper",
         "name": "Lilac",
         "link": "https://www.youtube.com/channel/UC6aVe2pkB4dkjP1D_tBVzbw"
+    },
+    {
+        "role": "helper",
+        "name": "ddlghl",
+        "link": "https://www.youtube.com/channel/UCn6URTtNCjXaAdohDzcgnvw"
+    },
+    {
+        "role": "helper",
+        "name": "blueshift",
+        "link": "https://www.youtube.com/channel/UCiP7gPJpSKUyDrCWHBpKgTA"
+    },
+    {
+        "role": "helper",
+        "name": "Arkham",
+        "link": "https://www.youtube.com/channel/UCVOGYTbaYEWEMTUloBeEwsw"
     },
     {
         "role": "dev",

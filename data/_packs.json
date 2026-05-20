@@ -1052,25 +1052,25 @@
     {
         "name": "Legendary Pack I",
         "color": "#F2B705",
-        "textColor": "#F2B705",
+        "textColor": "#f2b705",
         "levels": ["STRATUS", "CITYFADE", "Without U", "Grand Eclipse", "STARBREAKER"]
     },
         {
         "name": "Legendary Pack II",
         "color": "#F2B705",
-        "textColor": "#F2B705",
+        "textColor": "#f2b705",
         "levels": ["RIVERS OF NAZARETH", "Lotus (ZeroSR)", "Junk Realm", "ABSURDIA", "Pale Machine"]
     },
         {
         "name": "Legendary Pack III",
         "color": "#F2B705",
-        "textColor": "#F2B705",
+        "textColor": "#f2b705",
         "levels": ["Air Fryer", "REDEEMER", "Video", "Next Stage", "Controlled Chaos"]
     },
         {
         "name": "Legendary Pack IV",
         "color": "#F2B705",
-        "textColor": "#F2B705",
+        "textColor": "#f2b705",
         "levels": ["Waterfall", "DISSONANCE", "Echoes of Neon"]
     },
         {

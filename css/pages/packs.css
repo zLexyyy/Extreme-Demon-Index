@@ -13,6 +13,67 @@
     padding-right: 2rem;
 }
 
+/* Sort Controls */
+.page-packs .pack-sort-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: var(--color-background-hover);
+    border-radius: 0.5rem;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.page-packs .pack-sort-controls label {
+    font-weight: 500;
+    color: var(--color-on-background);
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.page-packs .pack-sort-select {
+    padding: 0.5rem 0.75rem;
+    border: 2px solid var(--color-primary);
+    border-radius: 0.5rem;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: inherit;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.page-packs .pack-sort-select:hover {
+    background-color: var(--color-background-hover);
+}
+
+.page-packs .pack-sort-select:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(123, 0, 168, 0.2);
+}
+
+/* Dropdown options styling - works in Firefox and some other browsers */
+.page-packs .pack-sort-select option {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 500;
+    padding: 0.5rem;
+}
+
+/* Dark mode adjustments for select */
+main.dark .page-packs .pack-sort-select {
+    background-color: #27262c;
+    color: white;
+}
+
+main.dark .page-packs .pack-sort-select option {
+    background-color: #1c1b1f;
+    color: white;
+}
+
+/* Pack List */
 .page-packs .packs-list {
     display: flex;
     flex-direction: column;
@@ -21,12 +82,14 @@
 
 .page-packs .pack-item {
     background-color: var(--color-background);
-    border: 2px solid var(--color-border);
+    border: 2px solid var(--color-background-hover);
     border-radius: 0.5rem;
     padding: 1rem;
     cursor: pointer;
     transition: all 0.2s;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-family: "Lexend Deca", sans-serif;
 }
 
@@ -34,34 +97,52 @@
     background-color: var(--color-background-hover);
     border-color: var(--color-primary);
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
 .page-packs .pack-item.active {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
     border-color: var(--color-primary);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
+/* Pack Name */
 .page-packs .pack-name {
     font-weight: bold;
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    flex: 1;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.page-packs .pack-meta {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.95rem;
+    align-items: center;
+    white-space: nowrap;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.page-packs .pack-levels-count,
+.page-packs .pack-points {
+    font-weight: 600;
+    font-size: 0.9rem;
+    font-family: "Lexend Deca", sans-serif;
+    color: var(--color-on-background);
 }
 
 .page-packs .pack-theme {
     font-size: 0.9rem;
     color: var(--color-text-secondary);
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .pack-details {
     background-color: var(--color-background);
-    border: 2px solid var(--color-border);
+    border: 2px solid var(--color-background-hover);
     border-radius: 0.5rem;
     padding: 2rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     font-family: "Lexend Deca", sans-serif;
 }
 
@@ -70,11 +151,13 @@
     font-size: 1.5rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .pack-details p {
     margin-bottom: 1rem;
-    color: var(--color-text-secondary);
+    color: var(--color-on-background);
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .pack-details .pack-reward {
@@ -83,6 +166,7 @@
     margin-bottom: 1rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .pack-details h3 {
@@ -90,6 +174,7 @@
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .pack-levels {
@@ -102,7 +187,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0.75rem;
-    border-bottom: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-background-hover);
     cursor: pointer;
     transition: background-color 0.2s;
     font-family: "Lexend Deca", sans-serif;
@@ -112,25 +197,29 @@
     background-color: var(--color-background-hover);
 }
 
+.page-packs .pack-levels li:last-child {
+    border-bottom: none;
+}
+
 .page-packs .level-name {
-    font-weight: bold;
+    font-weight: 600;
     flex: 1;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .level-points {
-    color: var(--color-text-secondary);
-    font-weight: 500;
+    font-weight: 600;
+    color: var(--color-on-background);
+    margin-left: 1rem;
+    font-family: "Lexend Deca", sans-serif;
 }
 
 .page-packs .no-pack {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     height: 100%;
-    color: var(--color-text-secondary);
-    font-size: 1.2rem;
-    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--color-on-background);
     font-family: "Lexend Deca", sans-serif;
 }

@@ -26,6 +26,11 @@
       "link": "https://www.youtube.com/watch?v=L0VcqFexIpI"
     },
     {
+      "level": "Codewebs",
+      "wr": "30%",
+      "link": "https://youtu.be/LFbCsW2NH7E"
+    },
+    {
       "level": "Shitty Centipede (Unnerfed)",
       "wr": "35%",
       "link": "https://www.youtube.com/watch?v=otdtBB2eN2U"
@@ -77,7 +82,7 @@
       "link": "https://www.youtube.com/watch?v=BIAw9iQvgKo"
     }
   ],
-  "gdatomic": [
+  "Atomic": [
     {
       "level": "Asterios (Unnerfed)",
       "wr": "18%",
@@ -339,11 +344,16 @@
       "link": "https://www.youtube.com/clip/UgkxIiFyUPqpcY7DfEwA1MRE93S2He2DwhBj"
     }
   ],
-  "fatpinkhippo": [
+  "FHippo": [
     {
       "level": "Disturb (Old)",
       "wr": "63-100%",
       "link": "https://youtu.be/onMX2-x0KZE?si=tfPg-JRo1ZCK8jKP"
+    },
+    {
+      "level": "Cyberian",
+      "wr": "39%, 37-73%",
+      "link": "https://youtu.be/O_iCpV_qgIE?si=WUQrBKJ2IQQg1gv3"
     }
   ],
   "LordVadercraft": [
@@ -431,7 +441,7 @@
   ],
   "FreddyFazGlitch": [
     {
-      "level": "Death Corridor",
+      "level": "Death Corridor (Old)",
       "wr": "53-91%",
       "link": "https://www.youtube.com/watch?v=F_IHH6PVjZ8"
     }
@@ -505,12 +515,7 @@
   "qwertyokbomb": [
     {
       "level": "EE FUNKY",
-      "wr": "7%",
-      "link": "https://youtu.be/3u-UL9FvMgQ"
-    },
-    {
-      "level": "EE FUNKY",
-      "wr": "26-50%",
+      "wr": "7%, 26-50%",
       "link": "https://youtu.be/3u-UL9FvMgQ"
     },
     {
@@ -2291,7 +2296,7 @@
     {
       "level": "Wild Roses",
       "wr": "17%, 68-90%",
-      "link": "https://www.youtube.com/live/1XOoz0y7tzk"
+      "link": "https://youtu.be/ParLtwMIWzI"
     }
   ],
   "Nugblox": [
@@ -2348,13 +2353,6 @@
       "level": "Element 119 Uue ",
       "wr": "14%",
       "link": "https://youtu.be/e0b6JkUp3cY"
-    }
-  ],
-  "Hippo": [
-    {
-      "level": "Cyberian",
-      "wr": "39%, 37-73%",
-      "link": "https://youtu.be/O_iCpV_qgIE?si=WUQrBKJ2IQQg1gv3"
     }
   ],
   "Esoteric Hydra": [
@@ -2429,7 +2427,7 @@
     },
     {
       "level": "Oblivion ",
-      "wr": "26-53%",
+      "wr": "23-53%",
       "link": "https://www.youtube.com/watch?v=jdU8Lf0XhtU"
     },
     {
