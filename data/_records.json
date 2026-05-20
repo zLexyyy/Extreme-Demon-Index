@@ -1344,6 +1344,12 @@
         "link": "https://www.youtube.com/watch?v=sNCHP6ibhhc",
         "percent": 100,
         "user": "MFHsus"
+      },
+      {
+        "hz": "60",
+        "link": "https://youtu.be/er86kQudLlU",
+        "percent": 100,
+        "user": "Vickyy"
       }
     ],
     "verifier": {
@@ -2114,6 +2120,12 @@
         "link": "https://www.youtube.com/watch?v=5IT1k9TGPgo",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "60",
+        "link": "https://youtu.be/otBBXYH0WWY",
+        "percent": 100,
+        "user": "MythicalWrath"
       }
     ],
     "verifier": {
@@ -7067,6 +7079,12 @@
         "link": "https://www.youtube.com/watch?v=XkFo65Ghg1k",
         "percent": 100,
         "user": "ReversePlox"
+      },
+      {
+        "hz": "144",
+        "link": "https://www.youtube.com/watch?v=BoLth-b19Ys&t=170s",
+        "percent": 100,
+        "user": "timmytoughnut97"
       }
     ],
     "verifier": {
@@ -11850,6 +11868,12 @@
         "link": "https://youtu.be/f3m4Oq2Xes4?si=SrW8f8L98o63ZtlY",
         "percent": 100,
         "user": "0_form_0"
+      },
+      {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=v3Q7uzaWBdk",
+        "percent": 100,
+        "user": "nettniko"
       }
     ],
     "verifier": {
@@ -14269,6 +14293,12 @@
         "link": "https://www.youtube.com/watch?v=nLtu7-flaT8",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "240",
+        "link": "https://youtu.be/ZRSL5N6XatI",
+        "percent": 100,
+        "user": "shafikdabest"
       }
     ],
     "verifier": {
@@ -22873,7 +22903,14 @@
   },
   "Necrocide": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=9GHlvhiTHIY",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=TtZznh8RgIw",
       "verifier": "Zylenox"
@@ -24761,6 +24798,12 @@
         "link": "https://www.youtube.com/watch?v=9-pF2nHAYX8",
         "percent": 100,
         "user": "Lemniks"
+      },
+      {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=afNi1AywifY",
+        "percent": 100,
+        "user": "abcpro"
       }
     ],
     "verifier": {
@@ -24905,6 +24948,12 @@
         "link": "https://www.youtube.com/watch?v=QumXbZapFak",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/hqYR9TmF3hM",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -26864,7 +26913,14 @@
   },
   "Red Auditory Breaker": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": "720",
+        "link": "https://www.youtube.com/watch?v=L6mVfMq8Nrk",
+        "percent": 100,
+        "user": "nettniko"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=i7JH4SKZa6s",
       "verifier": "Sonic GMD"
@@ -32175,7 +32231,14 @@
   },
   "Solarion": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/RaOAhZKZH3w",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=o37AaOnGcVk",
       "verifier": "Kevelia"
@@ -34022,6 +34085,12 @@
         "link": "https://youtu.be/D1wSfgVhjXE?si=7rQaKJz0PmCH3TJ9",
         "percent": 100,
         "user": "Sharkified"
+      },
+      {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=00SD1SlNb8g",
+        "percent": 100,
+        "user": "nettniko"
       }
     ],
     "verifier": {
@@ -40693,6 +40762,12 @@
         "link": "https://www.youtube.com/watch?v=DOe5hRbt5N0",
         "percent": 100,
         "user": "Fluxite"
+      },
+      {
+        "hz": "240",
+        "link": "https://youtu.be/whl11AUEEos",
+        "percent": 100,
+        "user": "r1m2"
       }
     ],
     "verifier": {
@@ -41272,7 +41347,14 @@
   },
   "kuiper belt": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/TiR2PkNKhLk",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=lYJQXXNTg2U",
       "verifier": "Nordgeez"
