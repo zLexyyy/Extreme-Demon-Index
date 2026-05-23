@@ -5230,7 +5230,7 @@
       "verifier": "KeiAs"
     }
   },
-  "Bloodbath": {
+  "Bloodbath (Riot)": {
     "percentToQualify": 66,
     "records": [
       {
@@ -5371,7 +5371,7 @@
       "verifier": "astillion"
     }
   },
-  "Bloodbath (Old)": {
+  "Bloodbath (Riot) (True Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -19552,7 +19552,7 @@
       "verifier": "lhsui"
     }
   },
-  "LIMBO": {
+  "LIMBO (MindCap)": {
     "percentToQualify": 64,
     "records": [],
     "verifier": {
@@ -24083,14 +24083,6 @@
       "verifier": "Lavaclaw"
     }
   },
-  "Original Bloodbath (Old)": {
-    "percentToQualify": 66,
-    "records": [],
-    "verifier": {
-      "verification": "https://www.youtube.com/watch?v=po88wfmp_Y0",
-      "verifier": "mewtwo557"
-    }
-  },
   "Our Fountain": {
     "percentToQualify": 66,
     "records": [
@@ -24704,7 +24696,7 @@
       "verifier": "Marramix"
     }
   },
-  "Paracosm Circles (Unnerfed)": {
+  "Paracosm Circles (TigerXero) (Unnerfed)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -31950,7 +31942,7 @@
       "verifier": "Doggie"
     }
   },
-  "Slaughterhouse (Unnerfed)": {
+  "Slaughterhouse (Unnerfed) (wPopoff)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -34077,7 +34069,7 @@
       "verifier": "manifestrev"
     }
   },
-  "Tartarus": {
+  "Tartarus (Old)": {
     "percentToQualify": 64,
     "records": [
       {
@@ -44616,6 +44608,710 @@
     "verifier": {
       "verifier": "FrostGD",
       "verification": "https://www.youtube.com/watch?v=YXhmyei5XPI"
+    },
+    "percentToQualify": 66
+  },
+  "Ultra Paracosm": {
+    "records": [],
+    "verifier": {
+      "verifier": "Wity",
+      "verification": "https://www.youtube.com/watch?v=4V24spYQWuE"
+    },
+    "percentToQualify": 66
+  },
+  "Slaughterhouse (Unnerfed) (ROZE)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ROZE",
+      "verification": "https://youtu.be/FQ5OQzJkIs4"
+    },
+    "percentToQualify": 66
+  },
+  "LIMBO (MindCap) (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "BGram",
+      "verification": "https://www.youtube.com/watch?v=kXYMbaMVOZg"
+    },
+    "percentToQualify": 66
+  },
+  "Tartarus": {
+    "records": [],
+    "verifier": {
+      "verifier": "Charlie Lance",
+      "verification": "https://www.youtube.com/watch?v=WLj-n6Yq5_Y"
+    },
+    "percentToQualify": 66
+  },
+  "Delta (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Doggie",
+      "verification": "https://www.youtube.com/watch?v=_rr3J8DkIm4"
+    },
+    "percentToQualify": 66
+  },
+  "The Golden (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "PaulaGPe",
+      "verification": "https://www.youtube.com/watch?v=Wd4JZFpxwmI"
+    },
+    "percentToQualify": 66
+  },
+  "Trueffet (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Baeru",
+      "verification": "https://www.youtube.com/watch?v=yHESkazVD4Q"
+    },
+    "percentToQualify": 66
+  },
+  "Kenos (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Doggie",
+      "verification": "https://www.youtube.com/watch?v=VeYg_H_fxoc"
+    },
+    "percentToQualify": 66
+  },
+  "Widestep (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Demishio",
+      "verification": "https://www.youtube.com/watch?v=TN8fHN_XV3o"
+    },
+    "percentToQualify": 66
+  },
+  "Cold Sweat (ULDM) (Aniiuu)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aniiuu",
+      "verification": "https://www.youtube.com/watch?v=NND5X4k8P1Q"
+    },
+    "percentToQualify": 66
+  },
+  "Cold Sweat (ULDM) (Doggie)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Doggie",
+      "verification": "https://www.youtube.com/watch?v=WvFq90OeQgs"
+    },
+    "percentToQualify": 66
+  },
+  "Graceful (Old) (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=Ty9HSYzIXAg"
+    },
+    "percentToQualify": 66
+  },
+  "Calculator Core (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Crisis",
+      "verification": "https://www.youtube.com/watch?v=_z_eSoGFOEI"
+    },
+    "percentToQualify": 66
+  },
+  "Cognition (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Wyse",
+      "verification": "https://www.youtube.com/watch?v=Qqf0s7ub_LE"
+    },
+    "percentToQualify": 66
+  },
+  "Ragnarok (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Technical",
+      "verification": "https://www.youtube.com/watch?v=aGtXqn9HL2o"
+    },
+    "percentToQualify": 66
+  },
+  "Knights of Thunder (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lp_sty",
+      "verification": "https://www.youtube.com/watch?v=rm8et7i12RU"
+    },
+    "percentToQualify": 66
+  },
+  "kowareta (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gablor",
+      "verification": "https://www.youtube.com/watch?v=wxWBFaZYHPM"
+    },
+    "percentToQualify": 66
+  },
+  "The Yandere (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "El Sheis",
+      "verification": "https://www.youtube.com/watch?v=hPZamK41cD8"
+    },
+    "percentToQualify": 66
+  },
+  "of fish": {
+    "records": [],
+    "verifier": {
+      "verifier": "Anticroom",
+      "verification": "https://youtu.be/ofethmGK2WY"
+    },
+    "percentToQualify": 66
+  },
+  "super probably wasu": {
+    "records": [],
+    "verifier": {
+      "verifier": "hexeract",
+      "verification": "https://www.youtube.com/watch?v=E9YJpYJcG_U"
+    },
+    "percentToQualify": 66
+  },
+  "Cripureta": {
+    "records": [],
+    "verifier": {
+      "verifier": "ElectricExcalibur",
+      "verification": "https://youtu.be/Gao1So6SanA"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Infinity Unbuffed": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mewtwo557",
+      "verification": "https://www.youtube.com/watch?v=4BngykM4LvA"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Infinity (Xanii) (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "SonicGMD",
+      "verification": "https://youtu.be/gC0fRhik-W4"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Infinity Unbuffed (Fixed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "przwhitecube",
+      "verification": "https://www.youtube.com/watch?v=itDKzcVVk6E"
+    },
+    "percentToQualify": 66
+  },
+  "Trans Sonic Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lily",
+      "verification": "https://www.youtube.com/watch?v=tpVg_sy492c"
+    },
+    "percentToQualify": 66
+  },
+  "Kuzureta (Unnerfed) (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "UpRoar_GD",
+      "verification": "https://www.youtube.com/watch?v=1rdB2uhJN34"
+    },
+    "percentToQualify": 66
+  },
+  "Susnet Sansdorm": {
+    "records": [],
+    "verifier": {
+      "verifier": "RadiationV2",
+      "verification": "https://www.youtube.com/watch?v=hBV7jeJ12v0"
+    },
+    "percentToQualify": 66
+  },
+  "AfterCataBath (eandis)": {
+    "records": [],
+    "verifier": {
+      "verifier": "eandis",
+      "verification": "https://www.youtube.com/watch?v=qXjL6Q61bTo"
+    },
+    "percentToQualify": 66
+  },
+  "Belloq (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hilo",
+      "verification": "https://www.youtube.com/watch?v=0g-yMUctWKE"
+    },
+    "percentToQualify": 66
+  },
+  "Crystal (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "chlowoe",
+      "verification": "https://www.youtube.com/watch?v=M4f8RPp2Ia0"
+    },
+    "percentToQualify": 66
+  },
+  "Ouroboros Startpos 2 (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zank",
+      "verification": "https://www.youtube.com/watch?v=StTyTowNpL0"
+    },
+    "percentToQualify": 66
+  },
+  "Khorne (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "MrGroenGD",
+      "verification": "https://www.youtube.com/watch?v=ZkTfzBoQYUM"
+    },
+    "percentToQualify": 66
+  },
+  "Blade of Jelly": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ephr31",
+      "verification": "https://www.youtube.com/watch?v=sp18aQodnM0"
+    },
+    "percentToQualify": 66
+  },
+  "Vertigo (notLevo) (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hypenox",
+      "verification": "https://www.youtube.com/watch?v=uHGckb1YMJc"
+    },
+    "percentToQualify": 66
+  },
+  "joyful world": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ayueshi",
+      "verification": "https://youtu.be/2R_leVdlXQw"
+    },
+    "percentToQualify": 66
+  },
+  "gravity (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "savorybaconbits",
+      "verification": "https://www.youtube.com/watch?v=oeALjjoJMO0"
+    },
+    "percentToQualify": 66
+  },
+  "Pinkbath (aivan)": {
+    "records": [],
+    "verifier": {
+      "verifier": "aivan",
+      "verification": "https://www.youtube.com/watch?v=7zbXBwxtWTs"
+    },
+    "percentToQualify": 66
+  },
+  "Green Bloodbath": {
+    "records": [],
+    "verifier": {
+      "verifier": "aivan",
+      "verification": "https://www.youtube.com/watch?v=FmjhZu8lZQs"
+    },
+    "percentToQualify": 66
+  },
+  "SovietBath": {
+    "records": [],
+    "verifier": {
+      "verifier": "aivan",
+      "verification": "https://www.youtube.com/watch?v=3D36E7Fj0u4"
+    },
+    "percentToQualify": 66
+  },
+  "Bloodbath (Riot) (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Riot",
+      "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik"
+    },
+    "percentToQualify": 66
+  },
+  "Whitebath": {
+    "records": [],
+    "verifier": {
+      "verifier": "aivan",
+      "verification": "https://www.youtube.com/watch?v=keIqRt4nYnA"
+    },
+    "percentToQualify": 66
+  },
+  "Purple Bloodbath": {
+    "records": [],
+    "verifier": {
+      "verifier": "aivan",
+      "verification": "https://www.youtube.com/watch?v=BbsIxTHUusw"
+    },
+    "percentToQualify": 66
+  },
+  "Bloodbath 2": {
+    "records": [],
+    "verifier": {
+      "verifier": "abcpro",
+      "verification": "https://www.youtube.com/watch?v=jzxDAu1vn7Q"
+    },
+    "percentToQualify": 66
+  },
+  "Bloodbath (Krazyman50)": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheShadowRealm",
+      "verification": "https://www.youtube.com/watch?v=9BrQYFOo7x8"
+    },
+    "percentToQualify": 66
+  },
+  "Prismatic Haze (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gizbro",
+      "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I"
+    },
+    "percentToQualify": 66
+  },
+  "Triple Six (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "MelTing",
+      "verification": "https://www.youtube.com/watch?v=LpisJkwBOto"
+    },
+    "percentToQualify": 66
+  },
+  "Novasphere (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "MAD SG",
+      "verification": "https://www.youtube.com/watch?v=eBnbEPIsnqw"
+    },
+    "percentToQualify": 66
+  },
+  "Cat Planet (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "鬼火いムるえ",
+      "verification": "https://www.youtube.com/watch?v=P5tDsr6El8Y"
+    },
+    "percentToQualify": 66
+  },
+  "Maybe Possibly Thing (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "JaloGD",
+      "verification": "https://www.youtube.com/watch?v=WjH22h4Wz98"
+    },
+    "percentToQualify": 66
+  },
+  "Chilly Cool Canyon": {
+    "records": [],
+    "verifier": {
+      "verifier": "Achlys",
+      "verification": "https://www.youtube.com/watch?v=sowTkcSRvNA"
+    },
+    "percentToQualify": 66
+  },
+  "Paracosm Circles (Metalface221) (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Metalface221",
+      "verification": "https://www.youtube.com/watch?v=hEtRhCw5VcA"
+    },
+    "percentToQualify": 66
+  },
+  "Dumbest Girl Alive (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Paladin46",
+      "verification": "https://www.youtube.com/watch?v=D57zmYcndHA"
+    },
+    "percentToQualify": 66
+  },
+  "A2Marbl (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ItsStam",
+      "verification": "https://www.youtube.com/watch?v=imm_F9pbM9g"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the snow madness": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://autocompressor.net/av1?s=Pd6gmKnC"
+    },
+    "percentToQualify": 66
+  },
+  "bisexual stand in the snow": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://autocompressor.net/av1?s=wNYTHvmJ"
+    },
+    "percentToQualify": 66
+  },
+  "enby stand in the snow": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://autocompressor.net/av1?s=Z7HK3vnp"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the snow with a frog in the corner": {
+    "records": [],
+    "verifier": {
+      "verifier": "",
+      "verification": "https://autocompressor.net/av1?s=uUHXHNUL"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the blue": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the purple": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the red": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the orange": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the pink": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the green": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "stand in the yellow": {
+    "records": [],
+    "verifier": {
+      "verifier": "pink man",
+      "verification": "https://www.youtube.com/watch?v=tvVilLxuad0"
+    },
+    "percentToQualify": 66
+  },
+  "Broken Signal (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "haruu",
+      "verification": "https://www.youtube.com/watch?v=s0I1olxkNZs"
+    },
+    "percentToQualify": 66
+  },
+  "Napalm (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "BobbyPow",
+      "verification": "https://www.youtube.com/watch?v=HQ8JwqnZJ5Y"
+    },
+    "percentToQualify": 66
+  },
+  "doradura": {
+    "records": [],
+    "verifier": {
+      "verifier": "animized",
+      "verification": "https://www.youtube.com/watch?v=FYty6EVQ2T8"
+    },
+    "percentToQualify": 66
+  },
+  "doradura (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Greencookie",
+      "verification": "https://www.youtube.com/watch?v=353az3yKqn0"
+    },
+    "percentToQualify": 66
+  },
+  "Reanimate (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pimpolluel08",
+      "verification": "https://www.youtube.com/watch?v=FJx0ba8MGiQ"
+    },
+    "percentToQualify": 66
+  },
+  "HyperSonic (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gd San3x",
+      "verification": "https://www.youtube.com/watch?v=uca6_-bJWo0"
+    },
+    "percentToQualify": 66
+  },
+  "Helios (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "JBew",
+      "verification": "https://www.youtube.com/watch?v=a2bSq_Nngtw"
+    },
+    "percentToQualify": 66
+  },
+  "Brimtanic Paradise (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pipz",
+      "verification": "https://www.youtube.com/watch?v=pVzYmVGe5-A"
+    },
+    "percentToQualify": 66
+  },
+  "8o X (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "wjos",
+      "verification": "https://www.youtube.com/watch?v=V_9_-4P0gWo"
+    },
+    "percentToQualify": 66
+  },
+  "The Lost Existence (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gd San3x",
+      "verification": "https://www.youtube.com/watch?v=jjPSVO8Vj-M"
+    },
+    "percentToQualify": 66
+  },
+  "Mizureta (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tuấn PNT",
+      "verification": "https://www.youtube.com/watch?v=7xrdSmnWFoM"
+    },
+    "percentToQualify": 66
+  },
+  "niwa (ULDM) (Maxiops35)": {
+    "records": [],
+    "verifier": {
+      "verifier": "vanhirium",
+      "verification": "https://www.youtube.com/watch?v=zTVtTAjiJbY"
+    },
+    "percentToQualify": 66
+  },
+  "niwa (ULDM) (dogy522)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ecstasy",
+      "verification": "https://www.youtube.com/watch?v=X1m-rqrcp-c"
+    },
+    "percentToQualify": 66
+  },
+  "Dark Echo": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bleamer",
+      "verification": "https://www.youtube.com/watch?v=KszpTN2MhZc"
+    },
+    "percentToQualify": 66
+  },
+  "Glitch Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=JLbCVA4l0Ak"
+    },
+    "percentToQualify": 66
+  },
+  "Acu 1.01x Speed": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=egH7QE8lkSY"
+    },
+    "percentToQualify": 66
+  },
+  "Blur Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/n5He16PtkPE"
+    },
+    "percentToQualify": 66
+  },
+  "Blue Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/pFMf9BOx2mI"
+    },
+    "percentToQualify": 66
+  },
+  "best acu oat": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=4Eu5fer3plU"
+    },
+    "percentToQualify": 66
+  },
+  "Acu but ewwwwwwwwwww": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=nwMvekbQzLk"
+    },
+    "percentToQualify": 66
+  },
+  "LIMBO (ddlghl)": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/Klrfh66LIC4"
+    },
+    "percentToQualify": 66
+  },
+  "Heliopolis ": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=FVDt6NsbAnU"
+    },
+    "percentToQualify": 66
+  },
+  "Acu (ULDM)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gd San3x",
+      "verification": "https://www.youtube.com/watch?v=rWAXbjRLPqk"
+    },
+    "percentToQualify": 66
+  },
+  "Triple Poltergeist": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kevelia",
+      "verification": "https://youtu.be/bQzKgzZAp-w"
     },
     "percentToQualify": 66
   }

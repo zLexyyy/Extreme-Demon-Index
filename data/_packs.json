@@ -3,7 +3,7 @@
         "name": "Apocalyptic Trilogy",
         "color": "#980000",
         "textColor": "#ff0000",
-        "levels": ["Cataclysm", "aftermath (Exenity)", "Bloodbath"]
+        "levels": ["Cataclysm", "aftermath (Exenity)", "Bloodbath (Riot)"]
     },
     {
         "name": "Apocalyptic Trilogy V2",
@@ -142,12 +142,6 @@
         "color": "#000000",
         "textColor": "#550000",
         "levels": ["HIGHLANDER EXPRESS", "Lost Beauty", "Mujigae", "PanaSonic", "Death Penalty"]
-    },
-    {
-        "name": "Drippungus Pack",
-        "color": "#b04800",
-        "textColor": "#ff6900",
-        "levels": ["sakupen gurt", "True JNC", "hit DA drip"]
     },
     {
         "name": "Challenge Pack",
@@ -603,7 +597,7 @@
         "name": "Bloodbath Pack I",
         "color": "#910000",
         "textColor": "#ff0000",
-        "levels": ["DashBath", "BudBath", "UF Shitty Bloodbath", "Gaybath", "Bloodbath"]
+        "levels": ["DashBath", "BudBath", "UF Shitty Bloodbath", "Gaybath", "Bloodbath (Riot)"]
     },
     {
         "name": "Bloodbath Pack II",
@@ -615,7 +609,7 @@
         "name": "Bloodbath Pack III",
         "color": "#910000",
         "textColor": "#ff0000",
-        "levels": ["Greenbath (Greensome2684)", "Drunkbath", "Bloodbath (Old)", "transbath", "InvisiBath"]
+        "levels": ["Greenbath (Greensome2684)", "Drunkbath", "Bloodbath (Riot) (True Old)", "transbath", "InvisiBath"]
     },
     {
         "name": "Bloodbath Pack IV",
@@ -993,7 +987,7 @@
         "name": "Randomizer Pack",
         "color": "#1A1B2E",
         "textColor": "#B6FF2E",
-        "levels": ["The Art of the Blade", "THE CROSSING (Unnerfed)", "BOOBAWAMBA", "LIMBO"]
+        "levels": ["The Art of the Blade", "THE CROSSING (Unnerfed)", "BOOBAWAMBA", "LIMBO (MindCap)"]
     },
     {
         "name": "School Pack",
