@@ -28545,7 +28545,7 @@
       "verifier": "Hipo"
     }
   },
-  "SWI Aurorus": {
+  "Sonic Wave Infinity (Aurorus)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -45436,7 +45436,14 @@
     "percentToQualify": 66
   },
   "Doppler (2P)": {
-    "records": [],
+    "records": [
+      {
+        "hz": 480,
+        "link": "https://www.youtube.com/watch?v=WNNgq0cg8B4",
+        "percent": 100,
+        "user": "Latezk"
+      }
+    ],
     "verifier": {
       "verifier": "At424",
       "verification": "https://www.youtube.com/watch?v=WNNgq0cg8B4"
@@ -45524,7 +45531,14 @@
     "percentToQualify": 66
   },
   "BROOKLYNBLOODPOP": {
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=qxlAGklLAmk",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verifier": "ivyteal",
       "verification": "https://youtu.be/jngMzPsSEIA?si=xOElMVaS4ktf8F0r"
