@@ -6358,7 +6358,7 @@
       "verifier": "Emeryaku"
     }
   },
-  "CRUEL (Dennii)": {
+  "CRUEL (Denni)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -15289,7 +15289,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=_gMpP48H8XI",
-      "verifier": "WireMuncher"
+      "verifier": "Eveteer"
     }
   },
   "Gay Acu": {
@@ -16232,8 +16232,8 @@
     "percentToQualify": 66,
     "records": [],
     "verifier": {
-      "verification": "https://www.youtube.com/watch?v=2OTuiW5FUy8",
-      "verifier": "Kyass"
+      "verification": "https://youtu.be/esx38rLMzf4?si=TPk0AG7wx_sXGAbO",
+      "verifier": "Rixen Ace"
     }
   },
   "HEADBANGING": {
@@ -23461,7 +23461,7 @@
       "verifier": "Luqualizer"
     }
   },
-  "Nostalgia": {
+  "Nostalgia (BoN4iK1772)": {
     "percentToQualify": 65,
     "records": [],
     "verifier": {
@@ -32740,7 +32740,7 @@
     "percentToQualify": 65,
     "records": [],
     "verifier": {
-      "verification": "https://www.youtube.com/watch?v=U4fEgFtEnfI",
+      "verification": "https://www.youtube.com/watch?v=bCPTwheR08I",
       "verifier": "fusion425"
     }
   },
@@ -41497,7 +41497,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=E_rN9kMQJQg",
-      "verifier": "WireMuncher"
+      "verifier": "Eveteer"
     }
   },
   "lunar": {
@@ -45320,6 +45320,230 @@
     "verifier": {
       "verifier": "Cinder",
       "verification": "https://www.youtube.com/watch?v=EIsGwhGssBo"
+    },
+    "percentToQualify": 66
+  },
+  "Solar Flare (Linear2) (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "swiborg",
+      "verification": "https://www.youtube.com/watch?v=eHQNgty8ypY"
+    },
+    "percentToQualify": 66
+  },
+  "Spectrolux (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "fusion425",
+      "verification": "https://www.youtube.com/watch?v=U4fEgFtEnfI"
+    },
+    "percentToQualify": 66
+  },
+  "Return 420 (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "BeetleSword",
+      "verification": "https://www.youtube.com/watch?v=xyWaPc56UiQ"
+    },
+    "percentToQualify": 66
+  },
+  "The Final Suspect": {
+    "records": [],
+    "verifier": {
+      "verifier": "kathgd",
+      "verification": "https://www.youtube.com/watch?v=UkwwrO2b2ss"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Compendium)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://youtu.be/nYbmN76WnZI"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Wave Mefewe (Malaclau)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Malaclau",
+      "verification": "https://www.youtube.com/watch?v=XQQxIPs9vDk"
+    },
+    "percentToQualify": 66
+  },
+  "Silent Club (Zylenox)": {
+    "records": [],
+    "verifier": {
+      "verifier": "MetaManZ",
+      "verification": "https://www.youtube.com/watch?v=acCT-u4mOH8"
+    },
+    "percentToQualify": 66
+  },
+  "Butle z gazem": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lemniks",
+      "verification": "https://www.youtube.com/watch?v=S-Y8BKt_HdE"
+    },
+    "percentToQualify": 66
+  },
+  "HEADACHE (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kyass",
+      "verification": "https://www.youtube.com/watch?v=2OTuiW5FUy8"
+    },
+    "percentToQualify": 66
+  },
+  "Nostalgia (iWarTey)": {
+    "records": [],
+    "verifier": {
+      "verifier": "loovi",
+      "verification": "https://www.youtube.com/watch?v=ArIyASwAYjc"
+    },
+    "percentToQualify": 66
+  },
+  "Absolute Solver": {
+    "records": [],
+    "verifier": {
+      "verifier": "z0rty",
+      "verification": "https://www.youtube.com/watch?v=RfGqVCW4Z7k"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty Misfortune": {
+    "records": [],
+    "verifier": {
+      "verifier": "kas ia",
+      "verification": "https://www.youtube.com/watch?v=gqGk-xfex04"
+    },
+    "percentToQualify": 66
+  },
+  "DeathWheel": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheGoodyGames",
+      "verification": "https://www.youtube.com/watch?v=kj2R3mzsVyI"
+    },
+    "percentToQualify": 66
+  },
+  "Haunted": {
+    "records": [],
+    "verifier": {
+      "verifier": "-",
+      "verification": "https://youtu.be/njIilQoK5W4?si=aL4Mf2DRXZ1Tn3p3"
+    },
+    "percentToQualify": 66
+  },
+  "Doppler (2P)": {
+    "records": [],
+    "verifier": {
+      "verifier": "At424",
+      "verification": "https://www.youtube.com/watch?v=WNNgq0cg8B4"
+    },
+    "percentToQualify": 66
+  },
+  "SLAM": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zoink",
+      "verification": "https://www.youtube.com/watch?v=ejUg0tWdV6U"
+    },
+    "percentToQualify": 66
+  },
+  "same old": {
+    "records": [],
+    "verifier": {
+      "verifier": "Eveteer",
+      "verification": "https://www.youtube.com/watch?v=8zBbp7Ogn4E"
+    },
+    "percentToQualify": 66
+  },
+  "Fake A Moment": {
+    "records": [],
+    "verifier": {
+      "verifier": "LunarSimg",
+      "verification": "https://www.youtube.com/watch?v=niCme1zFdSU"
+    },
+    "percentToQualify": 66
+  },
+  "Thoughtless Space": {
+    "records": [],
+    "verifier": {
+      "verifier": "Neeple",
+      "verification": "https://www.youtube.com/watch?v=qex8lf7FOlQ"
+    },
+    "percentToQualify": 66
+  },
+  "iI HOT Ii": {
+    "records": [],
+    "verifier": {
+      "verifier": "ernack",
+      "verification": "https://www.youtube.com/watch?v=9JBHrGw8wtk"
+    },
+    "percentToQualify": 66
+  },
+  "Olly": {
+    "records": [],
+    "verifier": {
+      "verifier": "ItzApex",
+      "verification": "https://www.youtube.com/watch?v=-4CXl1ktXig"
+    },
+    "percentToQualify": 66
+  },
+  "Azure Metropolis": {
+    "records": [],
+    "verifier": {
+      "verifier": "Koopazu",
+      "verification": "https://www.youtube.com/watch?v=HbSU7EceveY"
+    },
+    "percentToQualify": 66
+  },
+  "Malevolent": {
+    "records": [],
+    "verifier": {
+      "verifier": "PlaEnterprise",
+      "verification": "https://www.youtube.com/watch?v=VqmqsySFTDI"
+    },
+    "percentToQualify": 66
+  },
+  "ampere": {
+    "records": [],
+    "verifier": {
+      "verifier": "DNM121",
+      "verification": "https://www.youtube.com/watch?v=51cvS-5dn4w"
+    },
+    "percentToQualify": 66
+  },
+  "No Survivors": {
+    "records": [],
+    "verifier": {
+      "verifier": "Fawxu",
+      "verification": "https://www.youtube.com/watch?v=RRfJY8-Xa2c"
+    },
+    "percentToQualify": 66
+  },
+  "BROOKLYNBLOODPOP": {
+    "records": [],
+    "verifier": {
+      "verifier": "ivyteal",
+      "verification": "https://youtu.be/jngMzPsSEIA?si=xOElMVaS4ktf8F0r"
+    },
+    "percentToQualify": 66
+  },
+  "Nosedive": {
+    "records": [],
+    "verifier": {
+      "verifier": "Koopazu",
+      "verification": "https://www.youtube.com/watch?v=iansDX3D2xs"
+    },
+    "percentToQualify": 66
+  },
+  "Infinite Speed": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nairda",
+      "verification": "https://www.youtube.com/watch?v=J6EjYpSfrg0"
     },
     "percentToQualify": 66
   }
