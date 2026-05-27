@@ -11,6 +11,11 @@
       "link": "https://www.youtube.com/watch?v=KmAT9sVAfXY"
     },
     {
+      "level": "bumblebee",
+      "wr": "26%",
+      "link": "https://youtu.be/7Xnj8nuNaPM"
+    },
+    {
       "level": "No Time ",
       "wr": "29%",
       "link": "https://www.youtube.com/watch?v=ACXZgC2DlJE"
@@ -22,8 +27,8 @@
     },
     {
       "level": "TokkenTakker",
-      "wr": "82%, 61-100%",
-      "link": "https://www.youtube.com/watch?v=L0VcqFexIpI"
+      "wr": "95%",
+      "link": "https://www.youtube.com/watch?v=1LlCCeMuatg"
     },
     {
       "level": "Codewebs",
@@ -31,9 +36,19 @@
       "link": "https://youtu.be/LFbCsW2NH7E"
     },
     {
+      "level": "Sonic Wave NEO (Unnerfed)",
+      "wr": "92%",
+      "link": "https://youtu.be/naJi2BLvYm4"
+    },
+    {
       "level": "Shitty Centipede (Unnerfed)",
       "wr": "35%",
       "link": "https://www.youtube.com/watch?v=otdtBB2eN2U"
+    },
+    {
+      "level": "ept 3rfg594iouje0gr9",
+      "wr": "28%",
+      "link": "https://youtu.be/1Zz-LzDcH3k"
     },
     {
       "level": "ILY",
@@ -49,6 +64,13 @@
       "level": "sakupen gurt",
       "wr": "27%",
       "link": "https://www.youtube.com/watch?v=8cOSfjFeldY&t=1s"
+    }
+  ],
+  "keeperofcreeper": [
+    {
+      "level": "a t c",
+      "wr": "7%",
+      "link": "https://www.youtube.com/watch?v=Vj9rsSlPOy0"
     }
   ],
   "Dylanadv": [
@@ -70,6 +92,13 @@
       "link": "https://www.youtube.com/watch?v=UJDOtK1Ol8A"
     }
   ],
+  "flor1z": [
+    {
+      "level": "All I Need",
+      "wr": "18%",
+      "link": "https://youtu.be/yEaBu8QZnYw"
+    }
+  ],
   "Shiver": [
     {
       "level": "Andromedas Demise",
@@ -80,180 +109,19 @@
       "level": "Checkmate (Gggrrvmpuhbsbs)",
       "wr": "24-42%",
       "link": "https://www.youtube.com/watch?v=BIAw9iQvgKo"
-    }
-  ],
-  "Atomic": [
-    {
-      "level": "Asterios (Unnerfed)",
-      "wr": "18%",
-      "link": "https://www.youtube.com/watch?v=b8Up-OEarP8"
-    }
-  ],
-  "Zimbae": [
-    {
-      "level": "Ephemeral Abyss",
-      "wr": "12%",
-      "link": "https://www.youtube.com/watch?v=SEL9unplI1o"
     },
     {
-      "level": "spacetime continuum ",
-      "wr": "24%",
-      "link": "https://youtu.be/nQsDv69k3iM"
-    }
-  ],
-  "Airi": [
-    {
-      "level": "Adramelech",
-      "wr": "11%",
-      "link": "https://www.youtube.com/watch?v=rGuHeMa8qVU"
-    }
-  ],
-  "Dewbbs": [
-    {
-      "level": "Aeternus",
-      "wr": "20%",
-      "link": "https://youtu.be/hMh2waoolfQ?si=Uo8niCG6PFz-C3x4"
-    }
-  ],
-  "Flingus": [
-    {
-      "level": "Aeternus",
-      "wr": "52-61%",
-      "link": "https://youtu.be/hMh2waoolfQ?si=Uo8niCG6PFz-C3x4"
-    }
-  ],
-  "Chill Guy": [
-    {
-      "level": "Aeternus",
-      "wr": "72-100%",
-      "link": "https://youtu.be/hMh2waoolfQ?si=Uo8niCG6PFz-C3x4"
-    }
-  ],
-  "Pawczan": [
-    {
-      "level": "AGONY ",
-      "wr": "26%",
-      "link": "https://www.youtube.com/watch?v=tnvCYecoB8k"
-    }
-  ],
-  "d1kkgd": [
-    {
-      "level": "Attenuate",
-      "wr": "9%",
-      "link": "https://www.youtube.com/watch?v=-OwwdgRJxfw"
-    }
-  ],
-  "Kaza": [
-    {
-      "level": "Angelicide",
-      "wr": "31%, 68-100%",
-      "link": "https://www.youtube.com/watch?v=2sXwazX_epA"
-    },
-    {
-      "level": "Omega Interface (Unnerfed)",
-      "wr": "10%",
-      "link": "https://www.youtube.com/watch?v=qgo554TNBpM"
-    },
-    {
-      "level": "Time Honored",
-      "wr": "23%",
-      "link": "https://youtu.be/jNanMkxhFf8"
-    }
-  ],
-  "Druki": [
-    {
-      "level": "Angelicide",
-      "wr": "37%, 36-78%, 56-98%",
-      "link": "https://www.youtube.com/watch?v=2sXwazX_epA"
-    }
-  ],
-  "BlueGamer": [
-    {
-      "level": "AnNoYeD Machine",
-      "wr": "9%",
-      "link": "https://www.youtube.com/watch?v=aE91CGKBYCY"
-    },
-    {
-      "level": "Bonfire ",
-      "wr": "36%, 68-100%",
-      "link": "https://youtu.be/NywGjIfLbVk?si=92858l4so_GaII_p"
-    },
-    {
-      "level": "Cataclysmic",
-      "wr": "27%",
-      "link": "https://www.youtube.com/watch?v=HxbEu2zI0lA"
-    },
-    {
-      "level": "PigStep",
-      "wr": "65-100%",
-      "link": "https://www.youtube.com/watch?v=heTTrVrR0Go"
-    }
-  ],
-  "ExpiredPork": [
-    {
-      "level": "AnNoYeD Machine",
-      "wr": "67-84%",
-      "link": "https://www.youtube.com/watch?v=aE91CGKBYCY"
-    },
-    {
-      "level": "F5",
-      "wr": "38-44%",
-      "link": "https://www.youtube.com/watch?v=dotRXok5AT8"
-    }
-  ],
-  "f65": [
-    {
-      "level": "ANTIUTOPIA",
-      "wr": "24%, 25-38%, 91-100%",
-      "link": "https://www.youtube.com/watch?v=EXpVOda9dqg"
-    }
-  ],
-  "VERTOP": [
-    {
-      "level": "Azure Flare (EndLevel)",
-      "wr": "49%, 44-100%",
-      "link": "https://youtu.be/PeT5GAsu-rM?si=PvDi8kHCzRW2t3gT"
-    }
-  ],
-  "spcreat": [
-    {
-      "level": "Banshee",
-      "wr": "77%, 10-79%, 21-100%",
-      "link": "https://www.youtube.com/watch?v=taTxv5cdOKA"
-    }
-  ],
-  "LucyIsSIlly": [
-    {
-      "level": "Bakemonogatari",
-      "wr": "20%",
-      "link": "https://youtu.be/tt-Tz0S9ca0"
-    }
-  ],
-  "TheShadowRealm": [
-    {
-      "level": "Crimson World",
-      "wr": "53%",
-      "link": "https://www.youtube.com/watch?v=OcxrS1aKg5k"
-    },
-    {
-      "level": "Super Tartarus",
-      "wr": "9%",
-      "link": "https://www.youtube.com/watch?v=FoYPs0-iLhM"
-    }
-  ],
-  "HaloZombies": [
-    {
-      "level": "Crimson World",
-      "wr": "67-100%",
-      "link": "https://www.youtube.com/watch?v=OcxrS1aKg5k"
-    },
-    {
-      "level": "Slaughter Machine",
-      "wr": "21-35%",
-      "link": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      "level": "White Abyss",
+      "wr": "45-100%",
+      "link": "https://www.youtube.com/watch?v=mKgP8VSiBRQ"
     }
   ],
   "snowspike": [
+    {
+      "level": "Asphodel (DubbyBall)",
+      "wr": "15%",
+      "link": "https://youtu.be/EbmvDnLObBc?t=15"
+    },
     {
       "level": "Crimson Clutter Infinity",
       "wr": "15%",
@@ -325,6 +193,224 @@
       "link": "https://www.youtube.com/watch?v=EbmvDnLObBc"
     }
   ],
+  "Atomic": [
+    {
+      "level": "Asterios (Unnerfed)",
+      "wr": "18%",
+      "link": "https://www.youtube.com/watch?v=b8Up-OEarP8"
+    }
+  ],
+  "Zimbae": [
+    {
+      "level": "Ephemeral Abyss",
+      "wr": "12%",
+      "link": "https://www.youtube.com/watch?v=SEL9unplI1o"
+    },
+    {
+      "level": "spacetime continuum ",
+      "wr": "24%",
+      "link": "https://youtu.be/nQsDv69k3iM"
+    }
+  ],
+  "Airi": [
+    {
+      "level": "Adramelech",
+      "wr": "11%",
+      "link": "https://www.youtube.com/watch?v=rGuHeMa8qVU"
+    }
+  ],
+  "Dewbbs": [
+    {
+      "level": "Aeternus",
+      "wr": "20%",
+      "link": "https://youtu.be/KJKza9jnLNs?si=uvS4ISD49IiVyXnN"
+    }
+  ],
+  "Doggie": [
+    {
+      "level": "Aeternus",
+      "wr": "52-62%",
+      "link": "https://youtu.be/KJKza9jnLNs?si=uvS4ISD49IiVyXnN"
+    },
+    {
+      "level": "Grief",
+      "wr": "84%, 25-100%",
+      "link": "https://www.youtube.com/watch?v=VLqlssP1Dxw&t"
+    },
+    {
+      "level": "Slaughterhouse (True Unnerfed)",
+      "wr": "57-100%",
+      "link": "https://www.youtube.com/watch?v=K9lvtCzjHWU"
+    }
+  ],
+  "Chill Guy": [
+    {
+      "level": "Aeternus",
+      "wr": "72-100%",
+      "link": "https://youtu.be/KJKza9jnLNs?si=uvS4ISD49IiVyXnN"
+    }
+  ],
+  "Pawczan": [
+    {
+      "level": "AGONY ",
+      "wr": "26%",
+      "link": "https://www.youtube.com/watch?v=tnvCYecoB8k"
+    }
+  ],
+  "d1kkgd": [
+    {
+      "level": "Attenuate",
+      "wr": "9%",
+      "link": "https://www.youtube.com/watch?v=-OwwdgRJxfw"
+    }
+  ],
+  "Kaza": [
+    {
+      "level": "Angelicide",
+      "wr": "31%, 68-100%",
+      "link": "https://www.youtube.com/watch?v=2sXwazX_epA"
+    },
+    {
+      "level": "HAUNT",
+      "wr": "43%, 25-71%",
+      "link": "https://www.youtube.com/watch?v=l5_r96n_G1U"
+    },
+    {
+      "level": "Omega Interface (Unnerfed)",
+      "wr": "10%",
+      "link": "https://www.youtube.com/watch?v=qgo554TNBpM"
+    },
+    {
+      "level": "Time Honored",
+      "wr": "23%",
+      "link": "https://youtu.be/jNanMkxhFf8"
+    }
+  ],
+  "Druki": [
+    {
+      "level": "Angelicide",
+      "wr": "37%, 36-78%, 47-95%",
+      "link": "https://www.youtube.com/watch?v=2sXwazX_epA"
+    }
+  ],
+  "BlueGamer": [
+    {
+      "level": "AnNoYeD Machine",
+      "wr": "9%",
+      "link": "https://www.youtube.com/watch?v=aE91CGKBYCY"
+    },
+    {
+      "level": "Bonfire ",
+      "wr": "36%, 68-100%",
+      "link": "https://youtu.be/NywGjIfLbVk?si=92858l4so_GaII_p"
+    },
+    {
+      "level": "Cataclysmic",
+      "wr": "27%",
+      "link": "https://www.youtube.com/watch?v=HxbEu2zI0lA"
+    },
+    {
+      "level": "PigStep",
+      "wr": "65-100%",
+      "link": "https://www.youtube.com/watch?v=heTTrVrR0Go"
+    }
+  ],
+  "ExpiredPork": [
+    {
+      "level": "AnNoYeD Machine",
+      "wr": "67-84%",
+      "link": "https://www.youtube.com/watch?v=aE91CGKBYCY"
+    },
+    {
+      "level": "F5",
+      "wr": "38-44%",
+      "link": "https://www.youtube.com/watch?v=dotRXok5AT8"
+    }
+  ],
+  "f65": [
+    {
+      "level": "ANTIUTOPIA",
+      "wr": "24%, 25-38%, 91-100%",
+      "link": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+    }
+  ],
+  "VERTOP": [
+    {
+      "level": "Azure Flare (EndLevel)",
+      "wr": "49%, 44-100%",
+      "link": "https://youtu.be/PeT5GAsu-rM?si=PvDi8kHCzRW2t3gT"
+    }
+  ],
+  "spcreat": [
+    {
+      "level": "Banshee",
+      "wr": "77%, 10-79%, 21-100%",
+      "link": "https://www.youtube.com/watch?v=taTxv5cdOKA"
+    }
+  ],
+  "LucyIsSIlly": [
+    {
+      "level": "Bakemonogatari",
+      "wr": "20%",
+      "link": "https://youtu.be/tt-Tz0S9ca0"
+    }
+  ],
+  "ddlghl": [
+    {
+      "level": "DREAD",
+      "wr": "11%",
+      "link": "https://youtu.be/tUi5kXZSrBg"
+    },
+    {
+      "level": "Straws Syndrome",
+      "wr": "14%",
+      "link": "https://www.youtube.com/watch?v=e7wgbYsNa84"
+    },
+    {
+      "level": "sACUpen Circles",
+      "wr": "24%",
+      "link": "https://youtu.be/tVLKnXP5A-Y"
+    },
+    {
+      "level": "Lung Excavator",
+      "wr": "6%",
+      "link": "https://youtu.be/u1rjJ3l-YuU"
+    },
+    {
+      "level": "SILENT STEREO WUH",
+      "wr": "11%",
+      "link": "https://www.youtube.com/watch?v=Gw4TKohpuQs"
+    }
+  ],
+  "TheShadowRealm": [
+    {
+      "level": "Crimson World",
+      "wr": "53%",
+      "link": "https://www.youtube.com/watch?v=OcxrS1aKg5k"
+    },
+    {
+      "level": "Super Tartarus",
+      "wr": "9%",
+      "link": "https://www.youtube.com/watch?v=FoYPs0-iLhM"
+    }
+  ],
+  "HaloZombies": [
+    {
+      "level": "Crimson World",
+      "wr": "67-100%",
+      "link": "https://www.youtube.com/watch?v=OcxrS1aKg5k"
+    },
+    {
+      "level": "Slaughter Machine",
+      "wr": "21-35%",
+      "link": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+    },
+    {
+      "level": "Silent Let Go",
+      "wr": "39%",
+      "link": "https://youtu.be/n4_5Cn0nino"
+    }
+  ],
   "Gyrocynical": [
     {
       "level": "Dystopia ",
@@ -337,6 +423,11 @@
       "level": "Disturb (Old)",
       "wr": "6%",
       "link": "https://youtu.be/onMX2-x0KZE?si=tfPg-JRo1ZCK8jKP"
+    },
+    {
+      "level": "Sinners Finale",
+      "wr": "22%",
+      "link": "https://youtu.be/_61YITITUTg?si=htMu1pHbTse9F_Cc"
     },
     {
       "level": "Cautious (Old)",
@@ -361,11 +452,6 @@
       "level": "Centipede (Old)",
       "wr": "19%, 77-90%, 88-100%",
       "link": "https://www.youtube.com/watch?v=h-6799aVQs4"
-    },
-    {
-      "level": "Centipede",
-      "wr": "56%, 32-100%",
-      "link": "https://youtu.be/9_9BsCmddwI?si=OTIGwWJtq8WshxUI"
     }
   ],
   "DrewJourneyy": [
@@ -446,6 +532,40 @@
       "link": "https://www.youtube.com/watch?v=F_IHH6PVjZ8"
     }
   ],
+  "XX16": [
+    {
+      "level": "Death Circles X",
+      "wr": "60-100%",
+      "link": "https://www.youtube.com/watch?v=bbEoDt99Ff8"
+    }
+  ],
+  "DankDrew": [
+    {
+      "level": "Defeated Circles (Old)",
+      "wr": "45%",
+      "link": "https://drive.usercontent.google.com/download?id=1x3KKTJc3yf9VMxZisZkptLg2G8ix5ivQ&export=download&authuser=0"
+    },
+    {
+      "level": "29",
+      "wr": "45%",
+      "link": "https://www.youtube.com/watch?v=PbQMFY9XRkA"
+    },
+    {
+      "level": "Stalemate",
+      "wr": "29%",
+      "link": "https://www.youtube.com/watch?v=muymKlbFUfo"
+    },
+    {
+      "level": "You cant beat this",
+      "wr": "47%",
+      "link": "https://youtu.be/-rdT2fKg4xo"
+    },
+    {
+      "level": "Ice Carbon Vivilion",
+      "wr": "53%",
+      "link": "https://youtu.be/4AZMcgcHhV0"
+    }
+  ],
   "bab1107": [
     {
       "level": "djNate Fallen Angel",
@@ -507,6 +627,11 @@
       "link": "https://www.youtube.com/watch?v=rOskw7emTek"
     },
     {
+      "level": "hayden",
+      "wr": "55%",
+      "link": "https://www.youtube.com/watch?v=kjfvrpAww2c"
+    },
+    {
       "level": "Rules",
       "wr": "48%",
       "link": "https://youtu.be/tpKHcoYSHEc"
@@ -524,6 +649,11 @@
       "link": "https://youtu.be/SigbjS6A3Pg?si=IYRLp1X81EaucjGJ"
     },
     {
+      "level": "ISLEPTIN vc ",
+      "wr": "15%",
+      "link": "https://youtu.be/uWthBXFmmYc"
+    },
+    {
       "level": "KILLYOUREYES",
       "wr": "21%",
       "link": "https://youtu.be/UIHk3xnnrp8"
@@ -534,9 +664,19 @@
       "link": "https://youtu.be/G8tvlUwQJoU"
     },
     {
+      "level": "Bobbing bobee",
+      "wr": "10%",
+      "link": "https://youtu.be/72i3_EtCr98"
+    },
+    {
       "level": "SH HD COLLECTION",
       "wr": "12%",
       "link": "https://youtu.be/CdVog9kO2rU"
+    },
+    {
+      "level": "Sairento Kurabu",
+      "wr": "25%",
+      "link": "https://youtu.be/HpZkx1gXFnc"
     },
     {
       "level": "Just let go",
@@ -545,8 +685,13 @@
     },
     {
       "level": "Eternal Divinity (Old)",
-      "wr": "63%",
-      "link": "https://youtu.be/VFYrT_FT_DQ"
+      "wr": "66%",
+      "link": "https://youtu.be/KvaZ_wVqFyY"
+    },
+    {
+      "level": "Devils Playground",
+      "wr": "24%",
+      "link": "https://youtu.be/Zy-cKTL8w3s?t=85"
     },
     {
       "level": "Dementia (Unnerfed)",
@@ -589,8 +734,8 @@
     },
     {
       "level": "Heliopolis",
-      "wr": "40%, 27-63%, 49-100%",
-      "link": "https://youtu.be/4u5aQmb7Ofw"
+      "wr": "47%, 27-63%, 37-100%",
+      "link": "https://youtu.be/8U0NPdsK8s4?t=5870"
     },
     {
       "level": "Buffed until impossible",
@@ -633,18 +778,6 @@
       "link": "https://www.youtube.com/watch?v=rH3-VxO13os"
     }
   ],
-  "Doggie": [
-    {
-      "level": "Grief",
-      "wr": "84%, 25-100%",
-      "link": "https://www.youtube.com/watch?v=VLqlssP1Dxw&t"
-    },
-    {
-      "level": "Slaughterhouse (True Unnerfed)",
-      "wr": "57-100%",
-      "link": "https://www.youtube.com/watch?v=K9lvtCzjHWU"
-    }
-  ],
   "Natan13": [
     {
       "level": "howconfusingisthelvl",
@@ -656,42 +789,56 @@
     {
       "level": "Heliopolis",
       "wr": "47%",
-      "link": "https://youtu.be/4u5aQmb7Ofw"
+      "link": "https://youtu.be/8U0NPdsK8s4?t=5870"
     }
   ],
   "Abdieldevil": [
     {
       "level": "Heliopolis",
       "wr": "32%, 38-95%, 48-100%",
-      "link": "https://youtu.be/4u5aQmb7Ofw"
+      "link": "https://youtu.be/8U0NPdsK8s4?t=5870"
+    }
+  ],
+  "gingerolive": [
+    {
+      "level": "Hostile Geometry",
+      "wr": "12%",
+      "link": "https://youtu.be/eYON6L0IbzI"
     }
   ],
   "Epsical": [
     {
       "level": "Hostile Geometry",
       "wr": "15-29%, 33-41%",
-      "link": "https://www.youtube.com/watch?v=4YXfNdfZ_VM"
+      "link": "https://youtu.be/eYON6L0IbzI"
+    }
+  ],
+  "Pullsy": [
+    {
+      "level": "hauntedhouse",
+      "wr": "13%",
+      "link": "https://www.youtube.com/watch?v=ocExsPeeF7Y"
     }
   ],
   "Clare": [
     {
       "level": "hauntedhouse",
       "wr": "6-16%, 20-39%",
-      "link": "https://www.youtube.com/watch?v=medCOKUgqRs"
+      "link": "https://www.youtube.com/watch?v=ocExsPeeF7Y"
+    }
+  ],
+  "LetzTiz": [
+    {
+      "level": "Hymn For The Weekend",
+      "wr": "24%, 23-35%, 43-68%",
+      "link": "https://www.youtube.com/watch?v=2m0fxa19Sj0"
     }
   ],
   "Meper": [
     {
       "level": "Hymn For The Weekend",
-      "wr": "32%",
-      "link": "https://www.youtube.com/watch?v=Xb6G9EmBhug"
-    }
-  ],
-  "Constar": [
-    {
-      "level": "Hymn For The Weekend",
-      "wr": "75-100%",
-      "link": "https://www.youtube.com/watch?v=Xb6G9EmBhug"
+      "wr": "64-100%",
+      "link": "https://www.youtube.com/watch?v=2m0fxa19Sj0"
     }
   ],
   "RealDes": [
@@ -732,6 +879,33 @@
       "level": "Mr Beast",
       "wr": "8%",
       "link": "https://youtu.be/VAcvY0iGYRs"
+    }
+  ],
+  "tFluffy": [
+    {
+      "level": "Kratos",
+      "wr": "60-86%",
+      "link": "https://www.youtube.com/watch?v=xamzRXgkjNk"
+    },
+    {
+      "level": "Silent Circles (skeletonlol)",
+      "wr": "26%",
+      "link": "https://www.youtube.com/watch?v=oMGkOV8IxGQ"
+    },
+    {
+      "level": "Recirculation",
+      "wr": "31%",
+      "link": "https://www.youtube.com/watch?v=XnGq7LjlVBU"
+    },
+    {
+      "level": "One Winged Angel",
+      "wr": "52-84%",
+      "link": "https://www.youtube.com/watch?v=BYMQHZoVUOk"
+    },
+    {
+      "level": "Renevant Redux",
+      "wr": "34%",
+      "link": "https://www.youtube.com/watch?v=X-jbeeUDSwM"
     }
   ],
   "averybman1": [
@@ -899,28 +1073,6 @@
       "link": "https://www.youtube.com/watch?v=xzOikULCo7A"
     }
   ],
-  "tFluffy": [
-    {
-      "level": "Silent Circles (skeletonlol)",
-      "wr": "26%",
-      "link": "https://www.youtube.com/watch?v=oMGkOV8IxGQ"
-    },
-    {
-      "level": "Recirculation",
-      "wr": "31%",
-      "link": "https://www.youtube.com/watch?v=XnGq7LjlVBU"
-    },
-    {
-      "level": "One Winged Angel",
-      "wr": "52-84%",
-      "link": "https://www.youtube.com/watch?v=BYMQHZoVUOk"
-    },
-    {
-      "level": "Renevant Redux",
-      "wr": "34%",
-      "link": "https://www.youtube.com/watch?v=X-jbeeUDSwM"
-    }
-  ],
   "Soundgarden7": [
     {
       "level": "Silent Circles (skeletonlol)",
@@ -943,6 +1095,11 @@
       "level": "Agoraphobia",
       "wr": "26%",
       "link": "https://www.youtube.com/watch?v=dlBZkOj60Vw"
+    },
+    {
+      "level": "Asphodel (ExciALT)",
+      "wr": "41%",
+      "link": "https://www.youtube.com/watch?v=KnW-6jat9CU"
     },
     {
       "level": "Cosmic Cyclone (Old) ",
@@ -968,8 +1125,8 @@
   "wPopoff": [
     {
       "level": "Society",
-      "wr": "47%, 33-100%",
-      "link": "https://www.youtube.com/watch?v=69ppuCnNB1g "
+      "wr": "63%, 33-100%",
+      "link": "https://www.youtube.com/live/fw413owWIOE?si=FN4gA_kUmVBJqyVw&t"
     }
   ],
   "subabo": [
@@ -977,18 +1134,6 @@
       "level": "Sonic Ocean Infinity",
       "wr": "60%",
       "link": "https://youtu.be/LqhfYpaSuyk"
-    }
-  ],
-  "ddlghl": [
-    {
-      "level": "Straws Syndrome",
-      "wr": "14%",
-      "link": "https://www.youtube.com/watch?v=e7wgbYsNa84"
-    },
-    {
-      "level": "SILENT STEREO WUH",
-      "wr": "11%",
-      "link": "https://www.youtube.com/watch?v=Gw4TKohpuQs"
     }
   ],
   "Perirben": [
@@ -1126,6 +1271,18 @@
       "link": "https://youtu.be/MYdqK7Q21LA"
     }
   ],
+  "JameSharpener": [
+    {
+      "level": "WEEKLYDEMON",
+      "wr": "39%",
+      "link": "https://youtu.be/UVl5Ncc-Nf8"
+    },
+    {
+      "level": "Bad Dream",
+      "wr": "30%",
+      "link": "https://www.youtube.com/watch?v=yU6wDXVJ11k"
+    }
+  ],
   "Gelforce": [
     {
       "level": "water world",
@@ -1246,18 +1403,6 @@
       "link": "https://www.youtube.com/watch?v=LHccqdHXzAM"
     }
   ],
-  "CuackXI": [
-    {
-      "level": "Bad Dream",
-      "wr": "29%",
-      "link": "https://youtu.be/Osuve7qthrw"
-    },
-    {
-      "level": "Satanic Clubstep X",
-      "wr": "43%",
-      "link": "https://youtu.be/pgKqhk1SXxg"
-    }
-  ],
   "x2147": [
     {
       "level": "Cong Never Clear (Old)",
@@ -1296,6 +1441,11 @@
       "level": "BloodEngine",
       "wr": "46%, 37-67%",
       "link": "https://www.youtube.com/watch?v=PE5uLyS96D0"
+    },
+    {
+      "level": "BASSLINE JUNKIE",
+      "wr": "41%, 47-100%",
+      "link": "https://x.com/1Karmakaze/status/20521..."
     }
   ],
   "Crazykelp1": [
@@ -1350,11 +1500,6 @@
       "level": "Pyrophoric",
       "wr": "23%",
       "link": "https://youtu.be/C38eQ9_FPdk"
-    },
-    {
-      "level": "Arcansil (Unnerfed)",
-      "wr": "13%",
-      "link": "https://www.youtube.com/watch?v=mU9YIAwReAY"
     },
     {
       "level": "Pathos (Unnerfed)",
@@ -1570,8 +1715,8 @@
     },
     {
       "level": "Silent Circles Redux",
-      "wr": "42%, 28-58%",
-      "link": "https://youtu.be/qNmZe26uMSg"
+      "wr": "57%, 28-58%",
+      "link": "https://www.youtube.com/watch?v=kiYTrRkqbkM"
     }
   ],
   "Dustabounds": [
@@ -1614,6 +1759,13 @@
       "link": "https://www.youtube.com/watch?v=9THbPZaRJvQ"
     }
   ],
+  "wavelog": [
+    {
+      "level": "real level",
+      "wr": "12%",
+      "link": "https://youtu.be/Z0RKM5UIs-s"
+    }
+  ],
   "Whizkid05": [
     {
       "level": "Remxde",
@@ -1636,6 +1788,11 @@
       "level": "Orochi",
       "wr": "49%",
       "link": "https://www.youtube.com/watch?v=xoLRFHQwExE"
+    },
+    {
+      "level": "TCD Old Top 1",
+      "wr": "35%",
+      "link": "https://www.youtube.com/watch?v=0sfu0SX_5oU"
     }
   ],
   "SerVax": [
@@ -1662,8 +1819,8 @@
   "Hover": [
     {
       "level": "Silent Acropolis",
-      "wr": "50%, 35-100%",
-      "link": "https://www.youtube.com/live/5dFzfujstD4?si=Fc6APO0OgeH3RZtS&t=7573s"
+      "wr": "69%, 20-100%",
+      "link": "https://youtu.be/0M-cjzSJY7s?si=YiXbFJp9QUy79_cp"
     },
     {
       "level": "MIGRAINE",
@@ -1697,6 +1854,13 @@
       "level": "Silent Clubstep (Unnerfed)",
       "wr": "40%",
       "link": "https://youtu.be/zB8E-zTsEr0?si=HB7xNuxwLIjBeqxr"
+    }
+  ],
+  "GreenZz": [
+    {
+      "level": "Silent Jumper",
+      "wr": "57-100%",
+      "link": "https://www.youtube.com/watch?v=49fZIFdlEac"
     }
   ],
   "Geotronic": [
@@ -1770,8 +1934,8 @@
   "Serpentical": [
     {
       "level": "Tunnel of Serpent",
-      "wr": "41%, 39-100%",
-      "link": "https://youtu.be/W8H_-KZG-1s?is=sNDWlCMsxIqVw14H"
+      "wr": "55%, 39-100%",
+      "link": "https://youtu.be/bkW3BbC19JY?is=vi5a9EX6lM9m69GB"
     }
   ],
   "poishy": [
@@ -1809,28 +1973,6 @@
       "link": "https://youtu.be/aWJc7PGElNA"
     }
   ],
-  "DankDrew": [
-    {
-      "level": "29",
-      "wr": "45%",
-      "link": "https://www.youtube.com/watch?v=PbQMFY9XRkA"
-    },
-    {
-      "level": "Stalemate",
-      "wr": "29%",
-      "link": "https://www.youtube.com/watch?v=muymKlbFUfo"
-    },
-    {
-      "level": "You cant beat this",
-      "wr": "47%",
-      "link": "https://youtu.be/-rdT2fKg4xo"
-    },
-    {
-      "level": "Ice Carbon Vivilion",
-      "wr": "53%",
-      "link": "https://youtu.be/4AZMcgcHhV0"
-    }
-  ],
   "katzen": [
     {
       "level": "Apollyon (murkkat)",
@@ -1864,6 +2006,13 @@
       "level": "Ankoù",
       "wr": "57%, 69-100%",
       "link": "https://www.youtube.com/watch?v=4izmJaGQ7zA"
+    }
+  ],
+  "CookieCBT": [
+    {
+      "level": "Arcansil (Unnerfed)",
+      "wr": "14%",
+      "link": "https://youtu.be/PGFF_0oUY6I"
     }
   ],
   "Aubergine111": [
@@ -1913,6 +2062,13 @@
       "link": "https://www.youtube.com/watch?v=XGN7VcSLY2E"
     }
   ],
+  "floory": [
+    {
+      "level": "Bobbing bobee",
+      "wr": "53-98%",
+      "link": "https://youtu.be/72i3_EtCr98"
+    }
+  ],
   "Gamingbyte": [
     {
       "level": "Diffraction",
@@ -1941,16 +2097,11 @@
       "link": "https://www.youtube.com/watch?v=vIO9hAa-Koc&pp=wgIGCgQQAhgB"
     }
   ],
-  "Laniakea": [
+  "Agonom": [
     {
       "level": "Ex Vacuo",
-      "wr": "64%, 33-100%",
-      "link": "https://www.youtube.com/watch?v=TnObKqv3hwc"
-    },
-    {
-      "level": "Sacrifice",
-      "wr": "78%, 50-100%",
-      "link": "https://www.youtube.com/watch?v=ko8qBZfEliM"
+      "wr": "34%, 64-100%",
+      "link": "https://youtu.be/19kMxxX4nBs?si=J8qPuNYx8PW2pn7S"
     }
   ],
   "YodaasGD": [
@@ -1967,11 +2118,18 @@
       "link": "https://www.youtube.com/watch?v=-yHGEIcr4d8"
     }
   ],
+  "ILiveOffCaffine": [
+    {
+      "level": "ERYX (Unnerfed)",
+      "wr": "8%",
+      "link": "https://www.youtube.com/watch?v=u916PktxuC0"
+    }
+  ],
   "teraaa": [
     {
       "level": "Escalator",
-      "wr": "34%, 48-100%",
-      "link": "https://youtu.be/BxE7Sb-8RM4?si=KZbHvkvL53bXiQYL"
+      "wr": "34%, 39-100%",
+      "link": "https://www.youtube.com/watch?v=ed4RQUJvIrs"
     }
   ],
   "Frice": [
@@ -1979,6 +2137,13 @@
       "level": "Fingerdash V5",
       "wr": "44%",
       "link": "https://www.youtube.com/watch?v=ppCjQsupz-M"
+    }
+  ],
+  "Ascendeddd": [
+    {
+      "level": "METROPOLIS",
+      "wr": "83%, 49-100%",
+      "link": "https://www.youtube.com/watch?v=LtH7kiCA66U"
     }
   ],
   "OShulf": [
@@ -2061,8 +2226,8 @@
   "BONN GD": [
     {
       "level": "HERR Machine",
-      "wr": "79%, 29-100%",
-      "link": "https://youtu.be/wXuXuCnkszo"
+      "wr": "85%, 29-100%",
+      "link": "https://youtu.be/LQK7G8_3zSc?si=DfCFOd88p0tgRD7g"
     }
   ],
   "kywy": [
@@ -2202,7 +2367,7 @@
     {
       "level": "Snowblind",
       "wr": "78-100%",
-      "link": "https://www.youtube.com/watch?v=qL1PTiLbc60"
+      "link": "https://youtu.be/umFBsNrUcdg"
     },
     {
       "level": "Dead Energy",
@@ -2299,11 +2464,11 @@
       "link": "https://youtu.be/ParLtwMIWzI"
     }
   ],
-  "Nugblox": [
+  "GMitzy": [
     {
       "level": "ZANBOT",
-      "wr": "65-100%",
-      "link": "https://www.youtube.com/watch?v=75woVCCPYbw"
+      "wr": "53%, 33-100%",
+      "link": "https://youtu.be/_PSRYZD1Ass"
     }
   ],
   "Aeden": [
@@ -2316,8 +2481,8 @@
   "Johnlikesdiamond": [
     {
       "level": "Blazeit",
-      "wr": "46-100%",
-      "link": "https://www.youtube.com/watch?v=Oqth8K8BKKk"
+      "wr": "81%, 24-100%",
+      "link": "https://youtu.be/Co0LrsO9Ne4"
     }
   ],
   "Lucidium": [
@@ -2337,8 +2502,8 @@
   "lobster": [
     {
       "level": "Cyber Raptor",
-      "wr": "76%",
-      "link": "https://youtu.be/GdzbZPWBlvw"
+      "wr": "93%",
+      "link": "https://youtu.be/KBkZH_BhJsg?si=IqifQ75up3sR0s99"
     }
   ],
   "Nyan Cat": [
@@ -2537,6 +2702,18 @@
       "link": "https://www.youtube.com/watch?v=BYMQHZoVUOk"
     }
   ],
+  "HequinoX": [
+    {
+      "level": "Devils Playground (Old)",
+      "wr": "23%",
+      "link": "https://www.youtube.com/watch?v=S6u6FMxpFRU"
+    },
+    {
+      "level": "Forsaken (EPIK95)",
+      "wr": "21%",
+      "link": "https://www.youtube.com/watch?v=02FX6-TwJs4"
+    }
+  ],
   "ehno": [
     {
       "level": "The Falling Mysts",
@@ -2549,6 +2726,13 @@
       "level": "Divergence",
       "wr": "28-100%",
       "link": "https://www.youtube.com/watch?v=rg-bH-Xm6Oo"
+    }
+  ],
+  "zedNeon": [
+    {
+      "level": "Parched",
+      "wr": "11%",
+      "link": "https://www.youtube.com/watch?v=6vCbjNgJi88"
     }
   ],
   "Rislum": [
@@ -2583,7 +2767,14 @@
     {
       "level": "Blade of Circles XII",
       "wr": "17%",
-      "link": "https://youtu.be/0NfdLDUbuNg"
+      "link": "https://www.youtube.com/watch?v=GN1tZ732x14"
+    }
+  ],
+  "TheUNrealkorben": [
+    {
+      "level": "Blade of Circles XII",
+      "wr": "57-88%",
+      "link": "https://www.youtube.com/watch?v=GN1tZ732x14"
     }
   ],
   "kaarrdrice": [
@@ -2612,13 +2803,6 @@
       "level": "Club Wolf",
       "wr": "45%",
       "link": "https://youtu.be/_QUjkuFvbeY?si=pM7o1O_eoLjnmIto"
-    }
-  ],
-  "HequinoX": [
-    {
-      "level": "Forsaken (EPIK95)",
-      "wr": "21%",
-      "link": "https://www.youtube.com/watch?v=02FX6-TwJs4"
     }
   ],
   "xFiskyyy": [
@@ -2675,6 +2859,27 @@
       "level": "Sakupen Circles (Zimnyte)",
       "wr": "23%",
       "link": "https://youtu.be/8gNW0EZg72I"
+    }
+  ],
+  "Zzhansa": [
+    {
+      "level": "The Hell (Unnerfed)",
+      "wr": "11%",
+      "link": "https://youtu.be/ju5i6UvBA-Q"
+    }
+  ],
+  "bobsthirdacount": [
+    {
+      "level": "The Hell (Unnerfed)",
+      "wr": "65-100%",
+      "link": "https://youtu.be/ju5i6UvBA-Q"
+    }
+  ],
+  "CuackXI": [
+    {
+      "level": "Satanic Clubstep X",
+      "wr": "43%",
+      "link": "https://youtu.be/pgKqhk1SXxg"
     }
   ],
   "saebyeokfan": [
@@ -2766,6 +2971,20 @@
       "link": "https://youtu.be/bZwykW6Jt5g?t=12"
     }
   ],
+  "CB157": [
+    {
+      "level": "Fracture (iILazerBiteIi)",
+      "wr": "22%",
+      "link": "https://www.youtube.com/watch?v=_hyxHuYaljk"
+    }
+  ],
+  "Adrielbombdia": [
+    {
+      "level": "Fracture (iILazerBiteIi)",
+      "wr": "72-100%",
+      "link": "https://www.youtube.com/watch?v=_hyxHuYaljk"
+    }
+  ],
   "aivan": [
     {
       "level": "The Destroyer",
@@ -2776,8 +2995,8 @@
   "kyon717": [
     {
       "level": "Search History",
-      "wr": "64%, 38-100%",
-      "link": "https://youtu.be/IqZB_BysWzU"
+      "wr": "67%, 38-100%",
+      "link": "https://www.youtube.com/watch?v=pj7FNhfWRMg"
     }
   ],
   "GigamiX": [
@@ -2829,6 +3048,13 @@
       "link": "https://youtu.be/H7AyVIEDyAc?si=yctznvH3vFqhme3D"
     }
   ],
+  "Gun": [
+    {
+      "level": "The Vampire",
+      "wr": "15%",
+      "link": "https://www.youtube.com/watch?v=kINSphxWo84"
+    }
+  ],
   "Meridiem": [
     {
       "level": "cherry world",
@@ -2876,13 +3102,6 @@
       "level": "Chromatic Core",
       "wr": "73%",
       "link": "https://www.youtube.com/watch?v=bliyrDOIleA"
-    }
-  ],
-  "Zeronvi": [
-    {
-      "level": "Gangsta Circles",
-      "wr": "85%",
-      "link": "https://www.youtube.com/watch?v=dBfPEhdJiWI"
     }
   ],
   "ScyallaGMD": [
