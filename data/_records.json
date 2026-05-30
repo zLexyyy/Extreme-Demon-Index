@@ -15,6 +15,14 @@
       "verifier": "iIiViRuZiIi"
     }
   },
+  "1980": {
+    "percentToQualify": 66,
+    "records": [],
+    "verifier": {
+      "verification": "https://www.youtube.com/watch?v=zooG6QkOAwE",
+      "verifier": "Paton"
+    }
+  },
   "90210": {
     "percentToQualify": 66,
     "records": [],
@@ -1388,7 +1396,7 @@
       "verifier": "ddlghl"
     }
   },
-  "Acu Unleashed": {
+  "Acu Unleashed (themitryex)": {
     "percentToQualify": 66,
     "records": [
       {
@@ -2647,7 +2655,7 @@
         "percent": 100,
         "user": "kas ia"
       },
-            {
+      {
         "hz": 240,
         "link": "https://www.youtube.com/watch?v=nue2CXJg7-o",
         "percent": 100,
@@ -8343,7 +8351,7 @@
         "percent": 100,
         "user": "Lemniks"
       },
-             {
+      {
         "hz": "360",
         "link": "https://youtu.be/afS52Swr-pQ",
         "percent": 100,
@@ -35684,7 +35692,7 @@
         "link": "youtube.com/watch?v=UR7n1Ed_UzM&feature=youtu.be",
         "percent": 100,
         "user": "Meatballmoose"
-      }    
+      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=iHf2nanWjvE",
@@ -37896,14 +37904,6 @@
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=wQoR8lAkMsQ",
       "verifier": "skzyl"
-    }
-  },
-  "1980": {
-    "percentToQualify": 66,
-    "records": [],
-    "verifier": {
-      "verification": "https://www.youtube.com/watch?v=zooG6QkOAwE",
-      "verifier": "Paton"
     }
   },
   "Vivisection": {
@@ -45724,6 +45724,217 @@
     "verifier": {
       "verifier": "Cinder",
       "verification": "https://www.youtube.com/watch?v=qEzEm6B9S4c"
+    },
+    "percentToQualify": 66
+  },
+  "Nullscapes (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zoink",
+      "verification": "https://www.youtube.com/watch?v=EztneTPp5CU"
+    },
+    "percentToQualify": 66
+  },
+  "KILLSTEALER": {
+    "records": []
+  },
+  "Sanctity": {
+    "records": [],
+    "verifier": {
+      "verifier": "amplitron",
+      "verification": "https://www.youtube.com/watch?v=rtU2oDBz9X0"
+    },
+    "percentToQualify": 66
+  },
+  "Anemesis (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Phobos",
+      "verification": "https://www.youtube.com/watch?v=y6_ftlt6VDc"
+    },
+    "percentToQualify": 66
+  },
+  "Zodiac rebalanced": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mycrafted",
+      "verification": "https://www.youtube.com/watch?v=2kF67MAUCQw"
+    },
+    "percentToQualify": 66
+  },
+  "SILLY WORLD (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Prototype",
+      "verification": "https://www.youtube.com/watch?v=vxmLEUoIe_w"
+    },
+    "percentToQualify": 66
+  },
+  "Plasma Pulse Finale (Nerf)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dingtus101",
+      "verification": "https://youtu.be/lcAmH37mVuU"
+    },
+    "percentToQualify": 66
+  },
+  "I Cry": {
+    "records": [],
+    "verifier": {
+      "verifier": "GrenadeofTacos",
+      "verification": "https://www.youtube.com/watch?v=siIUWb00-lI"
+    },
+    "percentToQualify": 66
+  },
+  "Atomic jerb": {
+    "records": [],
+    "verifier": {
+      "verifier": "Shmo",
+      "verification": "https://www.youtube.com/watch?v=bdPN8bQy4So"
+    },
+    "percentToQualify": 66
+  },
+  "Renamikaze": {
+    "records": [],
+    "verifier": {
+      "verifier": "Smelloodle",
+      "verification": "https://www.youtube.com/watch?v=owRzG_gFte4"
+    },
+    "percentToQualify": 66
+  },
+  "Perfect in Place (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jemma",
+      "verification": "https://www.youtube.com/watch?v=hqqCCERAsAg"
+    },
+    "percentToQualify": 66
+  },
+  "Icon Breaker 2": {
+    "records": [],
+    "verifier": {
+      "verifier": "shmigels",
+      "verification": "https://www.youtube.com/watch?v=UAP1OrdZqQw"
+    },
+    "percentToQualify": 66
+  },
+  "Alcatraz (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gizbro",
+      "verification": "https://youtu.be/U7qZZj9atBg?si=5zBFhq07q5XgW6Bz"
+    },
+    "percentToQualify": 66
+  },
+  "Nove Cerchi": {
+    "records": [],
+    "verifier": {
+      "verifier": "playeruan",
+      "verification": "https://www.youtube.com/watch?v=DhEdn31TXDM"
+    },
+    "percentToQualify": 66
+  },
+  "Acu Unleashed (Toothless)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Toothless",
+      "verification": "https://www.youtube.com/watch?v=YB8wTEJUVRU"
+    },
+    "percentToQualify": 66
+  },
+  "Acu 36": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/KLbp3kxK1p8"
+    },
+    "percentToQualify": 66
+  },
+  "acu 1073741824": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=h1MBXdTLFb0"
+    },
+    "percentToQualify": 66
+  },
+  "Lilac Acu Nerf": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=5Z3Mfyv_RHc"
+    },
+    "percentToQualify": 66
+  },
+  "CaptainAcuBall": {
+    "records": [],
+    "verifier": {
+      "verifier": "CaptainFireBall",
+      "verification": "https://youtu.be/ZpUn1hfN8Is"
+    },
+    "percentToQualify": 66
+  },
+  "Acu Buff": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=mAsul2B2KdQ"
+    },
+    "percentToQualify": 66
+  },
+  "Weird Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/pEsyNK8CINI"
+    },
+    "percentToQualify": 66
+  },
+  "Acu but": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/05LMR7vzd8Q"
+    },
+    "percentToQualify": 66
+  },
+  "Acu wave infinity": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/rktH-m8j7xU"
+    },
+    "percentToQualify": 66
+  },
+  "Vanya Acu": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://www.youtube.com/watch?v=uHdEKI-oTy0"
+    },
+    "percentToQualify": 66
+  },
+  "stas challenge 2": {
+    "records": [],
+    "verifier": {
+      "verifier": "ddlghl",
+      "verification": "https://youtu.be/OBPe4-za3P0"
+    },
+    "percentToQualify": 66
+  },
+  "RNG ACU": {
+    "records": [],
+    "verifier": {
+      "verifier": "MontanGD",
+      "verification": "https://www.youtube.com/watch?v=q5WR1tZ0zys"
+    },
+    "percentToQualify": 66
+  },
+  "Fallen Kingdom": {
+    "records": [],
+    "verifier": {
+      "verifier": "King Dart",
+      "verification": "https://www.youtube.com/watch?v=sTt10c0aSJU"
     },
     "percentToQualify": 66
   }
