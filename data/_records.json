@@ -22111,7 +22111,13 @@
         "link": "https://youtu.be/G2xiW5fqCMQ",
         "percent": 100,
         "user": "Lemniks"
-      }
+      },
+        {
+         "hz": 240,
+        "link": "https://youtu.be/LF_yWCzpIH4?si=_2TQRlarAmQlCqKE",
+        "percent": 100,
+        "user": "Omipious"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=W6yjHbdAnxM",
@@ -27723,7 +27729,13 @@
         "link": "https://www.youtube.com/watch?v=kLs2ASSo0ms",
         "percent": 100,
         "user": "Lemniks"
-      }
+      },
+           {
+         "hz": 240,
+        "link": "https://youtu.be/ZLrgJcegfxE?si=rVJSogWsEZEPDEPL",
+        "percent": 100,
+        "user": "Omipious"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=hOwAx1Mn6o8",
