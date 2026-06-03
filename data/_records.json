@@ -1443,6 +1443,12 @@
         "link": "https://youtu.be/qmCqItNKojs",
         "percent": 100,
         "user": "Lemniks"
+      },
+              {
+        "hz": 144,
+        "link": "https://youtu.be/5fQQH9H3VKw",
+        "percent": 100,
+        "user": "ddlghl"
       }
     ],
     "verifier": {
@@ -1528,6 +1534,12 @@
         "link": "https://youtu.be/qmCqItNKojs",
         "percent": 100,
         "user": "Lemniks"
+      },
+           {
+        "hz": 144,
+        "link": "https://youtu.be/UIpG-oOycWk",
+        "percent": 100,
+        "user": "ddlghl"
       }
     ],
     "verifier": {
@@ -12229,6 +12241,12 @@
         "link": "https://www.youtube.com/watch?v=eOPwthw0P6s",
         "percent": 100,
         "user": "Philbon"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/YNnS9wV8UEQ",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -33851,6 +33869,12 @@
         "link": "https://www.youtube.com/watch?v=xEtzij9Fqm4",
         "percent": 100,
         "user": "manifestrev"
+      },
+        {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=oxAaNc_h6KI",
+        "percent": 100,
+        "user": "Alanmalpa"
       }
     ],
     "verifier": {
@@ -40994,6 +41018,12 @@
         "link": "https://youtu.be/whl11AUEEos",
         "percent": 100,
         "user": "r1m2"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/GnhAwGf8q44",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -41995,6 +42025,12 @@
         "link": "https://www.youtube.com/watch?v=pfNhNRjc5aE",
         "percent": 100,
         "user": "Alanmalpa"
+      },
+         {
+        "hz": 240,
+        "link": "https://youtu.be/m4eLutCgYaE",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -43265,7 +43301,14 @@
   },
   "ta1LSD0ll": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": 480,
+        "link": "https://www.youtube.com/watch?v=TLVYBSt-4vA",
+        "percent": 100,
+        "user": "majin"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=w-NH14vgMb8&t",
       "verifier": "Arshadow"
