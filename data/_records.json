@@ -5966,6 +5966,12 @@
         "link": "https://www.youtube.com/watch?v=nnsd_uis37g",
         "percent": 100,
         "user": "Fluxite"
+      },
+          {
+        "hz": 60,
+        "link": "https://youtu.be/zfgY2RIHKQg?si=YKPvaa8zfoLfC9H5",
+        "percent": 100,
+        "user": "BananaIgor17"
       }
     ],
     "verifier": {
@@ -12905,6 +12911,12 @@
         "link": "https://youtu.be/CXgDyMDJZzc?si=F2KKVgVZG20cRF1n",
         "percent": 100,
         "user": "manifestrev"
+      },
+          {
+        "hz": 60,
+        "link": "https://youtu.be/frBH_U_yBEY?si=k_WbdrU_XjxCqZj2",
+        "percent": 100,
+        "user": "BananaIgor17"
       }
     ],
     "verifier": {
@@ -15434,7 +15446,14 @@
   },
   "Gangnam Style": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+           {
+        "hz": 60,
+        "link": "https://youtu.be/dPSrcmSEW6A?si=FYH_D_xiTsAlGsc-",
+        "percent": 100,
+        "user": "BananaIgor17"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=seHi10BssQk",
       "verifier": "Zyphur"
@@ -19227,6 +19246,12 @@
         "link": "https://www.youtube.com/watch?v=cRR2hATIdc8",
         "percent": 100,
         "user": "Lemniks"
+      },
+          {
+        "hz": 60,
+        "link": "https://youtu.be/_RFFSBsESHk?si=cufF0pQM7uRYCEq2",
+        "percent": 100,
+        "user": "BananaIgor17"
       }
     ],
     "verifier": {
@@ -22184,7 +22209,13 @@
         "link": "https://youtu.be/LF_yWCzpIH4?si=_2TQRlarAmQlCqKE",
         "percent": 100,
         "user": "Omipious"
-        }
+        },
+         {
+        "hz": 60,
+        "link": "https://youtu.be/AgyC6_pGq2I?si=EFVq12_BZBQi8Uqi",
+        "percent": 100,
+        "user": "BananaIgor17"
+      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=W6yjHbdAnxM",
@@ -31580,6 +31611,12 @@
         "link": "https://www.youtube.com/watch?v=D1wZ4EIXGzE",
         "percent": 100,
         "user": "majin"
+      },
+        {
+        "hz": 60,
+        "link": "https://youtu.be/2YUFpzwI9E4?si=Jftkn0Cvufs3Awoy",
+        "percent": 100,
+        "user": "BananaIgor17"
       }
     ],
     "verifier": {
@@ -39237,6 +39274,12 @@
         "link": "https://www.youtube.com/watch?v=iX33KJtK56w",
         "percent": 100,
         "user": "Lemniks"
+      },
+           {
+        "hz": 60,
+        "link": "https://youtu.be/Sr-Pp_ECDc4?si=iK9LtfLlqJQY8J5y",
+        "percent": 100,
+        "user": "BananaIgor17"
       }
     ],
     "verifier": {
@@ -42379,6 +42422,12 @@
         "link": "https://youtu.be/eMWQBCr6F8M?si=5CWANakM8b0XRZNj",
         "percent": 100,
         "user": "samoletik"
+      },
+          {
+        "hz": 60,
+        "link": "https://youtu.be/hmjC9xuDOs8?si=jOVd4EKtvg8v6ca0",
+        "percent": 100,
+        "user": "BananaIgor17"
       }
     ],
     "verifier": {
