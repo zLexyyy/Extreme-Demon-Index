@@ -8407,6 +8407,12 @@
         "link": "https://www.youtube.com/live/MgLT1kOYDLA?si=KgYQRvS8k_x-B7Ul",
         "percent": 100,
         "user": "samoletik"
+      },
+            {
+        "hz": 480,
+        "link": "https://www.youtube.com/watch?v=uSSdY6rFpdY",
+        "percent": 100,
+        "user": "QueVy"
       }
     ],
     "verifier": {
@@ -18435,7 +18441,14 @@
   },
   "Invisement": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+            {
+        "hz": 60,
+        "link": "https://www.youtube.com/watch?v=l2N97iYAIjY",
+        "percent": 100,
+        "user": "Anticroom"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=FCzWNXh1rUQ",
       "verifier": "NucDev"
@@ -20890,6 +20903,12 @@
         "link": "https://www.youtube.com/watch?v=KtTRkTCJU5o",
         "percent": 100,
         "user": "Lemniks"
+      },
+         {
+        "hz": "144",
+        "link": "https://youtu.be/LjVPl21iPhw",
+        "percent": 100,
+        "user": "Gun"
       }
     ],
     "verifier": {
