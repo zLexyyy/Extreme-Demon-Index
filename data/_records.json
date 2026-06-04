@@ -3886,6 +3886,12 @@
         "link": "https://www.youtube.com/watch?v=mxQENEqagpw",
         "percent": 100,
         "user": "SmackinTheKraken"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/ma5M_6uYRgk",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -7183,6 +7189,12 @@
         "link": "https://youtu.be/S7JkkI82P_U?si=wZgFmpGPkSYE45eQ",
         "percent": 100,
         "user": "samoletik"
+      },
+           {
+        "hz": 480,
+        "link": "https://youtu.be/2Am_I5OyNXU?si=3WEwjLi5S5cU-Jm3",
+        "percent": 100,
+        "user": "swipy67"
       }
     ],
     "verifier": {
@@ -14602,6 +14614,12 @@
         "link": "https://www.youtube.com/watch?v=jr88fe1YUSM",
         "percent": 100,
         "user": "kas ia"
+      },
+         {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=_U1NJLynAWQ",
+        "percent": 100,
+        "user": "Lemniks"
       }
     ],
     "verifier": {
@@ -36027,6 +36045,12 @@
         "link": "https://youtu.be/gcoycdbIjlU?si=bVOMBgc_XBzT0Lqb",
         "percent": 100,
         "user": "manifestrev"
+      },
+            {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=Z3An-zJtZk4",
+        "percent": 100,
+        "user": "Alanmalpa"
       }
     ],
     "verifier": {
@@ -45601,7 +45625,14 @@
     "percentToQualify": 66
   },
   "Acu (ULDM)": {
-    "records": [],
+    "records": [
+        {
+        "hz": 144,
+        "link": "https://www.youtube.com/watch?v=wg3zlr3MJ3g",
+        "percent": 100,
+        "user": "ddlghl"
+      }
+    ],
     "verifier": {
       "verifier": "Gd San3x",
       "verification": "https://www.youtube.com/watch?v=rWAXbjRLPqk"
