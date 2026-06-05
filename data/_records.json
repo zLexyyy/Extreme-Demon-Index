@@ -7237,6 +7237,12 @@
         "link": "https://youtu.be/2Am_I5OyNXU?si=3WEwjLi5S5cU-Jm3",
         "percent": 100,
         "user": "swipy67"
+      },
+             {
+        "hz": 240,
+        "link": "https://youtu.be/qZdJrgF0qFY?si=TLF41Bkzid2OzKSl",
+        "percent": 100,
+        "user": "atelophobia"
       }
     ],
     "verifier": {
@@ -17654,6 +17660,12 @@
         "link": "https://www.youtube.com/watch?v=YiefxSC1OJQ",
         "percent": 100,
         "user": "kas ia"
+      },
+            {
+        "hz": 240,
+        "link": "https://youtu.be/DbfgX0owt24?si=HdlnNLqt1RnxPQkE",
+        "percent": 100,
+        "user": "atelophobia"
       }
     ],
     "verifier": {
@@ -22281,6 +22293,12 @@
         "link": "https://www.youtube.com/watch?v=85yVIt8OZyM&t=814",
         "percent": 100,
         "user": "nozz"
+      },
+           {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=qO_3-h0cQ8g",
+        "percent": 100,
+        "user": "Anticroom"
       }
     ],
     "verifier": {
@@ -34350,6 +34368,12 @@
         "link": "https://www.youtube.com/watch?v=5wrfI0_bdPU",
         "percent": 100,
         "user": "kas ia"
+      },
+             {
+        "hz": 240,
+        "link": "https://youtu.be/pVrqSbEDVtQ?si=nyjmrUseXcnBorcu",
+        "percent": 100,
+        "user": "atelophobia"
       }
     ],
     "verifier": {
@@ -42809,6 +42833,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "user": "ItzApex"
+      },
+             {
+        "hz": 240,
+        "link": "https://youtu.be/aXEgCO4afoI",
+        "percent": 100,
+        "user": "Lemniks"
       }
     ],
     "verifier": {
@@ -46356,7 +46386,14 @@
     "percentToQualify": 66
   },
   "CaptainAcuBall": {
-    "records": [],
+    "records": [
+           {
+        "hz": 144,
+        "link": "https://www.youtube.com/watch?v=mtj8PCLHtMU",
+        "percent": 100,
+        "user": "ddlghl"
+      }
+    ],
     "verifier": {
       "verifier": "CaptainFireBall",
       "verification": "https://youtu.be/ZpUn1hfN8Is"
@@ -46412,7 +46449,14 @@
     "percentToQualify": 66
   },
   "RNG ACU": {
-    "records": [],
+    "records": [
+                {
+        "hz": 144,
+        "link": "https://www.youtube.com/watch?v=49osx85IITk&t=9s",
+        "percent": 100,
+        "user": "ddlghl"
+      }
+    ],
     "verifier": {
       "verifier": "MontanGD",
       "verification": "https://www.youtube.com/watch?v=q5WR1tZ0zys"
