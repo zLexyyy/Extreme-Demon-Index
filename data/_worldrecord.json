@@ -123,6 +123,11 @@
       "link": "https://youtu.be/EbmvDnLObBc?t=15"
     },
     {
+      "level": "ball so hard",
+      "wr": "11%",
+      "link": "https://youtu.be/-TZIAzFuBgo?t=190"
+    },
+    {
       "level": "Crimson Clutter Infinity",
       "wr": "15%",
       "link": "https://www.youtube.com/watch?v=KLtOy_ud7II"
@@ -2027,6 +2032,16 @@
       "level": "Anemesis",
       "wr": "64%",
       "link": "https://www.youtube.com/watch?v=oFy5cYANqQA"
+    },
+    {
+      "level": "Deimos",
+      "wr": "57-100",
+      "link": "https://www.youtube.com/watch?v=Tga_qMiAxr4"
+    },
+    {
+      "level": "The Golden (Unnerfed)",
+      "wr": "62%",
+      "link": "https://www.youtube.com/watch?v=A_AWI_PBxvE"
     }
   ],
   "Metalface221": [
@@ -2534,18 +2549,6 @@
       "link": "https://www.youtube.com/watch?v=ucko1gcOF-k"
     }
   ],
-  "Swiborg": [
-    {
-      "level": "Deimos",
-      "wr": "57-100",
-      "link": "https://www.youtube.com/watch?v=Tga_qMiAxr4"
-    },
-    {
-      "level": "The Golden (Unnerfed)",
-      "wr": "62%",
-      "link": "https://www.youtube.com/watch?v=A_AWI_PBxvE"
-    }
-  ],
   "Bukkk": [
     {
       "level": "Down bass french",
@@ -2766,7 +2769,7 @@
   "TheUNrealkorben": [
     {
       "level": "Blade of Circles XII",
-      "wr": "57-88%",
+      "wr": "59-77%",
       "link": "https://www.youtube.com/watch?v=GN1tZ732x14"
     }
   ],
