@@ -2398,7 +2398,14 @@
   },
   "Angelic Blood": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 144,
+        "link": "https://youtu.be/ifNYZXtoPys?si=A8f7wzfGuUm79BUC",
+        "percent": 100,
+        "user": "MeatballMoose"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=PozwbzdDBu8",
       "verifier": "iIiViRuZiIi"
@@ -7226,23 +7233,29 @@
         "percent": 100,
         "user": "timmytoughnut97"
       },
-        {
+      {
         "hz": 420,
         "link": "https://youtu.be/S7JkkI82P_U?si=wZgFmpGPkSYE45eQ",
         "percent": 100,
         "user": "samoletik"
       },
-           {
+      {
         "hz": 480,
         "link": "https://youtu.be/2Am_I5OyNXU?si=3WEwjLi5S5cU-Jm3",
         "percent": 100,
         "user": "swipy67"
       },
-             {
+      {
         "hz": 240,
         "link": "https://youtu.be/qZdJrgF0qFY?si=TLF41Bkzid2OzKSl",
         "percent": 100,
         "user": "atelophobia"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=f4OP7YWeHho",
+        "percent": 100,
+        "user": "koiasana"
       }
     ],
     "verifier": {
@@ -15582,6 +15595,12 @@
         "link": "https://youtu.be/Jclwh1OKKSo",
         "percent": 100,
         "user": "Meatballmoose"
+      },
+      {
+        "hz": 60,
+        "link": "https://youtu.be/idmLrpg5gwE?si=G1zWIWLjvTUFB-1a",
+        "percent": 100,
+        "user": "haimdavid8888"
       }
     ],
     "verifier": {
@@ -26197,6 +26216,12 @@
         "link": "https://www.youtube.com/watch?v=mxx4YNVZqwk",
         "percent": 100,
         "user": "[KLØ] Luna"
+      },
+      {
+        "hz": 240,
+        "link": "https://youtu.be/qaxqDNEzTNU",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -45733,7 +45758,14 @@
     "percentToQualify": 66
   },
   "Mizureta (ULDM)": {
-    "records": [],
+    "records": [
+        {
+        "hz": 240,
+        "link": "https://youtu.be/wI-nTpQDF4g",
+        "percent": 100,
+        "user": "shafikdabest"
+      }
+    ],
     "verifier": {
       "verifier": "Tuấn PNT",
       "verification": "https://www.youtube.com/watch?v=7xrdSmnWFoM"
