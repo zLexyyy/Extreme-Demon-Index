@@ -1005,20 +1005,6 @@
       "link": "https://www.youtube.com/watch?v=ocExsPeeF7Y"
     }
   ],
-  "LetzTiz": [
-    {
-      "level": "Hymn For The Weekend",
-      "wr": "24%, 23-35%, 43-68%",
-      "link": "https://www.youtube.com/watch?v=2m0fxa19Sj0"
-    }
-  ],
-  "Meper": [
-    {
-      "level": "Hymn For The Weekend",
-      "wr": "64-100%",
-      "link": "https://www.youtube.com/watch?v=2m0fxa19Sj0"
-    }
-  ],
   "GDKelox": [
     {
       "level": "Despair (p1ut0niumgd)",
@@ -2300,7 +2286,19 @@
       "link": "https://www.youtube.com/watch?v=p5Z83V_OBy8"
     }
   ],
+  "LetzTiz": [
+    {
+      "level": "Hymn For The Weekend (Unnerfed)",
+      "wr": "24%, 23-35%, 43-68%",
+      "link": "https://www.youtube.com/watch?v=2m0fxa19Sj0"
+    }
+  ],
   "Meepr": [
+    {
+      "level": "Hymn For The Weekend (Unnerfed)",
+      "wr": "64-100%",
+      "link": "https://www.youtube.com/watch?v=2m0fxa19Sj0"
+    },
     {
       "level": "Hymn for the weekend (Meepr)",
       "wr": "57-100%",
