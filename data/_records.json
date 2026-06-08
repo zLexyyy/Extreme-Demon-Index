@@ -11381,6 +11381,12 @@
     "link": "https://www.youtube.com/watch?v=CitROLdHeXc",
     "percent": 100,
     "user": "kas ia"
+   },
+        {
+    "hz": "240",
+    "link": "https://youtu.be/qY2XqktkbRQ",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
@@ -17257,7 +17263,14 @@
  },
  "Haymaker": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+         {
+    "hz": "240",
+    "link": "https://youtu.be/K0WBkVRa-w0",
+    "percent": 100,
+    "user": "Matthew081510"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=T67zkwVm-FA",
    "verifier": "Kolzaru"
@@ -23239,7 +23252,14 @@
  },
  "Multition (Solo)": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+          {
+    "hz": "240",
+    "link": "https://youtu.be/PXQ5mipY5ZI?si=o31ch6vYdJXWs56y",
+    "percent": 100,
+    "user": "Matthew081510"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=IOMOcqO9-TQ",
    "verifier": "Plusxenon"
@@ -27064,6 +27084,12 @@
     "link": "https://youtu.be/ZzXIFRqC2cE?si=HMNY36uMjWH7HnVR",
     "percent": 100,
     "user": "MiRPacK19"
+   },
+         {
+    "hz": "240",
+    "link": "https://youtu.be/GcN3dvUvr9s",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
@@ -28179,6 +28205,12 @@
     "link": "https://www.youtube.com/watch?v=pCzuHPYeCXk",
     "percent": 100,
     "user": "BlueGamer"
+   },
+       {
+    "hz": "240",
+    "link": "https://youtu.be/s4B37e1Agjss",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
@@ -32073,6 +32105,12 @@
     "link": "https://youtu.be/zST-WHt1BSE",
     "percent": 100,
     "user": "shafikdabest"
+   },
+        {
+    "hz": "240",
+    "link": "https://youtu.be/_IVy246O6Gs",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
@@ -36420,6 +36458,12 @@
     "link": "https://youtu.be/58j6sWrG3pY?si=_d0oDN6DibCJmM2c",
     "percent": 100,
     "user": "samoletik"
+   },
+      {
+    "hz": "240",
+    "link": "https://youtu.be/nOtGH9Qm4Kc",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
@@ -36784,6 +36828,12 @@
     "link": "https://www.youtube.com/watch?v=X4zaJcs_ByQ",
     "percent": 100,
     "user": "BlueGamer"
+   },
+        {
+    "hz": "240",
+    "link": "https://youtu.be/_zJiii9cnhc",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
@@ -44868,6 +44918,12 @@
     "link": "https://www.youtube.com/watch?v=UDjBmHaCyQE",
     "percent": 100,
     "user": "BlueGamer"
+   },
+        {
+    "hz": "240",
+    "link": "https://youtu.be/dOCE_1nrCY4",
+    "percent": 100,
+    "user": "Matthew081510"
    }
   ],
   "verifier": {
