@@ -2592,7 +2592,14 @@
  },
  "Antarctica Sunset": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+       {
+    "hz": "240",
+    "link": "https://youtu.be/BukLygGuRNY",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=9P_mhkysO_s",
    "verifier": "Xylitol"
@@ -10522,7 +10529,14 @@
  },
  "Death Sentence": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+        {
+    "hz": "240",
+    "link": "https://youtu.be/YLu1BruQ8bU",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=v61z9eD9cZU",
    "verifier": "Perorbem"
@@ -38674,6 +38688,12 @@
     "link": "https://www.youtube.com/watch?v=OgtkJMa8hRA",
     "percent": 100,
     "user": "BlueGamer"
+   },
+       {
+    "hz": "240",
+    "link": "https://youtu.be/UN2cwtnWKi0",
+    "percent": 100,
+    "user": "Adhafera"
    }
   ],
   "verifier": {
@@ -38937,7 +38957,14 @@
  },
  "VendetTa": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+         {
+    "hz": "240",
+    "link": "https://www.youtube.com/watch?v=FoJANFQYS0w",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=HyG7HP_CDwE",
    "verifier": "FarzzZinjj"
@@ -47158,7 +47185,14 @@
   "percentToQualify": 66
  },
  "Olly": {
-  "records": [],
+  "records": [
+         {
+    "hz": "240",
+    "link": "https://www.youtube.com/watch?v=fhJnaGZaj-Y",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+  ],
   "verifier": {
    "verifier": "ItzApex",
    "verification": "https://www.youtube.com/watch?v=-4CXl1ktXig"
