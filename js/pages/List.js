@@ -58,26 +58,42 @@ export default {
                   />
                 </div>
 
-                <table class="list" v-if="list">
-                    <template v-for="(entry, i) in filteredDemonList">
+                <!-- Classic List View with Legacy Levels -->
+                <table class="list" v-if="list && activeList === 'classic'">
+                    <template v-for="(entry, i) in filteredDemonListClassic">
                         <tr v-if="entry.isLegacySeparator" :key="'separator-' + i" class="legacy-separator-row">
                             <td colspan="2" class="legacy-separator">Legacy List</td>
                         </tr>
                         <tr v-else :key="entry.index" :class="{ benchmark: entry.isBenchmark, legacy: entry.isLegacy }">
                             <td class="rank">
-                                <p class="type-label-lg" v-if="!entry.isBenchmark && !entry.isLegacy && activeList !== 'upcoming'">#{{ entry.displayIndex }}</p>
+                                <p class="type-label-lg" v-if="!entry.isBenchmark && !entry.isLegacy">#{{ entry.displayIndex }}</p>
                                 <p class="type-label-md" v-else style="margin-left:8px;">-</p>
                             </td>
                             <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name, 'benchmark-level': entry.isBenchmark, 'legacy-level': entry.isLegacy }">
-                                <button v-if="!entry.isBenchmark || activeList !== 'upcoming'" class="level-btn" @click="fetchLvl(entry.index); selected = entry.index">
+                                <button class="level-btn" @click="fetchLvl(entry.index); selected = entry.index">
                                     <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
                                 </button>
-                                <div v-else class="level-btn">
-                                    <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
-                                </div>
                             </td>
                         </tr>
                     </template>
+                </table>
+
+                <!-- Upcoming List View (original behavior) -->
+                <table class="list" v-if="list && activeList === 'upcoming'">
+                    <tr v-for="(entry, i) in filteredDemonList" :key="entry.index" :class="{ benchmark: entry.isBenchmark }">
+                        <td class="rank">
+                            <p class="type-label-lg" v-if="!entry.isBenchmark && activeList !== 'upcoming'">#{{ entry.displayIndex }}</p>
+                            <p class="type-label-md" v-else style="margin-left:8px;">-</p>
+                        </td>
+                        <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name, 'benchmark-level': entry.isBenchmark }">
+                            <button v-if="!entry.isBenchmark || activeList !== 'upcoming'" class="level-btn" @click="fetchLvl(entry.index); selected = entry.index">
+                                <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
+                            </button>
+                            <div v-else class="level-btn">
+                                <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
+                            </div>
+                        </td>
+                    </tr>
                 </table>
             </div>
             <div class="level-container">
@@ -108,6 +124,10 @@ export default {
                         <li v-if="isLegacyLevel">
                             <div class="type-title-sm">Removal Reason</div>
                             <p>{{ level.reason || 'N/A' }}</p>
+                        </li>
+                        <li v-if="activeList === 'upcoming'">
+                            <div class="type-title-sm">Status</div>
+                            <p>{{ statusText }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
@@ -181,8 +201,7 @@ export default {
         hasLoaded: false,
         toggledShowcase: false,
         searchQuery: '',
-        isLegacyLevel: false,
-        firstLegacyIndex: -1
+        isLegacyLevel: false
     }),
     computed: {
         activeList() {
@@ -236,6 +255,32 @@ export default {
 
             const items = this.demonList.map((name, idx) => {
                 const raw = (typeof name === 'string') ? name.trim() : name;
+                const isBench = (typeof raw === 'string' && raw.startsWith('-') && raw.toLowerCase() !== '-critical error-' && raw.toLowerCase() !== '-à la belle étoile-');
+                const displayName = isBench ? raw.replace(/^-\s*/, '') : raw;
+                return { name: displayName, index: idx, isBenchmark: isBench, rawName: raw };
+            });
+
+            let rank = 0;
+            const withDisplay = items.map(item => {
+                if (!item.isBenchmark) {
+                    rank += 1;
+                    return { ...item, displayIndex: rank };
+                }
+                return { ...item, displayIndex: null };
+            });
+
+            if (!q) return withDisplay;
+            return withDisplay.filter(entry => {
+                if (!entry.name) return false;
+                return entry.name.toLowerCase().includes(q);
+            });
+        },
+
+        filteredDemonListClassic() {
+            const q = (this.searchQuery || '').toLowerCase().trim();
+
+            const items = this.demonList.map((name, idx) => {
+                const raw = (typeof name === 'string') ? name.trim() : name;
                 const isLegacy = (typeof raw === 'string' && raw.startsWith('-') && !raw.toLowerCase().startsWith('-critical error') && !raw.toLowerCase().startsWith('-à la belle étoile'));
                 const isBench = (typeof raw === 'string' && raw.startsWith('-') && !isLegacy && raw.toLowerCase() !== '-critical error-' && raw.toLowerCase() !== '-à la belle étoile-');
                 const displayName = (isBench || isLegacy) ? raw.replace(/^-\s*/, '') : raw;
@@ -249,10 +294,8 @@ export default {
                     rank += 1;
                     return { ...item, displayIndex: rank };
                 }
-                // Add separator before first legacy level
                 if (item.isLegacy && !foundFirstLegacy && !q) {
                     foundFirstLegacy = true;
-                    this.firstLegacyIndex = item.index;
                 }
                 return { ...item, displayIndex: null };
             });
@@ -343,7 +386,7 @@ export default {
         this.checkIfLegacy();
 
         if (this.activeList === 'upcoming') {
-            const firstNonBench = this.filteredDemonList.find(entry => !entry.isBenchmark && !entry.isLegacySeparator);
+            const firstNonBench = this.filteredDemonList.find(entry => !entry.isBenchmark);
             if (firstNonBench && firstNonBench.index !== this.selected) {
                 this.selected = firstNonBench.index;
                 this.listLevel = await fetchLevel(this.list[this.selected]);
@@ -375,7 +418,12 @@ export default {
             this.$router.push({ path: '/packs', query: { pack: pack.name } });
         },
         checkIfLegacy() {
-            const entry = this.filteredDemonList.find(e => e.index === this.selected);
+            let entry;
+            if (this.activeList === 'classic') {
+                entry = this.filteredDemonListClassic.find(e => e.index === this.selected && !e.isLegacySeparator);
+            } else {
+                entry = this.filteredDemonList.find(e => e.index === this.selected);
+            }
             this.isLegacyLevel = entry ? entry.isLegacy : false;
         },
         async fetchLvl(i) {
