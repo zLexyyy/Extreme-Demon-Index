@@ -1919,7 +1919,14 @@
  },
  "Agony": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": 240,
+    "link": "https://youtu.be/42G70o3StPE",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=U8CJqehyyno",
    "verifier": "Kentik"
@@ -4622,6 +4629,12 @@
     "link": "https://www.youtube.com/watch?v=lY5e_AeYzZc",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": "144",
+    "link": "https://youtu.be/4p5O6ox804o",
+    "percent": 100,
+    "user": "MeatballMoose"
    }
   ],
   "verifier": {
@@ -13552,6 +13565,12 @@
     "link": "https://www.youtube.com/watch?v=uwfN8QOOtzg",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": 240,
+    "link": "https://youtu.be/Vd-C3Ja4WaM",
+    "percent": 100,
+    "user": "Adhafera"
    }
   ],
   "verifier": {
@@ -27777,6 +27796,12 @@
     "link": "https://www.youtube.com/watch?v=AKufFURghEg",
     "percent": 100,
     "user": "Lemniks"
+   },
+   {
+    "hz": "144",
+    "link": "https://youtu.be/yZdff4iaLJw",
+    "percent": 100,
+    "user": "MeatballMoose"
    }
   ],
   "verifier": {
