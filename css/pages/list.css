@@ -87,6 +87,43 @@
     color: var(--color-on-primary);
     opacity: 0.9;
 }
+
+/* Legacy list styling */
+.page-list .legacy-separator-row {
+    height: 50px;
+}
+
+.page-list .legacy-separator-row .legacy-separator {
+    text-align: center;
+    color: var(--color-on-background);
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 0;
+}
+
+/* Legacy level styling */
+.page-list .list tr.legacy td.level .legacy-level .level-btn {
+    opacity: 0.7;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font-style: italic;
+}
+
+.page-list .list tr.legacy td.level .legacy-level .level-btn:hover {
+    opacity: 0.85;
+    background-color: var(--color-background-hover);
+}
+
+.page-list .list tr.legacy td.level.active .legacy-level .level-btn {
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+    opacity: 1;
+    font-style: italic;
+}
+
 .page-list .level-container .level {
     display: flex;
     flex-direction: column;
