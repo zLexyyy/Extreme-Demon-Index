@@ -47780,7 +47780,14 @@
     "percentToQualify": 66
   },
   "L0L K3K": {
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://youtu.be/tah_aazWihU?t=126",
+        "percent": 100,
+        "user": "Lemniks"
+      }
+    ],
     "verifier": {
       "verifier": "neqron",
       "verification": "https://www.youtube.com/watch?v=Fh0PqykEArM"
