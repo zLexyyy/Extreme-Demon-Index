@@ -309,7 +309,7 @@
         "name": "Reta Pack V",
         "color": "#6d05cf",
         "textColor": "#ff7ff1",
-        "levels": ["Shukketsu", "Fragile (Endlevel)", "Gumi", "kowareta"]
+        "levels": ["Shukketsu (September 2023)", "Fragile (Endlevel)", "Gumi", "kowareta"]
     },
     {
         "name": "Acu Pack I",
@@ -903,7 +903,7 @@
         "name": "Lexycat Pack IV",
         "color": "#98FF98",
         "textColor": "#FF6F61",
-        "levels": ["IRIS (KazaGD)", "VOID", "Shukketsu", "Midnight"]
+        "levels": ["IRIS (KazaGD)", "VOID", "Shukketsu (September 2023)", "Midnight"]
     },
     {
         "name": "Bete Noire Pack",
