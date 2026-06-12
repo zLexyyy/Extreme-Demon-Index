@@ -29177,7 +29177,14 @@
   },
   "SARYYX NEVER CLEAR": {
     "percentToQualify": 74,
-    "records": [],
+    "records": [
+        {
+        "hz": 180,
+        "link": "https://youtu.be/FeWbMBC7M2k?is=zT0eMIvXH_NGyy92",
+        "percent": 100,
+        "user": "zMiko"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=rRlyvmjcz_4",
       "verifier": "skzyl"
