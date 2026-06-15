@@ -448,6 +448,12 @@
         "link": "https://www.youtube.com/watch?v=FDewtpka7nc",
         "percent": 100,
         "user": "kas ia"
+      },
+          {
+        "hz": 480,
+        "link": "https://youtu.be/_4V-tWhYQJA",
+        "percent": 100,
+        "user": "manifestrev"
       }
     ],
     "verifier": {
@@ -13438,7 +13444,14 @@
   },
   "Every End": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=qCMU4Ua8vcc&t=17s",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=KexrBfBCZJA",
       "verifier": "Hqmy"
@@ -38060,6 +38073,12 @@
         "link": "https://youtu.be/7Dk6F2DSPBs?si=BlAiGOMorTZFLoA3",
         "percent": 100,
         "user": "Sharkified"
+      },
+        {
+        "hz": 720,
+        "link": "https://youtu.be/RAwfsfu-faQ",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
