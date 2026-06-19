@@ -21588,6 +21588,12 @@
         "link": "https://youtu.be/xIjDz2TJ8JQ?si=4_sH1Ne009Y8UFGt",
         "percent": 100,
         "user": "Sharkified"
+      },
+      {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=bnl5n3LHHPM",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -42866,6 +42872,12 @@
         "link": "https://www.youtube.com/watch?v=uK5uX3Ofm5E",
         "percent": 100,
         "user": "BlueGamer"
+      },
+      {
+        "hz": "144",
+        "link": "https://www.youtube.com/watch?v=9adkdb7qY0Y",
+        "percent": 100,
+        "user": "MeatballMoose"
       }
     ],
     "verifier": {
