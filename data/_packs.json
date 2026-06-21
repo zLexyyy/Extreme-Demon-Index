@@ -321,7 +321,7 @@
         "name": "Acu Pack II",
         "color": "#ffee00",
         "textColor": "#00f9ff",
-        "levels": ["Negaticu", "Ace", "nonbinary acu", "Trans Acu", "Whatsapp Acu"]
+        "levels": ["Negaticu", "Ace (Arcturus97)", "nonbinary acu", "Trans Acu", "Whatsapp Acu"]
     },
     {
         "name": "Acu Pack III",
@@ -675,7 +675,7 @@
         "name": "Zeronium Pack",
         "color": "#ffffff",
         "textColor": "#8dffc6",
-        "levels": ["Fun Friday", "Diamond Disco", "Crystal", "Budding Roses", "Agile"]
+        "levels": ["Fun Friday", "Diamond Disco", "Crystal (Zeronium)", "Budding Roses", "Agile"]
     },
     {
         "name": "Metal Trilogy",
@@ -717,7 +717,7 @@
         "name": "Z Pack I",
         "color": "#7A0F1D",
         "textColor": "#E6E6E6",
-        "levels": ["Money in the Redux z", "Elite Z Rebirth", "Elite Z", "Gunslinga Corridor Z", "Fusion Z"]
+        "levels": ["Money in the Redux z", "Elite Z Rebirth (Solo)", "Elite Z", "Gunslinga Corridor Z", "Fusion Z"]
     },
     {
         "name": "Z Pack II",

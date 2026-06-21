@@ -215,9 +215,9 @@ export default {
         },
         displayedLevelName() {
             if (!this.level || !this.level.name) return '';
-            // Remove leading dash if it's a legacy level
+            // Only remove leading dash when the level is a legacy level (we want to keep leading dash for benchmark names like "-critical error-")
             const name = this.level.name;
-            return name.startsWith('-') ? name.substring(1).trim() : name;
+            return name.startsWith('-') && this.isLegacyLevel ? name.substring(1).trim() : name;
         },
         showShowcaseButton() {
             if (this.activeList === 'classic') {
@@ -255,8 +255,9 @@ export default {
 
             const items = this.demonList.map((name, idx) => {
                 const raw = (typeof name === 'string') ? name.trim() : name;
+                // strip any leading dashes/spaces from the displayed name (this prevents "- -name" when rank already shows '-')
                 const isBench = (typeof raw === 'string' && raw.startsWith('-') && raw.toLowerCase() !== '-critical error-' && raw.toLowerCase() !== '-à la belle étoile-');
-                const displayName = isBench ? raw.replace(/^-\s*/, '') : raw;
+                const displayName = isBench ? raw.replace(/^[-\s]+/, '') : raw;
                 return { name: displayName, index: idx, isBenchmark: isBench, rawName: raw };
             });
 
@@ -283,7 +284,8 @@ export default {
                 const raw = (typeof name === 'string') ? name.trim() : name;
                 const isLegacy = (typeof raw === 'string' && raw.startsWith('-') && !raw.toLowerCase().startsWith('-critical error') && !raw.toLowerCase().startsWith('-à la belle étoile'));
                 const isBench = (typeof raw === 'string' && raw.startsWith('-') && !isLegacy && raw.toLowerCase() !== '-critical error-' && raw.toLowerCase() !== '-à la belle étoile-');
-                const displayName = (isBench || isLegacy) ? raw.replace(/^-\s*/, '') : raw;
+                // strip any leading dashes/spaces for list display to avoid duplicate dash when rank cell shows '-'
+                const displayName = (isBench || isLegacy) ? raw.replace(/^[-\s]+/, '') : raw;
                 return { name: displayName, index: idx, isBenchmark: isBench, isLegacy: isLegacy, rawName: raw, isLegacySeparator: false };
             });
 
