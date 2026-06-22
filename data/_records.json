@@ -13766,7 +13766,14 @@
   },
   "Eyes in the Water": {
     "percentToQualify": 71,
-    "records": [],
+    "records": [
+        {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=pWIuLVq5lm4",
+        "percent": 100,
+        "user": "lanx"
+         }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=yvLwiOy3KEA",
       "verifier": "LordVadercraft"
