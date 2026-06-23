@@ -803,6 +803,12 @@
         "link": "https://www.youtube.com/watch?v=-jgPvMoaVOA",
         "percent": 100,
         "user": "Lemniks"
+      },
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -1765,7 +1771,14 @@
   },
   "Aerial Gleam": {
     "percentToQualify": 70,
-    "records": [],
+    "records": [
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=eyZjKtrGVYw",
       "verifier": "Doggie"
@@ -2374,7 +2387,14 @@
   },
   "Amalgam": {
     "percentToQualify": 69,
-    "records": [],
+    "records": [
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=82DDR2BjXSI",
       "verifier": "Wooshi"
@@ -6621,6 +6641,12 @@
         "link": "https://youtu.be/HDJKC1S_4rM?si=EC7dzy7bRDzgHrz9",
         "percent": 100,
         "user": "Sharkified"
+      },
+          {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -8191,6 +8217,12 @@
         "link": "https://youtu.be/N-BoEHo2Lf0?si=VZjXhCc3x_N4WEJ1",
         "percent": 100,
         "user": "Sharkified"
+      },
+         {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=Qp-l-NhNp5s",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -8483,6 +8515,12 @@
         "link": "https://www.youtube.com/watch?v=0duHbVK0oCk",
         "percent": 100,
         "user": "BlueGamer"
+      },
+          {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=L1QClMHg9MY",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -8721,7 +8759,14 @@
   },
   "Congregation": {
     "percentToQualify": 72,
-    "records": [],
+    "records": [
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=e5QAVYd4JXw",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=KVlcdvGYcj0",
       "verifier": "Floofle"
@@ -9079,7 +9124,14 @@
   },
   "Crackhead Circles": {
     "percentToQualify": 67,
-    "records": [],
+    "records": [
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=_4MDq8Us5gM",
       "verifier": "teraaa"
@@ -9188,6 +9240,12 @@
         "link": "https://youtu.be/vwUnMEMnnPQ?si=pCwZaJTx5lx-2f8i",
         "percent": 100,
         "user": "Sharkified"
+      },
+           {
+        "hz": 720,
+        "link": " https://www.youtube.com/watch?v=L1QClMHg9MY",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -24888,6 +24946,12 @@
         "link": "https://www.youtube.com/watch?v=gj0julIo4eM",
         "percent": 100,
         "user": "ItzApex"
+      },
+          {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=xKIRIrryaBo",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -25047,6 +25111,12 @@
         "link": "https://youtu.be/RToruubcFnA?si=WOsV32a0jVelYSER",
         "percent": 100,
         "user": "Sharkified"
+      },
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=m-m1jdCsJ6s",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -30698,6 +30768,12 @@
         "link": "https://www.youtube.com/watch?v=znA3uDySFrE",
         "percent": 100,
         "user": "[KLØ] Luna"
+      },
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -40460,7 +40536,14 @@
   },
   "Widestep": {
     "percentToQualify": 69,
-    "records": [],
+    "records": [
+          {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=mJyJQo5muKk",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=TN8fHN_XV3o",
       "verifier": "Demishio"
