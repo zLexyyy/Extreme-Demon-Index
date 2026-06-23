@@ -36732,6 +36732,12 @@
         "link": "https://youtu.be/Sa7OvejWPnk",
         "percent": 100,
         "user": "Adhafera"
+      },
+          {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=rZNz7JebQTY",
+        "percent": 100,
+        "user": "lanx"
       }
     ],
     "verifier": {
@@ -36813,7 +36819,14 @@
   },
   "The Salt Factory": {
     "percentToQualify": 69,
-    "records": [],
+    "records": [
+           {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=ehwVQFTsJSM",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=lQ7M-Sgov24",
       "verifier": "Nickname"
@@ -45427,7 +45440,14 @@
   },
   "walter white": {
     "percentToQualify": 65,
-    "records": [],
+    "records": [
+          {
+        "hz": 720,
+        "link": "https://www.youtube.com/watch?v=oGVsdYed8JI",
+        "percent": 100,
+        "user": "lanx"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
       "verifier": "iIiLaSeRiIi"
