@@ -3077,7 +3077,7 @@
       "verifier": "combi"
     }
   },
-  "Artificial Ascent (Old)": {
+  "Artificial Ascent (True Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -10923,7 +10923,7 @@
       "verifier": "skzyl"
     }
   },
-  "Delta Interface (Old)": {
+  "Delta Interface (True Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
