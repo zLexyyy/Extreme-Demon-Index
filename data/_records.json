@@ -47561,6 +47561,12 @@
         "link": "https://youtu.be/_iA3Zif8W8s",
         "percent": 100,
         "user": "Lemniks"
+      },
+        {
+        "hz": 360,
+        "link": "https://youtu.be/RugN52LpRjs",
+        "percent": 100,
+        "user": "r1m2"
       }
     ],
     "verifier": {
@@ -48570,7 +48576,14 @@
     "percentToQualify": 66
   },
   "BRUTAL": {
-    "records": [],
+    "records": [
+        {
+        "hz": 360,
+        "link": "https://youtu.be/rgBP0cpkLYk",
+        "percent": 100,
+        "user": "r1m2"
+      }
+    ],
     "verifier": {
       "verifier": "airless",
       "verification": "https://www.youtube.com/watch?v=y7aMuCOwjiI"
