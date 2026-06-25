@@ -1472,6 +1472,12 @@
         "link": "https://www.youtube.com/watch?v=X5Y6aDMkZT0",
         "percent": 100,
         "user": "Matthew081510"
+      },
+      {
+        "hz": "240",
+        "link": "https://youtu.be/n4SpD1fH_jE",
+        "percent": 100,
+        "user": "Necrozma"
       }
     ],
     "verifier": {
@@ -3424,6 +3430,12 @@
         "link": "https://www.youtube.com/watch?v=9aaCIpYU3UU",
         "percent": 100,
         "user": "Raimby"
+      },
+      {
+        "hz": "60",
+        "link": "https://www.youtube.com/watch?v=b9lWU0-Kxf0",
+        "percent": 100,
+        "user": "MythicalWrath"
       }
     ],
     "verifier": {
@@ -7549,6 +7561,12 @@
         "link": "https://youtu.be/DS3uZ5BotyA",
         "percent": 100,
         "user": "SliderBreaksGMD"
+      },
+      {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=QQGAhGXB6BE",
+        "percent": 100,
+        "user": "Puremidnight"
       }
     ],
     "verifier": {
@@ -23101,6 +23119,12 @@
         "link": "https://youtu.be/7k3cP9Vr2sM?si=IzKLYSlATYrPgEhe",
         "percent": 100,
         "user": "MiRPacK19"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=19Cww_9eWWc",
+        "percent": 100,
+        "user": "Puremidnight"
       }
     ],
     "verifier": {
@@ -29409,7 +29433,14 @@
   },
   "SHIP": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/uRlp93D5gi0",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=eRWnopJUqxc",
       "verifier": "Lucidium"
