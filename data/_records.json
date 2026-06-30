@@ -175,7 +175,14 @@
   },
   "2 1 1": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": 240,
+        "link": "https://youtu.be/-uv9VPlmCgw",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=bFQIzKb1as0",
       "verifier": "SrGuillester"
@@ -1808,7 +1815,14 @@
   },
   "Aesthetic": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+           {
+        "hz": 240,
+        "link": "https://youtu.be/ZouSa8O5Ruk",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=k6g6LePjU5c",
       "verifier": "Rainstorm"
@@ -2539,6 +2553,12 @@
         "link": "https://youtu.be/ifNYZXtoPys?si=A8f7wzfGuUm79BUC",
         "percent": 100,
         "user": "MeatballMoose"
+      },
+         {
+        "hz": 240,
+        "link": "https://youtu.be/E3gYXk41F_4",
+        "percent": 100,
+        "user": "Alanmalpa"
       }
     ],
     "verifier": {
@@ -10940,6 +10960,12 @@
         "link": "https://www.youtube.com/watch?v=bBQ6pUjOlDs",
         "percent": 100,
         "user": "kas ia"
+      },
+           {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=iJm9irNJfpc",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -31239,7 +31265,14 @@
   },
   "Shitty CHROMA II (Asteria)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": 240,
+        "link": "https://youtu.be/oNHhTWA1GiI",
+        "percent": 100,
+        "user": "Lemniks"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=dREJlJMJqX4",
       "verifier": "LBoke"
@@ -41906,7 +41939,14 @@
   },
   "cloud": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": 240,
+        "link": "https://youtu.be/a2WdtVBBj9Q",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=PWX6OevHu9g",
       "verifier": "crusso"
@@ -43435,6 +43475,12 @@
         "link": "https://www.youtube.com/watch?v=X6FALQklaRY",
         "percent": 100,
         "user": "kas ia"
+      },
+            {
+        "hz": 240,
+        "link": "https://youtu.be/UZ4oQIyQIh0",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
