@@ -49276,7 +49276,19 @@
     "percentToQualify": 66
   },
   "Elite Z Rebirth (2P)": {
-    "records": []
+    "records": [
+      {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=sQBIVPCa8AE",
+        "percent": 100,
+        "user": "miaxynia"
+      }
+    ],
+    "verifier": {
+      "verifier": "Camilleden",
+      "verification": "https://www.youtube.com/watch?v=sQBIVPCa8AE"
+    },
+    "percentToQualify": 66
   },
   "Just DANCE (Old)": {
     "records": [],
