@@ -7761,7 +7761,14 @@
   },
   "Celestial Showdown": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+            {
+        "hz": 240,
+        "link": "https://youtu.be/uJq2YSkdSZg?si=vstfwDUsYmfNFY0D",
+        "percent": 100,
+        "user": "Slopes"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=i-iX1jzrMgU",
       "verifier": "Gelforce"
@@ -16246,6 +16253,12 @@
         "link": "https://youtu.be/idmLrpg5gwE?si=G1zWIWLjvTUFB-1a",
         "percent": 100,
         "user": "haimdavid8888"
+      },
+           {
+        "hz": 240,
+        "link": "https://youtu.be/hwTibcQOgck",
+        "percent": 100,
+        "user": "Slopes"
       }
     ],
     "verifier": {
@@ -27563,6 +27576,12 @@
         "link": "https://www.youtube.com/watch?v=LDxzEuUTvRg",
         "percent": 100,
         "user": "kas ia"
+      },
+         {
+        "hz": 240,
+        "link": "https://youtu.be/nSauhR1O0lo",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -38003,6 +38022,12 @@
         "link": "https://youtu.be/qmCqItNKojs",
         "percent": 100,
         "user": "Lemniks"
+      },
+          {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=m0hrB0sCGGU",
+        "percent": 100,
+        "user": "koiasana"
       }
     ],
     "verifier": {
