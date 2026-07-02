@@ -4118,7 +4118,7 @@
         "link": "https://youtu.be/wrcE3olDAXc?si=JV5gXlcxEw5Dl4M3",
         "percent": 100,
         "user": "! p4n"
-        }
+      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=yQRMhKruCPw",
@@ -4921,7 +4921,7 @@
         "percent": 100,
         "user": "Adhafera"
       },
-            {
+      {
         "hz": "240",
         "link": "https://youtu.be/geSO-kKjQb0?si=4KK_G5pm6PphURUd",
         "percent": 100,
@@ -7762,7 +7762,7 @@
   "Celestial Showdown": {
     "percentToQualify": 66,
     "records": [
-            {
+      {
         "hz": 240,
         "link": "https://youtu.be/uJq2YSkdSZg?si=vstfwDUsYmfNFY0D",
         "percent": 100,
@@ -16254,7 +16254,7 @@
         "percent": 100,
         "user": "haimdavid8888"
       },
-           {
+      {
         "hz": 240,
         "link": "https://youtu.be/hwTibcQOgck",
         "percent": 100,
@@ -27577,7 +27577,7 @@
         "percent": 100,
         "user": "kas ia"
       },
-         {
+      {
         "hz": 240,
         "link": "https://youtu.be/nSauhR1O0lo",
         "percent": 100,
@@ -35286,7 +35286,7 @@
         "percent": 100,
         "user": "r1m2"
       },
-              {
+      {
         "hz": "240",
         "link": "https://youtu.be/gq3FySdJK5E?si=tuvn1bbp4uTP_cGs",
         "percent": 100,
@@ -37540,7 +37540,7 @@
         "link": "https://youtu.be/Pxl9_T5qgkQ",
         "percent": 100,
         "user": "shafikdabest"
-      }   
+      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=djPTTc2vTd4",
@@ -38023,7 +38023,7 @@
         "percent": 100,
         "user": "Lemniks"
       },
-          {
+      {
         "hz": 240,
         "link": "https://www.youtube.com/watch?v=m0hrB0sCGGU",
         "percent": 100,
@@ -45376,12 +45376,12 @@
         "percent": 100,
         "user": "Matthew081510"
       },
-   {
+      {
         "hz": "120",
         "link": "https://youtu.be/gr1TcnBwZn0?si=Dfm1tnQmz1QmBkrS",
         "percent": 100,
         "user": "! p4n"
-        }
+      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=eqYr6MLwJE4",
@@ -49440,6 +49440,30 @@
     "verifier": {
       "verifier": "Stkr",
       "verification": "https://www.youtube.com/watch?v=Jnzdbm9Za0Q"
+    },
+    "percentToQualify": 66
+  },
+  "Magic": {
+    "records": [],
+    "verifier": {
+      "verifier": "nac",
+      "verification": "https://www.youtube.com/watch?v=clkSCIpOiZQ"
+    },
+    "percentToQualify": 66
+  },
+  "Astrion": {
+    "records": [],
+    "verifier": {
+      "verifier": "Whim",
+      "verification": "https://www.youtube.com/watch?v=YO8qvEjbaxc"
+    },
+    "percentToQualify": 66
+  },
+  "SEVENTY SEVEN": {
+    "records": [],
+    "verifier": {
+      "verifier": "nilscoef",
+      "verification": "https://www.youtube.com/watch?v=D-CSfC1BnVY"
     },
     "percentToQualify": 66
   }
