@@ -8936,6 +8936,12 @@
         "link": "https://youtu.be/afS52Swr-pQ",
         "percent": 100,
         "user": "Necrozma"
+      },
+         {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=1XZLIx3nVcQ",
+        "percent": 100,
+        "user": "shafikdabest"
       }
     ],
     "verifier": {
@@ -18267,7 +18273,14 @@
   },
   "Hyperchaos": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": 240,
+        "link": "https://youtu.be/NB1pC8zq_SI",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=LJ0yJWzNt8c",
       "verifier": "ArtsiBurn"
@@ -23600,6 +23613,12 @@
         "link": "https://www.youtube.com/watch?v=qXvWOCEi888",
         "percent": 100,
         "user": "ItzApex"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/0hPUhclOrGg",
+        "percent": 100,
+        "user": "Matthew081510"
       }
     ],
     "verifier": {
@@ -38511,6 +38530,12 @@
         "link": "https://www.youtube.com/watch?v=X2Q7HzZWYPI",
         "percent": 100,
         "user": "BlueGamer"
+      },
+        {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=daV6dg8X7i0",
+        "percent": 100,
+        "user": "Lemniks"
       }
     ],
     "verifier": {
@@ -42890,7 +42915,14 @@
   },
   "iceland": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=PSKba3hvshI",
+        "percent": 100,
+        "user": "Tucosifo"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=_sIsJOiUyvs",
       "verifier": "Tabbi"
@@ -47635,7 +47667,14 @@
     "percentToQualify": 66
   },
   "No Survivors": {
-    "records": [],
+    "records": [
+            {
+        "hz": 240,
+        "link": "https://youtu.be/JxyXvujBgD0?si=-lNu-NJSRt-BFfvD",
+        "percent": 100,
+        "user": "Lemniks"
+      }
+    ],
     "verifier": {
       "verifier": "Fawxu",
       "verification": "https://www.youtube.com/watch?v=RRfJY8-Xa2c"
