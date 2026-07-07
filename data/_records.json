@@ -38530,6 +38530,12 @@
         "link": "https://www.youtube.com/watch?v=X2Q7HzZWYPI",
         "percent": 100,
         "user": "BlueGamer"
+      },
+        {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=daV6dg8X7i0",
+        "percent": 100,
+        "user": "Lemniks"
       }
     ],
     "verifier": {
@@ -42909,7 +42915,14 @@
   },
   "iceland": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=PSKba3hvshI",
+        "percent": 100,
+        "user": "Tucosifo"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=_sIsJOiUyvs",
       "verifier": "Tabbi"
