@@ -173,7 +173,14 @@
  },
  "2 0 1 3": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": "360",
+    "link": "https://youtu.be/sz-wq2ktL4A",
+    "percent": 100,
+    "user": "Lanii"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=dXlgTJQbQH0",
    "verifier": "TheAhiyu"
@@ -4932,7 +4939,14 @@
  },
  "Battle Of The Shades (Phase 3)": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+    {
+    "hz": "240",
+    "link": "https://www.youtube.com/watch?v=wdNbbzSArl4",
+    "percent": 100,
+    "user": "Matthew081510"
+   }
+   ],
   "verifier": {
    "verification": "https://youtu.be/uI32lsFq7bI",
    "verifier": "ColorBolt"
@@ -5824,6 +5838,18 @@
     "link": "https://youtu.be/wTW9q7gkLTE?si=i0ZZ3bOoJ_jyIYNV",
     "percent": 100,
     "user": "Matthew081510"
+   },
+   {
+    "hz": "360",
+    "link": "https://www.youtube.com/watch?v=zFtdVsbxWV4",
+    "percent": 100,
+    "user": "Lanii"
+   },
+    {
+    "hz": "360",
+    "link": "https://www.youtube.com/watch?v=fwm-XiAF4Fc",
+    "percent": 100,
+    "user": "BlueGamer"
    }
   ],
   "verifier": {
@@ -14684,7 +14710,13 @@
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=n07hQ7JmhgQ",
    "verifier": "Spamdrew128"
-  }
+  },
+   {
+    "hz": "240",
+    "link": "https://youtu.be/s1jff7Ogtus",
+    "percent": 100,
+    "user": "Adhafera"
+   }
  },
  "Farthest Outpost (Old)": {
   "percentToQualify": 72,
@@ -15224,7 +15256,13 @@
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=uDFsNMHNnLw",
    "verifier": "Nerhy"
-  }
+  },
+   {
+    "hz": "240",
+    "link": "https://youtu.be/E6YI-wciz8o",
+    "percent": 100,
+    "user": "Adhafera"
+   }
  },
  "Fog": {
   "percentToQualify": 72,
@@ -15381,6 +15419,12 @@
     "link": "https://www.youtube.com/watch?v=lsBdCG402Do",
     "percent": 100,
     "user": "Lanii"
+   },
+   {
+    "hz": "360",
+    "link": "https://www.youtube.com/watch?v=upP3liGEKok",
+    "percent": 100,
+    "user": "Musgo88"
    }
   ],
   "verifier": {
@@ -16411,7 +16455,14 @@
  },
  "Gangnamhouse": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": "360",
+    "link": "https://youtu.be/guAykQmXtAs",
+    "percent": 100,
+    "user": "Lanii"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=pG4vrQ9ulqw",
    "verifier": "ItzDoVi"
@@ -17340,7 +17391,14 @@
  },
  "HACKER": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": "360",
+    "link": "https://youtu.be/RJWS0nZ0pXE",
+    "percent": 100,
+    "user": "Lanii"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=-ujVxjxuQMU",
    "verifier": "s3batr0nic"
@@ -19206,6 +19264,12 @@
     "link": "https://www.youtube.com/watch?v=d3gJtmlV1-U",
     "percent": 100,
     "user": "Adhafera"
+   },
+   {
+    "hz": "240",
+    "link": "https://youtu.be/awyzyhZtryg",
+    "percent": 100,
+    "user": "Lemniks"
    }
   ],
   "verifier": {
@@ -25099,7 +25163,14 @@
  },
  "O0o": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": "360",
+    "link": "https://youtu.be/-5pq2-OIfDU",
+    "percent": 100,
+    "user": "Lanii"
+   }
+ ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=jFaxWaoPo5I",
    "verifier": "kas ia"
@@ -27767,6 +27838,12 @@
     "link": "https://youtu.be/dD9Y8gW-QG4?si=1mzlUgYV62X32qBn",
     "percent": 100,
     "user": "shafikdabest"
+   },
+   {
+    "hz": "360",
+    "link": "https://youtu.be/ddFO-Euqizw",
+    "percent": 100,
+    "user": "Lanii"
    }
   ],
   "verifier": {
@@ -28541,7 +28618,14 @@
  },
  "ReallyDeadlyClubStep": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": "360",
+    "link": "https://youtu.be/cimVxAKTsxY",
+    "percent": 100,
+    "user": "Lanii"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=fx_nUrDFWhA",
    "verifier": "Tucosifo"
@@ -29175,6 +29259,12 @@
     "link": "https://www.youtube.com/watch?v=sXsBr6cIDEs",
     "percent": 100,
     "user": "Tucosifo"
+   },
+   {
+    "hz": "360",
+    "link": "https://youtu.be/HpevpAZz7Mg",
+    "percent": 100,
+    "user": "Lanii"
    }
   ],
   "verifier": {
@@ -33331,6 +33421,12 @@
     "link": "https://www.youtube.com/watch?v=4JJE5khgnq4",
     "percent": 100,
     "user": "Tucosifo"
+   },
+   {
+    "hz": "360",
+    "link": "https://youtu.be/iBvKwS-Kkh4",
+    "percent": 100,
+    "user": "Lanii"
    }
   ],
   "verifier": {
@@ -38112,6 +38208,12 @@
     "link": "https://youtu.be/LvM3DZQfFms?si=cznkUD9XF5DSotOp",
     "percent": 100,
     "user": "Dylanadv"
+   },
+   {
+    "hz": 240,
+    "link": "https://www.youtube.com/watch?v=bkq4FkhKxtE",
+    "percent": 100,
+    "user": "Lemniks"
    }
   ],
   "verifier": {
@@ -44258,6 +44360,12 @@
     "link": "https://www.youtube.com/watch?v=Cao8OrJbNmY",
     "percent": 100,
     "user": "Lanii"
+   },
+   {
+    "hz": "120",
+    "link": "https://www.youtube.com/watch?v=y1WVzXftOT8",
+    "percent": 100,
+    "user": "Puremidnight"
    }
   ],
   "verifier": {
@@ -49262,6 +49370,12 @@
     "link": "https://www.youtube.com/watch?v=hwTKD6zOdpA",
     "percent": 100,
     "user": "Lanii"
+   },
+   {
+    "hz": "240",
+    "link": "https://youtu.be/FaOLo7tjz9U",
+    "percent": 100,
+    "user": "Necrozma"
    }
   ],
   "verifier": {
@@ -49958,7 +50072,14 @@
   "percentToQualify": 66
  },
  "boobabow": {
-  "records": [],
+  "records": [
+       {
+    "hz": "720",
+    "link": "https://www.youtube.com/watch?v=LgQ1tV2UzX4",
+    "percent": 100,
+    "user": "nettniko"
+   }
+  ],
   "verifier": {
    "verifier": "spectrum",
    "verification": "https://youtu.be/FvpDXKckLD0?si=IqHefYy9PenQwYCJ"
