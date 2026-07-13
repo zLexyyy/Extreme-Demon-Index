@@ -14706,17 +14706,18 @@
  },
  "Farthest Outpost": {
   "percentToQualify": 66,
-  "records": [],
-  "verifier": {
-   "verification": "https://www.youtube.com/watch?v=n07hQ7JmhgQ",
-   "verifier": "Spamdrew128"
-  },
-   {
+  "records": [
+    {
     "hz": "240",
     "link": "https://youtu.be/s1jff7Ogtus",
     "percent": 100,
     "user": "Adhafera"
    }
+   ],
+  "verifier": {
+   "verification": "https://www.youtube.com/watch?v=n07hQ7JmhgQ",
+   "verifier": "Spamdrew128"
+  },
  },
  "Farthest Outpost (Old)": {
   "percentToQualify": 72,
@@ -15252,17 +15253,18 @@
  },
  "Flyway": {
   "percentToQualify": 66,
-  "records": [],
-  "verifier": {
-   "verification": "https://www.youtube.com/watch?v=uDFsNMHNnLw",
-   "verifier": "Nerhy"
-  },
-   {
+  "records": [
+    {
     "hz": "240",
     "link": "https://youtu.be/E6YI-wciz8o",
     "percent": 100,
     "user": "Adhafera"
    }
+  ],
+  "verifier": {
+   "verification": "https://www.youtube.com/watch?v=uDFsNMHNnLw",
+   "verifier": "Nerhy"
+  },
  },
  "Fog": {
   "percentToQualify": 72,
