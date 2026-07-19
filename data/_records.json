@@ -21608,7 +21608,14 @@
  },
  "Lilac Acu Map": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+          {
+     "hz": 144,
+     "link": "https://youtu.be/9rVb5opnsFA",
+     "percent": 100,
+     "user": "Meatballmoose"
+    }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=B3uOMgmFy8s",
    "verifier": "ddlghl"
@@ -26191,12 +26198,6 @@
   "Lilac Acu Map": {
    "percentToQualify": 66,
    "records": [
-    {
-     "hz": "144",
-     "link": "https://youtu.be/9rVb5opnsFA",
-     "percent": 100,
-     "user": "Meatballmoose"
-    }
    ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=B3uOMgmFy8s",
