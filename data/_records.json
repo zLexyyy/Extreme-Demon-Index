@@ -6273,7 +6273,7 @@
       "verifier": "Sid125"
     }
   },
-  "Bonfire": {
+  "Bonfire (Xaldz)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -20337,7 +20337,7 @@
         "percent": 100,
         "user": "maxler"
       },
-            {
+      {
         "hz": "240",
         "link": "https://youtu.be/NMhriHgJgLI",
         "percent": 100,
@@ -26014,7 +26014,7 @@
         "percent": 100,
         "user": "lanx"
       },
-         {
+      {
         "hz": 720,
         "link": "https://www.youtube.com/watch?v=j_V2OB8XdiU&t=328s",
         "percent": 100,
@@ -36379,7 +36379,7 @@
         "percent": 100,
         "user": "liono"
       },
-          {
+      {
         "hz": "240",
         "link": "https://www.youtube.com/watch?v=aPctBjN5RDY&",
         "percent": 100,
@@ -39711,7 +39711,7 @@
       "verifier": "Sunix"
     }
   },
-  "ULTIMATE DESTRUCTION": {
+  "ULTIMATE DESTRUCTION (ivyteal)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -51981,6 +51981,118 @@
     "verifier": {
       "verifier": "Mewtwo557",
       "verification": "https://www.youtube.com/watch?v=tTc3OrtZRrQ"
+    },
+    "percentToQualify": 66
+  },
+  "Bonfire (Jakalope)": {
+    "records": [],
+    "verifier": {
+      "verifier": "vvay",
+      "verification": "https://www.youtube.com/watch?v=7ZFoCGqCq3Y"
+    },
+    "percentToQualify": 66
+  },
+  "Sacrifice": {
+    "records": [],
+    "verifier": {
+      "verifier": "Laniakea",
+      "verification": "https://www.youtube.com/watch?v=Sth67PA8XBU"
+    },
+    "percentToQualify": 66
+  },
+  "Ari Om": {
+    "records": [],
+    "verifier": {
+      "verifier": "Knicide",
+      "verification": "https://www.youtube.com/watch?v=63IWDGs6paM"
+    },
+    "percentToQualify": 66
+  },
+  "VIPER": {
+    "records": [],
+    "verifier": {
+      "verifier": "fusion425",
+      "verification": "https://www.youtube.com/watch?v=xDpl8MueK0U"
+    },
+    "percentToQualify": 66
+  },
+  "wrong out there": {
+    "records": [],
+    "verifier": {
+      "verifier": "kyubd",
+      "verification": "https://www.youtube.com/watch?v=k5mPsKirSPw"
+    },
+    "percentToQualify": 66
+  },
+  "Radiant Activation": {
+    "records": [],
+    "verifier": {
+      "verifier": "Spamdrew128",
+      "verification": "https://www.youtube.com/watch?v=VokARWahj8Y"
+    },
+    "percentToQualify": 66
+  },
+  "D4RK": {
+    "records": [],
+    "verifier": {
+      "verifier": "firemaster2468",
+      "verification": "https://www.youtube.com/watch?v=7GgansQYap8"
+    },
+    "percentToQualify": 66
+  },
+  "Come Home": {
+    "records": [],
+    "verifier": {
+      "verifier": "Enfur",
+      "verification": "https://www.youtube.com/watch?v=Ru8QfNDW4LU"
+    },
+    "percentToQualify": 66
+  },
+  "Distinct Finale": {
+    "records": [],
+    "verifier": {
+      "verifier": "HelliXScream",
+      "verification": "https://www.youtube.com/watch?v=RpCfR3-HmLQ"
+    },
+    "percentToQualify": 66
+  },
+  "retrophonic": {
+    "records": [],
+    "verifier": {
+      "verifier": "deactive",
+      "verification": "https://www.youtube.com/watch?v=pxmhOymb7Fw"
+    },
+    "percentToQualify": 66
+  },
+  "AMPLIFY": {
+    "records": [],
+    "verifier": {
+      "verifier": "HawkPiggyPig",
+      "verification": "https://www.youtube.com/watch?v=gmMLy6sI3MY"
+    },
+    "percentToQualify": 66
+  },
+  "FULLPOWER": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pericolo",
+      "verification": "https://www.youtube.com/watch?v=XlVl5v5U60I"
+    },
+    "percentToQualify": 66
+  },
+  "Ultimate Destruction (Soto205)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Soto205",
+      "verification": "https://www.youtube.com/watch?v=tSoR2Qolz-o"
+    },
+    "percentToQualify": 66
+  },
+  "Destruction of God": {
+    "records": [],
+    "verifier": {
+      "verifier": "Dorami",
+      "verification": "https://www.youtube.com/watch?v=lurvDdARrQE"
     },
     "percentToQualify": 66
   }
