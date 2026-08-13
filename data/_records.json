@@ -9143,7 +9143,7 @@
       "verifier": "Browar"
     }
   },
-  "ConFusion": {
+  "ConFusion (DreamZoneGD)": {
     "percentToQualify": 66,
     "records": [
       {
@@ -52093,6 +52093,166 @@
     "verifier": {
       "verifier": "Dorami",
       "verification": "https://www.youtube.com/watch?v=lurvDdARrQE"
+    },
+    "percentToQualify": 66
+  },
+  "Wild Roses": {
+    "records": [],
+    "verifier": {
+      "verifier": "TheShadowRealm",
+      "verification": "https://www.youtube.com/watch?v=MnOSbQQV_wA"
+    },
+    "percentToQualify": 66
+  },
+  "genius wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "TRIXICIDAL",
+      "verification": "https://www.youtube.com/watch?v=IerMDheXV7Y"
+    },
+    "percentToQualify": 66
+  },
+  "Confusion (ddrr0077)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://youtu.be/iNUbSZJ9jbY"
+    },
+    "percentToQualify": 66
+  },
+  "DOUBLE DYNAMO (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Whizkid05",
+      "verification": "https://www.youtube.com/watch?v=_5DDOxkhBhI"
+    },
+    "percentToQualify": 66
+  },
+  "Eternal Star": {
+    "records": [],
+    "verifier": {
+      "verifier": "FORMM",
+      "verification": "https://www.youtube.com/watch?v=Rds-Ja-H2oc"
+    },
+    "percentToQualify": 66
+  },
+  "Babushka vortex": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cinasek",
+      "verification": "https://www.youtube.com/watch?v=RGN00ZULz_o"
+    },
+    "percentToQualify": 66
+  },
+  "echxvoid": {
+    "records": [],
+    "verifier": {
+      "verifier": "teraaa",
+      "verification": "https://www.youtube.com/watch?v=mUvxoFmFGkc"
+    },
+    "percentToQualify": 66
+  },
+  "Iron Brainrot": {
+    "records": [],
+    "verifier": {
+      "verifier": "LaveWave",
+      "verification": "https://www.youtube.com/watch?v=ebnISkMta1E"
+    },
+    "percentToQualify": 66
+  },
+  "Unnamed 11": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lunikay",
+      "verification": "https://www.youtube.com/watch?v=gjC4fc_jlMc"
+    },
+    "percentToQualify": 66
+  },
+  "Aphelion": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mathey",
+      "verification": "https://www.youtube.com/watch?v=h-Z0rAZ47Zs"
+    },
+    "percentToQualify": 66
+  },
+  "time dilation": {
+    "records": [],
+    "verifier": {
+      "verifier": "shmigels",
+      "verification": "https://www.youtube.com/watch?v=PRW9_3nPfIg"
+    },
+    "percentToQualify": 66
+  },
+  "Coherence Zero": {
+    "records": [],
+    "verifier": {
+      "verifier": "Arkd0n",
+      "verification": "https://www.youtube.com/watch?v=0st5aJM-Amg"
+    },
+    "percentToQualify": 66
+  },
+  "The Hell Union (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mewtwo557",
+      "verification": "https://www.youtube.com/watch?v=WI8FqmrCTV0"
+    },
+    "percentToQualify": 66
+  },
+  "The Hell Union": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mewtwo557",
+      "verification": "https://www.youtube.com/watch?v=WI8FqmrCTV0"
+    },
+    "percentToQualify": 66
+  },
+  "Shitty The Art of the Blade": {
+    "records": [],
+    "verifier": {
+      "verifier": "Athani",
+      "verification": "https://www.youtube.com/watch?v=SOXW4tI2MU8"
+    },
+    "percentToQualify": 66
+  },
+  "MAINSTREAM": {
+    "records": [],
+    "verifier": {
+      "verifier": "cnnrs",
+      "verification": "https://www.youtube.com/watch?v=l4xo7NHBBmE"
+    },
+    "percentToQualify": 66
+  },
+  "TAEYEOEENOS": {
+    "records": [],
+    "verifier": {
+      "verifier": "TaeYeoEe",
+      "verification": "https://www.youtube.com/watch?v=UnRd-sjTKmY"
+    },
+    "percentToQualify": 66
+  },
+  "Parallel Theory": {
+    "records": [],
+    "verifier": {
+      "verifier": "키높이",
+      "verification": "https://www.youtube.com/watch?v=3qY9P9XVdls"
+    },
+    "percentToQualify": 66
+  },
+  "Solargeist": {
+    "records": [],
+    "verifier": {
+      "verifier": "CaptainRubiks",
+      "verification": "https://youtu.be/DsgjKReCg7c"
+    },
+    "percentToQualify": 66
+  },
+  "teleport processing": {
+    "records": [],
+    "verifier": {
+      "verifier": "nifty",
+      "verification": "https://www.youtube.com/watch?v=60BBQ3OB40o"
     },
     "percentToQualify": 66
   }
