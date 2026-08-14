@@ -45542,7 +45542,14 @@
   },
   "niwa (Unnerfed)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=Ei3rZa4ydSQ",
+        "percent": 100,
+        "user": "florzzz"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=V-RXf4PwKRo",
       "verifier": "nicor77"
@@ -51670,7 +51677,14 @@
     "percentToQualify": 66
   },
   "Click Between Worlds": {
-    "records": [],
+    "records": [
+         {
+        "hz": "240",
+        "link": "https://youtu.be/wKhWY8ZToB4",
+        "percent": 100,
+        "user": "Matthew081510"
+      }
+    ],
     "verifier": {
       "verifier": "Somie",
       "verification": "https://www.youtube.com/watch?v=fHfI0aITgHk"
