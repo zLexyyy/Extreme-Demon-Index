@@ -4451,6 +4451,12 @@
         "link": "https://www.youtube.com/watch?v=FQlMyE0j9XU",
         "percent": 100,
         "user": "kas ia"
+      },
+           {
+        "hz": 240,
+        "link": "https://youtu.be/39ra1AfiBLo",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -6129,6 +6135,12 @@
         "link": "https://youtu.be/_1e1SyTxCMI",
         "percent": 100,
         "user": "otter!"
+      },
+         {
+        "hz": 60,
+        "link": "https://youtu.be/EWHoc4eLt8U?is=WcOvx_oY1f9-fvq3",
+        "percent": 100,
+        "user": "Atmos"
       }
     ],
     "verifier": {
@@ -8892,7 +8904,14 @@
   },
   "Cobalt Hell": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://youtu.be/OPHhzwOt7Ic",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=Xe-O9eGH5Yk",
       "verifier": "RedMatrix"
@@ -21829,7 +21848,14 @@
   },
   "Lateral Myst": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": 240,
+        "link": "https://youtu.be/x-PLuVwCVCQ",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=BC3dFTJTRqc",
       "verifier": "Extravagon"
@@ -26116,7 +26142,14 @@
   },
   "OVERKILL": {
     "percentToQualify": 54,
-    "records": [],
+    "records": [
+        {
+        "hz": 288,
+        "link": "https://youtu.be/1OwMLUrHTJw",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=aBDP_9-Sm-w",
       "verifier": "Galaxxyss"
