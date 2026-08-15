@@ -3536,6 +3536,12 @@
         "link": "https://www.youtube.com/watch?v=T6CXSMFHNjI",
         "percent": 100,
         "user": "kas ia"
+      },
+         {
+        "hz": 240,
+        "link": "https://youtu.be/N84Ru6wHXvQ",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -9356,6 +9362,12 @@
         "link": "https://www.youtube.com/watch?v=jc_3XSPfbeU",
         "percent": 100,
         "user": "aivan"
+      },
+         {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=xsW-3eNc3lw",
+        "percent": 100,
+        "user": "Alanmalpa"
       }
     ],
     "verifier": {
@@ -14522,7 +14534,14 @@
   },
   "FALLING": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=Z_Y5RrJcMY4",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=yTPW-6igpJQ",
       "verifier": "qalli"
@@ -15341,6 +15360,12 @@
         "link": "https://youtu.be/F5UXjrBXPFw?si=nLCwn16NtMWpLaZz",
         "percent": 100,
         "user": "samoletik"
+      },
+        {
+        "hz": "240",
+        "link": "https://youtu.be/pdTwz5Yx3AM",
+        "percent": 100,
+        "user": "Matthew081510"
       }
     ],
     "verifier": {
@@ -23123,7 +23148,14 @@
   },
   "Marching Band": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://youtu.be/9eYtLLXNQ0Q?si=xso670kUGlsTsdxv",
+        "percent": 100,
+        "user": "shafikdabest"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=8KDKuZUdsW0",
       "verifier": "Sdslayer"
@@ -52031,7 +52063,14 @@
     "percentToQualify": 66
   },
   "horse paracosm III": {
-    "records": [],
+    "records": [
+         {
+        "hz": "240",
+        "link": "https://youtu.be/yOFlNA28taU",
+        "percent": 100,
+        "user": "macaca"
+      }
+    ],
     "verifier": {
       "verifier": "majin",
       "verification": "https://youtu.be/k7eXVXD_hw0"
