@@ -27572,12 +27572,6 @@
   "Pinkbath": {
     "percentToQualify": 66,
     "records": [
-          {
-        "hz": 240,
-        "link": "https://www.youtube.com/watch?v=7zbXBwxtWTs",
-        "percent": 100,
-        "user": "aivan"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=TE82yMxRTAw&t=169s",
