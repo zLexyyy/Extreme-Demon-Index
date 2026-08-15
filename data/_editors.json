@@ -31,11 +31,6 @@
     },
     {
         "role": "helper",
-        "name": "MysteriousMercenary",
-        "link": "https://www.youtube.com/@CubePanion"
-    },
-    {
-        "role": "helper",
         "name": "Irreversible",
         "link": "https://youtube.com/@1rr3v3rs1bl3?si=lf4n8FXHzygLFG6g"
     },
@@ -63,6 +58,21 @@
         "role": "helper",
         "name": "Agelio",
         "link": "https://www.youtube.com/channel/UCigeP_5Ygwqe8kSOBC8IxYQ"
+    },
+    {
+        "role": "helper",
+        "name": "Statera",
+        "link": "https://www.youtube.com/channel/UCv78gWGxqWr_UQVm4rX7jyA"
+    },
+    {
+        "role": "helper",
+        "name": "BlueGamer",
+        "link": "https://www.youtube.com/channel/UCB0v3WafsM-LM_9O87p8UHQ"
+    },
+    {
+        "role": "helper",
+        "name": "Simplyx The Fox",
+        "link": ""
     },
     {
         "role": "dev",
