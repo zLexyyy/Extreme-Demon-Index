@@ -34031,7 +34031,7 @@
   "Shitty Wasureta (Xcl0624i)": {
     "percentToQualify": 66,
     "records": [
-           {
+      {
         "hz": "240",
         "link": "https://youtu.be/m3vfwg3pOKU",
         "percent": 100,
@@ -36827,7 +36827,7 @@
         "percent": 100,
         "user": "abbycartridges"
       },
-          {
+      {
         "hz": "240",
         "link": "https://youtu.be/UnUGupNxVEI",
         "percent": 100,
@@ -53028,7 +53028,12 @@
     "percentToQualify": 66
   },
   "SANGUINE": {
-    "records": []
+    "records": [],
+    "verifier": {
+      "verifier": "spookkd",
+      "verification": "https://www.youtube.com/watch?v=cBVlGzobmsA"
+    },
+    "percentToQualify": 66
   },
   "Bang Bang Bang": {
     "records": [],
