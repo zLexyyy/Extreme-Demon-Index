@@ -34030,7 +34030,14 @@
   },
   "Shitty Wasureta (Xcl0624i)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+           {
+        "hz": "240",
+        "link": "https://youtu.be/m3vfwg3pOKU",
+        "percent": 100,
+        "user": "Puremidnight"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=XEKOBEJCW50",
       "verifier": "WDWiktor"
@@ -36819,6 +36826,12 @@
         "link": "https://www.youtube.com/watch?v=aPctBjN5RDY&",
         "percent": 100,
         "user": "abbycartridges"
+      },
+          {
+        "hz": "240",
+        "link": "https://youtu.be/UnUGupNxVEI",
+        "percent": 100,
+        "user": "Puremidnight"
       }
     ],
     "verifier": {
