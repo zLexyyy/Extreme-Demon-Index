@@ -12308,7 +12308,7 @@
       "verifier": "Syrcx"
     }
   },
-  "Distortion": {
+  "Distortion (iamfinley)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -12909,7 +12909,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=CQsy56smO3E",
-      "verifier": "Karma"
+      "verifier": "Karmakaze"
     }
   },
   "ECSTASY (Filqh)": {
@@ -26658,7 +26658,7 @@
       "verifier": "Xavereth"
     }
   },
-  "Overdrive": {
+  "Overdriv (Puueds)": {
     "percentToQualify": 72,
     "records": [],
     "verifier": {
@@ -40875,7 +40875,7 @@
       "verifier": "Blankb"
     }
   },
-  "VOID": {
+  "VOID (nikoberry)": {
     "percentToQualify": 73,
     "records": [],
     "verifier": {
@@ -43423,7 +43423,7 @@
     "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=eqyd78Vwi60",
-      "verifier": "Karma"
+      "verifier": "Karmakaze"
     }
   },
   "any percent": {
@@ -53168,6 +53168,102 @@
     "verifier": {
       "verifier": "Jakalope",
       "verification": "https://www.youtube.com/watch?v=lPbkPVF9GPo"
+    },
+    "percentToQualify": 66
+  },
+  "METROPOLIS": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ascended",
+      "verification": "https://www.youtube.com/watch?v=JtWMtMFdK24"
+    },
+    "percentToQualify": 66
+  },
+  "VOID (eddydo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "veshel",
+      "verification": "https://www.youtube.com/watch?v=uMv8iGVpeCc"
+    },
+    "percentToQualify": 66
+  },
+  "DISTORTION (Ka1sa)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Karmakaze",
+      "verification": "https://www.youtube.com/watch?v=8iSgxah5bJY"
+    },
+    "percentToQualify": 66
+  },
+  "Serenity": {
+    "records": [],
+    "verifier": {
+      "verifier": "OwOPink",
+      "verification": "https://www.youtube.com/watch?v=mQTjLtUVUTM"
+    },
+    "percentToQualify": 66
+  },
+  "Overdrive (Puueds)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lobster",
+      "verification": "https://www.youtube.com/watch?v=lI-OjvY0Fj8"
+    },
+    "percentToQualify": 72
+  },
+  "Poltergeist v666": {
+    "records": [],
+    "verifier": {
+      "verifier": "SeptaGon7",
+      "verification": "https://youtu.be/g6s7JDto2C0"
+    },
+    "percentToQualify": 66
+  },
+  "Rain FULL": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aivan",
+      "verification": "https://www.youtube.com/watch?v=5sBxhjbAWeA"
+    },
+    "percentToQualify": 66
+  },
+  "OVERDRIVE (smango23)": {
+    "records": [],
+    "verifier": {
+      "verifier": "smango23",
+      "verification": "https://www.youtube.com/watch?v=NaFbIUhUz1E"
+    },
+    "percentToQualify": 66
+  },
+  "The End is Here (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Doggie",
+      "verification": "https://www.youtube.com/watch?v=BkNKOsDQuME"
+    },
+    "percentToQualify": 66
+  },
+  "Wild Roses (Old) (LinuDi)": {
+    "records": [],
+    "verifier": {
+      "verifier": "LinuDi",
+      "verification": "https://www.youtube.com/watch?v=3z30hMq96wY"
+    },
+    "percentToQualify": 66
+  },
+  "Wild Roses (Old) (Ariller)": {
+    "records": [],
+    "verifier": {
+      "verifier": "graam",
+      "verification": "https://www.youtube.com/watch?v=VjMOLNRnAh4"
+    },
+    "percentToQualify": 66
+  },
+  "rauchkammer": {
+    "records": [],
+    "verifier": {
+      "verifier": "Devilmine",
+      "verification": "https://www.youtube.com/watch?v=2SVOAQBiOtg"
     },
     "percentToQualify": 66
   }
