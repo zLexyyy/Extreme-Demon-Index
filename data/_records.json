@@ -4611,6 +4611,12 @@
         "link": "https://youtu.be/RsjvRSu3f2w",
         "percent": 100,
         "user": "macaca"
+      },
+            {
+        "hz": 240,
+        "link": "https://youtu.be/Of4duHXc-7Q",
+        "percent": 100,
+        "user": "𝙻𝚞𝚖𝚎𝚗𝚕𝚒𝚗𝚎"
       }
     ],
     "verifier": {
@@ -8088,6 +8094,12 @@
         "link": "https://www.youtube.com/watch?v=BMZ942Kjx3A",
         "percent": 100,
         "user": "Bagel7678"
+      },
+         {
+        "hz": 240,
+        "link": "https://youtu.be/Ua0u5i-74uo",
+        "percent": 100,
+        "user": "𝙻𝚞𝚖𝚎𝚗𝚕𝚒𝚗𝚎"
       }
     ],
     "verifier": {
@@ -17119,6 +17131,12 @@
         "link": "https://youtu.be/RsjvRSu3f2w",
         "percent": 100,
         "user": "macaca"
+      },
+           {
+        "hz": 240,
+        "link": "https://youtu.be/g7P77nJub-Y",
+        "percent": 100,
+        "user": "𝙻𝚞𝚖𝚎𝚗𝚕𝚒𝚗𝚎"
       }
     ],
     "verifier": {
@@ -44503,6 +44521,12 @@
         "link": "https://youtu.be/RsjvRSu3f2w",
         "percent": 100,
         "user": "macaca"
+      },
+             {
+        "hz": 240,
+        "link": "https://youtu.be/LYkLawN-tBU?si=D63oqGONsIaLtvko",
+        "percent": 100,
+        "user": "𝙻𝚞𝚖𝚎𝚗𝚕𝚒𝚗𝚎"
       }
     ],
     "verifier": {
@@ -52348,7 +52372,14 @@
     "percentToQualify": 66
   },
   "Shitty Cataclysm": {
-    "records": [],
+    "records": [
+             {
+        "hz": 240,
+        "link": "https://youtu.be/vuPAs7pcz2o",
+        "percent": 100,
+        "user": "𝙻𝚞𝚖𝚎𝚗𝚕𝚒𝚗𝚎"
+      }
+    ],
     "verifier": {
       "verifier": "Noxces",
       "verification": "https://www.youtube.com/watch?v=T6EkeKl_R1c"
