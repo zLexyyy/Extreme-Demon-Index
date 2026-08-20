@@ -6142,7 +6142,7 @@
         "percent": 100,
         "user": "Atmos"
       },
-         {
+      {
         "hz": 144,
         "link": "https://www.youtube.com/watch?v=nmJQrUNIDDw",
         "percent": 100,
@@ -53270,6 +53270,182 @@
     "verifier": {
       "verifier": "Devilmine",
       "verification": "https://www.youtube.com/watch?v=2SVOAQBiOtg"
+    },
+    "percentToQualify": 66
+  },
+  "Pinnacle of Life": {
+    "records": [],
+    "verifier": {
+      "verifier": "vonic",
+      "verification": "https://www.youtube.com/watch?v=gQl5iY1ekyE"
+    },
+    "percentToQualify": 66
+  },
+  "Prismline": {
+    "records": [],
+    "verifier": {
+      "verifier": "Wain",
+      "verification": "https://www.youtube.com/watch?v=pIHOHz3i0Rw"
+    },
+    "percentToQualify": 66
+  },
+  "OVERSTIMULATED": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tortric",
+      "verification": "https://www.youtube.com/watch?v=KrzDoe6VhgQ"
+    },
+    "percentToQualify": 66
+  },
+  "brete circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "sykaav",
+      "verification": "https://www.youtube.com/watch?v=4cHFqXCCQmw"
+    },
+    "percentToQualify": 66
+  },
+  "Yeoul": {
+    "records": [],
+    "verifier": {
+      "verifier": "9i",
+      "verification": "https://www.youtube.com/watch?v=kYTIGLfqtGk"
+    },
+    "percentToQualify": 66
+  },
+  "Corrupted Illusion": {
+    "records": [],
+    "verifier": {
+      "verifier": "NotHeco",
+      "verification": "https://www.youtube.com/watch?v=Af7fU9cBAeE"
+    },
+    "percentToQualify": 66
+  },
+  "Come in": {
+    "records": [],
+    "verifier": {
+      "verifier": "BABA_GD",
+      "verification": "https://www.youtube.com/watch?v=eAaJtJ3y-2s"
+    },
+    "percentToQualify": 66
+  },
+  "Kane Land 2": {
+    "records": [],
+    "verifier": {
+      "verifier": "Flaminqq",
+      "verification": "https://www.youtube.com/watch?v=pFW2Z7SyyXI"
+    },
+    "percentToQualify": 66
+  },
+  "GLUNGUS QUEST": {
+    "records": [],
+    "verifier": {
+      "verifier": "Conix",
+      "verification": "https://www.youtube.com/watch?v=58KLipjcCnw"
+    },
+    "percentToQualify": 66
+  },
+  "bloodclysm (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "lsdlsdlsdlsd",
+      "verification": "https://www.youtube.com/watch?v=h_h4Q74VXdo"
+    },
+    "percentToQualify": 66
+  },
+  "Dorou": {
+    "records": [],
+    "verifier": {
+      "verifier": "Aivan",
+      "verification": "https://www.youtube.com/watch?v=RwvENRjWIG8"
+    },
+    "percentToQualify": 66
+  },
+  "Gangstas House": {
+    "records": [],
+    "verifier": {
+      "verifier": "TEA",
+      "verification": "https://www.youtube.com/watch?v=6y1TvuMVMOY"
+    },
+    "percentToQualify": 66
+  },
+  "straight of God": {
+    "records": [],
+    "verifier": {
+      "verifier": "InsaneI",
+      "verification": "https://www.youtube.com/watch?v=wQ0EftBOENA"
+    },
+    "percentToQualify": 66
+  },
+  "Alterlocked": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zeronium",
+      "verification": "https://www.youtube.com/watch?v=6EP_bVINf-4"
+    },
+    "percentToQualify": 66
+  },
+  "Lonk Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "Wadur",
+      "verification": "https://youtu.be/p4InKuVn3Io"
+    },
+    "percentToQualify": 66
+  },
+  "Ragebait Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "Maxio35",
+      "verification": "https://www.youtube.com/watch?v=crg1zTiDA9g"
+    },
+    "percentToQualify": 66
+  },
+  "artifacts realm": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ohdangs",
+      "verification": "https://www.youtube.com/watch?v=NIxHJkwgnkQ"
+    },
+    "percentToQualify": 66
+  },
+  "Castle Town (2P)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Smiffy777",
+      "verification": "https://www.youtube.com/watch?v=n_5GbCK4Ls8"
+    },
+    "percentToQualify": 66
+  },
+  "ICE Chaos Hell": {
+    "records": [],
+    "verifier": {
+      "verifier": "royen",
+      "verification": "https://www.youtube.com/watch?v=raS0rI4Usi8"
+    },
+    "percentToQualify": 66
+  },
+  "La Multiverse": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mr Gabe",
+      "verification": "https://www.youtube.com/watch?v=t5OfyxDm4c4"
+    },
+    "percentToQualify": 66
+  },
+  "Golie Blyadi III": {
+    "records": [],
+    "verifier": {
+      "verifier": "FunnySquare",
+      "verification": "https://www.youtube.com/watch?v=-UwB6NjOflE"
+    },
+    "percentToQualify": 66
+  },
+  "Rupture Again": {
+    "records": [],
+    "verifier": {
+      "verifier": "Lanii",
+      "verification": "https://youtu.be/Fer6GhLRzOg?si=l6gq_EkG3Sbo4ksl"
     },
     "percentToQualify": 66
   }
