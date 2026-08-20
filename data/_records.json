@@ -19408,7 +19408,14 @@
   },
   "IGAKU": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+            {
+        "hz": 240,
+        "link": "https://youtu.be/ueUYnY_P57k?si=LAGy8yKX3WlNWevV",
+        "percent": 100,
+        "user": "BananaIgor17"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=QpfZ8bLCg40",
       "verifier": "ReymundoTK"
@@ -50748,6 +50755,12 @@
         "link": "https://www.youtube.com/watch?v=EBQm_88RbKY",
         "percent": 100,
         "user": "Adhafera"
+      },
+            {
+        "hz": 240,
+        "link": "https://youtu.be/SKmFdjY-NOk?si=LWE-dZV2kFNES_fm",
+        "percent": 100,
+        "user": "shafikdabest"
       }
     ],
     "verifier": {
@@ -53260,7 +53273,14 @@
     "percentToQualify": 66
   },
   "rauchkammer": {
-    "records": [],
+    "records": [
+            {
+        "hz": 240,
+        "link": "https://youtu.be/XT1QNPuqZwI?si=4YdX0LV9xHzAccgQ",
+        "percent": 100,
+        "user": "shafikdabest"
+      }
+    ],
     "verifier": {
       "verifier": "Devilmine",
       "verification": "https://www.youtube.com/watch?v=2SVOAQBiOtg"
