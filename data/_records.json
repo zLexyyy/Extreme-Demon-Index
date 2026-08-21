@@ -15005,7 +15005,14 @@
   },
   "Fair Morning": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": 240,
+        "link": "https://youtu.be/TGon0xqxiSE",
+        "percent": 100,
+        "user": "shafikdabest"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=3RbpgVAUYzM",
       "verifier": "exerity"
@@ -53024,7 +53031,14 @@
     "percentToQualify": 66
   },
   "Shitty Silent Silhouette": {
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://youtu.be/IcrXwjtrSaM?si=rkSrPTxmRWVOV1TK&t=189",
+        "percent": 100,
+        "user": "shafikdabest"
+      }
+    ],
     "verifier": {
       "verifier": "Noxces",
       "verification": "https://www.youtube.com/watch?v=BhjKwax4voQ"
