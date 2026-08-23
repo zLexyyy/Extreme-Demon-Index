@@ -4612,7 +4612,7 @@
         "percent": 100,
         "user": "macaca"
       },
-            {
+      {
         "hz": 240,
         "link": "https://youtu.be/Of4duHXc-7Q",
         "percent": 100,
@@ -8095,7 +8095,7 @@
         "percent": 100,
         "user": "Bagel7678"
       },
-         {
+      {
         "hz": 240,
         "link": "https://youtu.be/Ua0u5i-74uo",
         "percent": 100,
@@ -17132,7 +17132,7 @@
         "percent": 100,
         "user": "macaca"
       },
-           {
+      {
         "hz": 240,
         "link": "https://youtu.be/g7P77nJub-Y",
         "percent": 100,
@@ -19427,7 +19427,7 @@
   "IGAKU": {
     "percentToQualify": 66,
     "records": [
-            {
+      {
         "hz": 240,
         "link": "https://youtu.be/ueUYnY_P57k?si=LAGy8yKX3WlNWevV",
         "percent": 100,
@@ -34842,7 +34842,7 @@
       "verifier": "DarkTD"
     }
   },
-  "Sink": {
+  "Sink (Awedsy)": {
     "percentToQualify": 66,
     "records": [
       {
@@ -39884,8 +39884,7 @@
   },
   "True JNC": {
     "percentToQualify": 66,
-    "records": [
-    ],
+    "records": [],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=LLHueltldyk",
       "verifier": "cdsxyt"
@@ -44522,7 +44521,7 @@
         "percent": 100,
         "user": "macaca"
       },
-             {
+      {
         "hz": 240,
         "link": "https://youtu.be/LYkLawN-tBU?si=D63oqGONsIaLtvko",
         "percent": 100,
@@ -50780,7 +50779,7 @@
         "percent": 100,
         "user": "Adhafera"
       },
-            {
+      {
         "hz": 240,
         "link": "https://youtu.be/SKmFdjY-NOk?si=LWE-dZV2kFNES_fm",
         "percent": 100,
@@ -52373,7 +52372,7 @@
   },
   "Shitty Cataclysm": {
     "records": [
-             {
+      {
         "hz": 240,
         "link": "https://youtu.be/vuPAs7pcz2o",
         "percent": 100,
@@ -53305,7 +53304,7 @@
   },
   "rauchkammer": {
     "records": [
-            {
+      {
         "hz": 240,
         "link": "https://youtu.be/XT1QNPuqZwI?si=4YdX0LV9xHzAccgQ",
         "percent": 100,
@@ -53491,6 +53490,158 @@
     "verifier": {
       "verifier": "Lanii",
       "verification": "https://youtu.be/Fer6GhLRzOg?si=l6gq_EkG3Sbo4ksl"
+    },
+    "percentToQualify": 66
+  },
+  "Honeycrisp": {
+    "records": [],
+    "verifier": {
+      "verifier": "pyro",
+      "verification": "https://www.youtube.com/watch?v=mjrAZoLMniA"
+    },
+    "percentToQualify": 66
+  },
+  "PARALLELIZATION": {
+    "records": [],
+    "verifier": {
+      "verifier": "chloechu",
+      "verification": "https://www.youtube.com/watch?v=v5q3BiyNBMI"
+    },
+    "percentToQualify": 66
+  },
+  "67 jumps of hell": {
+    "records": [],
+    "verifier": {
+      "verifier": "ßßus",
+      "verification": "https://www.youtube.com/watch?v=85FYp7s0cL0"
+    },
+    "percentToQualify": 66
+  },
+  "Iterate": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bridhals",
+      "verification": "https://www.youtube.com/watch?v=UivUncKG-RQ"
+    },
+    "percentToQualify": 66
+  },
+  "QuantumSonic": {
+    "records": [],
+    "verifier": {
+      "verifier": "Fhewi",
+      "verification": "https://www.youtube.com/watch?v=cmYCYTeXCHU"
+    },
+    "percentToQualify": 66
+  },
+  "Hands That Feed": {
+    "records": [],
+    "verifier": {
+      "verifier": "redracer",
+      "verification": "https://www.youtube.com/watch?v=Mw5Q_WIR_gU"
+    },
+    "percentToQualify": 66
+  },
+  "PERFORATION": {
+    "records": [],
+    "verifier": {
+      "verifier": "ElMaroca",
+      "verification": "https://www.youtube.com/watch?v=JhjmXEhPyD0"
+    },
+    "percentToQualify": 66
+  },
+  "SINK (OwOPink)": {
+    "records": [],
+    "verifier": {
+      "verifier": "OwOPink",
+      "verification": "https://www.youtube.com/watch?v=PW4gVtJDVhY"
+    },
+    "percentToQualify": 66
+  },
+  "HyperLuma": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nova The Proto",
+      "verification": "https://www.youtube.com/watch?v=asu_VYakCTs"
+    },
+    "percentToQualify": 66
+  },
+  "Ichor": {
+    "records": [],
+    "verifier": {
+      "verifier": "SplitGMD",
+      "verification": "https://www.youtube.com/watch?v=dM-ffhR1pa8"
+    },
+    "percentToQualify": 66
+  },
+  "Extinction II": {
+    "records": [],
+    "verifier": {
+      "verifier": "Bibox",
+      "verification": "https://www.youtube.com/watch?v=KJoHYfsluow"
+    },
+    "percentToQualify": 66
+  },
+  "Schizophrenia": {
+    "records": [],
+    "verifier": {
+      "verifier": "kr4qqen",
+      "verification": "https://www.youtube.com/watch?v=YHeIwe3QQ9Q"
+    },
+    "percentToQualify": 66
+  },
+  "Polyatomic (True Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "JinoBeats",
+      "verification": "https://www.youtube.com/watch?v=o7WKkrbkKrs"
+    },
+    "percentToQualify": 66
+  },
+  "Extremashup": {
+    "records": [],
+    "verifier": {
+      "verifier": "Mix991",
+      "verification": "https://www.youtube.com/watch?v=VEDZKYtRzBc"
+    },
+    "percentToQualify": 66
+  },
+  "Endless corridor II": {
+    "records": [],
+    "verifier": {
+      "verifier": "Doli",
+      "verification": "https://www.youtube.com/watch?v=da3u9Y3_L4s"
+    },
+    "percentToQualify": 66
+  },
+  "-Compound C17H21NO4": {
+    "records": [],
+    "verifier": {
+      "verifier": "cdsxyt",
+      "verification": "https://youtu.be/oP08KEmw0Rs"
+    },
+    "percentToQualify": 66
+  },
+  "-hit DA drip": {
+    "records": [],
+    "verifier": {
+      "verifier": "cdsxyt",
+      "verification": "https://www.youtube.com/watch?v=E5STTL8sg8A"
+    },
+    "percentToQualify": 66
+  },
+  "-Nine Drips": {
+    "records": [],
+    "verifier": {
+      "verifier": "cdsxyt",
+      "verification": "https://medal.tv/games/geometry-dash/clips/lHPnI3VQLKjz2IWd6?invite=cr-MSwxOUcsNDI5NzM4MjU2&v=99"
+    },
+    "percentToQualify": 66
+  },
+  "-diarrehia water": {
+    "records": [],
+    "verifier": {
+      "verifier": "cdsxyt",
+      "verification": "https://www.youtube.com/watch?v=m7Lflhk7XDk"
     },
     "percentToQualify": 66
   }
