@@ -1640,7 +1640,14 @@
   },
   "Acu Madness": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=b0FuCbSTNk8",
+        "percent": 100,
+        "user": "otter!"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=LZcJ6I_vRVc&feature=youtu.be",
       "verifier": "ddlghl"
@@ -1830,6 +1837,12 @@
         "link": "https://youtu.be/zvSEEcSL63o",
         "percent": 100,
         "user": "Meatballmoose"
+      },
+          {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=1f-UnXk1NT4",
+        "percent": 100,
+        "user": "otter!"
       }
     ],
     "verifier": {
