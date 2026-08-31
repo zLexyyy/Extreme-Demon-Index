@@ -1601,6 +1601,12 @@
         "link": "https://www.youtube.com/watch?v=_cv5nk6Ma0A",
         "percent": 100,
         "user": "timmytoughnut97"
+      },
+                 {
+        "hz": "60",
+        "link": "https://youtu.be/0h8EH9O9Ynw",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
@@ -10271,6 +10277,12 @@
         "link": "https://www.youtube.com/watch?v=f5qNIYfNMlo",
         "percent": 100,
         "user": "liono"
+      },
+          {
+        "hz": "480",
+        "link": "https://youtu.be/WM20EYQ-Sxc",
+        "percent": 100,
+        "user": "Axolotl101"
       }
     ],
     "verifier": {
@@ -22590,6 +22602,12 @@
         "link": "https://www.youtube.com/watch?v=hpJuXijfQCc",
         "percent": 100,
         "user": "BlueGamer"
+      },
+           {
+        "hz": "60",
+        "link": "https://youtu.be/v9PzOdp3iLc",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
@@ -24501,6 +24519,12 @@
         "link": "https://www.youtube.com/watch?v=5FAoY9q9CL8",
         "percent": 100,
         "user": "Agelio"
+      },
+           {
+        "hz": "90",
+        "link": "https://youtu.be/ya3ACcfN7Gg",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
@@ -46242,6 +46266,12 @@
         "link": "https://www.youtube.com/watch?v=kJvSn4wyDOk",
         "percent": 100,
         "user": "aivan"
+      },
+          {
+        "hz": "60",
+        "link": "https://youtu.be/DxPh95Z4SZM",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
@@ -47611,6 +47641,12 @@
         "link": "https://www.youtube.com/watch?v=olpeaNtTMZ8",
         "percent": 100,
         "user": "Esquad Productions"
+      },
+         {
+        "hz": "60",
+        "link": "https://youtu.be/5YKetwaas68",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
@@ -52063,7 +52099,14 @@
     "percentToQualify": 66
   },
   "Devil Vortex (ToshDeluxe)": {
-    "records": [],
+    "records": [
+              {
+        "hz": "240",
+        "link": "https://youtu.be/TQQB0ijRWKw",
+        "percent": 100,
+        "user": "Jarzst"
+      }
+    ],
     "verifier": {
       "verifier": "ToshDeluxe",
       "verification": "https://www.youtube.com/watch?v=rSMoWAZOun0"
@@ -53608,6 +53651,12 @@
         "link": "https://youtu.be/f6ZCdQ9YRDA/",
         "percent": 100,
         "user": "MeatballMoose"
+      },
+          {
+        "hz": "90",
+        "link": "https://youtu.be/P1P9c0NwhUI",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
