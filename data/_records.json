@@ -8200,6 +8200,12 @@
         "link": "https://www.youtube.com/watch?v=K6Qy3re274c",
         "percent": 100,
         "user": "Jarzst"
+      },
+           {
+        "hz": "144",
+        "link": "https://youtu.be/sulF8FuGvxk?t=507",
+        "percent": 100,
+        "user": "Omegagamerepic"
       }
     ],
     "verifier": {
@@ -20329,7 +20335,14 @@
   },
   "Iniquity": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": "240",
+        "link": "https://youtu.be/D2RxY6oiSK4",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=89fB-K8ny8M",
       "verifier": "cobblestone"
