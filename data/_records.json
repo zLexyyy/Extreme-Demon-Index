@@ -26197,6 +26197,12 @@
         "link": "https://www.youtube.com/watch?v=074aIdkvUrk",
         "percent": 100,
         "user": "kas ia"
+      },
+        {
+        "hz": 240,
+        "link": "https://youtu.be/Sgz_BZjmh-s",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -52397,6 +52403,12 @@
         "link": "https://youtu.be/u-oxPVOkk68?si=tsT8kFdCOUkJ22-H",
         "percent": 100,
         "user": "MeatballMoose"
+      },
+         {
+        "hz": 240,
+        "link": "https://medal.tv/games/geometry-dash/clips/nseLMTLz8SOeg5rvd?invite=cr-MSxEdHcsNzY2MjA5MTMw",
+        "percent": 100,
+        "user": "shafikdabest"
       }
     ],
     "verifier": {
@@ -53880,7 +53892,14 @@
     "percentToQualify": 66
   },
   "Honeycrisp": {
-    "records": [],
+    "records": [
+        {
+        "hz": 240,
+        "link": "https://youtu.be/DiosKIejPDU",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verifier": "pyro",
       "verification": "https://www.youtube.com/watch?v=mjrAZoLMniA"
