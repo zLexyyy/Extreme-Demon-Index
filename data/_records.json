@@ -25558,7 +25558,14 @@
   },
   "Neferrous": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/ItDj7Sfnl-Q?si=SMMZPusoj5lEQN2C",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=rEp3Y8xiv18",
       "verifier": "KSol"
@@ -29194,6 +29201,12 @@
         "link": "https://www.youtube.com/watch?v=IoOwAUKIqHE",
         "percent": 100,
         "user": "Rory"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=u8o2fqC80iQ",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
       }
     ],
     "verifier": {
@@ -51548,7 +51561,14 @@
     "percentToQualify": 66
   },
   "its you": {
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=FALfghCVtAk",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verifier": "qalli",
       "verification": "https://www.youtube.com/watch?v=sK59lOdiWyE"
@@ -54296,7 +54316,14 @@
     "percentToQualify": 66
   },
   "other normal level": {
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://youtu.be/VXXTajGjHaE?si=6riSNPloh7fxW4nH",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verifier": "FilipProThings",
       "verification": "https://www.youtube.com/watch?v=OB7FKrcB_L4"
