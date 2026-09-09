@@ -258,6 +258,11 @@
       "link": "https://www.youtube.com/watch?v=_IJ6n4tabo0"
     },
     {
+      "level": "Electronic boom",
+      "wr": "16%",
+      "link": "https://youtu.be/xnQrDN5ZL_U"
+    },
+    {
       "level": "O N B L O C K",
       "wr": "8%",
       "link": "https://youtu.be/Zy-cKTL8w3s?t=25"
@@ -714,6 +719,13 @@
       "level": "ANTIUTOPIA",
       "wr": "24%, 25-38%, 91-100%",
       "link": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+    }
+  ],
+  "fxsh": [
+    {
+      "level": "Ancient Pyramid (Unnerfed)",
+      "wr": "17%",
+      "link": "https://youtu.be/oEv12vYQ_W0"
     }
   ],
   "VERTOP": [
@@ -1724,14 +1736,14 @@
       "link": "https://www.youtube.com/watch?v=22M8rMNYuK4"
     },
     {
+      "level": "74",
+      "wr": "5%",
+      "link": "https://www.youtube.com/watch?v=qKXpzLFt4Wc"
+    },
+    {
       "level": "Lightning Shard",
       "wr": "9%",
       "link": "https://youtu.be/MXZKZiWEwEw"
-    },
-    {
-      "level": "astro core",
-      "wr": "25%",
-      "link": "https://www.youtube.com/watch?v=pI8mQ1xokdU"
     },
     {
       "level": "SILENT STEREO WUH",
@@ -2040,6 +2052,13 @@
       "level": "Woodkid 2018",
       "wr": "21%",
       "link": "https://youtu.be/AXi7_MvMRRI"
+    }
+  ],
+  "Mattgamong": [
+    {
+      "level": "Yeoul (Unnerfed)",
+      "wr": "21%",
+      "link": "https://youtu.be/lU9qB77RBJo"
     }
   ],
   "HequinoX": [
@@ -2821,13 +2840,6 @@
       "link": "https://youtu.be/ggCtPBj8ib8"
     }
   ],
-  "Nickname": [
-    {
-      "level": "Silent Electroman Adventures",
-      "wr": "59%, 39-100%",
-      "link": "https://www.youtube.com/watch?v=Tm0sf7jwzB8"
-    }
-  ],
   "RicoLP": [
     {
       "level": "APOLLYON (RicoLP)",
@@ -3031,13 +3043,6 @@
       "level": "Blackout",
       "wr": "53-93%",
       "link": "https://www.youtube.com/watch?v=6wOdIauW3aQ"
-    }
-  ],
-  "Dan2D": [
-    {
-      "level": "Bellatrix",
-      "wr": "75%",
-      "link": "https://www.youtube.com/watch?v=vIO9hAa-Koc&pp=wgIGCgQQAhgB"
     }
   ],
   "Agonom": [
@@ -3307,13 +3312,6 @@
       "level": "The Devourer",
       "wr": "38%, 26-64%",
       "link": "https://youtu.be/BgwD-JnyAj0?si=THpNdBX_JEwbN87f"
-    }
-  ],
-  "vvay": [
-    {
-      "level": "The Pavlik",
-      "wr": "38-61%, 80-100%",
-      "link": "https://www.youtube.com/watch?v=b3Qmjt_qKU0"
     }
   ],
   "erzor": [
@@ -3643,6 +3641,11 @@
       "link": "https://www.youtube.com/watch?v=BYMQHZoVUOk"
     },
     {
+      "level": "Sithe",
+      "wr": "64-100%",
+      "link": "https://www.youtube.com/watch?v=yHJuP3n_U7w"
+    },
+    {
       "level": "Virulent Venture",
       "wr": "55-100%",
       "link": "https://www.youtube.com/watch?v=_TZHtVBjvP8"
@@ -3679,6 +3682,13 @@
       "level": "SoulBreaker",
       "wr": "23%",
       "link": "https://youtu.be/opY_pV_FXXg?si=3rArUvyPoGmuvNdi"
+    }
+  ],
+  "ihateazii": [
+    {
+      "level": "Deathline",
+      "wr": "29%",
+      "link": "https://www.youtube.com/watch?v=0Ld5j9v_8lE"
     }
   ],
   "aonsey": [
@@ -3756,13 +3766,6 @@
       "level": "Echoes of Phantasm",
       "wr": "42-100%",
       "link": "https://www.youtube.com/watch?v=9GqXNbfNPXA"
-    }
-  ],
-  "Nixen": [
-    {
-      "level": "JUMPER 2006",
-      "wr": "32%, 36-92%, 55-100%",
-      "link": "https://www.youtube.com/watch?v=4J5qupSbuFk"
     }
   ],
   "Forgave": [
@@ -3894,11 +3897,6 @@
       "level": "Right Toothpaste",
       "wr": "11-34%",
       "link": "https://youtu.be/HV_mYwp3nR8"
-    },
-    {
-      "level": "The D3stroyer",
-      "wr": "27%, 17-46%, 43-58%, 60-100%",
-      "link": "https://youtu.be/Ic70PlS9it4"
     }
   ],
   "kumori": [
@@ -3965,6 +3963,13 @@
       "level": "You cant beat this",
       "wr": "48%",
       "link": "https://youtu.be/N8JI6jrqv5Q"
+    }
+  ],
+  "Gentares": [
+    {
+      "level": "Carnage",
+      "wr": "54%, 68-100%",
+      "link": "https://www.youtube.com/watch?v=FMcqCvAMVZc"
     }
   ],
   "Bea_": [
@@ -4098,13 +4103,6 @@
       "level": "DEVILGIRL (HyperCat)",
       "wr": "53%",
       "link": "https://www.youtube.com/watch?v=s9COzFxM6Oo"
-    }
-  ],
-  "BJRT": [
-    {
-      "level": "Chromatic Core",
-      "wr": "73%",
-      "link": "https://www.youtube.com/watch?v=bliyrDOIleA"
     }
   ],
   "Dexito": [
