@@ -34795,7 +34795,14 @@
   },
   "Silent Club (BlackP2sFull)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": "240",
+        "link": "https://youtu.be/R6-N0NO79Rw",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=UCBPqo3Hnp4",
       "verifier": "TheJaco9"
@@ -34803,7 +34810,14 @@
   },
   "Silent Club (Luqualizer)": {
     "percentToQualify": 65,
-    "records": [],
+    "records": [
+         {
+        "hz": "240",
+        "link": "https://youtu.be/43v47h02DuA",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM",
       "verifier": "Luqualizer"
@@ -34819,7 +34833,14 @@
   },
   "Silent Club Minus": {
     "percentToQualify": 67,
-    "records": [],
+    "records": [
+            {
+        "hz": "240",
+        "link": "https://drive.google.com/file/d/18eNmi_kPzgXOe18ha8vNHtmMMGu3MDSE/view?usp=sharing",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=oyE9uJ2ySlw",
       "verifier": "Whizkid05"
