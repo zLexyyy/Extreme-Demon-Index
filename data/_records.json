@@ -15394,7 +15394,7 @@
       "verifier": "kyoto"
     }
   },
-  "FataL": {
+  "FataL (H108)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -54351,6 +54351,86 @@
     "verifier": {
       "verifier": "B6oy1004",
       "verification": "https://www.youtube.com/watch?v=t9t4wKDawnM&t"
+    },
+    "percentToQualify": 66
+  },
+  "Artemis 13": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zoink",
+      "verification": "https://www.youtube.com/watch?v=FgjOM0ef1N8"
+    },
+    "percentToQualify": 66
+  },
+  "Evolution": {
+    "records": [],
+    "verifier": {
+      "verifier": "Striker",
+      "verification": "https://www.youtube.com/watch?v=qZaNZygvOxc"
+    },
+    "percentToQualify": 66
+  },
+  "starbloom": {
+    "records": [],
+    "verifier": {
+      "verifier": "benoniuum",
+      "verification": "https://www.youtube.com/watch?v=3Z0-NJJwQXQ"
+    },
+    "percentToQualify": 66
+  },
+  "Pulsar": {
+    "records": [],
+    "verifier": {
+      "verifier": "RaQoo",
+      "verification": "https://www.youtube.com/watch?v=I36JQ4z0kZ0"
+    },
+    "percentToQualify": 66
+  },
+  "Ghost Rule": {
+    "records": [],
+    "verifier": {
+      "verifier": "Akuriserv",
+      "verification": "https://www.youtube.com/watch?v=ZIvckvBFufw"
+    },
+    "percentToQualify": 66
+  },
+  "FuNNesT LeVeL": {
+    "records": [],
+    "verifier": {
+      "verifier": "alt",
+      "verification": "https://www.youtube.com/watch?v=HjrZjyNcBCc"
+    },
+    "percentToQualify": 66
+  },
+  "FATAL (Ebiee)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pewn",
+      "verification": "https://www.youtube.com/watch?v=TAQdkX9dAjE"
+    },
+    "percentToQualify": 66
+  },
+  "Aisareta (IDAN100G)": {
+    "records": [],
+    "verifier": {
+      "verifier": "IDAN100G",
+      "verification": "https://www.youtube.com/watch?v=aDN44UO6ekc"
+    },
+    "percentToQualify": 66
+  },
+  "SHIP22": {
+    "records": [],
+    "verifier": {
+      "verifier": "spark",
+      "verification": "https://www.youtube.com/watch?v=wjwtfEjiznM"
+    },
+    "percentToQualify": 66
+  },
+  "Neon River": {
+    "records": [],
+    "verifier": {
+      "verifier": "CheemMan",
+      "verification": "https://www.youtube.com/watch?v=qiukE0cCpVA"
     },
     "percentToQualify": 66
   }
