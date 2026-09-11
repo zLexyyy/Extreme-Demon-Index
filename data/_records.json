@@ -8678,6 +8678,12 @@
         "link": "https://www.youtube.com/watch?v=Um2UxbZo384",
         "percent": 100,
         "user": "Rory"
+      },
+               {
+        "hz": 240,
+        "link": "https://youtu.be/LP7GySewq5U",
+        "percent": 100,
+        "user": "Adhafera"
       }
     ],
     "verifier": {
@@ -11587,7 +11593,14 @@
   },
   "Dedohexdragon": {
     "percentToQualify": 70,
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://youtu.be/J8o7Ef4kCeI",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=z_zegPqfqr4",
       "verifier": "royen"
@@ -13247,7 +13260,14 @@
   },
   "EUPHORIA": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+             {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=2LPdCeIkGIk",
+        "percent": 100,
+        "user": "Pheonixous"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=1nuPbw7HX1k",
       "verifier": "Yossarian"
@@ -19656,6 +19676,12 @@
         "link": "https://www.youtube.com/watch?v=zzHIiO_w0U8",
         "percent": 100,
         "user": "koiasana"
+      },
+            {
+        "hz": 90,
+        "link": "https://youtu.be/6aiInmYnY3A",
+        "percent": 100,
+        "user": "IceCubed88"
       }
     ],
     "verifier": {
@@ -27091,7 +27117,7 @@
       "verifier": "Geraldip"
     }
   },
-  "PENUMBRAL": {
+  "Penumbral": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -34776,7 +34802,14 @@
   },
   "Silent Club (BlackP2sFull)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+        "hz": "240",
+        "link": "https://youtu.be/R6-N0NO79Rw",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=UCBPqo3Hnp4",
       "verifier": "TheJaco9"
@@ -34784,7 +34817,14 @@
   },
   "Silent Club (Luqualizer)": {
     "percentToQualify": 65,
-    "records": [],
+    "records": [
+         {
+        "hz": "240",
+        "link": "https://youtu.be/43v47h02DuA",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM",
       "verifier": "Luqualizer"
@@ -34800,7 +34840,14 @@
   },
   "Silent Club Minus": {
     "percentToQualify": 67,
-    "records": [],
+    "records": [
+            {
+        "hz": "240",
+        "link": "https://drive.google.com/file/d/18eNmi_kPzgXOe18ha8vNHtmMMGu3MDSE/view?usp=sharing",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=oyE9uJ2ySlw",
       "verifier": "Whizkid05"
@@ -34864,7 +34911,14 @@
   },
   "Silent Silhouette": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+     {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=ha6q8ELbAZg",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=Lidju9Y3ZcE",
       "verifier": "ROZE"
