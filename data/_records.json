@@ -45423,7 +45423,14 @@
   },
   "katrina": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=I1DVh0TjkzA",
+        "percent": 100,
+        "user": "† 𓆩Lexy𓆪 †"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=YDKBKYKu3zM",
       "verifier": "sprei"
