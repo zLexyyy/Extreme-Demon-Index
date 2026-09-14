@@ -45,6 +45,10 @@ export default {
                         <label for="top3000">Top 3000</label>
                     </div>
                     <div class="check">
+                        <input type="checkbox" id="top4000" @change="onRangeChange('top4000')" :checked="selectedRanges.top4000">
+                        <label for="top4000">Top 4000</label>
+                    </div>
+                    <div class="check">
                         <input type="checkbox" id="everything" @change="onRangeChange('everything')" :checked="selectedRanges.everything">
                         <label for="everything">Everything</label>
                     </div>
@@ -148,7 +152,7 @@ export default {
             top3000: false,
             everything: false,
         },
-        rangeOrder: ['top150', 'top300', 'top500', 'top1000', 'top1500', 'top2000', 'top3000', 'everything'],
+        rangeOrder: ['top150', 'top300', 'top500', 'top1000', 'top1500', 'top2000', 'top3000', 'top4000', 'everything'],
         customRangeStart: null,
         customRangeEnd: null,
         toasts: [],
@@ -224,6 +228,7 @@ export default {
                 top1500: [0, 1500],
                 top2000: [0, 2000],
                 top3000: [0, 3000],
+                top4000: [0, 4000],
                 everything: [0, 10000],
             };
             return ranges[rangeKey] || [0, 0];
