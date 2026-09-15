@@ -852,7 +852,7 @@
         "percent": 100,
         "user": "Lanii"
       },
-             {
+      {
         "hz": 240,
         "link": "https://youtu.be/LHxNmnRUhU4",
         "percent": 100,
@@ -8691,7 +8691,7 @@
         "percent": 100,
         "user": "Adhafera"
       },
-         {
+      {
         "hz": 240,
         "link": "https://youtu.be/gu8Yf7GvYLM",
         "percent": 100,
@@ -11794,7 +11794,7 @@
       "verifier": "KPGDylan"
     }
   },
-  "Demonicat": {
+  "Demonicat (f3lixsram)": {
     "percentToQualify": 66,
     "records": [
       {
@@ -21605,7 +21605,7 @@
   "Kjdf8314jlfssf": {
     "percentToQualify": 70,
     "records": [
-         {
+      {
         "hz": 240,
         "link": "https://youtu.be/dIMXQZGEUV4",
         "percent": 100,
@@ -37500,7 +37500,7 @@
         "percent": 100,
         "user": "atelophobia"
       },
-           {
+      {
         "hz": 240,
         "link": "https://youtu.be/4RxniHKtmKg",
         "percent": 100,
@@ -51149,7 +51149,7 @@
         "percent": 100,
         "user": "MeatballMoose"
       },
-           {
+      {
         "hz": 480,
         "link": "https://youtu.be/9s4EVK5e7hY",
         "percent": 100,
@@ -52834,7 +52834,7 @@
   },
   "Weird Trash (Outense)": {
     "records": [
-          {
+      {
         "hz": 240,
         "link": "https://www.youtube.com/watch?v=BYe7HJ4OKTI",
         "percent": 100,
@@ -53699,7 +53699,7 @@
     },
     "percentToQualify": 72
   },
-  "Poltergeist v666": {
+  "Poltergeist v666 (GD Jose)": {
     "records": [],
     "verifier": {
       "verifier": "SeptaGon7",
@@ -54706,6 +54706,230 @@
     "verifier": {
       "verifier": "rolopok",
       "verification": "https://www.youtube.com/watch?v=XdpnBNWRRZU"
+    },
+    "percentToQualify": 66
+  },
+  "Always Miss You": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ekskriptn",
+      "verification": "https://www.youtube.com/watch?v=r5TE8YczBgQ"
+    },
+    "percentToQualify": 66
+  },
+  "NOMAD (Unfixed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "caurii",
+      "verification": "https://www.youtube.com/watch?v=LxnSxGGtsU0"
+    },
+    "percentToQualify": 66
+  },
+  "Ice Carbon Titan X": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zen0x50",
+      "verification": "https://www.youtube.com/watch?v=5XiTI8oj8Kg"
+    },
+    "percentToQualify": 66
+  },
+  "MANGLE": {
+    "records": [],
+    "verifier": {
+      "verifier": "AVRG",
+      "verification": "https://www.youtube.com/watch?v=Cvsv5lnMqYc"
+    },
+    "percentToQualify": 66
+  },
+  "Zodiacment": {
+    "records": [],
+    "verifier": {
+      "verifier": "Eskimi",
+      "verification": "https://www.youtube.com/watch?v=iM3-UEekPFQ"
+    },
+    "percentToQualify": 66
+  },
+  "The Game": {
+    "records": [],
+    "verifier": {
+      "verifier": "Fighter",
+      "verification": "https://www.youtube.com/watch?v=RPRi_EN6_oU"
+    },
+    "percentToQualify": 66
+  },
+  "SaKOOPEN Sufears": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jraylor",
+      "verification": "https://www.youtube.com/watch?v=pbd_dtogRsM"
+    },
+    "percentToQualify": 66
+  },
+  "Poltergeist v666 (Jraylor)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Jraylor",
+      "verification": "https://www.youtube.com/watch?v=Q98WLpfqSbg"
+    },
+    "percentToQualify": 66
+  },
+  "Cobrablitzs Demise": {
+    "records": [],
+    "verifier": {
+      "verifier": "Ptiru",
+      "verification": "https://www.youtube.com/watch?v=4_p1waRyjBg"
+    },
+    "percentToQualify": 66
+  },
+  "Classwork": {
+    "records": [],
+    "verifier": {
+      "verifier": "SashaKray",
+      "verification": "https://youtu.be/_6fEZIJ_6IQ"
+    },
+    "percentToQualify": 66
+  },
+  "TARNISHED": {
+    "records": [],
+    "verifier": {
+      "verifier": "CrabicleGD",
+      "verification": "https://www.youtube.com/watch?v=FMmqpsrvaAw"
+    },
+    "percentToQualify": 66
+  },
+  "QOLLABOS": {
+    "records": [],
+    "verifier": {
+      "verifier": "Silpet",
+      "verification": "https://www.youtube.com/watch?v=8u-L1E9cJyw"
+    },
+    "percentToQualify": 66
+  },
+  "Epilepsy Warning": {
+    "records": [],
+    "verifier": {
+      "verifier": "Stolen Burrito",
+      "verification": "https://www.youtube.com/watch?v=IAg1sNgzjZs"
+    },
+    "percentToQualify": 66
+  },
+  "Invisible Falling Up": {
+    "records": [],
+    "verifier": {
+      "verifier": "xjabse",
+      "verification": "https://www.youtube.com/watch?v=9eKX2nh3HfE"
+    },
+    "percentToQualify": 66
+  },
+  "Libertas (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Seturan",
+      "verification": "https://www.youtube.com/watch?v=cUB3jzQ97X4"
+    },
+    "percentToQualify": 66
+  },
+  "Betrayal of fate v2": {
+    "records": [],
+    "verifier": {
+      "verifier": "kumori",
+      "verification": "https://youtu.be/HaDGeKEyXd4"
+    },
+    "percentToQualify": 66
+  },
+  "Jump Into the sky": {
+    "records": [],
+    "verifier": {
+      "verifier": "ViZeris",
+      "verification": "https://www.youtube.com/watch?v=1hLaANyeXRE"
+    },
+    "percentToQualify": 66
+  },
+  "dnc": {
+    "records": [],
+    "verifier": {
+      "verifier": "llertt",
+      "verification": "https://www.youtube.com/watch?v=UWjtHERjCPU"
+    },
+    "percentToQualify": 66
+  },
+  "dStep": {
+    "records": [],
+    "verifier": {
+      "verifier": "Melody3",
+      "verification": "https://www.youtube.com/watch?v=q98iEjJ2yRU"
+    },
+    "percentToQualify": 66
+  },
+  "Not Society": {
+    "records": [],
+    "verifier": {
+      "verifier": "kas ia",
+      "verification": "https://www.youtube.com/watch?v=oRR5X2YfSaU"
+    },
+    "percentToQualify": 66
+  },
+  "Krabic Wave": {
+    "records": [],
+    "verifier": {
+      "verifier": "PowerBall20",
+      "verification": "https://youtu.be/X0hKWNkF1cE?si=HFUO0ldzi3I3BMlf"
+    },
+    "percentToQualify": 66
+  },
+  "Saturday Vortex": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nairda",
+      "verification": "https://www.youtube.com/watch?v=nmftpDlMJJY"
+    },
+    "percentToQualify": 66
+  },
+  "Tech ParadoX": {
+    "records": [],
+    "verifier": {
+      "verifier": "XyliTol",
+      "verification": "https://www.youtube.com/watch?v=ViRKjiBIsqc"
+    },
+    "percentToQualify": 66
+  },
+  "Waterflow (Unnerfed)": {
+    "records": [],
+    "verifier": {
+      "verifier": "LA01GD",
+      "verification": "https://www.youtube.com/watch?v=agcEvbiUN4U"
+    },
+    "percentToQualify": 66
+  },
+  "Allucinatio": {
+    "records": [],
+    "verifier": {
+      "verifier": "Pololak",
+      "verification": "https://www.youtube.com/watch?v=kbOsQToVDtA"
+    },
+    "percentToQualify": 66
+  },
+  "Demonicat (TeamRamRanch)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Kesh",
+      "verification": "https://www.youtube.com/watch?v=Q1HabxEERjU"
+    },
+    "percentToQualify": 66
+  },
+  "me when skibidi gang (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "RanOutOfUsers",
+      "verification": "https://www.youtube.com/watch?v=e6ZApJDjtHM"
+    },
+    "percentToQualify": 66
+  },
+  "WAVIXClub": {
+    "records": [],
+    "verifier": {
+      "verifier": "Wavix",
+      "verification": "https://www.youtube.com/watch?v=1HYQrR4kvEQ&t=1074s"
     },
     "percentToQualify": 66
   }
