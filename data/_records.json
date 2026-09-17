@@ -8267,7 +8267,14 @@
   },
   "Cataclysm x2": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+             {
+        "hz": 240,
+        "link": "https://youtu.be/cVaHQBW5yYM",
+        "percent": 100,
+        "user": "macaca"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=mnbm91gGZMo",
       "verifier": "Morgart20"
@@ -34859,7 +34866,14 @@
   },
   "Silent Club (Superex95)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": "240",
+        "link": "https://www.youtube.com/watch?v=hbl7Dom8ntg",
+        "percent": 100,
+        "user": "cyrik2"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=uSPCHI6LxdQ",
       "verifier": "Superex"
@@ -39394,7 +39408,14 @@
   },
   "This has a hard wave": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+        "hz": 240,
+        "link": "https://youtu.be/xI4bxwyUYok",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=EDnS9DDQauY",
       "verifier": "SkeletalVirus"
@@ -48538,7 +48559,14 @@
     "percentToQualify": 66
   },
   "lexy challenge": {
-    "records": [],
+    "records": [
+         {
+        "hz": 240,
+        "link": "https://youtu.be/cVaHQBW5yYM",
+        "percent": 100,
+        "user": "macaca"
+      }
+    ],
     "verifier": {
       "verifier": "† 𓆩Lexy𓆪 †",
       "verification": "https://www.youtube.com/watch?v=C0CPHWqVJjA"
@@ -54734,7 +54762,14 @@
     "percentToQualify": 66
   },
   "Ice Carbon Titan X": {
-    "records": [],
+    "records": [
+             {
+        "hz": 280,
+        "link": "https://youtu.be/wpbapaGA38M?si=miiky37d5oFQHRpX",
+        "percent": 100,
+        "user": "Nathan Gaming Pro"
+      }
+    ],
     "verifier": {
       "verifier": "Zen0x50",
       "verification": "https://www.youtube.com/watch?v=5XiTI8oj8Kg"
@@ -54926,7 +54961,14 @@
     "percentToQualify": 66
   },
   "me when skibidi gang (Solo)": {
-    "records": [],
+    "records": [
+             {
+        "hz": 240,
+        "link": "https://youtu.be/ect7-CjGwq0",
+        "percent": 100,
+        "user": "macaca"
+      }
+    ],
     "verifier": {
       "verifier": "RanOutOfUsers",
       "verification": "https://www.youtube.com/watch?v=e6ZApJDjtHM"
