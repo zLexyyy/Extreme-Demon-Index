@@ -52937,13 +52937,6 @@
   },
   "percentToQualify": 66
  },
- "TURN THE LIGHTS OFF": null,
- "Bloodbath": null,
- "aftermath": null,
- "Warning": null,
- "Disruption": null,
- "Sweater Weather": null,
- "Swarm": null,
  "Society (Old)": {
   "records": [],
   "verifier": {
@@ -55830,11 +55823,4 @@
    "verification": "https://www.youtube.com/watch?v=eXOowFdT5rQ"
   },
   "percentToQualify": 66
- },
- "Sonic Wave Rebirth": null,
- "Sonic Wave": null,
- "Biohazard (ARtu)": null,
- "Heartbeat (KrmaL)": null,
- "eclipse": null,
- "Gunslinga Corridor": null
-}
+ }
