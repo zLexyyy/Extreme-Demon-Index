@@ -6336,6 +6336,12 @@
         "link": "https://www.youtube.com/watch?v=WyhH54lm2Oc",
         "percent": 100,
         "user": "KrisYa"
+      },
+           {
+        "hz": "480",
+        "link": "https://youtu.be/EdsB5OF2USc?si=A1-tRsXYs94MC5wt",
+        "percent": 100,
+        "user": "Rqinn"
       }
     ],
     "verifier": {
@@ -20239,7 +20245,14 @@
   },
   "Icefall": {
     "percentToQualify": 73,
-    "records": [],
+    "records": [
+          {
+        "hz": "240",
+        "link": "https://youtu.be/4UI4r6XCad0",
+        "percent": 100,
+        "user": "Adhafera"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=9dy1afi-fo4",
       "verifier": "breaddemon"
@@ -45454,6 +45467,12 @@
         "link": "https://www.youtube.com/watch?v=gWiMqH9whUY",
         "percent": 100,
         "user": "KrisYa"
+      },
+         {
+        "hz": "240",
+        "link": "https://youtu.be/yAvN8A5qMwE",
+        "percent": 100,
+        "user": "Matthew081510"
       }
     ],
     "verifier": {
