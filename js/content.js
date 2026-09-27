@@ -166,13 +166,14 @@ export async function calculatePackPoints(packLevels, list, recordList) {
 export async function fetchLeaderboard() {
     // Always use the CLASSIC list for the leaderboard (single shared leaderboard).
     // This ensures there is only one leaderboard, even when the user is viewing "upcoming".
-    const recordList = await fetchRecords();
-    const packs = await fetchPacks();
-    const worldRecordData = await fetchWorldRecords();
-    const verificationData = await fetchVerifications();
-
     // load classic list explicitly
-    const classicResult = await fetch(`${dir}/${LIST_KEYS.classic}`);
+    const [recordList, packs, worldRecordData, verificationData, classicResult] = await Promise.all([
+        fetchRecords(),
+        fetchPacks(),
+        fetchWorldRecords(),
+        fetchVerifications(),
+        fetch(`${dir}/${LIST_KEYS.classic}`),
+    ]);
     let list;
     try {
         list = await classicResult.json();
@@ -182,6 +183,12 @@ export async function fetchLeaderboard() {
     }
 
     const scoreMap = {};
+    const names = new Map();
+    const keyFor = (name) => {
+        const lower = name.toLowerCase();
+        if (!names.has(lower)) names.set(lower, name);
+        return names.get(lower);
+    };
     const errs = [];
     list.forEach((level, rank) => {
         if(!recordList[level]) recordList[level] = {
@@ -191,9 +198,7 @@ export async function fetchLeaderboard() {
             records: []
         }
         // Verification
-        const verifier = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === recordList[level].verifier.verifier.toLowerCase(),
-        ) || recordList[level].verifier.verifier;
+        const verifier = keyFor(recordList[level].verifier.verifier);
         scoreMap[verifier] ??= {
             verified: [],
             completed: [],
@@ -212,9 +217,7 @@ export async function fetchLeaderboard() {
         // Records
         recordList[level].records.forEach((record) => {
             if(record) {
-                const user = Object.keys(scoreMap).find(
-                    (u) => u.toLowerCase() === record.user.toLowerCase(),
-                ) || record.user;
+                const user = keyFor(record.user);
                 scoreMap[user] ??= {
                     verified: [],
                     completed: [],
@@ -247,9 +250,7 @@ export async function fetchLeaderboard() {
 
     // Add verifications from _verifications.json
     Object.entries(verificationData).forEach(([user, verifications]) => {
-        const playerKey = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === user.toLowerCase(),
-        ) || user;
+        const playerKey = keyFor(user);
         
         if (!scoreMap[playerKey]) {
             scoreMap[playerKey] = {
@@ -282,9 +283,7 @@ export async function fetchLeaderboard() {
 
     // Add world records from _worldrecord.json
     Object.entries(worldRecordData).forEach(([user, wrs]) => {
-        const playerKey = Object.keys(scoreMap).find(
-            (u) => u.toLowerCase() === user.toLowerCase(),
-        ) || user;
+        const playerKey = keyFor(user);
         
         if (!scoreMap[playerKey]) {
             scoreMap[playerKey] = {
