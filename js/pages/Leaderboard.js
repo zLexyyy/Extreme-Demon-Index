@@ -14,6 +14,10 @@ export default {
         err: [],
         searchQuery: '',
         playerWorldRecords: {},
+        rowStart: 0,
+        rowEnd: 0,
+        padTop: 0,
+        padBottom: 0,
     }),
     template: `
         <main v-if="loading">
@@ -26,7 +30,7 @@ export default {
                         Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
                     </p>
                 </div>
-                <div class="board-container">
+                <div class="board-container" ref="listContainer" @scroll.passive="syncRows">
                     <!-- SEARCH BOX: inserted here (above the leaderboard) -->
                     <div id="player-search-wrapper" style="padding:16px; margin-bottom:8px;">
                       <input
@@ -40,24 +44,26 @@ export default {
                       />
                     </div>
 
-                    <table class="board">
-                        <tr v-for="(ientry, i) in filteredLeaderboard" :key="ientry.user">
+                    <div ref="listTop" :style="{ height: padTop + 'px' }"></div>
+                    <table class="board" ref="listTable">
+                        <tr v-for="(ientry, i) in visibleRows" :key="ientry.player.user">
                             <td class="rank">
-                                <p class="type-label-lg">#{{ leaderboard.indexOf(ientry) + 1 }}</p>
+                                <p class="type-label-lg">#{{ ientry.index + 1 }}</p>
                             </td>
                             <td class="total">
-                                <p class="type-label-lg">{{ localize(ientry.total) }}</p>
+                                <p class="type-label-lg">{{ localize(ientry.player.total) }}</p>
                             </td>
-                            <td class="user" :class="{ 'active': leaderboard[selected].user === ientry.user }">
-                                <button @click="selected = leaderboard.indexOf(ientry)">
-                                    <span class="type-label-lg">{{ ientry.user }}</span>
+                            <td class="user" :class="{ 'active': selected === ientry.index }">
+                                <button @click="selected = ientry.index">
+                                    <span class="type-label-lg">{{ ientry.player.user }}</span>
                                 </button>
                             </td>
                         </tr>
                     </table>
+                    <div :style="{ height: padBottom + 'px' }"></div>
                 </div>
                 <div class="player-container">
-                    <div class="player">
+                    <div class="player" v-memo="[entry]">
                         <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
                         <h3>{{ entry.total }}</h3>
                         <div v-if="entry.completedPacks && entry.completedPacks.length > 0" class="completed-packs">
@@ -144,14 +150,25 @@ export default {
                 worldRecords: this.playerWorldRecords[player.user] || []
             };
         },
+        baseLeaderboard() {
+            return Object.freeze(this.leaderboard.map((player, index) => Object.freeze({
+                player,
+                index,
+                searchName: player.user ? player.user.toLowerCase() : ''
+            })));
+        },
         filteredLeaderboard() {
             const q = (this.searchQuery || '').toLowerCase().trim();
-            if (!q) return this.leaderboard;
-            return this.leaderboard.filter(entry => {
-                if (!entry.user) return false;
-                return entry.user.toLowerCase().includes(q);
-            });
+            if (!q) return this.baseLeaderboard;
+            return this.baseLeaderboard.filter(entry => entry.searchName.includes(q));
         },
+        visibleRows() {
+            return this.filteredLeaderboard.slice(this.rowStart, this.rowEnd);
+        },
+    },
+    created() {
+        this.rowHeights = new Map();
+        this.rowOffsets = [0];
     },
     async mounted() {
         console.log('Leaderboard mounted');
@@ -160,6 +177,7 @@ export default {
         this.leaderboard = leaderboard;
         this.err = err;
         this.loading = false;
+        window.addEventListener('resize', this.onResize);
         
         console.log('Loading all world records in background');
         this.preloadAllWorldRecords();
@@ -167,8 +185,75 @@ export default {
         console.log('Starting background WR player discovery');
         this.loadWorldRecordPlayersInBackground();
     },
+    updated() {
+        this.syncRows();
+    },
+    beforeUnmount() {
+        window.removeEventListener('resize', this.onResize);
+    },
     methods: {
         localize,
+        // copy pasted from list.js
+        measureRows() {
+            const table = this.$refs.listTable;
+            if (!table) return;
+            const rows = this.visibleRows;
+            Array.from(table.rows).forEach((tr, i) => {
+                if (rows[i]) this.rowHeights.set(rows[i].index, tr.getBoundingClientRect().height);
+            });
+        },
+        buildOffsets() {
+            let total = 0;
+            this.rowHeights.forEach(height => total += height);
+            const guess = this.rowHeights.size ? total / this.rowHeights.size : 44;
+            const offsets = [0];
+            this.filteredLeaderboard.forEach((entry, i) => {
+                offsets.push(offsets[i] + (this.rowHeights.get(entry.index) || guess));
+            });
+            this.rowOffsets = offsets;
+            this.offsetRows = this.filteredLeaderboard;
+        },
+        rowAt(y) {
+            const offsets = this.rowOffsets;
+            let low = 0;
+            let high = offsets.length - 2;
+            while (low < high) {
+                const mid = Math.ceil((low + high) / 2);
+                if (offsets[mid] <= y) low = mid;
+                else high = mid - 1;
+            }
+            return low;
+        },
+        updateWindow() {
+            const box = this.$refs.listContainer;
+            const top = this.$refs.listTop;
+            if (!box || !top) return;
+            const offsets = this.rowOffsets;
+            const y = box.getBoundingClientRect().top - top.getBoundingClientRect().top;
+            const first = this.rowAt(y);
+            const last = this.rowAt(y + box.clientHeight);
+            this.rowStart = Math.max(0, first - first % 10 - 10);
+            this.rowEnd = Math.min(offsets.length - 1, last - last % 10 + 20);
+            this.padTop = offsets[this.rowStart];
+            this.padBottom = offsets[offsets.length - 1] - offsets[this.rowEnd];
+        },
+        syncRows() {
+            const box = this.$refs.listContainer;
+            const top = this.$refs.listTop;
+            if (!box || !top) return;
+            const offsets = this.rowOffsets;
+            const sameRows = this.offsetRows === this.filteredLeaderboard;
+            const first = this.rowAt(box.getBoundingClientRect().top - top.getBoundingClientRect().top);
+            this.measureRows();
+            this.buildOffsets();
+            const shift = sameRows ? this.rowOffsets[first] - offsets[first] : 0;
+            if (shift) box.scrollTop += shift;
+            this.updateWindow();
+        },
+        onResize() {
+            this.rowHeights.clear();
+            this.syncRows();
+        },
         async preloadAllWorldRecords() {
             try {
                 const worldRecordsMap = await fetchWorldRecords();

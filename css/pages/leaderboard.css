@@ -29,6 +29,7 @@
 }
 .page-leaderboard .board-container {
     padding-inline: 1rem;
+    overflow-anchor: none;
 }
 .page-leaderboard .board {
     table-layout: auto;
@@ -42,6 +43,12 @@
 .page-leaderboard .board .total {
     padding: 1rem;
     text-align: end;
+}
+.page-leaderboard .board .rank p {
+    min-width: 3.375rem;
+}
+.page-leaderboard .board .total p {
+    min-width: 5.75rem;
 }
 .page-leaderboard .board .user {
     width: 100%;

@@ -31,9 +31,20 @@
             type="text/css"
             href="/css/components/tabs.css"
         />
-        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
+        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.prod.js"></script>
         <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
         <script type="module" src="/js/main.js"></script>
+        <link rel="modulepreload" href="/js/routes.js" />
+        <link rel="modulepreload" href="/js/pages/List.js" />
+        <link rel="modulepreload" href="/js/pages/Leaderboard.js" />
+        <link rel="modulepreload" href="/js/pages/Packs.js" />
+        <link rel="modulepreload" href="/js/pages/Roulette.js" />
+        <link rel="modulepreload" href="/js/content.js" />
+        <link rel="modulepreload" href="/js/util.js" />
+        <link rel="modulepreload" href="/js/score.js" />
+        <link rel="modulepreload" href="/js/components/Spinner.js" />
+        <link rel="modulepreload" href="/js/components/Btn.js" />
+        <link rel="modulepreload" href="/js/components/List/LevelAuthors.js" />
     </head>
     <body id="app">
         <header :class="{ dark: store.dark }">
