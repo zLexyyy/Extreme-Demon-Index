@@ -5,6 +5,7 @@
 }
 .page-list .list-container {
     padding-inline: 1rem;
+    overflow-anchor: none;
 }
 .page-list .meta-container {
     padding-right: 2rem;
@@ -16,6 +17,15 @@
 .page-list .list .rank {
     text-align: end;
     padding-right: 1rem;
+}
+.page-list .list .rank .type-label-lg {
+    min-width: 3.5rem;
+}
+.page-list .list .rank .type-label-md {
+    min-width: 0.5rem;
+}
+.page-list .list tr.legacy .rank .type-label-md {
+    min-width: 3rem;
 }
 .page-list .list .level {
     width: 100%;
