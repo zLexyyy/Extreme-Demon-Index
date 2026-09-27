@@ -4325,7 +4325,7 @@
       "verifier": "Vidar"
     }
   },
-  "Azure Flare": {
+  "Azure Flare (Axinity)": {
     "percentToQualify": 75,
     "records": [],
     "verifier": {
@@ -36651,10 +36651,17 @@
   },
   "Specthys (2P)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=5oS0FPGNwgk",
+        "percent": 100,
+        "user": "Jasuki"
+      }
+    ],
     "verifier": {
-      "verification": "https://www.youtube.com/watch?v=QEhqvQvEfNM",
-      "verifier": "gBen"
+      "verification": "https://www.youtube.com/watch?v=5oS0FPGNwgk",
+      "verifier": "zof"
     }
   },
   "Specthys (Solo)": {
@@ -45710,10 +45717,17 @@
   },
   "i just wish i could (2P)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=qbHejBTJJLU",
+        "percent": 100,
+        "user": "gecko"
+      }
+    ],
     "verifier": {
-      "verification": "https://www.youtube.com/watch?v=jxFj4TEuq_A",
-      "verifier": "Snoozzzing"
+      "verification": "https://www.youtube.com/watch?v=qbHejBTJJLU",
+      "verifier": "Lia"
     }
   },
   "i just wish i could (Solo)": {
@@ -54704,7 +54718,7 @@
   "Hands That Feed": {
     "records": [],
     "verifier": {
-      "verifier": "redracer",
+      "verifier": "Red Racer",
       "verification": "https://www.youtube.com/watch?v=Mw5Q_WIR_gU"
     },
     "percentToQualify": 66
