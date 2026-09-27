@@ -111038,7 +111038,12 @@
     "percentToQualify": 66
   },
   "Toxic Marine": {
-    "records": []
+    "records": [],
+    "verifier": {
+      "verifier": "Spiderwavee",
+      "verification": "https://www.youtube.com/watch?v=9EZ2rqQXGBg"
+    },
+    "percentToQualify": 66
   },
   "Singular Hour II": {
     "records": [],
