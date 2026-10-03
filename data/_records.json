@@ -13956,7 +13956,13 @@
         "link": "https://www.youtube.com/watch?v=pZ3E81F3JTU",
         "percent": 100,
         "user": "kas ia"
-      }
+      },
+         {
+          "hz": 240,
+          "link": "https://youtu.be/9mvBJC5a0gw",
+          "percent": 100,
+          "user": "KrisYa"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=QWy1RnPDCWk",
@@ -29638,6 +29644,18 @@
           "link": "https://youtu.be/RsjvRSu3f2w",
           "percent": 100,
           "user": "macaca"
+        },
+         {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCLDX9hjuzTuu0s1M?invite=cr-MSwyQ1MsNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        },
+        {
+          "hz": 240,
+          "link": "https://youtu.be/bNq5s3-zv4M?si=zMnHjL-sHcAtFv7s",
+          "percent": 100,
+          "user": "KrisYa"
         }
       ],
       "verifier": {
@@ -40094,6 +40112,12 @@
           "link": "https://youtu.be/YNnS9wV8UEQ",
           "percent": 100,
           "user": "Adhafera"
+        },
+         {
+          "hz": 240,
+          "link": "https://youtu.be/nedDadwAmm8",
+          "percent": 100,
+          "user": "chaseqwe"
         }
       ],
       "verifier": {
@@ -43744,6 +43768,18 @@
           "link": "https://youtu.be/g7P77nJub-Y",
           "percent": 100,
           "user": "Lumenline"
+        },
+           {
+          "hz": 240,
+          "link": "https://youtu.be/bNq5s3-zv4M?si=zMnHjL-sHcAtFv7s",
+          "percent": 100,
+          "user": "KrisYa"
+        },
+         {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nDpxLYcn7UOGsp92x?invite=cr-MSxBZ2wsNDc1MzQxMTE5",
+          "percent": 100,
+          "user": "Cyrustine"
         }
       ],
       "verifier": {
@@ -84373,7 +84409,13 @@
         "link": "https://youtu.be/9s0HnC6f17o",
         "percent": 100,
         "user": "Adhafera"
-      }
+      },
+         {
+          "hz": 240,
+          "link": "https://youtu.be/Y8nl1QqMp7I",
+          "percent": 100,
+          "user": "Matthew081510"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=SjQV6uJOtyQ",
@@ -86769,7 +86811,14 @@
   },
   "Slaughterhouse Enhanced": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCI64gEcIg2Kqf9rU?invite=cr-MSxyR1YsNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=s1dbQmo8XgQ",
       "verifier": "MostDefinitelyAlbert"
@@ -88256,7 +88305,14 @@
   },
   "Shitty AfterCataBath": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCMHg1AB4mc9NDBeU?invite=cr-MSwyV1QsNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=mTk3hm2RzvA",
       "verifier": "homegrowntag"
@@ -89121,7 +89177,14 @@
   },
   "Shitty Oblivion": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+       {
+          "hz": 240,
+          "link": "https://youtu.be/dUk4XnfGe6U?si=6bdkPS4d3YP_1sM5",
+          "percent": 100,
+          "user": "KrisYa"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=eDxH-gAGA30",
       "verifier": "skeeb"
@@ -89287,7 +89350,13 @@
         "link": "https://youtu.be/Jf9iNJfhSOQ",
         "percent": 100,
         "user": "Willow"
-      }
+      },
+      {
+          "hz": 240,
+          "link": "https://www.youtube.com/watch?v=RsuF_vAjw7c",
+          "percent": 100,
+          "user": "Puremidnight"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=TvxNRQkKqk8",
@@ -89394,7 +89463,14 @@
   },
   "Shitty Slaughterhouse (JASM18)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+          {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCJewc5JvFt5zfGhW?invite=cr-MSxWRGssNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=3GkCFd6dlo0",
       "verifier": "SOFIARG"
@@ -89658,7 +89734,14 @@
   },
   "Shitty UNKNOWN": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCNqRcmeN4Pk9z_yw?invite=cr-MSxITVMsNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=ObIJBphSSdY",
       "verifier": "Dandy Chiggins"
@@ -90794,7 +90877,19 @@
         "link": "https://youtu.be/RsjvRSu3f2w",
         "percent": 100,
         "user": "macaca"
-      }
+      },
+        {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCNqRcmeN4Pk9z_yw?invite=cr-MSxITVMsNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        },
+         {
+          "hz": 240,
+          "link": "https://youtu.be/bNq5s3-zv4M?si=zMnHjL-sHcAtFv7s",
+          "percent": 100,
+          "user": "KrisYa"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=nRDhMsISGKI",
@@ -95587,7 +95682,13 @@
         "link": "https://youtu.be/RsjvRSu3f2w",
         "percent": 100,
         "user": "macaca"
-      }
+      },
+        {
+          "hz": 240,
+          "link": "https://youtu.be/bNq5s3-zv4M?si=zMnHjL-sHcAtFv7s",
+          "percent": 100,
+          "user": "KrisYa"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=sX0RLCgxBsU",
@@ -106915,7 +107016,13 @@
         "link": "https://www.youtube.com/watch?v=XK93JJgZKbA",
         "percent": 100,
         "user": "chaseqwe"
-      }
+      },
+         {
+          "hz": 240,
+          "link": "https://youtu.be/KPs7koPC6mI",
+          "percent": 100,
+          "user": "Axolotl101"
+        }
     ],
     "verifier": {
       "verifier": "airless",
@@ -108580,7 +108687,19 @@
         "link": "https://youtu.be/vuPAs7pcz2o",
         "percent": 100,
         "user": "Lumenline"
-      }
+      },
+       {
+          "hz": 240,
+          "link": "https://medal.tv/games/geometry-dash/clips/nCJWoDGsRcP3Gfqxl?invite=cr-MSxEb28sNjEzMzMxOTQx",
+          "percent": 100,
+          "user": "chaseqwe"
+        },
+          {
+          "hz": 240,
+          "link": "https://youtu.be/bNq5s3-zv4M?si=zMnHjL-sHcAtFv7s",
+          "percent": 100,
+          "user": "KrisYa"
+        }
     ],
     "verifier": {
       "verifier": "Noxces",
