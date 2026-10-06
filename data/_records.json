@@ -56114,7 +56114,14 @@
     },
     "ROCKBOTTOM": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+          {
+          "hz": "180",
+          "link": "https://www.youtube.com/watch?v=UmpkmQ8Wu3k&pp=0gcJCS8MAYcqIYzv",
+          "percent": 100,
+          "user": "cyrik2"
+        }
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=HAyxOJ1XuBk",
         "verifier": "ZazaGD"
@@ -84894,7 +84901,14 @@
   },
   "ROCKBOTTOM": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+       {
+          "hz": "180",
+          "link": "https://www.youtube.com/watch?v=UmpkmQ8Wu3k&pp=0gcJCS8MAYcqIYzv",
+          "percent": 100,
+          "user": "cyrik2"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=HAyxOJ1XuBk",
       "verifier": "ZazaGD"
