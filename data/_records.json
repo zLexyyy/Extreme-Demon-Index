@@ -745,6 +745,12 @@
         "link": "https://youtu.be/xdlWjpA1L4o?si=MRpjJALfRWgAqmzK",
         "percent": 100,
         "user": "BlueGamer"
+      },
+         {
+        "hz": 240,
+        "link": "https://youtu.be/AxuTVVVflzo?si=xZiv5OfgQsC0GUcJ",
+        "percent": 100,
+        "user": "chaseqwe"
       }
     ],
     "verifier": {
@@ -1705,6 +1711,12 @@
         "link": "https://www.youtube.com/watch?v=b0FuCbSTNk8",
         "percent": 100,
         "user": "otter!"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
       }
     ],
     "verifier": {
@@ -1759,6 +1771,12 @@
         "link": "https://youtu.be/XX9j0t3USjk",
         "percent": 100,
         "user": "Meatballmoose"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
       }
     ],
     "verifier": {
@@ -8108,6 +8126,12 @@
         "link": "https://www.youtube.com/watch?v=SZ6GotHMsYQ",
         "percent": 100,
         "user": "chaseqwe"
+      },
+          {
+        "hz": 240,
+        "link": "https://youtu.be/gopI-7kpzJ4",
+        "percent": 100,
+        "user": "Matthew081510"
       }
     ],
     "verifier": {
@@ -27803,7 +27827,13 @@
           "link": "https://www.youtube.com/watch?v=b0FuCbSTNk8",
           "percent": 100,
           "user": "otter!"
-        }
+        },
+            {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
+      }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=LZcJ6I_vRVc&feature=youtu.be",
@@ -27857,7 +27887,13 @@
           "link": "https://youtu.be/XX9j0t3USjk",
           "percent": 100,
           "user": "Meatballmoose"
-        }
+        },
+            {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
+      }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=zHjW4RQnZKA",
@@ -34109,7 +34145,13 @@
           "link": "https://www.youtube.com/watch?v=W5pC3kWDzfQ",
           "percent": 100,
           "user": "KrisYa"
-        }
+        },
+           {
+        "hz": 240,
+        "link": "https://youtu.be/gopI-7kpzJ4",
+        "percent": 100,
+        "user": "Matthew081510"
+      }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=Y6tQx5ty_u8",
@@ -53597,7 +53639,14 @@
     "PAGANI NEVER CLEAR": {
       "Acu Madness": {
         "percentToQualify": 66,
-        "records": [],
+        "records": [
+              {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+        ],
         "verifier": {
           "verification": "https://www.youtube.com/watch?v=LZcJ6I_vRVc&feature=youtu.be",
           "verifier": "ddlghl"
@@ -60132,7 +60181,14 @@
     },
     "Shitty Kenos": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+          {
+        "hz": "360",
+        "link": "https://youtu.be/gIGOOEn23S0",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=4MF4yyCtbWo",
         "verifier": "GDTeabag"
@@ -60556,7 +60612,13 @@
           "link": "https://www.youtube.com/watch?v=RsuF_vAjw7c",
           "percent": 100,
           "user": "Puremidnight"
-        }
+        },
+           {
+        "hz": "360",
+        "link": "https://youtu.be/oCv3SIBLf00",
+        "percent": 100,
+        "user": "KrisYa"
+      }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=TvxNRQkKqk8",
@@ -61007,7 +61069,14 @@
     },
     "Shitty Wasureta (MamaMauve)": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+           {
+        "hz": "360",
+        "link": "https://youtu.be/-9VDuUcFcHg?si=ax4xRzrFPRrrcxAH",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=LVPpeJs_fCA",
         "verifier": "iRaily"
@@ -74299,7 +74368,13 @@
           "link": "https://www.youtube.com/watch?v=zxKlpZlGhmQ",
           "percent": 100,
           "user": "Lanii"
-        }
+        },
+         {
+        "hz": "360",
+        "link": "https://youtu.be/TEMQ_2rHDgo",
+        "percent": 100,
+        "user": "Matthew081510"
+      }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=NIcEmXpeI68",
@@ -76373,7 +76448,14 @@
       "percentToQualify": 66
     },
     "Prismatic Haze (Old)": {
-      "records": [],
+      "records": [
+           {
+        "hz": "360",
+        "link": "https://youtu.be/cT3n1PvZWNE",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+      ],
       "verifier": {
         "verifier": "Gizbro",
         "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I"
@@ -78870,7 +78952,14 @@
       "percentToQualify": 66
     },
     "SUPERACUWORLD": {
-      "records": [],
+      "records": [
+           {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+      ],
       "verifier": {
         "verifier": "tacojed",
         "verification": "https://www.youtube.com/watch?v=DIURTk23Rq8"
@@ -88932,7 +89021,14 @@
   },
   "Shitty Kenos": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+        "hz": "360",
+        "link": "https://youtu.be/gIGOOEn23S0",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=4MF4yyCtbWo",
       "verifier": "GDTeabag"
@@ -89356,6 +89452,12 @@
         "link": "https://www.youtube.com/watch?v=RsuF_vAjw7c",
         "percent": 100,
         "user": "Puremidnight"
+      },
+           {
+        "hz": "360",
+        "link": "https://youtu.be/oCv3SIBLf00",
+        "percent": 100,
+        "user": "KrisYa"
       }
     ],
     "verifier": {
@@ -89813,7 +89915,14 @@
   },
   "Shitty Wasureta (MamaMauve)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+        "hz": "360",
+        "link": "https://youtu.be/-9VDuUcFcHg?si=ax4xRzrFPRrrcxAH",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=LVPpeJs_fCA",
       "verifier": "iRaily"
@@ -103199,6 +103308,12 @@
         "link": "https://www.youtube.com/watch?v=zxKlpZlGhmQ",
         "percent": 100,
         "user": "Lanii"
+      },
+        {
+        "hz": "360",
+        "link": "https://youtu.be/TEMQ_2rHDgo",
+        "percent": 100,
+        "user": "Matthew081510"
       }
     ],
     "verifier": {
@@ -105271,7 +105386,14 @@
     "percentToQualify": 66
   },
   "Prismatic Haze (Old)": {
-    "records": [],
+    "records": [
+         {
+        "hz": "360",
+        "link": "https://youtu.be/cT3n1PvZWNE",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+    ],
     "verifier": {
       "verifier": "Gizbro",
       "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I"
@@ -107780,7 +107902,14 @@
     "percentToQualify": 66
   },
   "SUPERACUWORLD": {
-    "records": [],
+    "records": [
+          {
+        "hz": 240,
+        "link": "https://youtu.be/zgQQeDL9yvw?si=6wapcIQwwdNOkbA8",
+        "percent": 100,
+        "user": "KrisYa"
+      }
+    ],
     "verifier": {
       "verifier": "tacojed",
       "verification": "https://www.youtube.com/watch?v=DIURTk23Rq8"
