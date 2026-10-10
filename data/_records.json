@@ -15917,6 +15917,12 @@
     "link": "https://youtu.be/L286-NY3Gk8",
     "percent": 100,
     "user": "Matthew081510"
+   },
+     {
+    "hz": "240",
+    "link": "https://youtu.be/gv2LI99jaZo?si=ZJ9CgK_K-YOOxsH8",
+    "percent": 100,
+    "user": "chaseqwe"
    }
   ],
   "verifier": {
@@ -17493,7 +17499,14 @@
  },
  "FusionDynamix": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+    {
+    "hz": 240,
+    "link": "https://youtu.be/wrYhgttvzA4",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=fv277gx5_Y4",
    "verifier": "vonic"
@@ -19955,6 +19968,12 @@
     "link": "https://www.youtube.com/watch?v=WBc8GjqttlM",
     "percent": 100,
     "user": "kas ia"
+   },
+     {
+    "hz": "240",
+    "link": "https://youtu.be/nB-6TOuluQg?si=M3vXKbuSt6o60U-J",
+    "percent": 100,
+    "user": "chaseqwe"
    }
   ],
   "verifier": {
@@ -41900,7 +41919,13 @@
      "link": "https://www.youtube.com/watch?v=dQadNbbzVVY",
      "percent": 100,
      "user": "Lanii"
-    }
+    },
+         {
+    "hz": "240",
+    "link": "https://youtu.be/gv2LI99jaZo?si=ZJ9CgK_K-YOOxsH8",
+    "percent": 100,
+    "user": "chaseqwe"
+   }
    ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=ngNeuF2u9so",
@@ -43446,7 +43471,14 @@
   },
   "FusionDynamix": {
    "percentToQualify": 66,
-   "records": [],
+   "records": [
+     {
+    "hz": 240,
+    "link": "https://youtu.be/wrYhgttvzA4",
+    "percent": 100,
+    "user": "Adhafera"
+   }
+   ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=fv277gx5_Y4",
     "verifier": "vonic"
@@ -45876,7 +45908,13 @@
      "link": "https://www.youtube.com/watch?v=WBc8GjqttlM",
      "percent": 100,
      "user": "kas ia"
-    }
+    },
+      {
+    "hz": "240",
+    "link": "https://youtu.be/nB-6TOuluQg?si=M3vXKbuSt6o60U-J",
+    "percent": 100,
+    "user": "chaseqwe"
+   }
    ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=kbXtNGaobvE",
@@ -70815,7 +70853,13 @@
      "link": "https://www.youtube.com/watch?v=7PhRVHmh8XI",
      "percent": 100,
      "user": "Duckly"
-    }
+    },
+        {
+    "hz": 144,
+    "link": "https://youtu.be/lxnRD6HKNY8",
+    "percent": 100,
+    "user": "Omegagamerepic"
+   }
    ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=iLCcJyh5c5k",
@@ -74581,7 +74625,13 @@
      "link": "https://youtu.be/TEMQ_2rHDgo",
      "percent": 100,
      "user": "Matthew081510"
-    }
+    },
+       {
+    "hz": "240",
+    "link": "https://youtu.be/bHzI-g_3ONE?si=cKAo358Xjw37lhSD",
+    "percent": 100,
+    "user": "chaseqwe"
+   }
    ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=NIcEmXpeI68",
@@ -74704,7 +74754,13 @@
      "link": "https://www.youtube.com/watch?v=r2JymHv6G6Q",
      "percent": 100,
      "user": "aivan"
-    }
+    },
+         {
+    "hz": "240",
+    "link": "https://youtu.be/9ep9IHr-aaU?si=7A8EAR0RKwccKKRM",
+    "percent": 100,
+    "user": "chaseqwe"
+   }
    ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=ZCAD86pTv-4",
@@ -98504,6 +98560,12 @@
     "link": "https://youtu.be/HlKz0YaE9Mc",
     "percent": 100,
     "user": "shafikdabest"
+   },
+    {
+    "hz": "240",
+    "link": "https://youtu.be/8U_s7dfMRls",
+    "percent": 100,
+    "user": "ddlghl"
    }
   ],
   "verifier": {
@@ -99830,7 +99892,13 @@
      "link": "https://www.youtube.com/watch?v=7PhRVHmh8XI",
      "percent": 100,
      "user": "Duckly"
-    }
+    },
+     {
+    "hz": 144,
+    "link": "https://youtu.be/lxnRD6HKNY8",
+    "percent": 100,
+    "user": "Omegagamerepic"
+   }
   ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=iLCcJyh5c5k",
@@ -103637,6 +103705,12 @@
     "link": "https://youtu.be/TEMQ_2rHDgo",
     "percent": 100,
     "user": "Matthew081510"
+   },
+     {
+    "hz": "240",
+    "link": "https://youtu.be/bHzI-g_3ONE?si=cKAo358Xjw37lhSD",
+    "percent": 100,
+    "user": "chaseqwe"
    }
   ],
   "verifier": {
