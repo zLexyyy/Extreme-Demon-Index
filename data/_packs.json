@@ -975,13 +975,13 @@
         "name": "Tidal Wave Pack I",
         "color": "#D4A017",
         "textColor": "#c6cf63",
-        "levels": ["Tidal Wave Easy", "Shitty Tidal Wave", "Tidalmoment"]
+        "levels": ["Tidal Wave Easy", "Shitty Tidal Wave", "Tidalmoment", "Tidal Wave (September 2023)", "Tidal Wave (March 2024)"]
     },
     {
         "name": "Tidal Wave Pack II",
         "color": "#D4A017",
         "textColor": "#c6cf63",
-        "levels": ["Tidal Wave (April 2026)", "Tidal Wave (September 2023)", "Tidal Wave (July 2025)", "Tidal Wave (March 2025)", "Tidal Wave buffed"]
+        "levels": ["Tidal Wave (August 2026)", "Tidal Wave (November 2025)", "Tidal Wave (April 2026)", "Tidal Wave buffed", "Tidal Wave (Paliermu)"]
     },
     {
         "name": "Randomizer Pack",
