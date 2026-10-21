@@ -5493,6 +5493,12 @@
         "link": "https://www.youtube.com/watch?v=wdNbbzSArl4",
         "percent": 100,
         "user": "Matthew081510"
+      },
+      {
+        "hz": 144,
+        "link": "https://youtu.be/RVD6-zdXlQ4",
+        "percent": 100,
+        "user": "Meatballmoose"
       }
     ],
     "verifier": {
@@ -9704,6 +9710,12 @@
         "link": "https://youtu.be/dkeIkJD_n3M?si=B4bSjPM8aBQtBq5Y",
         "percent": 100,
         "user": "chaseqwe"
+      },
+      {
+        "hz": 144,
+        "link": "https://youtu.be/Qe_TIb2YsWE",
+        "percent": 100,
+        "user": "Meatballmoose"
       }
     ],
     "verifier": {
@@ -26102,6 +26114,12 @@
         "link": "https://www.youtube.com/watch?v=Jh7WIsCoQQE",
         "percent": 100,
         "user": "Lemniks"
+      },
+      {
+        "hz": 144,
+        "link": "https://youtu.be/He9nPpEBp00",
+        "percent": 100,
+        "user": "Meatballmoose"
       }
     ],
     "verifier": {
@@ -31687,6 +31705,12 @@
           "link": "https://www.youtube.com/watch?v=wdNbbzSArl4",
           "percent": 100,
           "user": "Matthew081510"
+        },
+        {
+          "hz": 144,
+          "link": "https://youtu.be/RVD6-zdXlQ4",
+          "percent": 100,
+          "user": "Meatballmoose"
         }
       ],
       "verifier": {
@@ -35808,6 +35832,18 @@
           "link": "https://youtu.be/2cN_mO5IIYE",
           "percent": 100,
           "user": "shafikdabest"
+        },
+        {
+          "hz": 240,
+          "link": "https://youtu.be/dkeIkJD_n3M?si=B4bSjPM8aBQtBq5Y",
+          "percent": 100,
+          "user": "chaseqwe"
+        },
+        {
+          "hz": 144,
+          "link": "https://youtu.be/Qe_TIb2YsWE",
+          "percent": 100,
+          "user": "Meatballmoose"
         }
       ],
       "verifier": {
@@ -51987,6 +52023,12 @@
           "link": "https://www.youtube.com/watch?v=Jh7WIsCoQQE",
           "percent": 100,
           "user": "Lemniks"
+        },
+        {
+          "hz": 144,
+          "link": "https://youtu.be/He9nPpEBp00",
+          "percent": 100,
+          "user": "Meatballmoose"
         }
       ],
       "verifier": {
@@ -59975,7 +60017,14 @@
     },
     "Shitty Azure Flare": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+        {
+          "hz": 144,
+          "link": "https://youtu.be/Lu6M6vMiKC8",
+          "percent": 100,
+          "user": "Meatballmoose"
+        }
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=ljJYaYUCvyY",
         "verifier": "Magmeta"
@@ -70569,6 +70618,12 @@
           "link": "https://youtu.be/FTVCcqtltmc",
           "percent": 100,
           "user": "Matthew081510"
+        },
+        {
+          "hz": 144,
+          "link": "https://youtu.be/VJqH7uC6hME",
+          "percent": 100,
+          "user": "MeatballMoose"       
         }
       ],
       "verifier": {
@@ -77146,7 +77201,14 @@
       "percentToQualify": 66
     },
     "Heliopolis ": {
-      "records": [],
+      "records": [        
+        {
+          "hz": 144,
+          "link": "https://youtu.be/bSl9mqGuAFE",
+          "percent": 100,
+          "user": "Meatballmoose"
+        }
+      ],
       "verifier": {
         "verifier": "ddlghl",
         "verification": "https://www.youtube.com/watch?v=FVDt6NsbAnU"
@@ -88938,7 +89000,14 @@
   },
   "Shitty Azure Flare": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [        
+        {
+          "hz": 144,
+          "link": "https://youtu.be/Lu6M6vMiKC8",
+          "percent": 100,
+          "user": "Meatballmoose"
+        }
+      ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=ljJYaYUCvyY",
       "verifier": "Magmeta"
@@ -99645,6 +99714,12 @@
         "link": "https://youtu.be/FTVCcqtltmc",
         "percent": 100,
         "user": "Matthew081510"
+      },
+      {
+        "hz": 144,
+        "link": "https://youtu.be/VJqH7uC6hME",
+        "percent": 100,
+        "user": "MeatballMoose"       
       }
     ],
     "verifier": {
@@ -106273,7 +106348,14 @@
     "percentToQualify": 66
   },
   "Heliopolis ": {
-    "records": [],
+    "records": [
+        {
+          "hz": 144,
+          "link": "https://youtu.be/bSl9mqGuAFE",
+          "percent": 100,
+          "user": "Meatballmoose"
+        }
+    ],
     "verifier": {
       "verifier": "ddlghl",
       "verification": "https://www.youtube.com/watch?v=FVDt6NsbAnU"
