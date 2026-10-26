@@ -727,7 +727,7 @@
       "verifier": "s3batr0nic"
     }
   },
-  "ANNIHILATED": {
+  "-ANNIHILATED": {
     "percentToQualify": 66,
     "records": [
       {
