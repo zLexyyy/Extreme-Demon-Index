@@ -12136,7 +12136,13 @@
         "link": "https://www.youtube.com/watch?v=iOar7OQjEio",
         "percent": 100,
         "user": "chaseqwe"
-      }
+      },
+         {
+          "hz": 240,
+          "link": "https://youtu.be/gZDasPlVx5M",
+          "percent": 100,
+          "user": "Lumenline"
+        }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=jJIcx44_4-8",
@@ -63957,7 +63963,14 @@
     },
     "Submerged Paracosm": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+            {
+          "hz": 240,
+          "link": "https://youtu.be/WiuKdxJT6cA",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=HR-aWAQg0kg",
         "verifier": "M0nSt33r"
@@ -70298,7 +70311,14 @@
     },
     "XIX Vortex": {
       "percentToQualify": 66,
-      "records": [],
+      "records": [
+         {
+          "hz": 240,
+          "link": "https://youtu.be/a7klz1yZpU8",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+      ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=-0MAKay72nw",
         "verifier": "Slithium"
@@ -93021,7 +93041,14 @@
   },
   "Submerged Paracosm": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+         {
+          "hz": 240,
+          "link": "https://youtu.be/WiuKdxJT6cA",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=HR-aWAQg0kg",
       "verifier": "M0nSt33r"
@@ -99440,7 +99467,14 @@
   },
   "XIX Vortex": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+      {
+          "hz": 240,
+          "link": "https://youtu.be/a7klz1yZpU8",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=-0MAKay72nw",
       "verifier": "Slithium"
