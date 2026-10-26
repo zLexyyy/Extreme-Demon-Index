@@ -58,6 +58,7 @@ export default {
                   />
                 </div>
 
+                <div ref="ghosts" class="list-ghosts" aria-hidden="true"></div>
                 <div ref="listTop" :style="{ height: padTop + 'px' }"></div>
 
                 <!-- Classic List View with Legacy Levels -->
@@ -73,7 +74,7 @@ export default {
                             </td>
                             <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name, 'benchmark-level': entry.isBenchmark, 'legacy-level': entry.isLegacy }">
                                 <button class="level-btn" @click="fetchLvl(entry.index); selected = entry.index">
-                                    <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
+                                    <span class="type-label-lg"><span class="level-name" :data-name="entry.name || 'Error'"></span></span>
                                 </button>
                             </td>
                         </tr>
@@ -89,10 +90,10 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == entry.index, 'error': !entry.name, 'benchmark-level': entry.isBenchmark }">
                             <button v-if="!entry.isBenchmark || activeList !== 'upcoming'" class="level-btn" @click="fetchLvl(entry.index); selected = entry.index">
-                                <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
+                                <span class="type-label-lg"><span class="level-name" :data-name="entry.name || 'Error'"></span></span>
                             </button>
                             <div v-else class="level-btn">
-                                <span class="type-label-lg">{{ entry.name || 'Error' }}</span>
+                                <span class="type-label-lg"><span class="level-name" :data-name="entry.name || 'Error'"></span></span>
                             </div>
                         </td>
                     </tr>
@@ -417,6 +418,7 @@ export default {
         this.syncRows();
     },
     beforeUnmount() {
+        clearTimeout(this.ghostTimer);
         window.removeEventListener('resize', this.onResize);
     },
     methods: {
@@ -487,6 +489,53 @@ export default {
             const shift = sameRows ? this.rowOffsets[first] - offsets[first] : 0; //stops the view from jumping
             if (shift) box.scrollTop += shift;
             this.updateWindow();
+            clearTimeout(this.ghostTimer);
+            this.ghostTimer = setTimeout(this.syncGhosts, 200); // should be fine?
+        }, // my attempt rendering the TEXT only of level names so ctrl f could hopefully work again without hindering search preformance too much
+        syncGhosts() {
+            const layer = this.$refs.ghosts;
+            const table = this.$refs.listTable;
+            if (!layer) return;
+            if (this.ghostLayer !== layer) {
+                this.ghostLayer = layer;
+                this.ghostRows = null;
+                this.ghostNodes = new Map();
+                const base = this.activeList === 'classic' ? this.baseDemonListClassic.plain : this.baseDemonList;
+                const frag = document.createDocumentFragment();
+                base.forEach(entry => {
+                    const node = document.createElement('div');
+                    node.textContent = entry.name || 'Error';
+                    node.style.visibility = 'hidden';
+                    this.ghostNodes.set(entry.index, node);
+                    frag.appendChild(node);
+                });
+                layer.replaceChildren(frag);
+            }
+            const name = table && table.querySelector('tr:not(.benchmark):not(.legacy) .level-btn .type-label-lg');
+            if (name) {
+                const text = name.getBoundingClientRect();
+                const row = name.closest('tr').getBoundingClientRect();
+                const button = name.parentElement;
+                const left = layer.getBoundingClientRect().left - (parseFloat(layer.style.left) || 0);
+                layer.style.left = text.left - left + 'px';
+                layer.style.top = text.top - row.top + 'px';
+                layer.style.width = button.getBoundingClientRect().right - parseFloat(getComputedStyle(button).paddingRight) - text.left + 'px';
+            }
+            const shown = new Set();
+            this.rows.forEach((entry, i) => {
+                const node = this.ghostNodes.get(entry.index);
+                if (!node) return;
+                shown.add(node);
+                const move = 'translateY(' + this.rowOffsets[i] + 'px)';
+                if (node.style.transform !== move) node.style.transform = move;
+                if (node.style.visibility) node.style.visibility = '';
+            });
+            if (this.ghostRows !== this.rows) {
+                this.ghostNodes.forEach(node => {
+                    if (!node.style.visibility && !shown.has(node)) node.style.visibility = 'hidden';
+                });
+                this.ghostRows = this.rows;
+            }
         },
         // give me a raise for this
         // half a buck a year at least :cryign:
