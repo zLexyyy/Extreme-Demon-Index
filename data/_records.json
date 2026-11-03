@@ -2660,6 +2660,12 @@
     "link": "https://www.youtube.com/watch?v=mNEN29jNUfM",
     "percent": 100,
     "user": "vipexx"
+   },
+   {
+    "hz": "480",
+    "link": "https://www.youtube.com/watch?v=joLk6UlB1mQ",
+    "percent": 100,
+    "user": "Axolotl101"
    }
   ],
   "verifier": {
@@ -7281,6 +7287,12 @@
     "link": "https://www.youtube.com/watch?v=aGuodGlvH-U",
     "percent": 100,
     "user": "kas ia"
+   },
+   {
+    "hz": 240,
+    "link": "https://www.youtube.com/watch?v=Mm9rJzbMUEw",
+    "percent": 100,
+    "user": "MythicalWrath"
    }
   ],
   "verifier": {
@@ -9193,7 +9205,14 @@
  },
  "Christmas Wave": {
   "percentToQualify": 66,
-  "records": [],
+  "records": [
+   {
+    "hz": 360,
+    "link": "https://www.youtube.com/watch?v=5wuT29A8iig",
+    "percent": 100,
+    "user": "vipexx"
+   }
+  ],
   "verifier": {
    "verification": "https://www.youtube.com/watch?v=LPmEeEzLjDk",
    "verifier": "Hipo"
@@ -58010,7 +58029,14 @@
   },
   "Retro Sonic Wave": {
    "percentToQualify": 66,
-   "records": [],
+   "records": [
+    {
+     "hz": 360,
+     "link": "https://www.youtube.com/watch?v=_aw1s4Yl99o",
+     "percent": 100,
+     "user": "vipexx"
+    }
+   ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=r9fhvAoXlEU",
     "verifier": "Hipo"
@@ -61607,7 +61633,14 @@
   },
   "Shitty The Golden": {
    "percentToQualify": 66,
-   "records": [],
+   "records": [
+    {
+     "hz": 360,
+     "link": "https://www.youtube.com/watch?v=L-fgDoRVxdg",
+     "percent": 100,
+     "user": "vipexx"
+    }
+   ],
    "verifier": {
     "verification": "https://www.youtube.com/watch?v=9YmF_58zjxE",
     "verifier": "Diverse"
@@ -108574,6 +108607,12 @@
     "link": "https://youtu.be/Rcc1uQlFv5Y",
     "percent": 100,
     "user": "Matthew081510"
+   },
+   {
+    "hz": "144",
+    "link": "https://www.youtube.com/watch?v=QAiKWysUqUI",
+    "percent": 100,
+    "user": "MeatballMoose"
    }
   ],
   "verifier": {
