@@ -113968,7 +113968,12 @@
     "percentToQualify": 66
   },
   "my secret": {
-    "records": []
+    "records": [],
+    "verifier": {
+      "verifier": "Dustabounds",
+      "verification": "https://www.youtube.com/watch?v=fOpJWrGl2y8"
+    },
+    "percentToQualify": 66
   },
   "PSYCHOANGEL": {
     "records": [],
