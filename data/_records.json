@@ -56428,7 +56428,7 @@
     "verifier": "fusion425"
    }
   },
-  "Quanteuse Processing": {
+  "Quanteuse Processing (Renn241)": {
    "percentToQualify": 71,
    "records": [],
    "verifier": {
@@ -64156,7 +64156,7 @@
     "verifier": "BoldStep"
    }
   },
-  "Stereo Blindness": {
+  "-Stereo Blindness": {
    "percentToQualify": 66,
    "records": [],
    "verifier": {
@@ -76727,7 +76727,7 @@
    },
    "percentToQualify": 66
   },
-  "Quanteuse Processing (Old)": {
+  "Quanteuse Processing (Old) (Renn241)": {
    "records": [],
    "verifier": {
     "verifier": "Zoink",
@@ -85493,7 +85493,7 @@
    "verifier": "fusion425"
   }
  },
- "Quanteuse Processing": {
+ "Quanteuse Processing (Renn241)": {
   "percentToQualify": 71,
   "records": [],
   "verifier": {
@@ -93362,7 +93362,7 @@
    "verifier": "BoldStep"
   }
  },
- "Stereo Blindness": {
+ "-Stereo Blindness": {
   "percentToQualify": 66,
   "records": [],
   "verifier": {
@@ -106130,7 +106130,7 @@
   },
   "percentToQualify": 66
  },
- "Quanteuse Processing (Old)": {
+ "Quanteuse Processing (Old) (Renn241)": {
   "records": [],
   "verifier": {
    "verifier": "Zoink",
