@@ -3952,7 +3952,7 @@
       "verifier": "knobbelboy"
     }
   },
-  "Athanatos (Compendium) (Old)": {
+  "Athanatos (True Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -3960,7 +3960,7 @@
       "verifier": "vichocraft"
     }
   },
-  "Athanatos (rCyns) (Old)": {
+  "Athanatos (Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -30528,7 +30528,7 @@
         "verifier": "knobbelboy"
       }
     },
-    "Athanatos (Compendium) (Old)": {
+    "Athanatos (True Old)": {
       "percentToQualify": 66,
       "records": [],
       "verifier": {
@@ -30536,7 +30536,7 @@
         "verifier": "vichocraft"
       }
     },
-    "Athanatos (rCyns) (Old)": {
+    "Athanatos (Old)": {
       "percentToQualify": 66,
       "records": [],
       "verifier": {
