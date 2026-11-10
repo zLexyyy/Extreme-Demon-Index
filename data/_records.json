@@ -57692,6 +57692,12 @@
           "link": "https://www.youtube.com/watch?v=Ld3ADvuaR3o&t=132",
           "percent": 100,
           "user": "KrisYa"
+        },
+          {
+          "hz": 240,
+          "link": "https://www.youtube.com/watch?v=sdOarAnQAsY&lc=UgzEj3ynx-RGuTgh_BJ4AaABAg",
+          "percent": 100,
+          "user": "† 𓆩Lexy𓆪 †"
         }
       ],
       "verifier": {
@@ -81970,6 +81976,12 @@
           "link": "https://youtu.be/l5pO2y4YRcM",
           "percent": 100,
           "user": "macaca"
+        },
+        {
+         "hz": 240,
+         "link": "https://www.youtube.com/watch?v=mMGa8N2HVpA",
+         "percent": 100,
+         "user": "† 𓆩Lexy𓆪 †"
         }
       ],
       "verifier": {
@@ -82608,6 +82620,12 @@
           "link": "https://youtu.be/7gdcOhS4y6Y",
           "percent": 100,
           "user": "Matthew081510"
+        },
+        {
+         "hz": 240,
+         "link": "https://www.youtube.com/watch?v=ejF9wCIbxkA",
+         "percent": 100,
+         "user": "† 𓆩Lexy𓆪 †"
         }
       ],
       "verifier": {
@@ -95178,7 +95196,14 @@
   },
   "The Big Black (Zylenox)": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+         "hz": 240,
+         "link": "https://www.youtube.com/watch?v=uFNh-5pxgSU",
+         "percent": 100,
+         "user": "† 𓆩Lexy𓆪 †"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=i9R-FWAgkuE",
       "verifier": "Zylenox"
@@ -114183,7 +114208,14 @@
     "percentToQualify": 66
   },
   "The Dark Triad": {
-    "records": [],
+    "records": [
+        {
+         "hz": 240,
+         "link": "https://www.youtube.com/watch?v=IVUKSn31grU&lc=Ugws_WU0mZMqptT-Vgh4AaABAg",
+         "percent": 100,
+         "user": "† 𓆩Lexy𓆪 †"
+        }
+    ],
     "verifier": {
       "verifier": "Wespdx",
       "verification": "https://www.youtube.com/watch?v=0dch4iSxNeg"
@@ -114539,6 +114571,12 @@
           "link": "https://www.youtube.com/watch?v=TaXmsaM8pfA",
           "percent": 100,
           "user": "m1c4hgd"
+        },
+        {
+         "hz": 240,
+         "link": "https://youtu.be/3PwYujp8fHg?si=-LnM18Gh4z_NXaWX",
+         "percent": 100,
+         "user": "† 𓆩Lexy𓆪 †"
         }
     ],
     "verifier": {
