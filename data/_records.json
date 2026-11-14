@@ -928,12 +928,6 @@
         "link": "https://www.youtube.com/watch?v=-jgPvMoaVOA",
         "percent": 100,
         "user": "Lemniks"
-      },
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -2099,12 +2093,6 @@
     "percentToQualify": 70,
     "records": [
       {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-        "percent": 100,
-        "user": "lanx"
-      },
-      {
         "hz": 240,
         "link": "https://youtu.be/nUiuyRjNiJo",
         "percent": 100,
@@ -2775,12 +2763,6 @@
   "Amalgam": {
     "percentToQualify": 69,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=82DDR2BjXSI",
@@ -7691,12 +7673,6 @@
         "link": "https://youtu.be/HDJKC1S_4rM?si=EC7dzy7bRDzgHrz9",
         "percent": 100,
         "user": "Sharkified"
-      },
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -9550,12 +9526,6 @@
         "link": "https://youtu.be/N-BoEHo2Lf0?si=VZjXhCc3x_N4WEJ1",
         "percent": 100,
         "user": "Sharkified"
-      },
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=Qp-l-NhNp5s",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -9893,12 +9863,6 @@
         "user": "BlueGamer"
       },
       {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=L1QClMHg9MY",
-        "percent": 100,
-        "user": "lanx"
-      },
-      {
         "hz": "360",
         "link": "https://www.youtube.com/watch?v=kJXBnJGuMOU",
         "percent": 100,
@@ -10198,12 +10162,6 @@
   "Congregation": {
     "percentToQualify": 72,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=e5QAVYd4JXw",
-        "percent": 100,
-        "user": "lanx"
-      },
       {
         "hz": "360",
         "link": "https://www.youtube.com/watch?v=9vwVwFr4Vd8",
@@ -10647,12 +10605,6 @@
   "Crackhead Circles": {
     "percentToQualify": 67,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=_4MDq8Us5gM",
@@ -10762,12 +10714,6 @@
         "link": "https://youtu.be/vwUnMEMnnPQ?si=pCwZaJTx5lx-2f8i",
         "percent": 100,
         "user": "Sharkified"
-      },
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=L1QClMHg9MY",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -15409,12 +15355,6 @@
   "Every End": {
     "percentToQualify": 66,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=qCMU4Ua8vcc&t=17s",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=KexrBfBCZJA",
@@ -15737,12 +15677,6 @@
   "Eyes in the Water": {
     "percentToQualify": 71,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=pWIuLVq5lm4",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=yvLwiOy3KEA",
@@ -24458,12 +24392,6 @@
         "link": "https://youtu.be/xIjDz2TJ8JQ?si=4_sH1Ne009Y8UFGt",
         "percent": 100,
         "user": "Sharkified"
-      },
-      {
-        "hz": 360,
-        "link": "https://www.youtube.com/watch?v=bnl5n3LHHPM",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -27986,12 +27914,6 @@
         "user": "ItzApex"
       },
       {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=xKIRIrryaBo",
-        "percent": 100,
-        "user": "lanx"
-      },
-      {
         "hz": "360",
         "link": "https://www.youtube.com/watch?v=dvqIrWN7exc",
         "percent": 100,
@@ -28162,12 +28084,6 @@
         "link": "https://youtu.be/RToruubcFnA?si=WOsV32a0jVelYSER",
         "percent": 100,
         "user": "Sharkified"
-      },
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=m-m1jdCsJ6s",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -28889,12 +28805,6 @@
       "percentToQualify": 70,
       "records": [
         {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-          "percent": 100,
-          "user": "lanx"
-        },
-        {
           "hz": 240,
           "link": "https://youtu.be/nUiuyRjNiJo",
           "percent": 100,
@@ -29541,12 +29451,6 @@
     "Amalgam": {
       "percentToQualify": 69,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=82DDR2BjXSI",
@@ -34227,12 +34131,6 @@
           "link": "https://youtu.be/HDJKC1S_4rM?si=EC7dzy7bRDzgHrz9",
           "percent": 100,
           "user": "Sharkified"
-        },
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -36007,12 +35905,6 @@
           "link": "https://youtu.be/N-BoEHo2Lf0?si=VZjXhCc3x_N4WEJ1",
           "percent": 100,
           "user": "Sharkified"
-        },
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=Qp-l-NhNp5s",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -36338,12 +36230,6 @@
           "user": "BlueGamer"
         },
         {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=L1QClMHg9MY",
-          "percent": 100,
-          "user": "lanx"
-        },
-        {
           "hz": "360",
           "link": "https://www.youtube.com/watch?v=kJXBnJGuMOU",
           "percent": 100,
@@ -36631,12 +36517,6 @@
     "Congregation": {
       "percentToQualify": 72,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=e5QAVYd4JXw",
-          "percent": 100,
-          "user": "lanx"
-        },
         {
           "hz": "360",
           "link": "https://www.youtube.com/watch?v=9vwVwFr4Vd8",
@@ -37050,12 +36930,6 @@
     "Crackhead Circles": {
       "percentToQualify": 67,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=_4MDq8Us5gM",
@@ -37165,12 +37039,6 @@
           "link": "https://youtu.be/vwUnMEMnnPQ?si=pCwZaJTx5lx-2f8i",
           "percent": 100,
           "user": "Sharkified"
-        },
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=L1QClMHg9MY",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -41704,12 +41572,6 @@
     "Every End": {
       "percentToQualify": 66,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=qCMU4Ua8vcc&t=17s",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=KexrBfBCZJA",
@@ -42032,12 +41894,6 @@
     "Eyes in the Water": {
       "percentToQualify": 71,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=pWIuLVq5lm4",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=yvLwiOy3KEA",
@@ -50521,12 +50377,6 @@
           "link": "https://youtu.be/xIjDz2TJ8JQ?si=4_sH1Ne009Y8UFGt",
           "percent": 100,
           "user": "Sharkified"
-        },
-        {
-          "hz": 360,
-          "link": "https://www.youtube.com/watch?v=bnl5n3LHHPM",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -53983,12 +53833,6 @@
           "user": "ItzApex"
         },
         {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=xKIRIrryaBo",
-          "percent": 100,
-          "user": "lanx"
-        },
-        {
           "hz": "360",
           "link": "https://www.youtube.com/watch?v=dvqIrWN7exc",
           "percent": 100,
@@ -54159,12 +54003,6 @@
           "link": "https://youtu.be/RToruubcFnA?si=WOsV32a0jVelYSER",
           "percent": 100,
           "user": "Sharkified"
-        },
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=m-m1jdCsJ6s",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -60302,12 +60140,6 @@
           "link": "https://www.youtube.com/watch?v=znA3uDySFrE",
           "percent": 100,
           "user": "[KLØ] Luna"
-        },
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-          "percent": 100,
-          "user": "lanx"
         },
         {
           "hz": 240,
@@ -66783,12 +66615,6 @@
           "link": "https://youtu.be/Sa7OvejWPnk",
           "percent": 100,
           "user": "Adhafera"
-        },
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=rZNz7JebQTY",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -66885,12 +66711,6 @@
     "The Salt Factory": {
       "percentToQualify": 69,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=ehwVQFTsJSM",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=lQ7M-Sgov24",
@@ -68271,12 +68091,6 @@
           "link": "https://youtu.be/7Dk6F2DSPBs?si=BlAiGOMorTZFLoA3",
           "percent": 100,
           "user": "Sharkified"
-        },
-        {
-          "hz": 720,
-          "link": "https://youtu.be/RAwfsfu-faQ",
-          "percent": 100,
-          "user": "lanx"
         }
       ],
       "verifier": {
@@ -70764,12 +70578,6 @@
     "Widestep": {
       "percentToQualify": 69,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=mJyJQo5muKk",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=TN8fHN_XV3o",
@@ -76200,12 +76008,6 @@
     "walter white": {
       "percentToQualify": 65,
       "records": [
-        {
-          "hz": 720,
-          "link": "https://www.youtube.com/watch?v=oGVsdYed8JI",
-          "percent": 100,
-          "user": "lanx"
-        }
       ],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
@@ -89567,12 +89369,6 @@
         "user": "[KLØ] Luna"
       },
       {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=-5UM_vGeLKE&t=306s",
-        "percent": 100,
-        "user": "lanx"
-      },
-      {
         "hz": 240,
         "link": "https://www.youtube.com/watch?v=_XcRkNFZuUU",
         "percent": 100,
@@ -96139,12 +95935,6 @@
         "link": "https://youtu.be/Sa7OvejWPnk",
         "percent": 100,
         "user": "Adhafera"
-      },
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=rZNz7JebQTY",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -96241,12 +96031,6 @@
   "The Salt Factory": {
     "percentToQualify": 69,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=ehwVQFTsJSM",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=lQ7M-Sgov24",
@@ -97669,12 +97453,6 @@
         "link": "https://youtu.be/7Dk6F2DSPBs?si=BlAiGOMorTZFLoA3",
         "percent": 100,
         "user": "Sharkified"
-      },
-      {
-        "hz": 720,
-        "link": "https://youtu.be/RAwfsfu-faQ",
-        "percent": 100,
-        "user": "lanx"
       }
     ],
     "verifier": {
@@ -100210,12 +99988,6 @@
   "Widestep": {
     "percentToQualify": 69,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=mJyJQo5muKk",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=TN8fHN_XV3o",
@@ -105759,12 +105531,6 @@
   "walter white": {
     "percentToQualify": 65,
     "records": [
-      {
-        "hz": 720,
-        "link": "https://www.youtube.com/watch?v=oGVsdYed8JI",
-        "percent": 100,
-        "user": "lanx"
-      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
