@@ -55893,14 +55893,7 @@
     },
     "Power Grid": {
       "percentToQualify": 66,
-      "records": [
-        {
-          "hz": 240,
-          "link": "https://youtu.be/RkZuuG-Tajk",
-          "percent": 100,
-          "user": "Adhafera"
-        }
-      ],
+      "records": [],
       "verifier": {
         "verification": "https://www.youtube.com/watch?v=5hcQKR1dNkI",
         "verifier": "Lucidium"
@@ -76042,14 +76035,7 @@
     },
     "valiant": {
       "percentToQualify": 66,
-      "records": [
-        {
-          "hz": 240,
-          "link": "https://www.youtube.com/watch?v=7KlUB4J24Qc",
-          "percent": 100,
-          "user": "Adhafera"
-        }
-      ],
+      "records": [],
       "verifier": {
         "verification": "https://youtu.be/8svELiWLLY8",
         "verifier": "urban"
@@ -85066,7 +85052,14 @@
   },
   "Power Grid": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+          "hz": 240,
+          "link": "https://youtu.be/RkZuuG-Tajk",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=5hcQKR1dNkI",
       "verifier": "Lucidium"
@@ -105661,7 +105654,14 @@
   },
   "valiant": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+          "hz": 240,
+          "link": "https://www.youtube.com/watch?v=7KlUB4J24Qc",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+    ],
     "verifier": {
       "verification": "https://youtu.be/8svELiWLLY8",
       "verifier": "urban"
