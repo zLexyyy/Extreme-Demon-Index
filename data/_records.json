@@ -1326,6 +1326,12 @@
         "link": "https://www.youtube.com/watch?v=8df8t0m-LvE",
         "percent": 100,
         "user": "kas ia"
+      },
+      {
+        "hz": 144,
+        "link": "https://www.youtube.com/watch?v=Z75uFtXjmTU",
+        "percent": 100,
+        "user": "MeatballMoose"
       }
     ],
     "verifier": {
@@ -85046,7 +85052,14 @@
   },
   "Power Grid": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+          "hz": 240,
+          "link": "https://youtu.be/RkZuuG-Tajk",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+    ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=5hcQKR1dNkI",
       "verifier": "Lucidium"
@@ -87817,6 +87830,12 @@
         "link": "https://www.youtube.com/watch?v=gKTsan_WBuI",
         "percent": 100,
         "user": "shafikdabest"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=gKTsan_WBuI",
+        "percent": 100,
+        "user": "MythicalWrath"
       }
     ],
     "verifier": {
@@ -105635,7 +105654,14 @@
   },
   "valiant": {
     "percentToQualify": 66,
-    "records": [],
+    "records": [
+        {
+          "hz": 240,
+          "link": "https://www.youtube.com/watch?v=7KlUB4J24Qc",
+          "percent": 100,
+          "user": "Adhafera"
+        }
+    ],
     "verifier": {
       "verification": "https://youtu.be/8svELiWLLY8",
       "verifier": "urban"
@@ -114784,6 +114810,12 @@
         "link": "https://youtu.be/3PwYujp8fHg?si=-LnM18Gh4z_NXaWX",
         "percent": 100,
         "user": "† 𓆩Lexy𓆪 †"
+      },
+      {
+        "hz": 144,
+        "link": "https://www.youtube.com/watch?v=pkaMH8ieDAo",
+        "percent": 100,
+        "user": "MeatballMoose"
       }
     ],
     "verifier": {
