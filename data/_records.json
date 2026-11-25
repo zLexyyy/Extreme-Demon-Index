@@ -85053,12 +85053,12 @@
   "Power Grid": {
     "percentToQualify": 66,
     "records": [
-        {
-          "hz": 240,
-          "link": "https://youtu.be/RkZuuG-Tajk",
-          "percent": 100,
-          "user": "Adhafera"
-        }
+      {
+        "hz": 240,
+        "link": "https://youtu.be/RkZuuG-Tajk",
+        "percent": 100,
+        "user": "Adhafera"
+      }
     ],
     "verifier": {
       "verification": "https://www.youtube.com/watch?v=5hcQKR1dNkI",
@@ -105655,12 +105655,12 @@
   "valiant": {
     "percentToQualify": 66,
     "records": [
-        {
-          "hz": 240,
-          "link": "https://www.youtube.com/watch?v=7KlUB4J24Qc",
-          "percent": 100,
-          "user": "Adhafera"
-        }
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=7KlUB4J24Qc",
+        "percent": 100,
+        "user": "Adhafera"
+      }
     ],
     "verifier": {
       "verification": "https://youtu.be/8svELiWLLY8",
@@ -115511,6 +115511,158 @@
     "verifier": {
       "verifier": "ultrakawaHD",
       "verification": "https://www.youtube.com/watch?v=aiBmXGEJQzc"
+    },
+    "percentToQualify": 66
+  },
+  "SKRTSKRTSKRTSKRT": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nickname",
+      "verification": "https://www.youtube.com/watch?v=wHZ_WQlsKtA"
+    },
+    "percentToQualify": 66
+  },
+  "ZANBOT": {
+    "records": [],
+    "verifier": {
+      "verifier": "Cala",
+      "verification": "https://www.youtube.com/watch?v=2dAiaCWb9gw"
+    },
+    "percentToQualify": 66
+  },
+  "frame reframe": {
+    "records": [],
+    "verifier": {
+      "verifier": "Rediio",
+      "verification": "https://www.youtube.com/watch?v=WqVmhGKN0oE"
+    },
+    "percentToQualify": 66
+  },
+  "Continuum": {
+    "records": [],
+    "verifier": {
+      "verifier": "Gelforce",
+      "verification": "https://www.youtube.com/watch?v=42PbfQ5M1qA"
+    },
+    "percentToQualify": 66
+  },
+  "Atmos (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Luqualizer",
+      "verification": "https://www.youtube.com/watch?v=ezwJKYKsqX0"
+    },
+    "percentToQualify": 66
+  },
+  "plane map (Solo)": {
+    "records": [],
+    "verifier": {
+      "verifier": "hauntkami",
+      "verification": "https://www.youtube.com/watch?v=K1voiz3vvLs"
+    },
+    "percentToQualify": 66
+  },
+  "MISFIRE (Old)": {
+    "records": [],
+    "verifier": {
+      "verifier": "Zeronium",
+      "verification": "https://www.youtube.com/watch?v=hKerWliimjg"
+    },
+    "percentToQualify": 66
+  },
+  "Howling Dunes": {
+    "records": [],
+    "verifier": {
+      "verifier": "Drslug",
+      "verification": "https://youtu.be/W8SRi5JcYMI?si=ADwSfOVb9Dsb3Tsp"
+    },
+    "percentToQualify": 66
+  },
+  "Enamored": {
+    "records": [],
+    "verifier": {
+      "verifier": "ThirtyOne",
+      "verification": "https://www.youtube.com/watch?v=Qc2Eg02Gpno"
+    },
+    "percentToQualify": 66
+  },
+  "Lunacide": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hurooo",
+      "verification": "https://www.youtube.com/watch?v=qPxyqdjEDRg"
+    },
+    "percentToQualify": 66
+  },
+  "Flip Flop": {
+    "records": [],
+    "verifier": {
+      "verifier": "Tride",
+      "verification": "https://www.youtube.com/watch?v=zN2VcrTVKGA"
+    },
+    "percentToQualify": 66
+  },
+  "salvia": {
+    "records": [],
+    "verifier": {
+      "verifier": "linayru",
+      "verification": "https://www.youtube.com/watch?v=owwWUiSXB4k"
+    },
+    "percentToQualify": 66
+  },
+  "Epic Level": {
+    "records": [],
+    "verifier": {
+      "verifier": "WatchPiggy",
+      "verification": "https://www.youtube.com/watch?v=kFnZJQKppfU"
+    },
+    "percentToQualify": 66
+  },
+  "BloodBat": {
+    "records": [],
+    "verifier": {
+      "verifier": "Echo the Bat",
+      "verification": "https://www.youtube.com/watch?v=Zp4VX3f-jEc"
+    },
+    "percentToQualify": 66
+  },
+  "plane map (2P)": {
+    "records": [],
+    "verifier": {
+      "verifier": "gecko",
+      "verification": "https://www.youtube.com/watch?v=t1ype-gSFEI"
+    },
+    "percentToQualify": 66
+  },
+  "Sonic Redux": {
+    "records": [],
+    "verifier": {
+      "verifier": "Hipo",
+      "verification": "https://www.youtube.com/watch?v=97uRGImcUkU"
+    },
+    "percentToQualify": 66
+  },
+  "Circles": {
+    "records": [],
+    "verifier": {
+      "verifier": "SingularityXVI",
+      "verification": "https://www.youtube.com/watch?v=AFcojZR9020"
+    },
+    "percentToQualify": 66
+  },
+  "Minions": {
+    "records": [],
+    "verifier": {
+      "verifier": "MaxiS9",
+      "verification": "https://www.youtube.com/watch?v=me92Hk5WVFY&t"
+    },
+    "percentToQualify": 66
+  },
+  "Pop Culture": {
+    "records": [],
+    "verifier": {
+      "verifier": "Nexus",
+      "verification": "https://www.youtube.com/watch?v=x6_PRN-sUV8"
     },
     "percentToQualify": 66
   }
