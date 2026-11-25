@@ -4014,7 +4014,7 @@
       "verifier": "Luqualizer"
     }
   },
-  "Atmos (Old)": {
+  "Atmos (True Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -17322,7 +17322,7 @@
       "verifier": "Tombstone"
     }
   },
-  "Fracture (Old)": {
+  "Fracture (foopoa) (Old)": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -30722,7 +30722,7 @@
         "verifier": "Luqualizer"
       }
     },
-    "Atmos (Old)": {
+    "Atmos (True Old)": {
       "percentToQualify": 66,
       "records": [],
       "verifier": {
@@ -43542,7 +43542,7 @@
         "verifier": "Tombstone"
       }
     },
-    "Fracture (Old)": {
+    "Fracture (foopoa) (Old)": {
       "percentToQualify": 66,
       "records": [],
       "verifier": {
@@ -69512,7 +69512,7 @@
         "verifier": "ButterFish"
       }
     },
-    "Vice": {
+    "-Vice": {
       "percentToQualify": 66,
       "records": [],
       "verifier": {
@@ -70331,7 +70331,7 @@
         "verifier": "Razman"
       }
     },
-    "Wave God": {
+    "-Wave God": {
       "percentToQualify": 66,
       "records": [],
       "verifier": {
@@ -77509,7 +77509,7 @@
       },
       "percentToQualify": 66
     },
-    "Pinkbath (aivan)": {
+    "-Pinkbath (aivan)": {
       "records": [],
       "verifier": {
         "verifier": "aivan",
@@ -77517,7 +77517,7 @@
       },
       "percentToQualify": 66
     },
-    "Green Bloodbath": {
+    "-Green Bloodbath": {
       "records": [],
       "verifier": {
         "verifier": "aivan",
@@ -77555,7 +77555,7 @@
       },
       "percentToQualify": 66
     },
-    "Whitebath": {
+    "-Whitebath": {
       "records": [],
       "verifier": {
         "verifier": "aivan",
@@ -77563,7 +77563,7 @@
       },
       "percentToQualify": 66
     },
-    "Purple Bloodbath": {
+    "-Purple Bloodbath": {
       "records": [],
       "verifier": {
         "verifier": "aivan",
@@ -79164,7 +79164,7 @@
       },
       "percentToQualify": 66
     },
-    "AfterCataBath (Aivan)": {
+    "-AfterCataBath (Aivan)": {
       "records": [],
       "verifier": {
         "verifier": "Aivan",
@@ -80983,7 +80983,7 @@
       },
       "percentToQualify": 66
     },
-    "Hopeless": {
+    "-Hopeless": {
       "records": [],
       "verifier": {
         "verifier": "Aivan",
@@ -81586,7 +81586,7 @@
       },
       "percentToQualify": 66
     },
-    "The Hell Union (Old)": {
+    "The Hell Union": {
       "records": [],
       "verifier": {
         "verifier": "Mewtwo557",
@@ -81594,7 +81594,7 @@
       },
       "percentToQualify": 66
     },
-    "The Hell Union": {
+    "The Hell Union (skeletonlol)": {
       "records": [],
       "verifier": {
         "verifier": "Mewtwo557",
@@ -81809,7 +81809,7 @@
       },
       "percentToQualify": 66
     },
-    "RAMPANANT (Old)": {
+    "RAMPANANT (Buffed)": {
       "records": [],
       "verifier": {
         "verifier": "CøffeeChips",
@@ -83620,7 +83620,7 @@
       },
       "percentToQualify": 66
     },
-    "The D3stroyer": {
+    "-The D3stroyer": {
       "records": [],
       "verifier": {
         "verifier": "aivan",
@@ -98969,7 +98969,7 @@
       "verifier": "ButterFish"
     }
   },
-  "Vice": {
+  "-Vice": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -99800,7 +99800,7 @@
       "verifier": "Razman"
     }
   },
-  "Wave God": {
+  "-Wave God": {
     "percentToQualify": 66,
     "records": [],
     "verifier": {
@@ -107128,7 +107128,7 @@
     },
     "percentToQualify": 66
   },
-  "Pinkbath (aivan)": {
+  "-Pinkbath (aivan)": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
@@ -107136,7 +107136,7 @@
     },
     "percentToQualify": 66
   },
-  "Green Bloodbath": {
+  "-Green Bloodbath": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
@@ -107160,7 +107160,7 @@
     },
     "percentToQualify": 66
   },
-  "Whitebath": {
+  "-Whitebath": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
@@ -107168,7 +107168,7 @@
     },
     "percentToQualify": 66
   },
-  "Purple Bloodbath": {
+  "-Purple Bloodbath": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
@@ -108774,7 +108774,7 @@
     },
     "percentToQualify": 66
   },
-  "AfterCataBath (Aivan)": {
+  "-AfterCataBath (Aivan)": {
     "records": [],
     "verifier": {
       "verifier": "Aivan",
@@ -110635,7 +110635,7 @@
     },
     "percentToQualify": 66
   },
-  "Hopeless": {
+  "-Hopeless": {
     "records": [],
     "verifier": {
       "verifier": "Aivan",
@@ -111243,7 +111243,7 @@
     },
     "percentToQualify": 66
   },
-  "The Hell Union (Old)": {
+  "The Hell Union": {
     "records": [],
     "verifier": {
       "verifier": "Mewtwo557",
@@ -111251,7 +111251,7 @@
     },
     "percentToQualify": 66
   },
-  "The Hell Union": {
+  "The Hell Union (skeletonlol)": {
     "records": [],
     "verifier": {
       "verifier": "Mewtwo557",
@@ -111466,7 +111466,7 @@
     },
     "percentToQualify": 66
   },
-  "RAMPANANT (Old)": {
+  "RAMPANANT (Buffed)": {
     "records": [],
     "verifier": {
       "verifier": "CøffeeChips",
@@ -113308,7 +113308,7 @@
     },
     "percentToQualify": 66
   },
-  "The D3stroyer": {
+  "-The D3stroyer": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
@@ -113905,7 +113905,7 @@
     },
     "percentToQualify": 66
   },
-  "The Hell Fortress": {
+  "-The Hell Fortress": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
@@ -114408,13 +114408,19 @@
     },
     "percentToQualify": 66
   },
-  "The Dark Triad": {
+  "The Dark Triad (Old)": {
     "records": [
       {
         "hz": 240,
         "link": "https://www.youtube.com/watch?v=IVUKSn31grU&lc=Ugws_WU0mZMqptT-Vgh4AaABAg",
         "percent": 100,
         "user": "† 𓆩Lexy𓆪 †"
+      },
+      {
+        "hz": 240,
+        "link": "https://www.youtube.com/watch?v=aRHAdeiKYUc",
+        "percent": 100,
+        "user": "exiled_shade"
       }
     ],
     "verifier": {
@@ -114654,7 +114660,7 @@
     },
     "percentToQualify": 66
   },
-  "PoltergeisT ": {
+  "-PoltergeisT ": {
     "records": [],
     "verifier": {
       "verifier": "aivan",
